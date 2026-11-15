@@ -1650,9 +1650,25 @@ works:
     kind: video
     creator: "schmede_AI"
     url: "https://www.youtube.com/playlist?list=PLH3pYi9dZmQk"
+    videos:
+      - {url: "https://www.youtube.com/watch?v=cNyD-fQWU-Q", label: "Malfoid - The Love Potion"}
+      - {url: "https://www.youtube.com/watch?v=6tCVsS8X6mU", label: "Malfoid - Full Short Film - The Only Explanation"}
+      - {url: "https://www.youtube.com/watch?v=lg-l0C2I-qc", label: "Malfoid - A moment's rest"}
+      - {url: "https://www.youtube.com/watch?v=uUhQGR53dC4", label: "Malfoid - All Right"}
+      - {url: "https://www.youtube.com/watch?v=3ieOEFLKMD4", label: "Malfoid - Full Short Film - I Wasn't Joking & Don't Wait for Me"}
+      - {url: "https://www.youtube.com/watch?v=FJFiu8JL3R8", label: "Malfoid - I Was Joking Pt. 1 - Daphne Greengrass"}
+      - {url: "https://www.youtube.com/watch?v=JzDB8oQZjEE", label: "Malfoid - I Was Joking Pt. 2 - Better Taste"}
+      - {url: "https://www.youtube.com/watch?v=ZA6qrg76tp8", label: "Malfoid - I Was Joking Pt. 3 - You Were Right"}
+      - {url: "https://www.youtube.com/watch?v=8cwv81N5cvc", label: "Malfoid - I Was Joking Pt. 4 - Thank You"}
+      - {url: "https://www.youtube.com/watch?v=M7KliJScHCk", label: "Malfoid - I Was Joking Pt. 5 - Was That Worth It?"}
+      - {url: "https://www.youtube.com/watch?v=FBUEjD453KE", label: "Malfoid - I Was Joking Pt. 6 - Nobody's That Good"}
+      - {url: "https://www.youtube.com/watch?v=RRPZws3XE8Q", label: "Malfoid - I Was Joking Pt. 7 - Books"}
+      - {url: "https://www.youtube.com/watch?v=_oBn5vsJf-Y", label: "Malfoid - I Was Joking Pt. 8 - Does He Know?"}
+      - {url: "https://www.youtube.com/watch?v=KGR6ejXoDZ8", label: "Malfoid - I Was Joking Pt. 9 - I Won't Say Anything"}
+      - {url: "https://www.youtube.com/watch?v=2OIGH7ywlpY", label: "Malfoid - I Was Joking Pt. 10 - You All Right?"}
     language: "English"
     added: 2026-11-09
-    summary: "13 videos of the narrative Malfoid story in recommended viewing order, including the full short films."
+    summary: "15 videos of the narrative Malfoid story in recommended viewing order, including the full short films and the I Was Joking series."
     tags: [playlist, series, story]
   - id: "creator-hiddenarchitecture"
     title: "HiddenArchitecture"
