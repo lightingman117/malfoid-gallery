@@ -1807,6 +1807,9 @@ works:
     added: 2026-11-09
     summary: "Compiles Malfoid videos into a chronological cut, with the Book 1-7 trailer and the Chronological Order playlist."
     also: ["https://www.youtube.com/@projectmalfoid"]
+    videos:
+      - {url: "https://www.youtube.com/watch?v=Hcr1k2DZnUg", label: "PROJECT MALFOID REBORN - Announcement"}
+      - {url: "https://www.youtube.com/watch?v=li_5kWm0CWY", label: "PROJECT MALFOID - FREE Teaser"}
     tags: [video, compilation, x, youtube]
   - id: "creator-malfoveil"
     title: "MALFOVEIL"
