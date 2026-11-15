@@ -95,6 +95,46 @@ works:
     added: 2026-11-15
     summary: "A ZeroHedge opinion piece on why Malfoid, a genderbent Draco Malfoy from Harry Potter fan fiction, provokes strong reactions from the left, and on how the piece sees pop culture as a political battleground."
     tags: [article, commentary, politics]
+  - id: "article-cybernews-malfoid-feud"
+    title: "Why Harry Potter's viral \"Malfoid\" trend triggered a toxic online feud"
+    first_name: ""
+    kind: article
+    creator: "Cybernews"
+    url: "https://cybernews.com/entertainment/harry-potter-malfoid-backlash-anime/"
+    language: "English"
+    added: 2026-11-15
+    summary: "A news piece on the backlash and online feud around the viral Malfoid trend, with Harry Potter fans split over the anime-style character."
+    tags: [article, news]
+  - id: "article-dailywire-malfoid-federal-government"
+    title: "How 'Malfoid' Went From 'Harry Potter' Fan Art To The Federal Government"
+    first_name: ""
+    kind: article
+    creator: "Daily Wire"
+    url: "https://www.dailywire.com/news/how-malfoid-went-from-harry-potter-fan-art-to-the-federal-government"
+    language: "English"
+    added: 2026-11-15
+    summary: "A news piece on how the Malfoid fan art trend spread, including a report that the U.S. Department of Education shared an image of the character."
+    tags: [article, news]
+  - id: "article-comicbookmovie-malfoid-fan-art"
+    title: "Harry Potter: Female Draco Malfoy Fan Art Is Everywhere Right Now, And They Already Named Her Malfoid"
+    first_name: ""
+    kind: article
+    creator: "ComicBookMovie.com"
+    url: "https://comicbookmovie.com/fantasy/harry-potter/harry-potter-female-draco-malfoy-fan-art-is-everywhere-right-now-and-they-already-named-her-malfoid-a230320"
+    language: "English"
+    added: 2026-11-15
+    summary: "A news piece on the female Draco Malfoy fan art trend and the name Malfoid it has taken on."
+    tags: [article, news]
+  - id: "article-ibtimes-malfoid-anime-trend"
+    title: "Malfoid Fan Art Trend Turns Draco Malfoy Into a Bratty Anime Girl With an Incel-Linked Name"
+    first_name: ""
+    kind: article
+    creator: "IBTimes UK"
+    url: "https://www.ibtimes.co.uk/draco-malfoy-anime-girl-malfoid-fan-art-trend-1823589"
+    language: "English"
+    added: 2026-11-15
+    summary: "A news piece on the Malfoid trend, which turns Draco Malfoy into a bratty anime girl, and on the controversy over the name."
+    tags: [article, news]
   - id: "creator-galakushi"
     title: "Galakushi"
     first_name: ""
