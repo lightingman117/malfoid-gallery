@@ -1747,6 +1747,7 @@ works:
     kind: [creator, video, fanfic]
     creator: "@j.a.vazquez5946"
     url: "https://www.youtube.com/@j.a.vazquez5946"
+    watch: {label: "Watch Harry Potter AU Part 1 now", id: "video-harry-potter-au-part-1"}
     language: "English"
     added: 2026-11-09
     summary: "Makes Harry Potter AU videos on YouTube, including Part 1, a 1 hour 23 minute movie that retells the battle of Hogwarts."
@@ -2049,7 +2050,7 @@ works:
     summary: "Fan writer and fan artist focusing on Malfoid. Makes the Malfoid Reader comics."
     tags: [fan-art, comics, x]
   - id: "video-harry-potter-au-part-1"
-    thumb: "https://i.ytimg.com/vi/euyK-S8dOto/hqdefault.jpg"
+    thumb: "banners/harry-potter-au-part-1.jpg"
     title: "Harry Potter AU Part 1"
     first_name: "Draconia"
     kind: video
