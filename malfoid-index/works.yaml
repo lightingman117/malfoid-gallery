@@ -3949,6 +3949,14 @@ works:
     added: 2026-11-11
     summary: "Makes Malfoid animations on YouTube, including the Malfoid Anime Main Story series, Entering Hogwarts and the Female Malfoy anime episode."
     also: ["https://x.com/CatG5835"]
+    videos:
+      - {url: "https://www.youtube.com/watch?v=ipMX5p79Gnk", label: "Malfoid Side Story: Future Arc(The Bathroom Duel) teaser."}
+      - {url: "https://www.youtube.com/watch?v=D5s8yK-6VAA", label: "Entering Hogwarts! [TS Malfoid Animation - E.P 2]"}
+      - {url: "https://www.youtube.com/watch?v=-j4ez-XG1Fc", label: "[Malfoid] Detective Hermione"}
+      - {url: "https://www.youtube.com/watch?v=1h6GOMlm0jc", label: "[Malfoid Animation] Happy Halloween~! 🎃"}
+      - {url: "https://www.youtube.com/watch?v=_DbIGG5GYNA", label: "[Malfoid] Harry Potter Fan Animation - Tart Episode"}
+      - {url: "https://www.youtube.com/watch?v=AirdECh3E7A", label: "Harry Potter Fan Animation OP [Malfoid]"}
+      - {url: "https://www.youtube.com/watch?v=AEWyBgP5ltI", label: "[Malfoid] Female Malfoy anime EP."}
     tags: [animation, video, youtube, x]
   - id: "game-night-of-the-zomfoids"
     title: "Night of the Zomfoids"
