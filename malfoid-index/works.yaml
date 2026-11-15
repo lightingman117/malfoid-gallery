@@ -226,10 +226,31 @@ works:
     creator: "Shishir"
     url: "https://x.com/shishirdotai"
     videos:
-      - {url: "https://x.com/shishirdotai/status/2110329289157845353", label: "Malfoy and Harry agree for a date"}
+      - {url: "https://x.com/shishirdotai/status/2110329289157845353", label: "Episode 1"}
+      - {url: "https://x.com/shishirdotai/status/2110776884774773204", label: "Episode 2"}
+      - {url: "https://x.com/shishirdotai/status/2111115388927012881", label: "Episode 3"}
+      - {url: "https://x.com/shishirdotai/status/2111487246562214070", label: "Episode 4"}
+      - {url: "https://x.com/shishirdotai/status/2111771875718431112", label: "Episode 5"}
+      - {url: "https://x.com/shishirdotai/status/2111833228374168007", label: "Episode 6"}
+      - {url: "https://x.com/shishirdotai/status/2112228988550803510", label: "Episode 7"}
+      - {url: "https://x.com/shishirdotai/status/2112566904858738837", label: "Episode 8"}
+      - {url: "https://x.com/shishirdotai/status/2112828408963141898", label: "Episode 9"}
+      - {url: "https://x.com/shishirdotai/status/2113240772644598182", label: "Episode 10"}
+      - {url: "https://x.com/shishirdotai/status/2113588488797139188", label: "Episode 11"}
+      - {url: "https://x.com/shishirdotai/status/2113929705405759744", label: "Episode 12"}
+      - {url: "https://x.com/shishirdotai/status/2114339266746888535", label: "Episode 13"}
+      - {url: "https://x.com/shishirdotai/status/2114713206287741328", label: "Episode 14"}
+      - {url: "https://x.com/shishirdotai/status/2115075174488052012", label: "Episode 15"}
+      - {url: "https://x.com/shishirdotai/status/2115398931312226430", label: "Episode 16"}
+      - {url: "https://x.com/shishirdotai/status/2115857688181748166", label: "Episode 17"}
+      - {url: "https://x.com/shishirdotai/status/2116207246128623929", label: "Episode 18"}
+      - {url: "https://x.com/shishirdotai/status/2116882817544286519", label: "Episode 19"}
+      - {url: "https://x.com/shishirdotai/status/2117269718621127073", label: "Episode 20"}
+      - {url: "https://x.com/shishirdotai/status/2117557395543249355", label: "Episode 21"}
+      - {url: "https://x.com/shishirdotai/status/2117926418298589254", label: "Episode 22"}
     language: "English"
     added: 2026-11-15
-    summary: "A Harry Potter romantic comedy about Malfoid and Harry, told in short episodes. The YouTube videos were taken down by Shishir; the episodes remain on X, and each one is embedded here as it is added."
+    summary: "A Harry Potter romantic comedy about Malfoid and Harry, told in short episodes. The YouTube videos were taken down by Shishir; the 22 episodes remain on X, and each is embedded here."
     tags: [romcom, series, episodes, x]
   - id: "video-malfoid-wont-admit-it-playlist"
     thumb: "https://i.ytimg.com/vi/ubWqm1jYTqw/hqdefault.jpg"
