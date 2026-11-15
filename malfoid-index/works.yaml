@@ -1542,6 +1542,22 @@ works:
     added: 2026-11-09
     summary: "Posts The Malfoy Story, an AI-made video series about a Malfoy girl and Harry, on X."
     tags: [video, series, x]
+  - id: "video-foyege-malfoy-story"
+    title: "The Malfoy Story"
+    first_name: ""
+    kind: video
+    creator: "Foyege"
+    url: "https://x.com/Foyege24"
+    also: ["https://x.com/Foyege24/status/2109580528135574014", "https://x.com/Foyege24/status/2110305863873253876", "https://x.com/Foyege24/status/2112476419032809952", "https://x.com/Foyege24/status/2121909284732809705"]
+    videos:
+      - {url: "https://rumble.com/embed/v7g79c8/?pub=13iafn", label: "Part 1"}
+      - {url: "https://rumble.com/embed/v7g7fvw/?pub=13iafn", label: "Part 2"}
+      - {url: "https://rumble.com/embed/v7g7fxo/?pub=13iafn", label: "Part 3"}
+      - {url: "https://rumble.com/embed/v7g7fyy/?pub=13iafn", label: "Part 4"}
+    language: "English"
+    added: 2026-11-15
+    summary: "The Malfoy Story, an AI-made video series by Foyege about a Malfoy girl and Harry, in four parts. Each part links to its post on X."
+    tags: [video, series, ai-art]
   - id: "fanfic-the-blood-that-binds-us"
     title: "The Blood That Binds Us"
     first_name: "Draconia"
