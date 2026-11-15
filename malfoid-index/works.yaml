@@ -2008,6 +2008,9 @@ works:
     language: "English"
     added: 2026-11-09
     summary: "A tech YouTuber who also makes Malfoid videos, including the Draconia Malfoid x Harry Potter movie."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=av9ekbYjLBQ", label: "Draconia Malfoid | The Movie - II (FoYeGe & Papallax)"}
+      - {url: "https://www.youtube.com/watch?v=NXsK14WyoRo", label: "Draconia & Harry Were Asked If They're Dating - Cast Interviews (FoYeGe Universe)"}
     tags: [video, youtube]
   - id: "creator-papallax"
     title: "Papallax"
