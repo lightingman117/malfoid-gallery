@@ -1764,9 +1764,20 @@ works:
     kind: video
     creator: "Project Malfoid"
     url: "https://www.youtube.com/playlist?list=PLJP7r1x2axX0"
+    videos:
+      - {url: "https://www.youtube.com/watch?v=s9a81z3feWk", label: "PROJECT MALFOID - BOOK 1-7 TEASER TRAILER"}
+      - {url: "https://www.youtube.com/watch?v=-56kb4_pblk", label: "PROJECT MALFOID - BOOK 1 & 2 TRAILER"}
+      - {url: "https://www.youtube.com/watch?v=xBOhpXwgAiM", label: "PROJECT MALFOID - THE FIRST MEETING"}
+      - {url: "https://www.youtube.com/watch?v=grzh6yUAx5k", label: "PROJECT MALFOID - THE REJECTION"}
+      - {url: "https://www.youtube.com/watch?v=GdjZMNKkmXQ", label: "PROJECT MALFOID - THE POTTER SLAYER"}
+      - {url: "https://www.youtube.com/watch?v=foxHORYf3L8", label: "PROJECT MALFOID - THE LOVE POTION"}
+      - {url: "https://www.youtube.com/watch?v=N8eG9ywC9AI", label: "PROJECT MALFOID - THE YULE BALL DREAM"}
+      - {url: "https://www.youtube.com/watch?v=zrZfFgJAIbM", label: "PROJECT MALFOID - SECTUMSEMPRA"}
+      - {url: "https://www.youtube.com/watch?v=dRkEJT-h_IY", label: "PROJECT MALFOID - FREE"}
+      - {url: "https://www.youtube.com/watch?v=itbUCxbTgT0", label: "PROJECT MALFOID - UNE VIE A T'AIMER (A life to love)"}
     language: "English"
     added: 2026-11-09
-    summary: "An 8-video playlist of Project Malfoid trailers and scenes in chronological order, from The First Meeting to The Yule Ball Dream."
+    summary: "A 10-video playlist of Project Malfoid trailers and scenes in chronological order, from the teaser trailer to Une Vie à T'aimer."
     tags: [playlist, series, trailer]
   - id: "creator-projectmalfoid"
     title: "Project Malfoid"
