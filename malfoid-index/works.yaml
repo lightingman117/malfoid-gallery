@@ -2832,6 +2832,16 @@ works:
     language: "English"
     added: 2026-11-10
     summary: "YouTube commentary on the Malfoid trend and its side plots, including a playlist of seven videos titled Malfoid and Side Plot Content. Covers how the trend spread and rewrites of the Harry Potter books for Malfoid."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=oxIP3u9FleA", label: "How the \"Malfoid\" Harry Potter Trend Revived a Vanished Artist"}
+      - {url: "https://www.youtube.com/watch?v=yAHGR_Ccnuc", label: "He Actually Rewrote Goblet of Fire for “Malfoid” (Feat. GuardBro)"}
+      - {url: "https://www.youtube.com/watch?v=CWzwDP_8B5M", label: "What the \"Malfoid\" Harry Potter Trend Did to Hermione Is Unhinged"}
+      - {url: "https://www.youtube.com/watch?v=YmP4ejzvTLI", label: "The \"Malfoid\" Side Plots Have Officially Gone Too Far"}
+      - {url: "https://www.youtube.com/watch?v=9B0tofNIjUo", label: "He's STILL Rewriting All 7 Harry Potter Books for \"Malfoid\" (Feat. GuardBro)"}
+      - {url: "https://www.youtube.com/watch?v=lVvQ2CX9BpQ", label: "The \"Malfoid\" Side Plots Somehow Got Worse"}
+      - {url: "https://www.youtube.com/watch?v=-D0HrAxhL1g", label: "The Unhinged Side Plots of the \"Malfoid\" Cinematic Universe"}
+      - {url: "https://www.youtube.com/watch?v=kAOp8s-Z-2U", label: "Rewriting All 7 Harry Potter Books for \"Malfoid\" (feat. GuardBro)"}
+      - {url: "https://www.youtube.com/watch?v=hkZ_RIP0XOs", label: "How \"Malfoid\" Took Over the Internet (and Fixed Harry Potter)"}
     tags: [video, commentary, youtube]
   - id: "game-lady-malfoy-wants-to-hold-hands"
     title: "Lady Malfoy Wants to Hold Hands"
