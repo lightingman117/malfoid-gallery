@@ -3692,6 +3692,27 @@ works:
     added: 2026-11-10
     summary: "Pop-punk music and film project from Austin, Texas, making AI-made Malfoid music videos on YouTube, including Malfoid x Harry Potter by Balenciaga and Not Ginny. Some videos are labelled AI on YouTube."
     tags: [music, music-video, ai-video, youtube]
+  - id: "playlist-lilith-spike-malfoid-songs"
+    title: "Malfoid Songs: Top 10 · Total Request"
+    first_name: ""
+    kind: video
+    creator: "Lilith Spike"
+    url: "https://www.youtube.com/playlist?list=PLISvfxtNu4EQ"
+    videos:
+      - {url: "https://www.youtube.com/watch?v=oqQPbkZgIGE", label: "MALFOID - “Don’t Get the Wrong Idea, Potter” | Female Draco Malfoy Fan Song"}
+      - {url: "https://www.youtube.com/watch?v=tWU5cDXVWl8", label: "Malfoid - All I Can See - Anime Ending"}
+      - {url: "https://www.youtube.com/watch?v=1ocrRqt1p-8", label: "Lumos Lumos Beginning Arc OP [English Version]"}
+      - {url: "https://www.youtube.com/watch?v=4haW72dgVM8", label: "Can't Avoid Malfoid - Skyebrows"}
+      - {url: "https://www.youtube.com/watch?v=bbb55OuctqU", label: "Pure Blood, Bad Attitude"}
+      - {url: "https://www.youtube.com/watch?v=06fpqAtHFnw", label: "Malfoid : Malfoy - I Don't Like You (just a lil bit… maybe?)"}
+      - {url: "https://www.youtube.com/watch?v=G8t1FBAw2zQ", label: "Metric - Lost Kitten (Malfoid Variant)"}
+      - {url: "https://www.youtube.com/watch?v=O9xd26XA9nI", label: "Malfoid Draco (Female Version) | Potter, Don't Look at Me | YAV & YOV"}
+      - {url: "https://www.youtube.com/watch?v=eduW831RHb0", label: "The Malfoy — Don't Look at Me | FULL OST"}
+      - {url: "https://www.youtube.com/watch?v=e_hoUqySKk0", label: "Not Ginny | Malfoid (Female Draco) x Harry Potter Music Video"}
+    language: "English"
+    added: 2026-11-16
+    summary: "A 10-song playlist of Malfoid songs on Lilith Spike's YouTube channel, including Not Ginny. Several songs are by other creators."
+    tags: [music, playlist, ai-video]
   - id: "fanfic-novelpia-6589"
     title: "The Villainess Malfoy"
     kind: fanfic
