@@ -2236,6 +2236,23 @@ works:
     language: "Japanese (English subtitles)"
     added: 2026-11-09
     summary: "AI-made anime openings and recaps of Somehow I'm The Only Guy At Wizarding School, a Harry x Malfoid story, with English subtitles."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=fqVd1D7ZQ2s", label: "Somehow I'm The Only Guy At Wizarding School: Year 7 teaser (malfoid inspired first draft)"}
+      - {url: "https://www.youtube.com/watch?v=99rk5ALXc5c", label: "When you are ginny Weasley but then malfoid shows up to take your man"}
+      - {url: "https://www.youtube.com/watch?v=6dEun966TGY", label: "Somehow I'm The Only Guy At Wizarding School:Year 6 Dialogue version (instrumental Malfoid inspired)"}
+      - {url: "https://www.youtube.com/watch?v=5dgFf8oHfJU", label: "Somehow I'm The Only Guy At Wizarding School: Year 6 (malfoid inspired)"}
+      - {url: "https://www.youtube.com/watch?v=0kWyUs-dZ_s", label: "Somehow I'm The Only Guy At Wizarding School: Year 6 teaser (malfoid inspired)"}
+      - {url: "https://www.youtube.com/watch?v=w4qWzn_A578", label: "Somehow I'm NOT The Only Guy At Wizarding School: year 5. (Whoops just malfoid)"}
+      - {url: "https://www.youtube.com/watch?v=EJ0BBvRyiK0", label: "The Malfoid Gambit (Department Of Education)"}
+      - {url: "https://www.youtube.com/watch?v=o_lFNHaaAlg", label: "Somehow I'm The Only Guy At Wizarding School: Year 5 (Malfoid inspired)"}
+      - {url: "https://www.youtube.com/watch?v=eBJj8WEzyX0", label: "Somehow I'm The Only Guy At Wizarding School: Year 5 Teaser (malfoid inspired)"}
+      - {url: "https://www.youtube.com/watch?v=41bRNcaBJh0", label: "Somehow I Am The Only Guy At Wizarding School: Year 4 full opening (malfoid inspired)"}
+      - {url: "https://www.youtube.com/watch?v=oUwydTBCGlQ", label: "Somehow I Am The Only Guy At Wizarding School: Year 4 teaser (malfoid inspired)"}
+      - {url: "https://www.youtube.com/watch?v=SIyl9vvzxzc", label: "OoOoOoh Dementor Dementor (Malfoid inspired)"}
+      - {url: "https://www.youtube.com/watch?v=mmsx9xrD13k", label: "Wizard Marine crayon eater Malfoid"}
+      - {url: "https://www.youtube.com/watch?v=a3ma8EnlDl4", label: "Somehow I'm The Only Guy At Wizarding School: Year 3 (Malfoid Inspired) Anime opening"}
+      - {url: "https://www.youtube.com/watch?v=267irSL4nDM", label: "Somehow I'm The Only Guy At Wizarding School: Year Two (Malfoid Inspired)"}
+      - {url: "https://www.youtube.com/watch?v=FPxL2u9EuVY", label: "Somehow I'm the only guy at wizarding school: Year One (Malfoid Romcom)"}
     tags: [music-video, anime, ai-generated, subtitled]
   - id: "creator-thatonebelgian"
     title: "That One Belgian"
