@@ -3713,6 +3713,18 @@ works:
     added: 2026-11-16
     summary: "A 10-song playlist of Malfoid songs on Lilith Spike's YouTube channel, including Not Ginny. Several songs are by other creators."
     tags: [music, playlist, ai-video]
+  - id: "playlist-lilith-spike-malfoy-family"
+    title: "Malfoy Family"
+    first_name: "Draconia"
+    kind: video
+    creator: "Lilith Spike"
+    url: "https://www.youtube.com/playlist?list=PLAr-_hx-Lsko"
+    videos:
+      - {url: "https://www.youtube.com/watch?v=FtWLaP3m0gY", label: "Draconia Malfoy x Harry Potter | Malfoy Family Ep.1"}
+    language: "English"
+    added: 2026-11-16
+    summary: "Malfoy Family, a Draconia and Harry Potter series by Lilith Spike on YouTube, with Episode 1 so far."
+    tags: [series, episodes, playlist]
   - id: "fanfic-novelpia-6589"
     title: "The Villainess Malfoy"
     kind: fanfic
