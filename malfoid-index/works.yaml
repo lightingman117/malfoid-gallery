@@ -1853,6 +1853,23 @@ works:
     language: "English"
     added: 2026-11-09
     summary: "AI-generated fan videos on YouTube, including A Dracaena Malfoy Saga."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=wn6wEEpCUMo", label: "Chapter 1: The Dream (A Dracaena Malfoy Saga)"}
+      - {url: "https://www.youtube.com/watch?v=rgOxzZPdhZE", label: "Chapter 2: The Book (A Dracaena Malfoy Saga)"}
+      - {url: "https://www.youtube.com/watch?v=gNmj78hwQpc", label: "Chapter 3: The Crooked Tie (A Dracaena Malfoy Saga)"}
+      - {url: "https://www.youtube.com/watch?v=TlEFj76t28Y", label: "Chapter 4: The Duel (A Dracaena Malfoy Saga)"}
+      - {url: "https://www.youtube.com/watch?v=56iaLxzQDOw", label: "Chapter 5: The Serpent’s Bite (A Dracaena Malfoy Saga)"}
+      - {url: "https://www.youtube.com/watch?v=5YqDOeb6sLk", label: "Chapter 6: The Father (A Dracaena Malfoy Saga)"}
+      - {url: "https://www.youtube.com/watch?v=P7ojTYBByPY", label: "Chapter 7: Distance (A Dracaena Malfoy Saga) 🦋"}
+      - {url: "https://www.youtube.com/watch?v=eJE3vgfB4sk", label: "Chapter 8: The Chamber (A Dracaena Malfoy Saga)"}
+      - {url: "https://www.youtube.com/watch?v=7GGvec2ZCsc", label: "Chapter 8: The Chamber (Trailer)(A Dracaena Malfoy Saga)"}
+      - {url: "https://www.youtube.com/watch?v=rAEge9LeztU", label: "Chapter 9: Equilibrium (A Dracaena Malfoy Saga)"}
+      - {url: "https://www.youtube.com/watch?v=n0k_rh2invM", label: "Chapter 10: A Promise (A Dracaena Malfoy Saga, First Season Finale)"}
+      - {url: "https://www.youtube.com/watch?v=uUdTcHNiibQ", label: "Chapter 11: Ink & Ash (A Dracaena Malfoy Saga)"}
+      - {url: "https://www.youtube.com/watch?v=as62QIfv41A", label: "Chapter 12: Buckbeak (A Dracaena Malfoy Saga)"}
+      - {url: "https://www.youtube.com/watch?v=Q0A9L00RsUw", label: "Chapter 13: A Visitor (A Dracaena Malfoy Saga)"}
+      - {url: "https://www.youtube.com/watch?v=FCHx36oEMzU", label: "Chapter 14: The Mirror (A Dracaena Malfoy Saga)"}
+      - {url: "https://www.youtube.com/watch?v=BL0FhRKHd1g", label: "A Dracaena Malfoy Saga Chapters 1 - 10 (Season 1 Complete)"}
     tags: [video, ai-generated, youtube]
   - id: "creator-schmede-ai"
     title: "schmede_AI"
