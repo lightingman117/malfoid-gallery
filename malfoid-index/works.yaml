@@ -2048,6 +2048,8 @@ works:
     added: 2026-11-09
     summary: "Writes Harry Potter and the Man in the Mirror, a rewrite with Draco Malfoy as a girl, on YouTube."
     also: ["https://www.youtube.com/thelorelounge"]
+    videos:
+      - {url: "https://www.youtube.com/watch?v=vElMCW56P8c", label: "Why Malfoid Works: The Romance Harry Potter Could Have Been"}
     tags: [video, fanfic, rewrite, x, youtube]
   - id: "creator-juntahmolokai"
     title: "Juntah Molokai"
