@@ -1820,6 +1820,29 @@ works:
     language: "English"
     added: 2026-11-09
     summary: "Makes Malfoid music videos on YouTube, such as Malfoid's Midnight Trap and Malfoid x Harry Potter."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=zxSyvt4wl78", label: "MALFOID 🐉 THE NIGHT WE SAVED A DRAGON | Harry Potter × Draconia Malfoid | Music Video"}
+      - {url: "https://www.youtube.com/watch?v=ayYnQU_pSYU", label: "MALFOID × HARRY POTTER — SHE SAVED HIM?! 💚 | THE SKY BELONGS TO ME (Quidditch Music Video)"}
+      - {url: "https://www.youtube.com/watch?v=OPvHZOcx9SU", label: "MALFOID × HARRY POTTER 🐍 THE TROLL WAS IN THE CASTLE | Gothic Rock Opera"}
+      - {url: "https://www.youtube.com/watch?v=98PtJUkRbBM", label: "MALFOID'S MIDNIGHT TRAP 🐍 | I SET THE TRAP FOR YOU (Harry Potter Music Video)"}
+      - {url: "https://www.youtube.com/watch?v=O7Mcy-4fWbk", label: "MALFOID × HARRY POTTER — THE MIRROR SHOWED ME YOU 💚 | Music Video"}
+      - {url: "https://www.youtube.com/watch?v=RZNTwXtB2G0", label: "I HATED YOU FIRST 💔 | Malfoid x Harry Potter – Female Draco Music Video"}
+      - {url: "https://www.youtube.com/watch?v=KBW7Z4yOHh0", label: "MALFOID – I WAS WRONG ABOUT YOU 💔 | Draconia & Harry (Gothic Rock Music Video)"}
+      - {url: "https://www.youtube.com/watch?v=-WUVwInY60c", label: "MALFOID 💔 POTTER, IS IT HER? | Harry Potter × Hermione × Draconia | Gothic Rock"}
+      - {url: "https://www.youtube.com/watch?v=NWPOJ0Slc7c", label: "MALFOID 💔 YOU HURT ME TOO MUCH | Female Draco Malfoy Music Video"}
+      - {url: "https://www.youtube.com/watch?v=wsmAg6LMhPI", label: "MALFOID — I KISSED YOU FIRST 💚 | Draconia Malfoy × Harry Potter | Music Video"}
+      - {url: "https://www.youtube.com/watch?v=pZ7z_y5H25c", label: "MALFOID x HARRY POTTER — DON'T READ THAT LETTER! | Gothic Rock Music Video"}
+      - {url: "https://www.youtube.com/watch?v=cnY66gMs_LQ", label: "Malfoid x Harry Potter — YOU NEVER ASKED ME TO DANCE | Draconia Malfoy Love Story"}
+      - {url: "https://www.youtube.com/watch?v=BIkSyGjGby4", label: "MALFOID – I DON'T KNOW HIM 💔 | Did She Betray Harry Potter? (Female Draco Malfoy)"}
+      - {url: "https://www.youtube.com/watch?v=gqMWYiz9LMg", label: "THEY TOLD ME TO KILL YOU 💔 | Malfoid & Dumbledore | Gothic Rock Opera"}
+      - {url: "https://www.youtube.com/watch?v=M9r-6vSfJiM", label: "YOU CAME BACK FOR ME 🔥 | Harry Potter Saves Malfoid | Gothic Rock Opera"}
+      - {url: "https://www.youtube.com/watch?v=BBSQGlc6f2o", label: "MALFOID 🖤 POTTER, THE MAGIC KNOWS | Female Draco Malfoy x Harry Potter (Music Video)"}
+      - {url: "https://www.youtube.com/watch?v=x6pjhESBFe4", label: "POTTER, YOU NEVER FEARED ME 🖤 MALFOID (Female Draco Malfoy) x Harry Potter"}
+      - {url: "https://www.youtube.com/watch?v=Nb0fB5_CQcE", label: "POTTER, THE CURSE WAS ME 🎃 | MALFOID ( Female Draco Malfoy) x Harry Potter | Halloween Song"}
+      - {url: "https://www.youtube.com/watch?v=F21GQpCHsE0", label: "I WAS RAISED A MALFOY 🖤 | Female Draco Malfoy x Harry Potter | MALFOID | MALFOVEIL Trailer"}
+      - {url: "https://www.youtube.com/watch?v=R7uAki7r2_4", label: "YOU'RE MY WORST SPELL 🖤 | Harry Potter x Female Malfoy | Hogwarts Dark Romance"}
+      - {url: "https://www.youtube.com/watch?v=mFA29V8mUSs", label: "BORN TO BE YOUR ENEMY 🖤 | Female Draco Malfoy × Harry Potter | Gothic Rock"}
+      - {url: "https://www.youtube.com/watch?v=zV96MQubjlE", label: "I DON'T HATE YOU, POTTER 💚 | Female Draco Malfoy × Harry Potter | Dark Romance Song"}
     tags: [music, video, youtube]
   - id: "creator-alxaiproductions"
     title: "ALX AI Productions"
