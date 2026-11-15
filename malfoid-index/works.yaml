@@ -1847,9 +1847,23 @@ works:
     kind: [creator, art, video]
     creator: "@AIMalfoyFemale"
     url: "https://www.youtube.com/@AIMalfoyFemale"
+    videos:
+      - {url: "https://www.youtube.com/watch?v=6UxG2jTIx-s", label: "Malfoid(말포이TS.EP02) - Harry Asks Draco to the Ball"}
+      - {url: "https://www.youtube.com/watch?v=S4pqkflaTIY", label: "malfoid (말포이TS) The moment they fell in love. EP03"}
+      - {url: "https://www.youtube.com/watch?v=ejz0ViX45VQ", label: "Malfoid(말포이TS) - Why Draco Couldn’t Love Harry EP04"}
+      - {url: "https://www.youtube.com/watch?v=H7Do2O8brPk", label: "malfoid(말포이TS) - Hermione? 😡😡😡 EP05"}
+      - {url: "https://www.youtube.com/watch?v=Fe7EedE45Vg", label: "Malfoid(말포이TS) - I love you, Harry. EP06"}
+      - {url: "https://www.youtube.com/watch?v=ucyoeSVZjYc", label: "malfoid(말포이TS) - Malfoy & Potter's First Date ❤️ EP07"}
+      - {url: "https://www.youtube.com/watch?v=iXz7DNUNC48", label: "malfoid(말포이TS.EP08) - Hermione vs. Malfoy 🔥"}
+      - {url: "https://www.youtube.com/watch?v=qZuP23ZDRB8", label: "Malfoid(말포이TS.EP09-1) Who will go to the ball?"}
+      - {url: "https://www.youtube.com/watch?v=MVIIDe3Wox4", label: "Malfoid(말포이TS.EP10) Harry Gets Closer to Hermione…💔"}
+      - {url: "https://www.youtube.com/watch?v=aIUxwKRln4c", label: "Malfoid(말포이TS.EP11) Malfoy kissed Harry!?"}
+      - {url: "https://www.youtube.com/watch?v=FLhrIQlLvus", label: "Malfoid(말포이TS.EP12) “I Kidnapped Malfoy.” Harry Walked Into a Trap"}
+      - {url: "https://www.youtube.com/watch?v=OJhP8bFw2og", label: "Malfoid (말포이TS) Voldemort vs. Malfoy | 볼드모트 vs 말포이 - EP13"}
+      - {url: "https://www.youtube.com/watch?v=AL7KyIMmVJU", label: "Malfoid (말포이TS) Harry Loves a Death Eater?! - EP1~14 (compilation)"}
     language: "English"
     added: 2026-11-09
-    summary: "AI Malfoy story fan art and Malfoid videos on YouTube."
+    summary: "AI Malfoy story fan art and Malfoid videos on YouTube. Episodes 2 to 13 of the Malfoid (말포이TS) series and a compilation of episodes 1 to 14 are embedded below."
     tags: [fan-art, video, ai-generated, youtube]
   - id: "creator-mastodonstudios"
     title: "Mastodon Studios"
