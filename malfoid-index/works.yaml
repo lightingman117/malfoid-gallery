@@ -71,6 +71,7 @@ works:
     title: "Malfoid and Harry (anime series)"
     first_name: ""
     kind: video
+    format: anime
     creator: "Galakushi"
     url: "https://www.youtube.com/@galakushi"
     added: 2026-11-08
@@ -139,6 +140,7 @@ works:
     title: "Galakushi"
     first_name: ""
     kind: [creator, video]
+    format: anime
     creator: "@Galakushi"
     url: "https://linktr.ee/galakushi"
     also: ["https://www.youtube.com/@galakushi", "https://x.com/Galakushi"]
@@ -179,6 +181,7 @@ works:
     title: "Malfoid & Harry: A Hogwarts Romantic Comedy"
     first_name: ""
     kind: video
+    format: other
     creator: "Shishir"
     url: "https://x.com/shishirdotai"
     videos:
@@ -218,6 +221,7 @@ works:
     title: "Malfoid Won't Admit It (Falkor)"
     first_name: "Draconia"
     kind: video
+    format: other
     creator: "Falkor"
     url: "https://www.youtube.com/playlist?list=PLU0WDJSAzP_w"
     videos:
@@ -1395,6 +1399,7 @@ works:
     title: "Malfoid Software"
     first_name: ""
     kind: [creator, video]
+    format: other
     creator: "@MalfoidSoftware"
     url: "https://x.com/MalfoidSoftware"
     also:
@@ -1446,6 +1451,7 @@ works:
     title: "Fiction"
     first_name: "Draco"
     kind: [creator, video]
+    format: other
     creator: "@Fiction8619"
     url: "https://x.com/Fiction8619"
     language: "English"
@@ -1556,6 +1562,7 @@ works:
     title: "Zandran"
     first_name: ""
     kind: [creator, music, video]
+    format: other
     creator: "@Zandranrix"
     url: "https://x.com/Zandranrix"
     also: ["https://www.youtube.com/@zandran2"]
@@ -1567,6 +1574,7 @@ works:
     title: "Foyege"
     first_name: ""
     kind: [creator, video]
+    format: other
     creator: "@Foyege24"
     url: "https://x.com/Foyege24"
     also: ["https://www.youtube.com/@Fo_yege1664"]
@@ -1583,6 +1591,7 @@ works:
     title: "The Malfoy Story"
     first_name: ""
     kind: video
+    format: other
     creator: "Foyege"
     url: "https://x.com/Foyege24"
     also: ["https://x.com/Foyege24/status/2109580528135574014", "https://x.com/Foyege24/status/2110305863873253876", "https://x.com/Foyege24/status/2112476419032809952", "https://x.com/Foyege24/status/2121909284732809705"]
@@ -1611,6 +1620,7 @@ works:
     title: "MALFOID (BOARBUMP series)"
     first_name: ""
     kind: video
+    format: other
     creator: "Epic Fantasy (R)"
     url: "https://www.youtube.com/playlist?list=PLaNEGOkZx1Fs"
     videos:
@@ -1649,6 +1659,7 @@ works:
     title: "ADayASMR"
     first_name: "Draconia"
     kind: [creator, video, music]
+    format: anime
     creator: "@adayasmr"
     url: "https://x.com/adayasmr"
     also: ["https://www.youtube.com/playlist?list=PLdMUvzNnRUZY"]
@@ -1689,7 +1700,8 @@ works:
   - id: "audiobook-measure-of-a-malfoy"
     title: "The Measure of a Malfoy (audiobook)"
     first_name: ""
-    kind: other
+    kind: video
+    format: audiobook
     creator: "Stories for the Road"
     url: "https://www.youtube.com/@Stories_forthe_Road/videos"
     language: "English"
@@ -1700,7 +1712,8 @@ works:
   - id: "creator-stories-for-the-road"
     title: "Stories for the Road"
     first_name: ""
-    kind: [creator, other]
+    kind: [creator, video]
+    format: audiobook
     creator: "@StoriesforRoad"
     url: "https://x.com/StoriesforRoad"
     language: "English"
@@ -1725,6 +1738,7 @@ works:
     title: "Chronological Order (Project Malfoid)"
     first_name: ""
     kind: video
+    format: cinematic
     creator: "Project Malfoid"
     url: "https://www.youtube.com/playlist?list=PLJP7r1x2axX0"
     videos:
@@ -1746,6 +1760,7 @@ works:
     title: "Project Malfoid"
     first_name: ""
     kind: [creator, video]
+    format: cinematic
     creator: "@projectmalfoid"
     url: "https://x.com/projectmalfoid"
     language: "English"
@@ -1760,6 +1775,7 @@ works:
     title: "MALFOVEIL"
     first_name: ""
     kind: [creator, music, video]
+    format: other
     creator: "@MALFOVEIL"
     url: "https://www.youtube.com/@MALFOVEIL"
     language: "English"
@@ -1793,6 +1809,7 @@ works:
     title: "ALX AI Productions"
     first_name: "Dracaena"
     kind: [creator, fanfic, video]
+    format: other
     creator: "@AlxAIProductions"
     url: "https://www.youtube.com/@AlxAIProductions"
     language: "English"
@@ -1821,6 +1838,7 @@ works:
     title: "schmede_AI"
     first_name: ""
     kind: [creator, video]
+    format: other
     creator: "@schmede_AI"
     url: "https://www.youtube.com/@schmede_AI"
     also: ["https://www.youtube.com/playlist?list=PLH3pYi9dZmQk"]
@@ -1881,6 +1899,7 @@ works:
     title: "UnstableGen"
     first_name: ""
     kind: [creator, video]
+    format: other
     creator: "@UnstableGen1"
     url: "https://x.com/UnstableGen1"
     language: "English"
@@ -1895,6 +1914,7 @@ works:
     title: "Crimsonaigc"
     first_name: ""
     kind: [creator, video]
+    format: other
     creator: "@Crimsonaigc"
     url: "https://www.youtube.com/@Crimsonaigc"
     language: "English"
@@ -1906,6 +1926,7 @@ works:
     title: "AI Malfoy Female"
     first_name: "Draco"
     kind: [creator, art, video]
+    format: other
     creator: "@AIMalfoyFemale"
     url: "https://www.youtube.com/@AIMalfoyFemale"
     videos:
@@ -1930,6 +1951,7 @@ works:
     title: "Mastodon Studios"
     first_name: ""
     kind: [creator, video]
+    format: cinematic
     creator: "@MastodonStudios"
     url: "https://www.youtube.com/@MastodonStudios"
     language: "English"
@@ -1944,6 +1966,7 @@ works:
     title: "Fantasoner"
     first_name: "Carina"
     kind: [creator, video]
+    format: other
     creator: "@Fantasoner"
     url: "https://www.youtube.com/@Fantasoner"
     also: ["https://www.youtube.com/playlist?list=PLZdJWDREs9D8"]
@@ -1959,6 +1982,7 @@ works:
     title: "Draconia Malfoid x Harry Potter | The Movie"
     first_name: "Draconia"
     kind: video
+    format: cinematic
     creator: "Luna Lovelace"
     url: "https://www.youtube.com/watch?v=I07eGvBE3oQ"
     embed: "https://www.youtube.com/watch?v=I07eGvBE3oQ"
@@ -1970,6 +1994,7 @@ works:
     title: "Luna Lovelace"
     first_name: "Draconia"
     kind: [creator, video]
+    format: other
     creator: "@LunaLovelaceTech"
     url: "https://www.youtube.com/@LunaLovelaceTech"
     language: "English"
@@ -1983,6 +2008,7 @@ works:
     title: "Papallax"
     first_name: "Draconia"
     kind: [creator, video]
+    format: other
     creator: "@Papallax"
     url: "https://www.youtube.com/channel/UC_Ys3Lsi6F63BiL1TNEpn0w"
     language: "English"
@@ -1996,6 +2022,7 @@ works:
     title: "J.A. Vázquez"
     first_name: ""
     kind: [creator, video, fanfic]
+    format: cinematic
     creator: "@j.a.vazquez5946"
     url: "https://www.youtube.com/@j.a.vazquez5946"
     watch: {label: "Watch Harry Potter AU Part 1 now", id: "video-harry-potter-au-part-1"}
@@ -2010,6 +2037,7 @@ works:
     title: "The Lore Lounge"
     first_name: "Draco"
     kind: [creator, video, fanfic]
+    format: other
     creator: "@LoreLoungeUK"
     url: "https://x.com/LoreLoungeUK"
     language: "English"
@@ -2025,6 +2053,7 @@ works:
     title: "Juntah Molokai"
     first_name: ""
     kind: [creator, music, video]
+    format: other
     creator: "@JuntahMolokai"
     url: "https://x.com/JuntahMolokai"
     language: "English"
@@ -2051,6 +2080,7 @@ works:
     title: "Female Draco Malfoy × Harry Potter (Anime MV playlist)"
     first_name: "Draco"
     kind: video
+    format: anime
     creator: "AI STUDIO RE:FRAME"
     url: "https://www.youtube.com/playlist?list=PLOtff_v2myaY"
     videos:
@@ -2089,6 +2119,7 @@ works:
     title: "Malfoid Won't Admit It (Zey)"
     first_name: ""
     kind: video
+    format: anime
     creator: "Zey"
     url: "https://www.youtube.com/@zeyhashimoto/videos"
     language: "English"
@@ -2106,6 +2137,7 @@ works:
     title: "Zey"
     first_name: ""
     kind: [creator, video]
+    format: anime
     creator: "@zeyhashimoto"
     url: "https://www.youtube.com/@zeyhashimoto"
     language: "English"
@@ -2201,6 +2233,7 @@ works:
     title: "Somehow I'm The Only Guy At Wizarding School (AI anime music videos)"
     first_name: ""
     kind: video
+    format: anime
     creator: "That One Belgian"
     url: "https://www.youtube.com/@thatonebelgian/videos"
     language: "Japanese (English subtitles)"
@@ -2228,6 +2261,7 @@ works:
     title: "That One Belgian"
     first_name: ""
     kind: [creator, video]
+    format: anime
     creator: "@thatonebelgian"
     url: "https://www.youtube.com/@thatonebelgian"
     language: "Japanese (English subtitles)"
@@ -2238,7 +2272,8 @@ works:
   - id: "audiobook-malfoid-and-the-thief-of-candlelight"
     title: "Malfoid and the Thief of Candlelight (audiobook)"
     first_name: ""
-    kind: other
+    kind: video
+    format: audiobook
     creator: "Philmycrakin-5"
     url: "https://www.youtube.com/playlist?list=PLerWz39X0HRc"
     language: "English"
@@ -2250,6 +2285,7 @@ works:
     title: "Philmycrakin-5"
     first_name: ""
     kind: [creator, video]
+    format: other
     creator: "@Philmycrackin-5"
     url: "https://www.youtube.com/@Philmycrackin-5"
     also: ["https://x.com/Darkllamaboy"]
@@ -2281,6 +2317,7 @@ works:
     title: "WispAIGC"
     first_name: "Draconia"
     kind: [creator, video]
+    format: other
     creator: "@WispAIGC"
     url: "https://www.youtube.com/@WispAIGC"
     language: "English"
@@ -2358,6 +2395,7 @@ works:
     title: "Harry Potter AU"
     first_name: "Draconia"
     kind: video
+    format: cinematic
     creator: "J.A. Vázquez"
     url: "https://www.youtube.com/watch?v=euyK-S8dOto"
     embed: "https://rumble.com/embed/v7g6oea/?pub=13iafn"
@@ -2375,7 +2413,8 @@ works:
     thumb: "https://i.ytimg.com/vi/Bpxxj9Ee1W4/hqdefault.jpg"
     title: "Malfoid: Harry Potter and the Girl Who Chose, Book 1 (audiobook)"
     first_name: ""
-    kind: other
+    kind: video
+    format: audiobook
     creator: "MiloTheOrangeKitty"
     url: "https://www.youtube.com/watch?v=Bpxxj9Ee1W4"
     added: 2026-11-08
@@ -2386,6 +2425,7 @@ works:
     title: "SPACE BETWEEN US (Malfoid Cinematic Anime)"
     first_name: ""
     kind: video
+    format: cinematic
     creator: "LouieVerse"
     url: "https://www.youtube.com/playlist?list=PLHec0aeyoJa4"
     videos:
@@ -2412,6 +2452,7 @@ works:
     title: "TheKinda"
     first_name: "Draco"
     kind: [creator, video]
+    format: anime
     creator: "@TheKinda"
     url: "https://x.com/TheKinda"
     language: "Japanese audio, English subtitles"
@@ -2496,6 +2537,7 @@ works:
     title: "HDM5121"
     first_name: ""
     kind: [creator, video]
+    format: anime
     creator: "@HDM5121-4I"
     url: "https://www.youtube.com/@HDM5121-4I"
     language: "English"
@@ -2796,6 +2838,7 @@ works:
     title: "Weeknight"
     first_name: ""
     kind: [creator, video]
+    format: other
     creator: "@Weeknight"
     url: "https://www.youtube.com/@Weeknight"
     also: ["https://www.youtube.com/playlist?list=PLDwcrQgy1CE8"]
@@ -2838,6 +2881,7 @@ works:
     title: "Psyern"
     first_name: "Draconia"
     kind: [creator, video]
+    format: other
     creator: "@PsyernProdigi"
     url: "https://www.youtube.com/@PsyernProdigi"
     language: "English"
@@ -2864,6 +2908,7 @@ works:
     title: "Malfoid (malfoid.com)"
     first_name: ""
     kind: [other, comic, fanfic, art, game, video]
+    format: other
     creator: "malfoid.com"
     url: "https://malfoid.com/"
     language: "English"
@@ -2875,6 +2920,7 @@ works:
     title: "Can't Avoid Malfoid - Skyebrows"
     first_name: ""
     kind: video
+    format: other
     creator: "Skyebrows"
     url: "https://www.youtube.com/watch?v=4haW72dgVM8"
     embed: "https://www.youtube.com/watch?v=4haW72dgVM8"
@@ -2887,6 +2933,7 @@ works:
     title: "Malfoid AI Anime Opening | \"Crown of Mud\" (泥の冠)"
     first_name: ""
     kind: video
+    format: anime
     creator: "TheGoodlike13"
     url: "https://www.youtube.com/watch?v=n5AowQPYkAo"
     embed: "https://www.youtube.com/watch?v=n5AowQPYkAo"
@@ -2899,6 +2946,7 @@ works:
     title: "Fate Defying Expelliarmus"
     first_name: "Draconia"
     kind: video
+    format: other
     creator: "Allamasllamas"
     url: "https://www.youtube.com/watch?v=52idaSesp8A"
     embed: "https://www.youtube.com/watch?v=52idaSesp8A"
@@ -2911,6 +2959,7 @@ works:
     title: "Get F*cked, Pottah! - featuring Malfoid"
     first_name: ""
     kind: video
+    format: other
     creator: "Angels of Albion"
     url: "https://www.youtube.com/watch?v=jB5h6tD_Nmg"
     embed: "https://www.youtube.com/watch?v=jB5h6tD_Nmg"
@@ -2923,6 +2972,7 @@ works:
     title: "Draca Malfoid SONG - \"I Am Girl of Pure Blood\" | Harry Potter"
     first_name: "Draca"
     kind: video
+    format: other
     creator: "Stellar Distortion"
     url: "https://www.youtube.com/watch?v=5Der8LKEafg"
     embed: "https://www.youtube.com/watch?v=5Der8LKEafg"
@@ -2935,6 +2985,7 @@ works:
     title: "STOLEN KISS"
     first_name: "Draconia"
     kind: video
+    format: other
     creator: "616 STUDIO"
     url: "https://www.youtube.com/watch?v=xTEwRfFPS8Q"
     embed: "https://www.youtube.com/watch?v=xTEwRfFPS8Q"
@@ -2947,6 +2998,7 @@ works:
     title: "MALFOID (말포이드) ‘울 아빠 (Wait 'Til My Father Hears About This)’ Official AI MV"
     first_name: ""
     kind: video
+    format: other
     creator: "AI replacing me (@AIreplacingme)"
     url: "https://www.youtube.com/watch?v=MLw3IanniSg"
     embed: "https://www.youtube.com/watch?v=MLw3IanniSg"
@@ -3707,6 +3759,7 @@ works:
     title: "I Love You Harry…"
     first_name: ""
     kind: video
+    format: other
     creator: "Slytoonz"
     url: "https://www.youtube.com/watch?v=QYSNxNL7sxw"
     embed: "https://www.youtube.com/watch?v=QYSNxNL7sxw"
@@ -3718,6 +3771,7 @@ works:
     title: "Lady Selch"
     first_name: ""
     kind: [creator, art, video]
+    format: other
     creator: "@ImmortalSelchie"
     url: "https://x.com/ImmortalSelchie"
     language: "English"
@@ -3788,6 +3842,7 @@ works:
     title: "Train (0xWreck)"
     first_name: ""
     kind: [creator, art, video]
+    format: other
     creator: "@0xWreck"
     url: "https://x.com/0xWreck"
     language: "English"
@@ -3850,6 +3905,7 @@ works:
     title: "Lilith Spike"
     first_name: "Draconia"
     kind: [creator, music, video]
+    format: other
     creator: "@LilithSpike"
     url: "https://www.youtube.com/@LilithSpike"
     also: ["https://www.youtube.com/playlist?list=PLISvfxtNu4EQ", "https://www.youtube.com/playlist?list=PLAr-_hx-Lsko"]
@@ -3891,6 +3947,7 @@ works:
     title: "CatG5835"
     first_name: ""
     kind: [creator, video]
+    format: anime
     creator: "@CatG5835"
     url: "https://www.youtube.com/@%EC%BA%A3%EC%A5%90-n4l"
     language: "English"
@@ -3932,6 +3989,7 @@ works:
     title: "What If Draco Malfoy Was a Girl? (The Malfoid Timeline) Harry Potter Alternative History"
     first_name: "Lyra"
     kind: video
+    format: other
     creator: "Epic Ifs"
     url: "https://youtu.be/KDYnYKN1zS4"
     embed: "https://youtu.be/KDYnYKN1zS4"
@@ -3943,6 +4001,7 @@ works:
     title: "Big C And The Bots"
     first_name: "Dracaena"
     kind: [creator, art, video]
+    format: other
     creator: "@BigCAndTheBots"
     url: "https://x.com/BigCAndTheBots"
     language: "English"
@@ -3962,6 +4021,7 @@ works:
   - id: "creator-drifler7-fanfic-videos"
     title: "Video Adaptations of Malfoid Fanfics"
     kind: [creator, video, comic, fanfic]
+    format: other
     creator: "Drifblim (@Drifler7)"
     url: "https://x.com/Drifler7"
     language: "English"

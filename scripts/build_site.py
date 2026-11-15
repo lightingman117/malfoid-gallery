@@ -359,12 +359,19 @@ def kinds_of(value):
 
 
 LENGTHS = ("one-shot", "short", "novel", "unknown")
+FORMATS = ("anime", "cinematic", "audiobook", "other")
 
 
 def length_of(value):
     """The optional `length` field for fanfic: one-shot, short, novel or unknown (the default)."""
     v = "" if value is None else str(value).strip().lower()
     return v if v in LENGTHS else "unknown"
+
+
+def format_of(value):
+    """The optional `format` field for videos: anime, cinematic, audiobook or other (the default)."""
+    v = "" if value is None else str(value).strip().lower()
+    return v if v in FORMATS else "other"
 
 
 def order_of(value):
@@ -511,6 +518,7 @@ def build_works():
             "watch": watch_of(w),
             "order": order_of(w.get("order")),
             "length": length_of(w.get("length")),
+            "format": format_of(w.get("format")),
             "first_name": text(w.get("first_name")),
         })
     works.sort(key=lambda w: (w["order"] is None, w["order"] or 0, w["title"].lower()))

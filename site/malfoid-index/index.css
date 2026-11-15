@@ -70,6 +70,7 @@
 
 .index-controls { margin-top: 14px; }
 .index-controls .chips { margin-top: 10px; }
+.index-controls .chips[hidden] { display: none; }
 
 .index-count { color: var(--muted); font-size: 13px; margin: 14px 2px 6px; }
 
