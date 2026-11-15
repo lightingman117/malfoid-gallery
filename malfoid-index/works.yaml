@@ -3604,3 +3604,12 @@ works:
     added: 2026-11-13
     summary: "Makes AI-made Malfoid art and comics on X, with Dracaena in the posts, such as a Thanksgiving story and a wedding date and venue for the couple."
     tags: [art, comic, ai-art, x]
+  - id: "creator-drifler7-fanfic-videos"
+    title: "Video Adaptations of Malfoid Fanfics"
+    kind: [creator, video, comic, fanfic]
+    creator: "Drifblim (@Drifler7)"
+    url: "https://x.com/Drifler7"
+    language: "English"
+    added: 2026-11-10
+    summary: "Video and comic adaptations of Malfoid fanfiction."
+    tags: [ai-video, romance, humour, malfoid]
