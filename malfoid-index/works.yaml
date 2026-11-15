@@ -2061,6 +2061,10 @@ works:
     added: 2026-11-09
     summary: "Makes Malfoid music videos on YouTube, such as Malfoid - Chosen & Conflicted."
     also: ["https://www.youtube.com/@juntahmolokai"]
+    videos:
+      - {url: "https://www.youtube.com/watch?v=pVU04EuF0d8", label: "Draconia's Magical Night - \"My Soul Is Filled With You\""}
+      - {url: "https://www.youtube.com/watch?v=-RJ7zV0CuQg", label: "♫ Ron and Hermione have had enough \"Pull It Together, Harry!\" ♫ (Malfoid)"}
+      - {url: "https://www.youtube.com/watch?v=5jnbBE7cY7k", label: "♫ Malfoid - Chosen & Conflicted ♫ (Harry POV)"}
     tags: [music, video, x, youtube]
   - id: "creator-keyofdestiny5"
     title: "Pottah"
