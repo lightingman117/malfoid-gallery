@@ -2021,6 +2021,9 @@ works:
     language: "English"
     added: 2026-11-09
     summary: "Makes Draconia Malfoy Harry Potter POV videos on YouTube, such as Winter with Her and Spring with Her."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=QQaDFzDswN8", label: "Spring with Her | Draconia Malfoy × Potter POV | Fan-Made Music Video (JVKE)"}
+      - {url: "https://www.youtube.com/watch?v=QmC21Kd5ktg", label: "Winter with Her | Draconia Malfoy from Harry Potter’s POV (Original Video by Papallax)"}
     tags: [video, music, youtube]
   - id: "creator-javazquez"
     title: "J.A. Vázquez"
