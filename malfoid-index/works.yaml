@@ -1973,6 +1973,9 @@ works:
     language: "English"
     added: 2026-11-09
     summary: "Makes Malfoid videos on YouTube, including the Malfoid Wicked Game series."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=tuLSqmkm7AU", label: "Malfoid Wicked Game - Episode 1 \"Heart of Glass\" (Preview)"}
+      - {url: "https://www.youtube.com/watch?v=S4kpsnFi904", label: "Malfoid AI Short Film - Malfoy Manor"}
     tags: [video, series, youtube]
   - id: "creator-fantasoner"
     title: "Fantasoner"
