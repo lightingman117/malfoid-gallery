@@ -1656,6 +1656,9 @@ works:
     kind: video
     creator: "Fantasoner"
     url: "https://www.youtube.com/playlist?list=PLZdJWDREs9D8"
+    videos:
+      - {url: "https://www.youtube.com/watch?v=kxlbn5ydE28", label: "Malfoy: Warning, You Will Get Too Immersed"}
+      - {url: "https://www.youtube.com/watch?v=WYRDe8XsRmI", label: "If Malfoy Were a Girl | Half-Blood Prince (Malfoid)"}
     language: "English"
     added: 2026-11-09
     summary: "A short YouTube playlist of Malfoid videos by Fantasoner, including Malfoy: Warning, You Will Get Too Immersed and a Female Malfoy teaser."
