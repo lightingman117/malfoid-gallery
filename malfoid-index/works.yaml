@@ -233,6 +233,14 @@ works:
     kind: video
     creator: "Falkor"
     url: "https://www.youtube.com/playlist?list=PLU0WDJSAzP_w"
+    videos:
+      - {url: "https://www.youtube.com/watch?v=ubWqm1jYTqw", label: "Malfoid Won’t Admit It [EP. 1]"}
+      - {url: "https://www.youtube.com/watch?v=hCbDnM163b4", label: "Malfoid Has Some Unexpected Competition… [EP. 2]"}
+      - {url: "https://www.youtube.com/watch?v=YaTwmZDPdyo", label: "Malfoid Just Received a Letter That Changes Everything… [EP. 3]"}
+      - {url: "https://www.youtube.com/watch?v=INYHWckIFxE", label: "Malfoid Can't Stop Being Jealous... [EP. 4]"}
+      - {url: "https://www.youtube.com/watch?v=twz7P80L51o", label: "Malfoid Finally Sees Her Father Again [EP. 5]"}
+      - {url: "https://www.youtube.com/watch?v=8wBpTs5ldFQ", label: "Malfoid Refuses to Accept the Truth [EP. 6]"}
+      - {url: "https://www.youtube.com/watch?v=akgcEv6Fzgs", label: "Malfoid Never Saw This Coming [EP. 7]"}
     added: 2026-11-08
     summary: "A Harry Potter story series starting at the Yule Ball, with Malfoid, jealousy, a letter and her father. Seven episodes so far, as a YouTube playlist."
     tags: [series, episodes, playlist]
