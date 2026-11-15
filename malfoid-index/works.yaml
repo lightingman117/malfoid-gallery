@@ -2873,6 +2873,11 @@ works:
     language: "English"
     added: 2026-11-10
     summary: "Makes Draconia and Harry fan videos, including the episode series Draconia & Harry: Where our worlds meet (EP1 and a second video). The creator is also on TikTok."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=FH6H9DAB_iE", label: "Draconia & Harry: Where our worlds meet"}
+      - {url: "https://www.youtube.com/watch?v=PpBqn4bd6Sg", label: "Draconia & Harry - Where our worlds meet - EP1 - Psyern"}
+      - {url: "https://www.youtube.com/watch?v=2NtCs6dVpNI", label: "Draconia & Harry - Where our worlds meet - EP2 - Psyern"}
+      - {url: "https://www.youtube.com/watch?v=R_6zRXP9EEA", label: "Draconia & Harry - Where our worlds meet - EP3 - Psyern"}
     tags: [video, fan-series, youtube]
   - id: "gallery-ninja64-draconia"
     title: "Draconia gallery (ninja64)"
