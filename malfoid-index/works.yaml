@@ -2035,6 +2035,8 @@ works:
     language: "English"
     added: 2026-11-09
     summary: "Makes Harry Potter AU videos on YouTube, including Part 1, a 1 hour 23 minute movie that retells the battle of Hogwarts."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=qyVaSmKccjQ", label: "Harry Potter AU || Ultimatum || Snake Peek"}
     tags: [video, au, movie, youtube]
   - id: "creator-lorelounge"
     title: "The Lore Lounge"
