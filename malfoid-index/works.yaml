@@ -182,8 +182,28 @@ works:
     kind: video
     creator: "ADayASMR"
     url: "https://www.youtube.com/playlist?list=PLdMUvzNnRUZY"
+    videos:
+      - {url: "https://www.youtube.com/watch?v=mZQymbseKGQ", label: "Lumos Lumos Anime Opening Trailer [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=nSRH83nV9N8", label: "Can't stop watching (ft. Yena)"}
+      - {url: "https://www.youtube.com/watch?v=Eq59kJg1Wbg", label: "Lumos Lumos Anime Season 1 (ft. Lumos Lumos) [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=iimaALMihwg", label: "Lumos Lumos Anime Season 2 [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=i-mEnY9lxTs", label: "Lumos Lumos Anime Season 3 [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=Hmc246DNMK0", label: "The Girl Who Loved The Boy Who Lived (ft. Lumos Lumos Waltz) [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=sbMxijGjWfo", label: "Lumos Lumos Anime Season 4 [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=RM4yrlFfUCw", label: "Lumos Lumos Ending Theme (ft. Eternal Spell) [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=1ocrRqt1p-8", label: "Lumos Lumos Beginning Arc OP [English Version]"}
+      - {url: "https://www.youtube.com/watch?v=5P7qoG68HYk", label: "Lumos Lumos Anime Season 5 [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=Fovkpx902TU", label: "Lumos Lumos Anime Season 6 [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=A555sFp1sKE", label: "Lumos Lumos Anime Final Season [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=OB1ECdunJnI", label: "\"I am Draconia\" (Lumos Lumos Anime) (ft. Little Hands)"}
+      - {url: "https://www.youtube.com/watch?v=Eodg8MCKFJI", label: "Lumos Lumos End Arc OP (Extended Ver)"}
+      - {url: "https://www.youtube.com/watch?v=YO_oGTFUvgg", label: "Lumos Lumos ED 2 Theme (ft. Revelio) [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=eQDwNsgz0Lc", label: "Can't stop singing together (Lumos Lumos Karaoke Lyrics Video)"}
+      - {url: "https://www.youtube.com/watch?v=qRjTJKCXeLY", label: "Lumos Lumos Anime OVA ‘Year 8’ (ft. Say Yes) [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=YuL-vEPe1ao", label: "Lumos Lumos Anime Epilogue [ft. Lumos Lumos]"}
+      - {url: "https://www.youtube.com/watch?v=asCB612w_eA", label: "Lumos Lumos Epilogue 2 (ft. Little Hands) [Official Music Video]"}
     added: 2026-11-08
-    summary: "Playlist of 17 Lumos Lumos anime videos on the ADayASMR channel: the opening trailer, seasons 1 to 6, the final season, the epilogue and an OVA, plus songs and karaoke."
+    summary: "Playlist of 19 Lumos Lumos videos on the ADayASMR channel: the opening trailer, seasons 1 to 6, the final season, the epilogue and an OVA, plus songs and karaoke. All 19 are embedded below."
     tags: [anime, series, music, playlist]
   - id: "video-man-in-the-mirror-playlist"
     thumb: "https://i.ytimg.com/vi/eqXRHxAhrFs/hqdefault.jpg"
