@@ -4,7 +4,7 @@
 (function () {
   "use strict";
 
-  var KINDS = { creator: "Creator", comic: "Comic", game: "Game", fanfic: "Fanfic", art: "Fan art", gallery: "Gallery", video: "Video", music: "Music", other: "Other" };
+  var KINDS = { creator: "Creator", comic: "Comic", game: "Game", fanfic: "Fanfic", art: "Fan art", gallery: "Gallery", video: "Video", music: "Music", article: "Article", other: "Other" };
   var LENGTHS = { "one-shot": "One-shot", short: "Short", novel: "Novel", unknown: "Length unknown" };
   var state = { kind: "all", length: "all", q: "", name: "" };
   var data = { works: [], contact: "" };
@@ -299,6 +299,11 @@
     if (w.creator) meta.push("by " + w.creator);
     if (w.language) meta.push(w.language);
     if (meta.length) article.appendChild(el("p", "work-meta", meta.join(" · ")));
+    if (w.watch && w.watch.id) {
+      var watch = el("a", "work-watch", w.watch.label + " →");
+      watch.href = "#" + encodeURIComponent(w.watch.id);
+      article.appendChild(watch);
+    }
     if (w.summary) article.appendChild(el("p", "work-summary", w.summary));
     var row = platformRow([w.url].concat(w.also || []));
     if (row) article.appendChild(row);
@@ -461,7 +466,7 @@
     var subject = "Malfoid Index submission";
     var body = [
       "Title:",
-      "Kind (fanfic / fan art / gallery / video / music / other):",
+      "Kind (fanfic / fan art / gallery / video / music / article / other):",
       "Your name or handle:",
       "First name the work uses for Malfoid (optional: Draconia, Dracaena, Draco, or another name it uses; leave blank if unsure):",
       "Link to the work (must stay online):",
