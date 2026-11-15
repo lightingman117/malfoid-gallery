@@ -1606,6 +1606,11 @@ works:
     creator: "@Foyege24"
     url: "https://x.com/Foyege24"
     also: ["https://www.youtube.com/@Fo_yege1664"]
+    videos:
+      - {url: "https://www.youtube.com/watch?v=Waim1H0GR_A", label: "【FOYEGE ORIGINAL】MISS MALFOY, MAY I HAVE THIS DANCE?｜PV"}
+      - {url: "https://www.youtube.com/watch?v=jHR99MG5SMM", label: "【FOYEGE ORIGINAL】FATE SET THEM AGAINST EACH OTHER, YET DREW THEM TOGETHER.｜PV2"}
+      - {url: "https://www.youtube.com/watch?v=-XdyrmQejos", label: "FATE SET THEM AGAINST EACH OTHER, YET DREW THEM TOGETHER**PART FOUR — FIRST HALF**"}
+      - {url: "https://www.youtube.com/watch?v=m7EcEne_d8Y", label: "【FOYEGE ORIGINAL]】THE HALF-BLOOD BOY WHO FELL FOR A PURE-BLOOD GIRL | PART THREE"}
     language: "English"
     added: 2026-11-09
     summary: "Posts The Malfoy Story, an AI-made video series about a Malfoy girl and Harry, on X."
