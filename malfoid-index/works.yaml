@@ -1629,6 +1629,7 @@ works:
     summary: "Harry and Draconia survive the post-war Hogwarts, and their relationship grows as a new threat emerges. It starts at the Battle of Hogwarts and departs from canon."
     tags: [enemiestolovers, slowburn, postwar, wattpad]
   - id: "video-malfoid-boarbump-playlist"
+    thumb: "https://i.ytimg.com/vi/KvkdMVfdQwg/hqdefault.jpg"
     title: "MALFOID (BOARBUMP series)"
     first_name: ""
     kind: video
@@ -1645,6 +1646,7 @@ works:
     summary: "A 5-video YouTube playlist of Malfoid stories, art and music, including the Malfoid: BOARBUMP series."
     tags: [playlist, series, music]
   - id: "video-malfoid-main-story-playlist"
+    thumb: "https://i.ytimg.com/vi/cNyD-fQWU-Q/hqdefault.jpg"
     title: "Malfoid Main Story"
     first_name: ""
     kind: video
@@ -1712,6 +1714,7 @@ works:
     summary: "Writes Harry Potter and the Sorcerer's Tsundere on Wattpad, and is also an audiobook author and narrator."
     tags: [fanfic, audiobook, x]
   - id: "video-malfoid-by-fantasoner-playlist"
+    thumb: "https://i.ytimg.com/vi/kxlbn5ydE28/hqdefault.jpg"
     title: "Malfoid by Fantasoner"
     first_name: "Carina"
     kind: video
@@ -1759,6 +1762,7 @@ works:
     summary: "A Malfoid fanfic index: Behind The Broken Glass, The Weasley Spellweaver, The Serpent's Leash and A Catch Worth Falling For. Only The Weasley Spellweaver is confirmed SFW so far; the others are not yet confirmed."
     tags: [index, collection, unconfirmed-sfw]
   - id: "video-project-malfoid-chronological-order"
+    thumb: "https://i.ytimg.com/vi/s9a81z3feWk/hqdefault.jpg"
     title: "Chronological Order (Project Malfoid)"
     first_name: ""
     kind: video
@@ -1842,6 +1846,7 @@ works:
     summary: "Makes AI-generated Harry and Malfoy videos on YouTube."
     tags: [video, ai-generated, youtube]
   - id: "creator-aimalfoyfemale"
+    thumb: "https://i.ytimg.com/vi/6UxG2jTIx-s/hqdefault.jpg"
     title: "AI Malfoy Female"
     first_name: "Draco"
     kind: [creator, art, video]
@@ -2730,6 +2735,7 @@ works:
     summary: "Hub site for the Malfoid trend, with comics, fan art, a fanfiction directory, a browser dating sim, fan animations, a creator directory and a timeline. Some pages carry ads."
     tags: [hub, directory, malfoid.com]
   - id: "video-mf-cant-avoid-malfoid"
+    thumb: "https://i.ytimg.com/vi/4haW72dgVM8/hqdefault.jpg"
     title: "Can't Avoid Malfoid - Skyebrows"
     first_name: ""
     kind: video
@@ -2741,6 +2747,7 @@ works:
     summary: "Skyebrows brings Malfoid into a fan music video, with help credited to EustaceTheEuseful and Korgamiai. The creator warns that the video contains flashing lights."
     tags: [animation, video, malfoid.com]
   - id: "video-mf-crown-of-mud"
+    thumb: "https://i.ytimg.com/vi/n5AowQPYkAo/hqdefault.jpg"
     title: "Malfoid AI Anime Opening | \"Crown of Mud\" (泥の冠)"
     first_name: ""
     kind: video
@@ -2752,6 +2759,7 @@ works:
     summary: "TheGoodlike13 imagines a Malfoid anime opening in this short music video. The original title retains the Japanese subtitle 泥の冠, and the creator explains the AI-assisted music, lyrics and animation wor."
     tags: [animation, video, malfoid.com]
   - id: "video-mf-fate-defying-expelliarmus"
+    thumb: "https://i.ytimg.com/vi/52idaSesp8A/hqdefault.jpg"
     title: "Fate Defying Expelliarmus"
     first_name: "Draconia"
     kind: video
@@ -2763,6 +2771,7 @@ works:
     summary: "A 34-second voiced fan animation adapts MaroonR19’s artwork into a final-battle encounter involving Harry and Draconia."
     tags: [animation, video, malfoid.com]
   - id: "video-mf-get-fcked-pottah"
+    thumb: "https://i.ytimg.com/vi/jB5h6tD_Nmg/hqdefault.jpg"
     title: "Get F*cked, Pottah! - featuring Malfoid"
     first_name: ""
     kind: video
@@ -2774,6 +2783,7 @@ works:
     summary: "Angels of Albion puts Malfoid into an AI music video built around human-written lyrics, vocals and instrumental performances, with an AI reperformance described by the creator."
     tags: [animation, video, malfoid.com]
   - id: "video-mf-i-am-girl-of-pure-blood"
+    thumb: "https://i.ytimg.com/vi/5Der8LKEafg/hqdefault.jpg"
     title: "Draca Malfoid SONG - \"I Am Girl of Pure Blood\" | Harry Potter"
     first_name: "Draca"
     kind: video
@@ -2785,6 +2795,7 @@ works:
     summary: "Stellar Distortion presents a character song about Malfoid choosing her own direction under the weight of her family name. Listen through the original upload with its songwriter, production and vocal ."
     tags: [animation, video, malfoid.com]
   - id: "video-mf-stolen-kiss-616-studio"
+    thumb: "https://i.ytimg.com/vi/xTEwRfFPS8Q/hqdefault.jpg"
     title: "STOLEN KISS"
     first_name: "Draconia"
     kind: video
@@ -2796,6 +2807,7 @@ works:
     summary: "616 STUDIO imagines Harry and Draconia as rivals whose confrontation in the Hogwarts library turns into a kiss. An AI-generated alternate-timeline fan video with its own original-source player."
     tags: [animation, video, malfoid.com]
   - id: "video-mf-wait-til-my-father-hears-about-this"
+    thumb: "https://i.ytimg.com/vi/MLw3IanniSg/hqdefault.jpg"
     title: "MALFOID (말포이드) ‘울 아빠 (Wait 'Til My Father Hears About This)’ Official AI MV"
     first_name: ""
     kind: video
@@ -3555,6 +3567,7 @@ works:
     summary: "Browser duel game about Malfoid, featured on malfoid.com."
     tags: [game, browser]
   - id: "video-mf-slytoonz-i-love-you-harry"
+    thumb: "https://i.ytimg.com/vi/QYSNxNL7sxw/hqdefault.jpg"
     title: "I Love You Harry…"
     first_name: ""
     kind: video
@@ -3707,6 +3720,7 @@ works:
     summary: "Pop-punk music and film project from Austin, Texas, making AI-made Malfoid music videos on YouTube, including Malfoid x Harry Potter by Balenciaga and Not Ginny. Some videos are labelled AI on YouTube."
     tags: [music, music-video, ai-video, youtube]
   - id: "playlist-lilith-spike-malfoid-songs"
+    thumb: "https://i.ytimg.com/vi/oqQPbkZgIGE/hqdefault.jpg"
     title: "Malfoid Songs: Top 10 · Total Request"
     first_name: ""
     kind: video
@@ -3728,6 +3742,7 @@ works:
     summary: "A 10-song playlist of Malfoid songs on Lilith Spike's YouTube channel, including Not Ginny. Several songs are by other creators."
     tags: [music, playlist, ai-video]
   - id: "playlist-lilith-spike-malfoy-family"
+    thumb: "https://i.ytimg.com/vi/FtWLaP3m0gY/hqdefault.jpg"
     title: "Malfoy Family"
     first_name: "Draconia"
     kind: video
@@ -3783,6 +3798,7 @@ works:
     summary: "Makes Malfoid art on X with PixAI, with a fan AU in which the pure-blood Malfoy heiress has no idea what Pocky Day is."
     tags: [art, ai-art, x]
   - id: "video-epic-ifs-malfoid-timeline"
+    thumb: "https://i.ytimg.com/vi/KDYnYKN1zS4/hqdefault.jpg"
     title: "What If Draco Malfoy Was a Girl? (The Malfoid Timeline) Harry Potter Alternative History"
     first_name: "Lyra"
     kind: video
