@@ -1568,7 +1568,7 @@ works:
     also: ["https://www.youtube.com/@zandran2"]
     language: "English"
     added: 2026-11-09
-    summary: "Posts Harry Potter fan music and video on X, including Gryffindor vs Slytherin scenes."
+    summary: "Posts Harry Potter fan music and video on X, including Gryffindor vs Slytherin scenes. Its YouTube videos titled Pure Blood, Bad Attitude feature Malfoid. The channel page did not load, so none are embedded yet."
     tags: [music, video, x]
   - id: "creator-foyege24"
     title: "Foyege"
@@ -1919,8 +1919,9 @@ works:
     url: "https://www.youtube.com/@Crimsonaigc"
     language: "English"
     added: 2026-11-09
-    summary: "Makes AI-generated Harry and Malfoy videos on YouTube."
+    summary: "Makes AI-generated videos of female Draco Malfoy (named Draco) with Harry on YouTube. The channel page did not load, so no videos are embedded yet."
     tags: [video, ai-generated, youtube]
+    format: other
   - id: "creator-aimalfoyfemale"
     thumb: "https://i.ytimg.com/vi/6UxG2jTIx-s/hqdefault.jpg"
     title: "AI Malfoy Female"
