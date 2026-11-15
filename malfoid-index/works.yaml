@@ -1634,6 +1634,12 @@ works:
     kind: video
     creator: "Epic Fantasy (R)"
     url: "https://www.youtube.com/playlist?list=PLaNEGOkZx1Fs"
+    videos:
+      - {url: "https://www.youtube.com/watch?v=KvkdMVfdQwg", label: "Malfoid: BOARBUMP"}
+      - {url: "https://www.youtube.com/watch?v=Cu6RHBYS9D0", label: "Malfoid: BOARBUMP 2"}
+      - {url: "https://www.youtube.com/watch?v=mSbmcKyexv0", label: "Malfoid: BOARBUMP 3 HALLOWEEN SPECIAL!"}
+      - {url: "https://www.youtube.com/watch?v=3JA1RRDXvao", label: "Malfoid: BOARBUMP 4"}
+      - {url: "https://www.youtube.com/watch?v=LOV8elp1qKs", label: "Malfoid: BOARBUMP 5"}
     language: "English"
     added: 2026-11-09
     summary: "A 5-video YouTube playlist of Malfoid stories, art and music, including the Malfoid: BOARBUMP series."
