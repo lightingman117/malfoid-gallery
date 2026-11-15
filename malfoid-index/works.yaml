@@ -3884,6 +3884,14 @@ works:
     language: "English"
     added: 2026-11-10
     summary: "Pop-punk music and film project from Austin, Texas, making AI-made Malfoid music videos on YouTube, including Malfoid x Harry Potter by Balenciaga and Not Ginny. Some videos are labelled AI on YouTube."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=bgONZrdsjTE", label: "You're Welcome, Potter | Draconia Malfoy | Lilith Spike"}
+      - {url: "https://www.youtube.com/watch?v=AGcm75YDEHc", label: "Malfoid Songs Ranked: The Top 10 on YouTube | Total Request Lilith"}
+      - {url: "https://www.youtube.com/watch?v=ZGA5nhLTNh8", label: "Malfoid x Harry Potter by Balenciaga – Ew, No | Lilith Spike"}
+      - {url: "https://www.youtube.com/watch?v=pzBqHFQ1quM", label: "Harry Potter by Balenciaga: Draconia Malfoy Asked Me for a Song – Ew, No (Teaser) | Lilith Spike"}
+      - {url: "https://www.youtube.com/watch?v=WU24r2OTSYU", label: "Malfoid Takes Harry to the Yule Ball – She's My Date | Lilith Spike"}
+      - {url: "https://www.youtube.com/watch?v=hwvzSKuQ4vY", label: "I Turned Draconia Malfoy Into LEGO — Every Frame (Malfoid x Harry Potter)"}
+      - {url: "https://www.youtube.com/watch?v=mNi4zo6tFFc", label: "Draco Malfoy as a Girl, Made With AI: All 3 Episodes + Every Book Reference | Spike Score 7/10"}
     tags: [music, music-video, ai-video, youtube]
   - id: "playlist-lilith-spike-malfoid-songs"
     thumb: "https://i.ytimg.com/vi/oqQPbkZgIGE/hqdefault.jpg"
