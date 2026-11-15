@@ -2316,6 +2316,9 @@ works:
     language: "English"
     added: 2026-11-09
     summary: "Makes AI Draconia Malfoy videos on YouTube, with quotes from the books."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=MuGOwvS3ONY", label: "Draconia Malfoy | “You’ve got an awful lot of Wrackspurts around you, Draconia.”"}
+      - {url: "https://www.youtube.com/watch?v=h8R6XLu7Xek", label: "Draconia Malfoy | “Go and find someone worth saving, Potter.”"}
     tags: [video, ai-generated, youtube]
   - id: "game-malfoid-stardew-mod"
     title: "Malfoid (Stardew Valley mod)"
