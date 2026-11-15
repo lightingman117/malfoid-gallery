@@ -2286,6 +2286,15 @@ works:
     language: "English"
     added: 2026-11-09
     summary: "Makes Malfoid videos on YouTube, including Malfoid finally admits! and the Malfoid and the Drowned Lantern book four parts."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=hn1BAouhxzY", label: "This is Chapter one to my fan fiction of Malfoid, if she was the main love interest for Harry."}
+      - {url: "https://www.youtube.com/watch?v=3Bf6qEHG3ao", label: "Malfoid and the Shuttered Lamps"}
+      - {url: "https://www.youtube.com/watch?v=XN-O5tR2akE", label: "Rap battle between Anakin vs Malfoid"}
+      - {url: "https://www.youtube.com/watch?v=CQnyXOFAFKw", label: "Malfoid finally admits!"}
+      - {url: "https://www.youtube.com/watch?v=iEgMER7UImg", label: "Book Four is finally here. Malfoid and the Drowned Lantern part One"}
+      - {url: "https://www.youtube.com/watch?v=zXh0pGRFclI", label: "New music video from Malfoid."}
+      - {url: "https://www.youtube.com/watch?v=May5sqrAJ-E", label: "Book 3 is finally here! Malfoid and the Silverwing!"}
+      - {url: "https://www.youtube.com/watch?v=qzF3vzWuGdA", label: "Book Two of the series. Malfoid and the Whispering Corridor. Chapters 1-6"}
     tags: [video, series, youtube]
   - id: "fanfic-critical-scribe-megathread"
     title: "Malfoid writing megathread (X)"
