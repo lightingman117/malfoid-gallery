@@ -1443,6 +1443,15 @@ works:
     url: "https://x.com/MalfoidSoftware"
     also:
       - "https://www.youtube.com/@MalfoidSoftware"
+    videos:
+      - {url: "https://www.youtube.com/watch?v=tEcliYi8b3c", label: "Malfoid's Honeymoon with Harry Potter"}
+      - {url: "https://www.youtube.com/watch?v=LiO3an9aIt8", label: "Malfoid And The Deathly Hollows Part 1"}
+      - {url: "https://www.youtube.com/watch?v=fhOmlUNHXJE", label: "Malfoid Halloween Special"}
+      - {url: "https://www.youtube.com/watch?v=_fftL5a5Z1w", label: "Malfoid And Friends"}
+      - {url: "https://www.youtube.com/watch?v=NJMfl8MIy-0", label: "Malfoid And Harry Potter Get MARRIED!"}
+      - {url: "https://www.youtube.com/watch?v=438i71Je-ls", label: "Malfoid VS Malfoid"}
+      - {url: "https://www.youtube.com/watch?v=yz_W05Hds44", label: "Malfoid Learns She Can’t Have Children"}
+      - {url: "https://www.youtube.com/watch?v=n6FYt5zcm6M", label: "Malifoid Fixes Harry Potter (Here's Why)"}
     added: 2026-11-08
     summary: "Malfoid Software on X and YouTube, with 12 videos on the channel and a Patreon for support."
     tags: [youtube, patreon, x]
