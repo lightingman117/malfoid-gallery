@@ -2252,6 +2252,11 @@ works:
     kind: video
     creator: "LouieVerse"
     url: "https://www.youtube.com/playlist?list=PLHec0aeyoJa4"
+    videos:
+      - {url: "https://www.youtube.com/watch?v=1Q1WRCkyquQ", label: "MALFOID Part 1: The Space Between Us | Draconia - Original Cinematic Anime"}
+      - {url: "https://www.youtube.com/watch?v=f9m1SwSe1nE", label: "MALFOID Part 2: I Choose You | Draconia - Original Cinematic Anime"}
+      - {url: "https://www.youtube.com/watch?v=MALA7MuhkXw", label: "MALFOID Part 3: Monsters | Draconia - Original Cinematic Anime"}
+      - {url: "https://www.youtube.com/watch?v=gj7FJ97ZMUU", label: "MALFOID : INTRO | Draconia - Original Cinematic Anime Intro"}
     language: "English"
     added: 2026-11-09
     summary: "A cinematic Malfoid anime series on YouTube, in four videos: an intro and Parts 1 to 3 of SPACE BETWEEN US."
