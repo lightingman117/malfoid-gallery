@@ -1925,6 +1925,9 @@ works:
     added: 2026-11-09
     summary: "Makes AI Malfoid videos, posted on YouTube."
     also: ["https://www.youtube.com/@UnstableG3n"]
+    videos:
+      - {url: "https://www.youtube.com/watch?v=p2J1NCV-A8g", label: "Malfoid - Pansy sharing the latest gossip"}
+      - {url: "https://www.youtube.com/watch?v=Fs6IamesXrQ", label: "Malfoid press conference"}
     tags: [video, ai-generated, x, youtube]
   - id: "creator-crimsonaigc"
     title: "Crimsonaigc"
