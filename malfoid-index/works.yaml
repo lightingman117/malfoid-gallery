@@ -1953,6 +1953,12 @@ works:
     kind: video
     creator: "AI STUDIO RE:FRAME"
     url: "https://www.youtube.com/playlist?list=PLOtff_v2myaY"
+    videos:
+      - {url: "https://www.youtube.com/watch?v=ZskByYZKeAo", label: "SCREW DESTINY !! | Female Draco Malfoy Anime MV"}
+      - {url: "https://www.youtube.com/watch?v=LDtVaXQm9DM", label: "ONE LAST GOODBYE | Female Draco Malfoy × Harry Potter"}
+      - {url: "https://www.youtube.com/watch?v=fHW4TyNkGv4", label: "MY BAD GIRLFRIEND | Female Draco Malfoy × Harry Potter"}
+      - {url: "https://www.youtube.com/watch?v=OUpQNv6oKsw", label: "What If Draco Malfoy Was a Yandere Girl? | MY DEAR POTTER"}
+      - {url: "https://www.youtube.com/watch?v=R9E2lyDi8KM", label: "【웹툰 나이트런 NIGHT RUN】 프레이편 애니메이션 OP | 팬메이드 (Fan Animation)"}
     language: "English"
     added: 2026-11-09
     summary: "A 5-video playlist of anime-style music videos of Female Draco Malfoy and Harry Potter, including One Last Goodbye and My Bad Girlfriend."
