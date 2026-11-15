@@ -125,7 +125,7 @@ entries:
     input: "input/2026-11-03-snowy-village-1.yaml"
     image: "images/2026-11-03-snowy-village-1.jpg"
     planned: 2026-11-15
-    posted:
+    posted: {date: 2026-11-15, x: "https://x.com/rhedak1/status/2121741648820605147"}
   - id: "2026-11-03-great-hall-1"
     title: "Great hall, annoyed but blushing"
     created: 2026-11-03
