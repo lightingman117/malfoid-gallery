@@ -457,6 +457,13 @@ def build_works():
             out.append({"url": u, "embed": src, "label": label})
         return out
 
+    def watch_of(w):
+        """A link at the top of a card to another entry's sub page: {"label", "id"}, or None."""
+        watch = w.get("watch")
+        if not isinstance(watch, dict) or not text(watch.get("id")):
+            return None
+        return {"label": text(watch.get("label")) or "Watch now", "id": text(watch.get("id"))}
+
     works = []
     for w in data.get("works") or []:
         if not isinstance(w, dict) or not text(w.get("title")):
@@ -493,6 +500,7 @@ def build_works():
             "embed": embed_of(w),
             "videos": videos_of(w),
             "also": [text(u) for u in (w.get("also") or []) if text(u).startswith(("http://", "https://"))],
+            "watch": watch_of(w),
             "order": order_of(w.get("order")),
             "length": length_of(w.get("length")),
             "first_name": text(w.get("first_name")),

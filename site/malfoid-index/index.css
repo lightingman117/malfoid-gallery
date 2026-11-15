@@ -98,6 +98,8 @@
 .index-controls[hidden] { display: none; }
 .work-more { margin-top: 2px; font-size: 14px; color: #8ff0c8; text-decoration: none; }
 .work-more:hover { text-decoration: underline; }
+.work-watch { display: inline-block; margin: 2px 0 8px; font-size: 15px; font-weight: 600; color: #8ff0c8; text-decoration: none; }
+.work-watch:hover { text-decoration: underline; }
 .work-back { grid-column: 1 / -1; margin: 6px 0 0; font-size: 14px; }
 .work-back a { color: var(--emerald); }
 .creator-head { grid-column: 1 / -1; border-color: rgba(52, 211, 153, .35); }

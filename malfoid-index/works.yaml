@@ -90,8 +90,9 @@ works:
     first_name: ""
     kind: [creator, video]
     creator: "@Galakushi"
-    url: "https://www.youtube.com/@galakushi"
-    also: ["https://x.com/Galakushi", "https://linktr.ee/galakushi"]
+    url: "https://linktr.ee/galakushi"
+    also: ["https://www.youtube.com/@galakushi", "https://x.com/Galakushi"]
+    watch: {label: "Watch Malfoid and Harry (anime series) now", id: "anime-galakushi-malfoid-and-harry"}
     language: "English"
     added: 2026-11-15
     summary: "Makes Malfoid anime on YouTube, including the Malfoid and Harry series (episodes 1 to 6 and a Year 1 opening) and the Malfoid and Harry's wish series. Also on X and Linktree."

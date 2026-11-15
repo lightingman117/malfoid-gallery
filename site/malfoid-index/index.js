@@ -299,6 +299,11 @@
     if (w.creator) meta.push("by " + w.creator);
     if (w.language) meta.push(w.language);
     if (meta.length) article.appendChild(el("p", "work-meta", meta.join(" · ")));
+    if (w.watch && w.watch.id) {
+      var watch = el("a", "work-watch", w.watch.label + " →");
+      watch.href = "#" + encodeURIComponent(w.watch.id);
+      article.appendChild(watch);
+    }
     if (w.summary) article.appendChild(el("p", "work-summary", w.summary));
     var row = platformRow([w.url].concat(w.also || []));
     if (row) article.appendChild(row);
