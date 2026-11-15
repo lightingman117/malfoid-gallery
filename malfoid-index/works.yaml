@@ -2123,7 +2123,14 @@ works:
     url: "https://www.youtube.com/@zeyhashimoto/videos"
     language: "English"
     added: 2026-11-09
-    summary: "An AI anime series on YouTube, Malfoid Won't Admit It, with Episodes 0 to 4 so far."
+    summary: "An AI anime series on YouTube, Malfoid Won't Admit It, with Episodes 0 to 5 so far."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=MhNOO2ersyQ", label: "Malfoid Won't Admit It — Episode 0"}
+      - {url: "https://www.youtube.com/watch?v=Z5GlHofhKog", label: "Malfoid Won't Admit It — Episode 1"}
+      - {url: "https://www.youtube.com/watch?v=7-HgfuSXjUI", label: "Malfoid Won't Admit It — Episode 2"}
+      - {url: "https://www.youtube.com/watch?v=WRj-kosCpUg", label: "Malfoid Won't Admit It — Episode 3"}
+      - {url: "https://www.youtube.com/watch?v=bMwDafoW6Ts", label: "Malfoid Won't Admit It — Episode 4"}
+      - {url: "https://www.youtube.com/watch?v=NgN3rxn1nz8", label: "Malfoid Won't Admit It — Episode 5"}
     tags: [series, episodes, ai-generated]
   - id: "creator-zey"
     title: "Zey"
