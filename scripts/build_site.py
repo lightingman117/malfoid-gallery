@@ -415,7 +415,7 @@ def build_works():
         return ""
 
     def embed_of(w):
-        """An embeddable player for a YouTube video or playlist, or a Rumble embed page. Anything else is left out."""
+        """An embeddable player for a YouTube video or playlist, a Rumble embed page or a public X post. Anything else is left out."""
         from urllib.parse import urlparse, parse_qs
         import re
         u = text(w.get("embed"))
@@ -441,6 +441,10 @@ def build_works():
         m = re.match(r"^/(v[a-z0-9]+)-[^/]*\.html$", p.path)
         if host == "rumble.com" and m:
             return "https://rumble.com/embed/" + m.group(1) + "/"
+        # A public X post: its video plays in X's own tweet embed (only the post id is used).
+        m = re.match(r"^/[A-Za-z0-9_]{1,30}/status/(\d{5,25})$", p.path)
+        if host in ("x.com", "www.x.com", "twitter.com", "www.twitter.com") and m:
+            return "https://platform.twitter.com/embed/Tweet.html?id=" + m.group(1)
         return ""
 
     def videos_of(w):
