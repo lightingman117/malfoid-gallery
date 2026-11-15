@@ -186,7 +186,12 @@
   function titleOf(w, cls) {
     var h = el("h2");
     var url = safeUrl(w.url);
-    if (url) {
+    // A work with a player opens its own sub page (see renderVideoPage), not its outside page.
+    if (hasPlayer(w)) {
+      var own = el("a", null, w.title || "Untitled");
+      own.href = "#" + encodeURIComponent(w.id);
+      h.appendChild(own);
+    } else if (url) {
       var a = el("a", null, w.title || "Untitled");
       a.href = url;
       a.target = "_blank";
@@ -197,6 +202,77 @@
       h.textContent = w.title || "Untitled";
     }
     return h;
+  }
+
+  // Every link of a work, and its video or playlist if it has one, behind a "Links and video" button.
+  // Clicking anywhere on the card (except a link or the panel itself) opens it too. The player is only
+  // loaded when the panel is first opened.
+  function addExpander(article, w) {
+    var urls = [];
+    [w.url].concat(w.also || [], (w.videos || []).map(function (v) { return v.url; })).forEach(function (u) {
+      var h = safeUrl(u);
+      if (h && urls.indexOf(h) === -1) urls.push(h);
+    });
+    // Players: the work's own video first, then each listed video in order (each loads when the panel opens).
+    var players = [];
+    if (w.embed) players.push({ src: w.embed, label: "" });
+    (w.videos || []).forEach(function (v) { players.push({ src: v.embed, label: v.label || "" }); });
+    if (!urls.length && !players.length) return;
+
+    var toggle = el("button", "work-toggle", "Links and video");
+    toggle.type = "button";
+    toggle.setAttribute("aria-expanded", "false");
+    var panel = el("div", "work-panel");
+    panel.hidden = true;
+
+    var list = el("ul", "work-links");
+    urls.forEach(function (href) {
+      var li = el("li");
+      var a = document.createElement("a");
+      a.href = href;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.textContent = href;
+      a.addEventListener("click", function () { trackOut(href); });
+      li.appendChild(a);
+      list.appendChild(li);
+    });
+    if (urls.length) panel.appendChild(list);
+
+    var frames = players.map(function (pl) {
+      var block = el("div", "work-video");
+      if (pl.label) block.appendChild(el("p", "work-video-label", pl.label));
+      var box = el("div", "work-player");
+      block.appendChild(box);
+      panel.appendChild(block);
+      return { src: pl.src, box: box, built: false };
+    });
+
+    function setOpen(open) {
+      panel.hidden = !open;
+      toggle.setAttribute("aria-expanded", String(open));
+      toggle.textContent = open ? "Hide links and video" : "Links and video";
+      article.classList.toggle("is-open", open);
+      if (!open) return;
+      frames.forEach(function (f) {
+        if (f.built) return;
+        f.built = true;
+        var frame = document.createElement("iframe");
+        frame.src = f.src;
+        frame.title = w.title || "Video";
+        frame.loading = "lazy";
+        frame.allow = "fullscreen; picture-in-picture";
+        frame.setAttribute("allowfullscreen", "");
+        f.box.appendChild(frame);
+      });
+    }
+    toggle.addEventListener("click", function () { setOpen(panel.hidden); });
+    article.addEventListener("click", function (ev) {
+      if (ev.target.closest && ev.target.closest("a, button, iframe, .work-panel")) return;
+      setOpen(panel.hidden);
+    });
+    article.appendChild(toggle);
+    article.appendChild(panel);
   }
 
   function card(w) {
@@ -226,6 +302,7 @@
     if (w.summary) article.appendChild(el("p", "work-summary", w.summary));
     var row = platformRow([w.url].concat(w.also || []));
     if (row) article.appendChild(row);
+    addExpander(article, w);
     if (w.items && w.items.length) {
       var more = el("a", "work-more", "See all " + w.items.length + " works →");
       more.href = "#" + encodeURIComponent(w.id);
@@ -274,6 +351,55 @@
     shown.forEach(function (w) { list.appendChild(card(w)); });
   }
 
+  function hasPlayer(w) {
+    return !!(w.embed || (w.videos && w.videos.length));
+  }
+
+  // The sub page for one work with players: its title, links, and every video embedded in order.
+  function renderVideoPage(w) {
+    setControlsHidden(true);
+    document.title = w.title + " · Malfoid Index";
+    var list = document.getElementById("list");
+    var count = document.getElementById("count");
+    list.textContent = "";
+    var back = el("p", "work-back");
+    var backLink = el("a", null, "← All works");
+    backLink.href = "#";
+    back.appendChild(backLink);
+    list.appendChild(back);
+    var n = (w.videos || []).length + (w.embed ? 1 : 0);
+    count.textContent = n + (n === 1 ? " video" : " videos") + " · " + (w.creator || w.title);
+
+    var head = el("article", "work creator-head");
+    var top = el("div", "work-top");
+    (w.kinds || []).forEach(function (k) { top.appendChild(el("span", "kind", KINDS[k] || k)); });
+    head.appendChild(top);
+    head.appendChild(el("h2", null, w.title || "Untitled"));
+    if (w.creator) head.appendChild(el("p", "work-meta", w.creator));
+    if (w.summary) head.appendChild(el("p", "work-summary", w.summary));
+    var row = platformRow([w.url].concat(w.also || []));
+    if (row) head.appendChild(row);
+    list.appendChild(head);
+
+    var players = [];
+    if (w.embed) players.push({ src: w.embed, label: "" });
+    (w.videos || []).forEach(function (v) { players.push({ src: v.embed, label: v.label || "" }); });
+    players.forEach(function (pl) {
+      var block = el("article", "work work-video-page");
+      if (pl.label) block.appendChild(el("p", "work-video-label", pl.label));
+      var box = el("div", "work-player");
+      var frame = document.createElement("iframe");
+      frame.src = pl.src;
+      frame.title = (w.title || "Video") + (pl.label ? " · " + pl.label : "");
+      frame.loading = "lazy";
+      frame.allow = "fullscreen; picture-in-picture";
+      frame.setAttribute("allowfullscreen", "");
+      box.appendChild(frame);
+      block.appendChild(box);
+      list.appendChild(block);
+    });
+  }
+
   // The sub page for a creator with many works: their own entry at the top, then each work.
   function renderCreator(w) {
     setControlsHidden(true);
@@ -318,11 +444,12 @@
     var w = null;
     if (id) {
       data.works.forEach(function (x) {
-        if (!w && x.id === id && x.items && x.items.length) w = x;
+        if (!w && x.id === id && ((x.items && x.items.length) || hasPlayer(x))) w = x;
       });
     }
     if (w) {
-      renderCreator(w);
+      if (w.items && w.items.length) renderCreator(w);
+      else renderVideoPage(w);
       window.scrollTo(0, 0);
     } else {
       showList();
