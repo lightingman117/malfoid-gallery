@@ -447,13 +447,15 @@ def build_works():
         """The videos listed under `videos:` (Rumble or YouTube links), each with its player address and an episode label."""
         import re
         out = []
-        for i, u in enumerate(w.get("videos") or []):
-            u = text(u)
+        for i, v in enumerate(w.get("videos") or []):
+            # A video is either a link, or {url, label} to name it (e.g. its YouTube title).
+            given = text(v.get("label")) if isinstance(v, dict) else ""
+            u = text(v.get("url") if isinstance(v, dict) else v)
             src = embed_of({"embed": u})
             if not src:
                 continue
             m = re.search(r"s(\d{2})e(\d{2})", u, re.I)
-            label = "Season %d, episode %d" % (int(m.group(1)), int(m.group(2))) if m else "Episode %d" % (i + 1)
+            label = given or ("Season %d, episode %d" % (int(m.group(1)), int(m.group(2))) if m else "Episode %d" % (i + 1))
             out.append({"url": u, "embed": src, "label": label})
         return out
 

@@ -2107,8 +2107,15 @@ works:
     creator: "J.A. Vázquez"
     url: "https://www.youtube.com/watch?v=euyK-S8dOto"
     embed: "https://rumble.com/embed/v7g6oea/?pub=13iafn"
+    videos:
+      - {url: "https://m.youtube.com/watch?v=xQCtLKeKFsg", label: "Harry Potter AU Ai-fanmade Yule Ball Snake Peek"}
+      - {url: "https://m.youtube.com/watch?v=22KxE-7dE70", label: "Harry Potter × Malfoid | SOON!!"}
+      - {url: "https://m.youtube.com/watch?v=lYEIa9e1NH8", label: "Harry Potter AU || Final Battle || Snake Peak"}
+      - {url: "https://m.youtube.com/watch?v=g6jjXAASi_Q", label: "Harry Potter AU || Final Battle || Sectumsempra Incident"}
+      - {url: "https://m.youtube.com/watch?v=WsgsDkufyNE", label: "Harry Potter AU || Battle of Hogwarts || Snake Peek"}
+      - {url: "https://m.youtube.com/watch?v=Wwfda-Kykhg", label: "Harry Potter AU || Part 2 Snake Peak"}
     added: 2026-11-08
-    summary: "Part 1 of a Harry Potter AU on YouTube."
+    summary: "Part 1 of a Harry Potter AU on YouTube, with the extended works by J.A. Vázquez below it."
     tags: [harry-potter, au]
   - id: "audiobook-girl-who-chose-book-1"
     thumb: "https://i.ytimg.com/vi/Bpxxj9Ee1W4/hqdefault.jpg"
