@@ -1803,6 +1803,7 @@ works:
     kind: video
     creator: "Luna Lovelace"
     url: "https://www.youtube.com/watch?v=I07eGvBE3oQ"
+    embed: "https://www.youtube.com/watch?v=I07eGvBE3oQ"
     language: "English"
     added: 2026-11-09
     summary: "A Malfoid movie on YouTube by Luna Lovelace with FoYeGe and Papallax, with over 1 million views."
@@ -2634,6 +2635,7 @@ works:
     kind: video
     creator: "Skyebrows"
     url: "https://www.youtube.com/watch?v=4haW72dgVM8"
+    embed: "https://www.youtube.com/watch?v=4haW72dgVM8"
     language: "English"
     added: 2026-11-10
     summary: "Skyebrows brings Malfoid into a fan music video, with help credited to EustaceTheEuseful and Korgamiai. The creator warns that the video contains flashing lights."
@@ -2644,6 +2646,7 @@ works:
     kind: video
     creator: "TheGoodlike13"
     url: "https://www.youtube.com/watch?v=n5AowQPYkAo"
+    embed: "https://www.youtube.com/watch?v=n5AowQPYkAo"
     language: "English"
     added: 2026-11-10
     summary: "TheGoodlike13 imagines a Malfoid anime opening in this short music video. The original title retains the Japanese subtitle 泥の冠, and the creator explains the AI-assisted music, lyrics and animation wor."
@@ -2654,6 +2657,7 @@ works:
     kind: video
     creator: "Allamasllamas"
     url: "https://www.youtube.com/watch?v=52idaSesp8A"
+    embed: "https://www.youtube.com/watch?v=52idaSesp8A"
     language: "English"
     added: 2026-11-10
     summary: "A 34-second voiced fan animation adapts MaroonR19’s artwork into a final-battle encounter involving Harry and Draconia."
@@ -2664,6 +2668,7 @@ works:
     kind: video
     creator: "Angels of Albion"
     url: "https://www.youtube.com/watch?v=jB5h6tD_Nmg"
+    embed: "https://www.youtube.com/watch?v=jB5h6tD_Nmg"
     language: "English"
     added: 2026-11-10
     summary: "Angels of Albion puts Malfoid into an AI music video built around human-written lyrics, vocals and instrumental performances, with an AI reperformance described by the creator."
@@ -2674,6 +2679,7 @@ works:
     kind: video
     creator: "Stellar Distortion"
     url: "https://www.youtube.com/watch?v=5Der8LKEafg"
+    embed: "https://www.youtube.com/watch?v=5Der8LKEafg"
     language: "English"
     added: 2026-11-10
     summary: "Stellar Distortion presents a character song about Malfoid choosing her own direction under the weight of her family name. Listen through the original upload with its songwriter, production and vocal ."
@@ -2684,6 +2690,7 @@ works:
     kind: video
     creator: "Fantasoner(판타소너)"
     url: "https://www.youtube.com/watch?v=kxlbn5ydE28"
+    embed: "https://www.youtube.com/watch?v=kxlbn5ydE28"
     language: "English"
     added: 2026-11-10
     summary: "Fantasoner presents a Malfoy fan music video featuring Say You Hate Me."
@@ -2694,6 +2701,7 @@ works:
     kind: video
     creator: "LouieVerse"
     url: "https://www.youtube.com/watch?v=1Q1WRCkyquQ"
+    embed: "https://www.youtube.com/watch?v=1Q1WRCkyquQ"
     language: "English"
     added: 2026-11-10
     summary: "LouieVerse’s SPACE BETWEEN US is a romantic Harry and Malfoid fan music video, presented as Part 1 of the creator’s cinematic-anime interpretation."
@@ -2704,6 +2712,7 @@ works:
     kind: video
     creator: "616 STUDIO"
     url: "https://www.youtube.com/watch?v=xTEwRfFPS8Q"
+    embed: "https://www.youtube.com/watch?v=xTEwRfFPS8Q"
     language: "English"
     added: 2026-11-10
     summary: "616 STUDIO imagines Harry and Draconia as rivals whose confrontation in the Hogwarts library turns into a kiss. An AI-generated alternate-timeline fan video with its own original-source player."
@@ -2714,6 +2723,7 @@ works:
     kind: video
     creator: "AI replacing me (@AIreplacingme)"
     url: "https://www.youtube.com/watch?v=MLw3IanniSg"
+    embed: "https://www.youtube.com/watch?v=MLw3IanniSg"
     language: "English"
     added: 2026-11-10
     summary: "Female Malfoy becomes a K-Pop idol in a creator-submitted AI music video. The song turns the familiar threat to tell her father into a musical hook, with Hogwarts-inspired settings and choreography."
@@ -3472,6 +3482,7 @@ works:
     kind: video
     creator: "Slytoonz"
     url: "https://www.youtube.com/watch?v=QYSNxNL7sxw"
+    embed: "https://www.youtube.com/watch?v=QYSNxNL7sxw"
     language: "English"
     added: 2026-11-10
     summary: "Video by Slytoonz, listed on malfoid.com comics page."
@@ -3666,6 +3677,7 @@ works:
     kind: video
     creator: "Epic Ifs"
     url: "https://youtu.be/KDYnYKN1zS4"
+    embed: "https://youtu.be/KDYnYKN1zS4"
     language: "English"
     added: 2026-11-13
     summary: "In this Harry Potter alternate history saga, one change rewrites everything: the Malfoy line needs a son, and Lucius gets a daughter, Lyra, an asset to be married off rather than an heir to be trained."
