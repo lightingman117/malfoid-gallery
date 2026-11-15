@@ -219,16 +219,6 @@ works:
     also: ["https://www.wattpad.com/1670353608-harry-potter-and-the-man-in-the-mirror-chapter-one"]
     summary: "A rewrite of Harry Potter and the Philosopher's Stone with more depth and fewer plot holes, and Draco Malfoy as a girl. Two chapters so far, as a YouTube playlist."
     tags: [rewrite, female-draco, playlist]
-  - id: "video-malfoid-and-harry-romcom-playlist"
-    thumb: "https://i.ytimg.com/vi/Mhl9va9S4oM/hqdefault.jpg"
-    title: "Malfoid & Harry: A Hogwarts Romantic Comedy"
-    first_name: ""
-    kind: video
-    creator: "Shishir"
-    url: "https://www.youtube.com/playlist?list=PLQuy1wZ74YxE"
-    added: 2026-11-08
-    summary: "A Harry Potter romantic comedy about Malfoid and Harry, told in short episodes: secret dates, a rival, the Halloween Incident and more. 17 episodes so far, as a YouTube playlist."
-    tags: [romcom, series, episodes, playlist]
   - id: "video-malfoid-wont-admit-it-playlist"
     thumb: "https://i.ytimg.com/vi/ubWqm1jYTqw/hqdefault.jpg"
     title: "Malfoid Won't Admit It (Falkor)"
