@@ -1879,7 +1879,41 @@ works:
     url: "https://www.youtube.com/@schmede_AI"
     language: "English"
     added: 2026-11-09
-    summary: "Makes the Malfoid Main Story playlist on YouTube. The channel also covers other topics."
+    summary: "Makes the Malfoid Main Story playlist and many Malfoid songs and short films on YouTube. The channel also covers other topics, which are not listed here."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=3BcpGUxn5wo", label: "Malfoid - Don't Wait for Me Pt. 1 - Anime"}
+      - {url: "https://www.youtube.com/watch?v=0YVhSFQaBI0", label: "Malfoid - FULL SONG - Have You Heard?"}
+      - {url: "https://www.youtube.com/watch?v=hdEhv10NeNk", label: "Malfoid - LOFI MIX - Studying with Malfoid"}
+      - {url: "https://www.youtube.com/watch?v=yeKwmD2rxoI", label: "Malfoid - I Wasn't Joking - Anime"}
+      - {url: "https://www.youtube.com/watch?v=h1Ki4ORhu_0", label: "Malfoid - FULL SONG - Snake in the Grass (Piano)"}
+      - {url: "https://www.youtube.com/watch?v=GPJEqYuVkvs", label: "Malfoid - Daphne Greengrass"}
+      - {url: "https://www.youtube.com/watch?v=34Ju3z6y-nU", label: "Malfoid - FULL SONG - A Little Bird"}
+      - {url: "https://www.youtube.com/watch?v=7UAgqAz1lZY", label: "Malfoid - FULL SONG - Snake in the Grass"}
+      - {url: "https://www.youtube.com/watch?v=i16WEtbV4ZM", label: "Malfoid - Don't Wait for Me Pt. 5"}
+      - {url: "https://www.youtube.com/watch?v=Grcchf-FH2s", label: "Malfoid - Lady Malfoy"}
+      - {url: "https://www.youtube.com/watch?v=hp6kwoMIosA", label: "Malfoid - Don't Wait for Me Pt. 4"}
+      - {url: "https://www.youtube.com/watch?v=nU807C2rgVU", label: "Malfoid - Don't Wait for Me Pt. 3"}
+      - {url: "https://www.youtube.com/watch?v=cp8VYGsG7O0", label: "Malfoid - Don't Wait for Me Pt. 2"}
+      - {url: "https://www.youtube.com/watch?v=UHvk10LwuSg", label: "Malfoid - FULL SONG - Lady Malfoy"}
+      - {url: "https://www.youtube.com/watch?v=7D0Q0mk_2Gs", label: "Malfoid - Don't Wait for Me Pt. 1"}
+      - {url: "https://www.youtube.com/watch?v=lXE8NBeQ1g8", label: "Malfoid - FULL SONG - Silver and Green"}
+      - {url: "https://www.youtube.com/watch?v=RMeJP_jakNs", label: "Malfoid - FULL SONG - Serpent's Waltz"}
+      - {url: "https://www.youtube.com/watch?v=wR1IKNfjAms", label: "Malfoid - FULL SONG - Malfoid eleison"}
+      - {url: "https://www.youtube.com/watch?v=tO4gGl5AV7s", label: "Malfoid - Draconia Malfoy - Silver and Green"}
+      - {url: "https://www.youtube.com/watch?v=Iy6pRj9N2A8", label: "Malfoid - Draconia Malfoy - Anime Short Film"}
+      - {url: "https://www.youtube.com/watch?v=Tu4hpvKyGiY", label: "Malfoid - The Only Explanation - Anime Pt. 2"}
+      - {url: "https://www.youtube.com/watch?v=Yuf1eMwn4Ew", label: "Malfoid - The Only Explanation - Anime Pt. 1"}
+      - {url: "https://www.youtube.com/watch?v=os8ULNNjEWI", label: "Malfoid - I Wasn't Joking"}
+      - {url: "https://www.youtube.com/watch?v=9nJWIM_5eCY", label: "Malfoid - The Love Potion - Anime"}
+      - {url: "https://www.youtube.com/watch?v=yVVhUF_xn9I", label: "Malfoid - Writing Fire"}
+      - {url: "https://www.youtube.com/watch?v=bFlCveRtNg4", label: "Malfoid - The Only Explanation Pt. 3"}
+      - {url: "https://www.youtube.com/watch?v=WUQQpgIbEUs", label: "Malfoid - Professor \"Hellfire\" McGonagall"}
+      - {url: "https://www.youtube.com/watch?v=fudb5yhWCrA", label: "Malfoid - Anime"}
+      - {url: "https://www.youtube.com/watch?v=btUAML-l9hU", label: "Malfoid - The Only Explanation Pt. 2"}
+      - {url: "https://www.youtube.com/watch?v=nN3xgm6hZIE", label: "Malfoid - The Only Explanation Pt. 1"}
+      - {url: "https://www.youtube.com/watch?v=0S2UrX-hcJM", label: "Malfoid - Dobby sidequest"}
+      - {url: "https://www.youtube.com/watch?v=kf-vauSAqzU", label: "Malfoid Salieri"}
+      - {url: "https://www.youtube.com/watch?v=p1Sx08_xi64", label: "Malfoid - sectumsempra"}
     tags: [video, playlist, youtube]
   - id: "creator-unstablegen"
     title: "UnstableGen"
