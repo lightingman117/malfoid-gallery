@@ -2531,6 +2531,10 @@ works:
     language: "English"
     added: 2026-11-09
     summary: "Makes short anime Malfoid videos, such as the Halloween plan and Treacle Tart clips, on YouTube."
+    videos:
+      - {url: "https://www.youtube.com/shorts/8PwoOEzXGMc", label: "Malfoid Can't Hide Her Jealousy Over Ronnie! 😭💚 | Harry Potter Anime: The Treacle Tart!"}
+      - {url: "https://www.youtube.com/shorts/uoOXzH9mX5U", label: "What is Malfoid planning for Halloween? 🎃 Part 1 #malfoy #malfoid"}
+      - {url: "https://www.youtube.com/shorts/vPazaAaoW2c", label: "What is Malfoid planning for Halloween? 🎃 Part 2 #malfoy #malfoid"}
     tags: [video, anime, youtube]
   - id: fanfic-malfoid-love-saga
     title: Saga

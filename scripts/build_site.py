@@ -431,6 +431,8 @@ def build_works():
                 if ok_id.match(q.get("list", [""])[0]):
                     src += "?list=" + q["list"][0]
                 return src
+            if p.path.startswith("/shorts/") and ok_id.match(p.path.split("/")[2] if p.path.count("/")>=2 else ""):
+                return "https://www.youtube-nocookie.com/embed/" + p.path.split("/")[2]
             if p.path == "/playlist" and ok_id.match(q.get("list", [""])[0]):
                 return "https://www.youtube-nocookie.com/embed/videoseries?list=" + q["list"][0]
             return ""
