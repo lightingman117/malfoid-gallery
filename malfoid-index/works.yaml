@@ -175,50 +175,6 @@ works:
     added: 2026-11-08
     summary: "Harry Potter fic by Guardbro, with chapter updates also posted on X. Hosted on Wattpad and Google Docs."
     tags: [fanfic, harry-potter, tsundere]
-  - id: "video-lumos-lumos-playlist"
-    thumb: "https://i.ytimg.com/vi/mZQymbseKGQ/hqdefault.jpg"
-    title: "Lumos Lumos (anime series playlist)"
-    first_name: ""
-    kind: video
-    creator: "ADayASMR"
-    url: "https://www.youtube.com/playlist?list=PLdMUvzNnRUZY"
-    videos:
-      - {url: "https://www.youtube.com/watch?v=mZQymbseKGQ", label: "Lumos Lumos Anime Opening Trailer [Official Music Video]"}
-      - {url: "https://www.youtube.com/watch?v=nSRH83nV9N8", label: "Can't stop watching (ft. Yena)"}
-      - {url: "https://www.youtube.com/watch?v=Eq59kJg1Wbg", label: "Lumos Lumos Anime Season 1 (ft. Lumos Lumos) [Official Music Video]"}
-      - {url: "https://www.youtube.com/watch?v=iimaALMihwg", label: "Lumos Lumos Anime Season 2 [Official Music Video]"}
-      - {url: "https://www.youtube.com/watch?v=i-mEnY9lxTs", label: "Lumos Lumos Anime Season 3 [Official Music Video]"}
-      - {url: "https://www.youtube.com/watch?v=Hmc246DNMK0", label: "The Girl Who Loved The Boy Who Lived (ft. Lumos Lumos Waltz) [Official Music Video]"}
-      - {url: "https://www.youtube.com/watch?v=sbMxijGjWfo", label: "Lumos Lumos Anime Season 4 [Official Music Video]"}
-      - {url: "https://www.youtube.com/watch?v=RM4yrlFfUCw", label: "Lumos Lumos Ending Theme (ft. Eternal Spell) [Official Music Video]"}
-      - {url: "https://www.youtube.com/watch?v=1ocrRqt1p-8", label: "Lumos Lumos Beginning Arc OP [English Version]"}
-      - {url: "https://www.youtube.com/watch?v=5P7qoG68HYk", label: "Lumos Lumos Anime Season 5 [Official Music Video]"}
-      - {url: "https://www.youtube.com/watch?v=Fovkpx902TU", label: "Lumos Lumos Anime Season 6 [Official Music Video]"}
-      - {url: "https://www.youtube.com/watch?v=A555sFp1sKE", label: "Lumos Lumos Anime Final Season [Official Music Video]"}
-      - {url: "https://www.youtube.com/watch?v=OB1ECdunJnI", label: "\"I am Draconia\" (Lumos Lumos Anime) (ft. Little Hands)"}
-      - {url: "https://www.youtube.com/watch?v=Eodg8MCKFJI", label: "Lumos Lumos End Arc OP (Extended Ver)"}
-      - {url: "https://www.youtube.com/watch?v=YO_oGTFUvgg", label: "Lumos Lumos ED 2 Theme (ft. Revelio) [Official Music Video]"}
-      - {url: "https://www.youtube.com/watch?v=eQDwNsgz0Lc", label: "Can't stop singing together (Lumos Lumos Karaoke Lyrics Video)"}
-      - {url: "https://www.youtube.com/watch?v=qRjTJKCXeLY", label: "Lumos Lumos Anime OVA ‘Year 8’ (ft. Say Yes) [Official Music Video]"}
-      - {url: "https://www.youtube.com/watch?v=YuL-vEPe1ao", label: "Lumos Lumos Anime Epilogue [ft. Lumos Lumos]"}
-      - {url: "https://www.youtube.com/watch?v=asCB612w_eA", label: "Lumos Lumos Epilogue 2 (ft. Little Hands) [Official Music Video]"}
-    added: 2026-11-08
-    summary: "Playlist of 19 Lumos Lumos videos on the ADayASMR channel: the opening trailer, seasons 1 to 6, the final season, the epilogue and an OVA, plus songs and karaoke. All 19 are embedded below."
-    tags: [anime, series, music, playlist]
-  - id: "video-man-in-the-mirror-playlist"
-    thumb: "https://i.ytimg.com/vi/eqXRHxAhrFs/hqdefault.jpg"
-    title: "Harry Potter and the Man in the Mirror"
-    first_name: "Draco"
-    kind: video
-    creator: "The Lore Lounge"
-    url: "https://www.youtube.com/playlist?list=PLaNkCCq_O3Bk"
-    videos:
-      - {url: "https://www.youtube.com/watch?v=eqXRHxAhrFs", label: "Harry Potter Reimagined | The Man in the Mirror — Chapter 1: Calan Gaeaf"}
-      - {url: "https://www.youtube.com/watch?v=uqIRLJZeCz0", label: "Safety, For Now | The Man in the Mirror"}
-    added: 2026-11-08
-    also: ["https://www.wattpad.com/1670353608-harry-potter-and-the-man-in-the-mirror-chapter-one"]
-    summary: "A rewrite of Harry Potter and the Philosopher's Stone with more depth and fewer plot holes, and Draco Malfoy as a girl. Two chapters so far, as a YouTube playlist."
-    tags: [rewrite, female-draco, playlist]
   - id: "video-malfoid-and-harry-romcom-x"
     title: "Malfoid & Harry: A Hogwarts Romantic Comedy"
     first_name: ""
@@ -1486,6 +1442,7 @@ works:
     summary: "Freelance artist posting Malfoid and Harry Potter art on X, with open commissions."
     tags: [fan-art, x]
   - id: "creator-fiction8619"
+    thumb: "https://i.ytimg.com/vi/sytC2x6ocGc/hqdefault.jpg"
     title: "Fiction"
     first_name: "Draco"
     kind: [creator, video]
@@ -1495,6 +1452,13 @@ works:
     added: 2026-11-09
     summary: "Creator of The Vilaness Malfoy, a video series on YouTube with Draco Malfoy as a girl, and story updates on X."
     also: ["https://www.youtube.com/@fiction8619"]
+    videos:
+      - {url: "https://www.youtube.com/watch?v=sytC2x6ocGc", label: "The Vilaness Malfoy - Chapter 1: Prologue"}
+      - {url: "https://www.youtube.com/watch?v=ojeT1sByCQU", label: "The Vilaness Malfoy - Chapter 2: I will protect the House of Malfoy!"}
+      - {url: "https://www.youtube.com/watch?v=Mlz9t80MAgc", label: "The Vilaness Malfoy - Chapter 3: Hogwarts Express"}
+      - {url: "https://www.youtube.com/watch?v=FxaIOh9--CI", label: "The Porcelain Princess and the Master of Death - Prologue: The Ashes of Summer"}
+      - {url: "https://www.youtube.com/watch?v=8pTIMUtE5WM", label: "The Porcelain Princess and the Master of Death - Chapter 1: The Seaside Refuge"}
+      - {url: "https://www.youtube.com/watch?v=jJQ1c_hKfs8", label: "The Porcelain Princess and the Master of Death - Chapter 2: Football and Starlight"}
     tags: [creator, female-draco, series, x, youtube]
   - id: "fanfic-my-father-must-never-hear"
     title: "My Father Must NEVER Hear About This!"
@@ -1659,33 +1623,6 @@ works:
     added: 2026-11-09
     summary: "A 5-video YouTube playlist of Malfoid stories, art and music, including the Malfoid: BOARBUMP series."
     tags: [playlist, series, music]
-  - id: "video-malfoid-main-story-playlist"
-    thumb: "https://i.ytimg.com/vi/cNyD-fQWU-Q/hqdefault.jpg"
-    title: "Malfoid Main Story"
-    first_name: ""
-    kind: video
-    creator: "schmede_AI"
-    url: "https://www.youtube.com/playlist?list=PLH3pYi9dZmQk"
-    videos:
-      - {url: "https://www.youtube.com/watch?v=cNyD-fQWU-Q", label: "Malfoid - The Love Potion"}
-      - {url: "https://www.youtube.com/watch?v=6tCVsS8X6mU", label: "Malfoid - Full Short Film - The Only Explanation"}
-      - {url: "https://www.youtube.com/watch?v=lg-l0C2I-qc", label: "Malfoid - A moment's rest"}
-      - {url: "https://www.youtube.com/watch?v=uUhQGR53dC4", label: "Malfoid - All Right"}
-      - {url: "https://www.youtube.com/watch?v=3ieOEFLKMD4", label: "Malfoid - Full Short Film - I Wasn't Joking & Don't Wait for Me"}
-      - {url: "https://www.youtube.com/watch?v=FJFiu8JL3R8", label: "Malfoid - I Was Joking Pt. 1 - Daphne Greengrass"}
-      - {url: "https://www.youtube.com/watch?v=JzDB8oQZjEE", label: "Malfoid - I Was Joking Pt. 2 - Better Taste"}
-      - {url: "https://www.youtube.com/watch?v=ZA6qrg76tp8", label: "Malfoid - I Was Joking Pt. 3 - You Were Right"}
-      - {url: "https://www.youtube.com/watch?v=8cwv81N5cvc", label: "Malfoid - I Was Joking Pt. 4 - Thank You"}
-      - {url: "https://www.youtube.com/watch?v=M7KliJScHCk", label: "Malfoid - I Was Joking Pt. 5 - Was That Worth It?"}
-      - {url: "https://www.youtube.com/watch?v=FBUEjD453KE", label: "Malfoid - I Was Joking Pt. 6 - Nobody's That Good"}
-      - {url: "https://www.youtube.com/watch?v=RRPZws3XE8Q", label: "Malfoid - I Was Joking Pt. 7 - Books"}
-      - {url: "https://www.youtube.com/watch?v=_oBn5vsJf-Y", label: "Malfoid - I Was Joking Pt. 8 - Does He Know?"}
-      - {url: "https://www.youtube.com/watch?v=KGR6ejXoDZ8", label: "Malfoid - I Was Joking Pt. 9 - I Won't Say Anything"}
-      - {url: "https://www.youtube.com/watch?v=2OIGH7ywlpY", label: "Malfoid - I Was Joking Pt. 10 - You All Right?"}
-    language: "English"
-    added: 2026-11-09
-    summary: "15 videos of the narrative Malfoid story in recommended viewing order, including the full short films and the I Was Joking series."
-    tags: [playlist, series, story]
   - id: "creator-hiddenarchitecture"
     title: "HiddenArchitecture"
     first_name: "Draco"
@@ -1708,11 +1645,33 @@ works:
     summary: "A slowburn Malfoid story told mostly from the view of Dracaena's best friend Pansy Parkinson."
     tags: [slowburn, friendship, wattpad]
   - id: "creator-adayasmr"
+    thumb: "https://i.ytimg.com/vi/mZQymbseKGQ/hqdefault.jpg"
     title: "ADayASMR"
     first_name: "Draconia"
     kind: [creator, video, music]
     creator: "@adayasmr"
     url: "https://x.com/adayasmr"
+    also: ["https://www.youtube.com/playlist?list=PLdMUvzNnRUZY"]
+    videos:
+      - {url: "https://www.youtube.com/watch?v=mZQymbseKGQ", label: "Lumos Lumos Anime Opening Trailer [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=nSRH83nV9N8", label: "Can't stop watching (ft. Yena)"}
+      - {url: "https://www.youtube.com/watch?v=Eq59kJg1Wbg", label: "Lumos Lumos Anime Season 1 (ft. Lumos Lumos) [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=iimaALMihwg", label: "Lumos Lumos Anime Season 2 [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=i-mEnY9lxTs", label: "Lumos Lumos Anime Season 3 [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=Hmc246DNMK0", label: "The Girl Who Loved The Boy Who Lived (ft. Lumos Lumos Waltz) [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=sbMxijGjWfo", label: "Lumos Lumos Anime Season 4 [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=RM4yrlFfUCw", label: "Lumos Lumos Ending Theme (ft. Eternal Spell) [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=1ocrRqt1p-8", label: "Lumos Lumos Beginning Arc OP [English Version]"}
+      - {url: "https://www.youtube.com/watch?v=5P7qoG68HYk", label: "Lumos Lumos Anime Season 5 [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=Fovkpx902TU", label: "Lumos Lumos Anime Season 6 [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=A555sFp1sKE", label: "Lumos Lumos Anime Final Season [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=OB1ECdunJnI", label: "\"I am Draconia\" (Lumos Lumos Anime) (ft. Little Hands)"}
+      - {url: "https://www.youtube.com/watch?v=Eodg8MCKFJI", label: "Lumos Lumos End Arc OP (Extended Ver)"}
+      - {url: "https://www.youtube.com/watch?v=YO_oGTFUvgg", label: "Lumos Lumos ED 2 Theme (ft. Revelio) [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=eQDwNsgz0Lc", label: "Can't stop singing together (Lumos Lumos Karaoke Lyrics Video)"}
+      - {url: "https://www.youtube.com/watch?v=qRjTJKCXeLY", label: "Lumos Lumos Anime OVA ‘Year 8’ (ft. Say Yes) [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=YuL-vEPe1ao", label: "Lumos Lumos Anime Epilogue [ft. Lumos Lumos]"}
+      - {url: "https://www.youtube.com/watch?v=asCB612w_eA", label: "Lumos Lumos Epilogue 2 (ft. Little Hands) [Official Music Video]"}
     language: "English"
     added: 2026-11-09
     summary: "Makes songs and animations, including the Lumos Lumos anime series on YouTube."
@@ -1727,20 +1686,6 @@ works:
     added: 2026-11-09
     summary: "Writes Harry Potter and the Sorcerer's Tsundere on Wattpad, and is also an audiobook author and narrator."
     tags: [fanfic, audiobook, x]
-  - id: "video-malfoid-by-fantasoner-playlist"
-    thumb: "https://i.ytimg.com/vi/kxlbn5ydE28/hqdefault.jpg"
-    title: "Malfoid by Fantasoner"
-    first_name: "Carina"
-    kind: video
-    creator: "Fantasoner"
-    url: "https://www.youtube.com/playlist?list=PLZdJWDREs9D8"
-    videos:
-      - {url: "https://www.youtube.com/watch?v=kxlbn5ydE28", label: "Malfoy: Warning, You Will Get Too Immersed"}
-      - {url: "https://www.youtube.com/watch?v=WYRDe8XsRmI", label: "If Malfoy Were a Girl | Half-Blood Prince (Malfoid)"}
-    language: "English"
-    added: 2026-11-09
-    summary: "A short YouTube playlist of Malfoid videos by Fantasoner, including Malfoy: Warning, You Will Get Too Immersed and a Female Malfoy teaser."
-    tags: [playlist, drarry, ai-generated]
   - id: "audiobook-measure-of-a-malfoy"
     title: "The Measure of a Malfoy (audiobook)"
     first_name: ""
@@ -1872,11 +1817,13 @@ works:
       - {url: "https://www.youtube.com/watch?v=BL0FhRKHd1g", label: "A Dracaena Malfoy Saga Chapters 1 - 10 (Season 1 Complete)"}
     tags: [video, ai-generated, youtube]
   - id: "creator-schmede-ai"
+    thumb: "https://i.ytimg.com/vi/cNyD-fQWU-Q/hqdefault.jpg"
     title: "schmede_AI"
     first_name: ""
     kind: [creator, video]
     creator: "@schmede_AI"
     url: "https://www.youtube.com/@schmede_AI"
+    also: ["https://www.youtube.com/playlist?list=PLH3pYi9dZmQk"]
     language: "English"
     added: 2026-11-09
     summary: "Makes the Malfoid Main Story playlist and many Malfoid songs and short films on YouTube. The channel also covers other topics, which are not listed here."
@@ -1914,6 +1861,21 @@ works:
       - {url: "https://www.youtube.com/watch?v=0S2UrX-hcJM", label: "Malfoid - Dobby sidequest"}
       - {url: "https://www.youtube.com/watch?v=kf-vauSAqzU", label: "Malfoid Salieri"}
       - {url: "https://www.youtube.com/watch?v=p1Sx08_xi64", label: "Malfoid - sectumsempra"}
+      - {url: "https://www.youtube.com/watch?v=cNyD-fQWU-Q", label: "Malfoid - The Love Potion"}
+      - {url: "https://www.youtube.com/watch?v=6tCVsS8X6mU", label: "Malfoid - Full Short Film - The Only Explanation"}
+      - {url: "https://www.youtube.com/watch?v=lg-l0C2I-qc", label: "Malfoid - A moment's rest"}
+      - {url: "https://www.youtube.com/watch?v=uUhQGR53dC4", label: "Malfoid - All Right"}
+      - {url: "https://www.youtube.com/watch?v=3ieOEFLKMD4", label: "Malfoid - Full Short Film - I Wasn't Joking & Don't Wait for Me"}
+      - {url: "https://www.youtube.com/watch?v=FJFiu8JL3R8", label: "Malfoid - I Was Joking Pt. 1 - Daphne Greengrass"}
+      - {url: "https://www.youtube.com/watch?v=JzDB8oQZjEE", label: "Malfoid - I Was Joking Pt. 2 - Better Taste"}
+      - {url: "https://www.youtube.com/watch?v=ZA6qrg76tp8", label: "Malfoid - I Was Joking Pt. 3 - You Were Right"}
+      - {url: "https://www.youtube.com/watch?v=8cwv81N5cvc", label: "Malfoid - I Was Joking Pt. 4 - Thank You"}
+      - {url: "https://www.youtube.com/watch?v=M7KliJScHCk", label: "Malfoid - I Was Joking Pt. 5 - Was That Worth It?"}
+      - {url: "https://www.youtube.com/watch?v=FBUEjD453KE", label: "Malfoid - I Was Joking Pt. 6 - Nobody's That Good"}
+      - {url: "https://www.youtube.com/watch?v=RRPZws3XE8Q", label: "Malfoid - I Was Joking Pt. 7 - Books"}
+      - {url: "https://www.youtube.com/watch?v=_oBn5vsJf-Y", label: "Malfoid - I Was Joking Pt. 8 - Does He Know?"}
+      - {url: "https://www.youtube.com/watch?v=KGR6ejXoDZ8", label: "Malfoid - I Was Joking Pt. 9 - I Won't Say Anything"}
+      - {url: "https://www.youtube.com/watch?v=2OIGH7ywlpY", label: "Malfoid - I Was Joking Pt. 10 - You All Right?"}
     tags: [video, playlist, youtube]
   - id: "creator-unstablegen"
     title: "UnstableGen"
@@ -1978,11 +1940,16 @@ works:
       - {url: "https://www.youtube.com/watch?v=S4kpsnFi904", label: "Malfoid AI Short Film - Malfoy Manor"}
     tags: [video, series, youtube]
   - id: "creator-fantasoner"
+    thumb: "https://i.ytimg.com/vi/kxlbn5ydE28/hqdefault.jpg"
     title: "Fantasoner"
     first_name: "Carina"
     kind: [creator, video]
     creator: "@Fantasoner"
     url: "https://www.youtube.com/@Fantasoner"
+    also: ["https://www.youtube.com/playlist?list=PLZdJWDREs9D8"]
+    videos:
+      - {url: "https://www.youtube.com/watch?v=kxlbn5ydE28", label: "Malfoy: Warning, You Will Get Too Immersed"}
+      - {url: "https://www.youtube.com/watch?v=WYRDe8XsRmI", label: "If Malfoy Were a Girl | Half-Blood Prince (Malfoid)"}
     language: "English"
     added: 2026-11-09
     summary: "Makes Malfoid videos on YouTube, including the Malfoid by Fantasoner playlist."
@@ -2039,6 +2006,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=qyVaSmKccjQ", label: "Harry Potter AU || Ultimatum || Snake Peek"}
     tags: [video, au, movie, youtube]
   - id: "creator-lorelounge"
+    thumb: "https://i.ytimg.com/vi/eqXRHxAhrFs/hqdefault.jpg"
     title: "The Lore Lounge"
     first_name: "Draco"
     kind: [creator, video, fanfic]
@@ -2047,9 +2015,11 @@ works:
     language: "English"
     added: 2026-11-09
     summary: "Writes Harry Potter and the Man in the Mirror, a rewrite with Draco Malfoy as a girl, on YouTube."
-    also: ["https://www.youtube.com/thelorelounge"]
+    also: ["https://www.youtube.com/thelorelounge", "https://www.youtube.com/playlist?list=PLaNkCCq_O3Bk"]
     videos:
       - {url: "https://www.youtube.com/watch?v=vElMCW56P8c", label: "Why Malfoid Works: The Romance Harry Potter Could Have Been"}
+      - {url: "https://www.youtube.com/watch?v=eqXRHxAhrFs", label: "Harry Potter Reimagined | The Man in the Mirror — Chapter 1: Calan Gaeaf"}
+      - {url: "https://www.youtube.com/watch?v=uqIRLJZeCz0", label: "Safety, For Now | The Man in the Mirror"}
     tags: [video, fanfic, rewrite, x, youtube]
   - id: "creator-juntahmolokai"
     title: "Juntah Molokai"
@@ -3876,11 +3846,13 @@ works:
     summary: "Free collection of Malfoid art and memes, open for anyone to contribute. The first batch was shared by JuntahMolokai. Artists who see their work and want credit or removal can contact the email given in the listing."
     tags: [gallery, art, memes, google-doc]
   - id: "creator-lilithspike"
+    thumb: "https://i.ytimg.com/vi/oqQPbkZgIGE/hqdefault.jpg"
     title: "Lilith Spike"
     first_name: "Draconia"
     kind: [creator, music, video]
     creator: "@LilithSpike"
     url: "https://www.youtube.com/@LilithSpike"
+    also: ["https://www.youtube.com/playlist?list=PLISvfxtNu4EQ", "https://www.youtube.com/playlist?list=PLAr-_hx-Lsko"]
     language: "English"
     added: 2026-11-10
     summary: "Pop-punk music and film project from Austin, Texas, making AI-made Malfoid music videos on YouTube, including Malfoid x Harry Potter by Balenciaga and Not Ginny. Some videos are labelled AI on YouTube."
@@ -3892,15 +3864,6 @@ works:
       - {url: "https://www.youtube.com/watch?v=WU24r2OTSYU", label: "Malfoid Takes Harry to the Yule Ball – She's My Date | Lilith Spike"}
       - {url: "https://www.youtube.com/watch?v=hwvzSKuQ4vY", label: "I Turned Draconia Malfoy Into LEGO — Every Frame (Malfoid x Harry Potter)"}
       - {url: "https://www.youtube.com/watch?v=mNi4zo6tFFc", label: "Draco Malfoy as a Girl, Made With AI: All 3 Episodes + Every Book Reference | Spike Score 7/10"}
-    tags: [music, music-video, ai-video, youtube]
-  - id: "playlist-lilith-spike-malfoid-songs"
-    thumb: "https://i.ytimg.com/vi/oqQPbkZgIGE/hqdefault.jpg"
-    title: "Malfoid Songs: Top 10 · Total Request"
-    first_name: ""
-    kind: video
-    creator: "Lilith Spike"
-    url: "https://www.youtube.com/playlist?list=PLISvfxtNu4EQ"
-    videos:
       - {url: "https://www.youtube.com/watch?v=oqQPbkZgIGE", label: "MALFOID - “Don’t Get the Wrong Idea, Potter” | Female Draco Malfoy Fan Song"}
       - {url: "https://www.youtube.com/watch?v=tWU5cDXVWl8", label: "Malfoid - All I Can See - Anime Ending"}
       - {url: "https://www.youtube.com/watch?v=1ocrRqt1p-8", label: "Lumos Lumos Beginning Arc OP [English Version]"}
@@ -3911,23 +3874,8 @@ works:
       - {url: "https://www.youtube.com/watch?v=O9xd26XA9nI", label: "Malfoid Draco (Female Version) | Potter, Don't Look at Me | YAV & YOV"}
       - {url: "https://www.youtube.com/watch?v=eduW831RHb0", label: "The Malfoy — Don't Look at Me | FULL OST"}
       - {url: "https://www.youtube.com/watch?v=e_hoUqySKk0", label: "Not Ginny | Malfoid (Female Draco) x Harry Potter Music Video"}
-    language: "English"
-    added: 2026-11-16
-    summary: "A 10-song playlist of Malfoid songs on Lilith Spike's YouTube channel, including Not Ginny. Several songs are by other creators."
-    tags: [music, playlist, ai-video]
-  - id: "playlist-lilith-spike-malfoy-family"
-    thumb: "https://i.ytimg.com/vi/FtWLaP3m0gY/hqdefault.jpg"
-    title: "Malfoy Family"
-    first_name: "Draconia"
-    kind: video
-    creator: "Lilith Spike"
-    url: "https://www.youtube.com/playlist?list=PLAr-_hx-Lsko"
-    videos:
       - {url: "https://www.youtube.com/watch?v=FtWLaP3m0gY", label: "Draconia Malfoy x Harry Potter | Malfoy Family Ep.1"}
-    language: "English"
-    added: 2026-11-16
-    summary: "Malfoy Family, a Draconia and Harry Potter series by Lilith Spike on YouTube, with Episode 1 so far."
-    tags: [series, episodes, playlist]
+    tags: [music, music-video, ai-video, youtube]
   - id: "fanfic-novelpia-6589"
     title: "The Villainess Malfoy"
     kind: fanfic
