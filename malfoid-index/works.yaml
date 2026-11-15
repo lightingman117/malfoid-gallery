@@ -85,6 +85,16 @@ works:
       - "https://rumble.com/embed/v7g6mv8/?pub=13iafn"
     summary: "Anime series on the Galakushi YouTube channel: Malfoid and Harry, episodes 1 to 6 (Diagon Alley, the Hogwarts Express, the Sorting Ceremony) plus a Year 1 opening."
     tags: [anime, series, episodes]
+  - id: "article-zerohedge-malfoid-leftists"
+    title: "Malfoid? Why Does This Harry Potter Fan Fiction Character Drive Leftists Insane?"
+    first_name: ""
+    kind: article
+    creator: "Tyler Durden (ZeroHedge)"
+    url: "https://www.zerohedge.com/political/malfoid-why-does-harry-potter-fan-fiction-character-drive-leftists-insane"
+    language: "English"
+    added: 2026-11-15
+    summary: "A ZeroHedge opinion piece on why Malfoid, a genderbent Draco Malfoy from Harry Potter fan fiction, provokes strong reactions from the left, and on how the piece sees pop culture as a political battleground."
+    tags: [article, commentary, politics]
   - id: "creator-galakushi"
     title: "Galakushi"
     first_name: ""
