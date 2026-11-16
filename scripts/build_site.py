@@ -454,6 +454,10 @@ def build_works():
         m = re.match(r"^/[A-Za-z0-9_]{1,30}/status/(\d{5,25})$", p.path)
         if host in ("x.com", "www.x.com", "twitter.com", "www.twitter.com") and m:
             return "https://platform.twitter.com/embed/Tweet.html?id=" + m.group(1)
+        # A Bilibili video page (English or Chinese path): its BV id plays in Bilibili's external player.
+        m = re.match(r"^/(?:[a-z]{2}/)?video/(BV[A-Za-z0-9]{10})/?$", p.path)
+        if host in ("bilibili.com", "www.bilibili.com") and m:
+            return "https://player.bilibili.com/player.html?bvid=" + m.group(1) + "&page=1"
         return ""
 
     def videos_of(w):

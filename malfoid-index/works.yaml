@@ -4225,3 +4225,17 @@ works:
       - "https://www.youtube.com/shorts/bZDP_BKqbjA"
       - "https://www.youtube.com/shorts/F6ccC56yEbQ"
     tags: [anime, video, youtube, x, series]
+  - id: "creator-x1oa-bilibili"
+    title: "X1OA"
+    first_name: ""
+    kind: [creator, video]
+    format: anime
+    creator: "X1OA (Bilibili)"
+    url: "https://space.bilibili.com/7894296"
+    language: "English"
+    added: 2026-11-16
+    summary: "Animated Miss Malfoy (genderbent Draco Malfoy) videos on Bilibili, in English with Chinese subtitles. The video below is embedded, and the season list on Bilibili has more."
+    more: {label: "More from this creator on Bilibili (season list)", url: "https://space.bilibili.com/en/7894296/lists/9290234?type=season"}
+    videos:
+      - {url: "https://www.bilibili.com/en/video/BV1GQpn6BEAt/", label: "[Animated version] Miss Malfoy saved Potter in Knockturn Alley"}
+    tags: [anime, video, bilibili, animated]
