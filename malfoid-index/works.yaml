@@ -1803,8 +1803,8 @@ works:
   - id: "creator-alxaiproductions"
     title: "ALX AI Productions"
     first_name: "Dracaena"
-    kind: [creator, fanfic, video]
-    format: other
+    kind: [creator, video]
+    format: cinematic
     creator: "@AlxAIProductions"
     url: "https://www.youtube.com/@AlxAIProductions"
     language: "English"
