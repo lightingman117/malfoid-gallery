@@ -146,7 +146,7 @@ entries:
     input: "input/2026-11-03-ice-rink-1.yaml"
     image: "images/2026-11-03-ice-rink-1.jpg"
     planned: 2026-11-16
-    posted:
+    posted: {date: 2026-11-16, x: "https://x.com/rhedak1/status/2122098804820455609"}
   - id: "2026-11-03-winter-ball-1"
     title: "Winter ball, rare soft smile"
     created: 2026-11-03
