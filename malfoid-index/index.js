@@ -224,6 +224,33 @@
     return img;
   }
 
+  // "Also on": links to the same video posted elsewhere, shown under its player. Null when there are none.
+  function alsoLine(urls) {
+    var safe = (urls || []).map(safeUrl).filter(Boolean);
+    if (!safe.length) return null;
+    var p = el("p", "work-video-also", "Also on: ");
+    safe.forEach(function (href, i) {
+      if (i) p.appendChild(document.createTextNode(" · "));
+      var a = document.createElement("a");
+      a.href = href;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.textContent = siteName(href);
+      a.addEventListener("click", function () { trackOut(href); });
+      p.appendChild(a);
+    });
+    return p;
+  }
+
+  // The short name of a link's site for "Also on": X, YouTube, Rumble, or the host.
+  function siteName(href) {
+    var host = new URL(href).hostname.replace(/^www\./, "");
+    if (host === "x.com" || host === "twitter.com") return "X";
+    if (host === "youtube.com" || host === "youtu.be") return "YouTube";
+    if (host === "rumble.com") return "Rumble";
+    return host;
+  }
+
   function titleOf(w, cls) {
     var h = el("h2");
     var url = safeUrl(w.url);
@@ -257,7 +284,7 @@
     // Players: the work's own video first, then each listed video in order (each loads when the panel opens).
     var players = [];
     if (w.embed) players.push({ src: w.embed, label: "" });
-    (w.videos || []).forEach(function (v) { players.push({ src: v.embed, label: v.label || "" }); });
+    (w.videos || []).forEach(function (v) { players.push({ src: v.embed, label: v.label || "", also: v.also || [] }); });
     if (!urls.length && !players.length) return;
 
     var toggle = el("button", "work-toggle", "Links and video");
@@ -285,6 +312,8 @@
       if (pl.label) block.appendChild(el("p", "work-video-label", pl.label));
       var box = el("div", "work-player");
       block.appendChild(box);
+      var also = alsoLine(pl.also);
+      if (also) block.appendChild(also);
       panel.appendChild(block);
       return { src: pl.src, box: box, built: false };
     });
@@ -438,7 +467,7 @@
 
     var players = [];
     if (w.embed) players.push({ src: w.embed, label: "" });
-    (w.videos || []).forEach(function (v) { players.push({ src: v.embed, label: v.label || "" }); });
+    (w.videos || []).forEach(function (v) { players.push({ src: v.embed, label: v.label || "", also: v.also || [] }); });
     players.forEach(function (pl) {
       var block = el("article", "work work-video-page");
       if (pl.label) block.appendChild(el("p", "work-video-label", pl.label));
@@ -451,6 +480,8 @@
       frame.setAttribute("allowfullscreen", "");
       box.appendChild(frame);
       block.appendChild(box);
+      var also = alsoLine(pl.also);
+      if (also) block.appendChild(also);
       list.appendChild(block);
     });
   }
