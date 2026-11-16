@@ -346,6 +346,15 @@
       article.appendChild(watch);
     }
     if (w.summary) article.appendChild(el("p", "work-summary", w.summary));
+    var moreUrl = w.more && safeUrl(w.more.url);
+    if (moreUrl) {
+      var more = el("a", "work-more", (w.more.label || "More related videos on YouTube") + " →");
+      more.href = moreUrl;
+      more.target = "_blank";
+      more.rel = "noopener";
+      more.addEventListener("click", function () { trackOut(moreUrl); });
+      article.appendChild(more);
+    }
     var row = platformRow([w.url].concat(w.also || []));
     if (row) article.appendChild(row);
     addExpander(article, w);

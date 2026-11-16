@@ -1570,6 +1570,7 @@ works:
     added: 2026-11-09
     thumb: "https://i.ytimg.com/vi/MgiDLQR_8ks/hqdefault.jpg"
     summary: "Posts Harry Potter fan music and video on X, and on YouTube, including the Pure Blood series of Malfoid songs. The channel has 125 videos; the five Pure Blood videos listed below are embedded."
+    more: {label: "More related videos on YouTube (Malfoid as a side character)", url: "https://www.youtube.com/@zandran2/videos"}
     videos:
       - {url: "https://www.youtube.com/watch?v=MgiDLQR_8ks", label: "Pure Blood, Pure Madness | Auntie's Got the Key"}
       - {url: "https://www.youtube.com/watch?v=sMO0zF3L6LQ", label: "Pure Blood Empty Hands"}

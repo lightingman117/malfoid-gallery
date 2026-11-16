@@ -479,6 +479,13 @@ def build_works():
             return None
         return {"label": text(watch.get("label")) or "Watch now", "id": text(watch.get("id"))}
 
+    def more_of(w):
+        """A link under the summary to more videos elsewhere: {"label", "url"} (https only), or None."""
+        more = w.get("more")
+        if not isinstance(more, dict) or not text(more.get("url")).startswith(("http://", "https://")):
+            return None
+        return {"label": text(more.get("label")) or "More related videos on YouTube", "url": text(more.get("url"))}
+
     works = []
     for w in data.get("works") or []:
         if not isinstance(w, dict) or not text(w.get("title")):
@@ -516,6 +523,7 @@ def build_works():
             "videos": videos_of(w),
             "also": [text(u) for u in (w.get("also") or []) if text(u).startswith(("http://", "https://"))],
             "watch": watch_of(w),
+            "more": more_of(w),
             "order": order_of(w.get("order")),
             "length": length_of(w.get("length")),
             "format": format_of(w.get("format")),
