@@ -4198,3 +4198,25 @@ works:
       - "https://www.youtube.com/watch?v=vz4bAgwd-W4"
       - "https://www.youtube.com/watch?v=_uXMVEx3e0c"
     tags: [anime, video, youtube, malfoid]
+  - id: "creator-otakuai2345"
+    title: "OtakuAI Studio"
+    first_name: "Draconia"
+    kind: [creator, video]
+    format: anime
+    creator: "@OtakuAI2345"
+    url: "https://www.youtube.com/@OtakuAI2345"
+    also: ["https://x.com/otakuai2345"]
+    language: "English"
+    added: 2026-11-16
+    thumb: "https://i.ytimg.com/vi/DRfMoptujV0/hqdefault.jpg"
+    summary: "Fan-made anime series The Last Enchantment, about Draconia, with episodes 1 to 6 and an MV, plus an anime MV of Harry and Draconia. The eight YouTube videos are embedded below. The shorts tab did not load, so it is not included."
+    videos:
+      - "https://www.youtube.com/watch?v=DRfMoptujV0"
+      - "https://www.youtube.com/watch?v=fisEixZ7lLc"
+      - "https://www.youtube.com/watch?v=BaXIXn6Sogc"
+      - "https://www.youtube.com/watch?v=YUWVYVC4SjA"
+      - "https://www.youtube.com/watch?v=qHiPtjtGjF8"
+      - "https://www.youtube.com/watch?v=oFuKPjFUf-g"
+      - "https://www.youtube.com/watch?v=TC_vRBNSGcA"
+      - "https://www.youtube.com/watch?v=ErRdBEG7qP0"
+    tags: [anime, video, youtube, x, series]
