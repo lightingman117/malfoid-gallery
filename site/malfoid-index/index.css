@@ -131,3 +131,5 @@
 .work-video { display: flex; flex-direction: column; gap: 4px; }
 .work-video-label { margin: 0; font-size: 13px; color: var(--silver-2); }
 .work-video-page { gap: 8px; }
+.work-video-also { margin: 0; font-size: 13px; color: var(--silver-2); overflow-wrap: anywhere; }
+.work-video-also a { color: #8ff0c8; }

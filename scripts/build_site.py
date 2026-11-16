@@ -469,7 +469,9 @@ def build_works():
                 continue
             m = re.search(r"s(\d{2})e(\d{2})", u, re.I)
             label = given or ("Season %d, episode %d" % (int(m.group(1)), int(m.group(2))) if m else "Episode %d" % (i + 1))
-            out.append({"url": u, "embed": src, "label": label})
+            # Optional `also`: other places this video is posted (X, YouTube), shown under its player.
+            also = [text(a) for a in (v.get("also") or []) if text(a).startswith(("http://", "https://"))] if isinstance(v, dict) else []
+            out.append({"url": u, "embed": src, "label": label, "also": also})
         return out
 
     def watch_of(w):
