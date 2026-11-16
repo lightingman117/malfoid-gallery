@@ -4285,3 +4285,299 @@ works:
       - {url: "https://x.com/ikskei/status/2115925670219927992", label: "Livesey phonk: \"Draconia leads. Crabbe and Goyle follow.\""}
       - {url: "https://x.com/ikskei/status/2118925735784272115", label: "Ron and Pansy: \"Nearly christmas in Hogsmeade.\""}
       - {url: "https://x.com/ikskei/status/2119543504754082037", label: "Ron and Pansy before Quidditch: \"She said it was for luck.\""}
+  - id: "creator-616studioph"
+    title: "616 STUDIO"
+    first_name: ""
+    kind: creator
+    creator: "616 STUDIO"
+    url: "https://www.youtube.com/@616Studioph"
+    also: ["https://x.com/616STUDIOph"]
+    added: 2026-11-16
+  - id: "creator-a-illusion-creative"
+    title: "A-Illusion Creative"
+    first_name: ""
+    kind: creator
+    creator: "A-Illusion Creative"
+    url: "https://www.youtube.com/@A-IllusionCreative"
+    added: 2026-11-16
+  - id: "creator-ai-clips-uni"
+    title: "ai_clips_uni"
+    first_name: ""
+    kind: creator
+    creator: "ai_clips_uni"
+    url: "https://www.youtube.com/@ai_clips_uni"
+    also: ["https://x.com/ai_clips_uni"]
+    added: 2026-11-16
+  - id: "creator-beyond-hogwarts-ai"
+    title: "Beyond Hogwarts"
+    first_name: ""
+    kind: creator
+    creator: "Beyond Hogwarts"
+    url: "https://www.youtube.com/@BeyondHogwartsAI1"
+    added: 2026-11-16
+  - id: "creator-brooklynge0214"
+    title: "Brooklyn (Draconia Fanmade POVs)"
+    first_name: ""
+    kind: creator
+    creator: "Brooklyn (Draconia Fanmade POVs)"
+    url: "https://www.youtube.com/@brooklynge0214"
+    added: 2026-11-16
+  - id: "creator-dean-xx17"
+    title: "Dean_xx"
+    first_name: ""
+    kind: creator
+    creator: "Dean_xx"
+    url: "https://www.youtube.com/@Dean_xx17"
+    added: 2026-11-16
+  - id: "creator-draconia-malfoid"
+    title: "Draconia Malfoid"
+    first_name: ""
+    kind: creator
+    creator: "Draconia Malfoid"
+    url: "https://www.youtube.com/@DraconiaMalfoid"
+    also: ["https://x.com/DraconiaMalfoid"]
+    added: 2026-11-16
+  - id: "creator-enchanted-what-ifs"
+    title: "Enchanted What Ifs"
+    first_name: ""
+    kind: creator
+    creator: "Enchanted What Ifs"
+    url: "https://www.youtube.com/@EnchantedWhatIfs"
+    added: 2026-11-16
+  - id: "creator-ethosheretica"
+    title: "TheHeretic"
+    first_name: ""
+    kind: creator
+    creator: "TheHeretic"
+    url: "https://x.com/EthosHeretica"
+    added: 2026-11-16
+  - id: "creator-emma-studio99"
+    title: "emma_studio99"
+    first_name: ""
+    kind: creator
+    creator: "emma_studio99"
+    url: "https://www.youtube.com/@emmastudio99"
+    added: 2026-11-16
+  - id: "creator-gakdrama"
+    title: "각드 (gakdrama)"
+    first_name: ""
+    kind: creator
+    creator: "각드 (gakdrama)"
+    url: "https://www.youtube.com/@gakdrama"
+    added: 2026-11-16
+  - id: "creator-gasia112"
+    title: "GaSIA"
+    first_name: ""
+    kind: creator
+    creator: "GaSIA"
+    url: "https://www.youtube.com/@gasia112"
+    also: ["https://x.com/Gasia112"]
+    added: 2026-11-16
+  - id: "creator-goldteiger2000"
+    title: "Goldteiger2000"
+    first_name: ""
+    kind: creator
+    creator: "Goldteiger2000"
+    url: "https://www.youtube.com/@Goldteiger2000"
+    also: ["https://x.com/Goldteiger2000"]
+    added: 2026-11-16
+  - id: "creator-gugolfaistudio"
+    title: "GugolfAIStudio"
+    first_name: ""
+    kind: creator
+    creator: "GugolfAIStudio"
+    url: "https://www.youtube.com/@gugolfaistudio"
+    also: ["https://x.com/gugolfaistudio"]
+    added: 2026-11-16
+  - id: "creator-hasan-creatives7"
+    title: "Hasan Creatives"
+    first_name: ""
+    kind: creator
+    creator: "Hasan Creatives"
+    url: "https://www.youtube.com/@hasancreatives7"
+    added: 2026-11-16
+  - id: "creator-he0244"
+    title: "He02"
+    first_name: ""
+    kind: creator
+    creator: "He02"
+    url: "https://x.com/He0244"
+    added: 2026-11-16
+  - id: "creator-hogwashexpress"
+    title: "Draconia Malfoy"
+    first_name: ""
+    kind: creator
+    creator: "Draconia Malfoy"
+    url: "https://www.youtube.com/@hogwashexpress"
+    also: ["https://x.com/Hogwashexpress"]
+    added: 2026-11-16
+  - id: "creator-historias-impact"
+    title: "Historias Impact"
+    first_name: ""
+    kind: creator
+    creator: "Historias Impact"
+    url: "https://www.youtube.com/@HistoriasImpact"
+    also: ["https://x.com/historiasimpact"]
+    added: 2026-11-16
+  - id: "creator-hpacademy1"
+    title: "Harry Potter Academy"
+    first_name: ""
+    kind: creator
+    creator: "Harry Potter Academy"
+    url: "https://www.youtube.com/@HPAcademy1"
+    also: ["https://x.com/hpacademy1"]
+    added: 2026-11-16
+  - id: "creator-inspo-live"
+    title: "Inspo"
+    first_name: ""
+    kind: creator
+    creator: "Inspo"
+    url: "https://www.youtube.com/@inspo_live"
+    added: 2026-11-16
+  - id: "creator-j4mbo"
+    title: "James Harvey (@J4MBO)"
+    first_name: ""
+    kind: creator
+    creator: "James Harvey (@J4MBO)"
+    url: "https://x.com/J4MBO"
+    added: 2026-11-16
+  - id: "creator-keepdoingthebit"
+    title: "Keep Doing The Bit"
+    first_name: ""
+    kind: creator
+    creator: "Keep Doing The Bit"
+    url: "https://www.youtube.com/@keepdoingthebit"
+    added: 2026-11-16
+  - id: "creator-lilmovieperp"
+    title: "lilmovieperp"
+    first_name: ""
+    kind: creator
+    creator: "lilmovieperp"
+    url: "https://x.com/lilmovieperp"
+    added: 2026-11-16
+  - id: "creator-lorematika"
+    title: "LOREMATIKA"
+    first_name: ""
+    kind: creator
+    creator: "LOREMATIKA"
+    url: "https://www.youtube.com/@LoreMatika"
+    added: 2026-11-16
+  - id: "creator-maelle-gold"
+    title: "Maelle_Gold6267"
+    first_name: ""
+    kind: creator
+    creator: "Maelle_Gold6267"
+    url: "https://www.youtube.com/@maelle_gold"
+    added: 2026-11-16
+  - id: "creator-madmax"
+    title: "MadMax"
+    first_name: ""
+    kind: creator
+    creator: "MadMax"
+    url: "https://www.youtube.com/@madmax"
+    also: ["https://x.com/MadMax"]
+    added: 2026-11-16
+  - id: "creator-madmax000"
+    title: "MadMax"
+    first_name: ""
+    kind: creator
+    creator: "MadMax"
+    url: "https://www.youtube.com/@MadMax000"
+    also: ["https://x.com/madmax000"]
+    added: 2026-11-16
+  - id: "creator-malfoid-series"
+    title: "Malfoid"
+    first_name: ""
+    kind: creator
+    creator: "Malfoid"
+    url: "https://www.youtube.com/@MalfoidSeries"
+    also: ["https://x.com/MalfoidSeries"]
+    added: 2026-11-16
+  - id: "creator-moochiforge"
+    title: "MoochiForge"
+    first_name: ""
+    kind: creator
+    creator: "MoochiForge"
+    url: "https://www.youtube.com/@MoochiForge"
+    also: ["https://x.com/moochiforge"]
+    added: 2026-11-16
+  - id: "creator-mystavelle"
+    title: "MYSTAVELLE"
+    first_name: ""
+    kind: creator
+    creator: "MYSTAVELLE"
+    url: "https://www.youtube.com/@MYSTAVELLE"
+    added: 2026-11-16
+  - id: "creator-next-realm-studios"
+    title: "Next Realm Studios"
+    first_name: ""
+    kind: creator
+    creator: "Next Realm Studios"
+    url: "https://www.youtube.com/@Nextrealmstudio"
+    also: ["https://x.com/nextrealmstudio"]
+    added: 2026-11-16
+  - id: "creator-novaframe-z2t"
+    title: "NovaFrame"
+    first_name: ""
+    kind: creator
+    creator: "NovaFrame"
+    url: "https://www.youtube.com/@NovaFrame-z2t"
+    added: 2026-11-16
+  - id: "creator-orangehoodieguy"
+    title: "Orange Hoodie Guy"
+    first_name: ""
+    kind: creator
+    creator: "Orange Hoodie Guy"
+    url: "https://www.youtube.com/@orangehoodieguy"
+    also: ["https://x.com/orangehoodieguy"]
+    added: 2026-11-16
+  - id: "creator-spellora-ai"
+    title: "Spellora"
+    first_name: ""
+    kind: creator
+    creator: "Spellora"
+    url: "https://www.youtube.com/@Spellora_ai"
+    added: 2026-11-16
+  - id: "creator-tamaraluciaclips"
+    title: "tamara lucia clips"
+    first_name: ""
+    kind: creator
+    creator: "tamara lucia clips"
+    url: "https://www.youtube.com/@tamaraluciaclips"
+    added: 2026-11-16
+  - id: "creator-themalfoyversey"
+    title: "The Malfoyverse"
+    first_name: ""
+    kind: creator
+    creator: "The Malfoyverse"
+    url: "https://www.youtube.com/@themalfoyversey"
+    added: 2026-11-16
+  - id: "creator-throng-tv"
+    title: "ThRong"
+    first_name: ""
+    kind: creator
+    creator: "ThRong"
+    url: "https://www.youtube.com/@throngTV"
+    also: ["https://x.com/throngtv"]
+    added: 2026-11-16
+  - id: "creator-tooneryt"
+    title: "TOONER"
+    first_name: ""
+    kind: creator
+    creator: "TOONER"
+    url: "https://www.youtube.com/@tooneryt"
+    added: 2026-11-16
+  - id: "creator-wrong-cast-official"
+    title: "WRONG CAST"
+    first_name: ""
+    kind: creator
+    creator: "WRONG CAST"
+    url: "https://www.youtube.com/@Wrong_Cast_Official"
+    added: 2026-11-16
+  - id: "creator-xcaliber00"
+    title: "XCaliber"
+    first_name: ""
+    kind: creator
+    creator: "XCaliber"
+    url: "https://www.youtube.com/@XCaliber00"
+    added: 2026-11-16
