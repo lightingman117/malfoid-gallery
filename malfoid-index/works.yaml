@@ -4267,3 +4267,21 @@ works:
       - {url: "https://www.bilibili.com/en/video/BV1voxs6hEeE/", label: "[Animated Version] Miss Malfoy's New Hairstyle (Breakup Chapter)"}
       - {url: "https://www.bilibili.com/en/video/BV126sp66Eds/", label: "[Animated version] Miss Malfoy and Potter — (Philosopher's Stone arc) OP"}
     tags: [anime, video, bilibili, animated]
+  - id: "creator-ikskei"
+    title: "XK☭HK"
+    first_name: "Draconia"
+    kind: [creator, video, music]
+    format: other
+    creator: "XK☭HK (@ikskei)"
+    url: "https://x.com/ikskei"
+    language: "English subs"
+    added: 2026-11-16
+    summary: "Fan videos and songs about Draconia Malfoy by @ikskei, posted on X. Some are in Japanese with English subtitles; the Livesey phonk video is music only."
+    tags: [comedy, music, halloween, x]
+    videos:
+      - {url: "https://x.com/ikskei/status/2122048990376063442", label: "Rule 63 comedy: \"There's only one Malfoy in this world. That's her.\""}
+      - {url: "https://x.com/ikskei/status/2116861563831513226", label: "Halloween song: \"She crowns herself pumpkin queen.\""}
+      - {url: "https://x.com/ikskei/status/2121673941517513032", label: "Drakonia song: \"Drakonia Malfoy insists she's a perfectly composed Slytherin lady.\""}
+      - {url: "https://x.com/ikskei/status/2115925670219927992", label: "Livesey phonk: \"Draconia leads. Crabbe and Goyle follow.\""}
+      - {url: "https://x.com/ikskei/status/2118925735784272115", label: "Ron and Pansy: \"Nearly christmas in Hogsmeade.\""}
+      - {url: "https://x.com/ikskei/status/2119543504754082037", label: "Ron and Pansy before Quidditch: \"She said it was for luck.\""}
