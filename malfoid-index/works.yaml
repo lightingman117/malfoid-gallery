@@ -2940,10 +2940,12 @@ works:
     format: other
     creator: "Skyebrows"
     url: "https://www.youtube.com/watch?v=4haW72dgVM8"
-    embed: "https://www.youtube.com/watch?v=4haW72dgVM8"
+    videos:
+      - {url: "https://www.youtube.com/watch?v=4haW72dgVM8", label: "Can't Avoid Malfoid"}
+      - {url: "https://www.youtube.com/watch?v=jVf0alKHQD8", label: "Malfoid Malfeasance | Whomping Whiplash"}
     language: "English"
     added: 2026-11-10
-    summary: "Skyebrows brings Malfoid into a fan music video, with help credited to EustaceTheEuseful and Korgamiai. The creator warns that the video contains flashing lights."
+    summary: "Skyebrows brings Malfoid into fan music videos, with help credited to EustaceTheEuseful and Korgamiai. The creator warns that the first video contains flashing lights."
     tags: [animation, video, malfoid.com]
   - id: "video-mf-crown-of-mud"
     thumb: "https://i.ytimg.com/vi/n5AowQPYkAo/hqdefault.jpg"
