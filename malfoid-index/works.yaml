@@ -4293,6 +4293,10 @@ works:
     url: "https://www.youtube.com/@616Studioph"
     also: ["https://x.com/616STUDIOph"]
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=kYM9XoxD0do", label: "Draconia's Heartbreak 💔 Part 2 | Draconia Malfoy × Harry Potter | Alternate Timeline - 616 STUDIO"}
+      - {url: "https://www.youtube.com/watch?v=sDzOsme9Mh4", label: "Draconia's Heartbreak 💔 Part 1 | Draconia Malfoy × Harry Potter | Alternate Timeline - 616 STUDIO"}
+      - {url: "https://www.youtube.com/watch?v=xTEwRfFPS8Q", label: "STOLEN KISS  | Draconia Malfoy × Harry Potter | Alternate Timeline (AI Series) - 616  STUDIO"}
   - id: "creator-a-illusion-creative"
     title: "A-Illusion Creative"
     first_name: ""
@@ -4300,6 +4304,20 @@ works:
     creator: "A-Illusion Creative"
     url: "https://www.youtube.com/@A-IllusionCreative"
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=NYLxgqoo7Wg", label: "🐍 Draconia Malfoy Quidditch Mechanism Test #shorts"}
+      - {url: "https://www.youtube.com/watch?v=l3qABwApB6Q", label: "Draconia Malfoy: A Serpent's Heart | Episode 3 Teaser"}
+      - {url: "https://www.youtube.com/watch?v=fZLOabSPyCw", label: "Draconia Malfoy: A Serpent's Heart | Episode 2 Teaser Trailer"}
+      - {url: "https://www.youtube.com/watch?v=KEKfnNKeS9E", label: "7. Draconia Malfoy A Serpent's Heart - Forbidden Magic (Short)"}
+      - {url: "https://www.youtube.com/watch?v=MFGO3GbTEoA", label: "1. Draconia Malfoy A Serpent's Heart - Opening"}
+      - {url: "https://www.youtube.com/watch?v=FkwlQMg0XEQ", label: "3. Draconia Malfoy A Serpent's Heart - Expectation"}
+      - {url: "https://www.youtube.com/watch?v=sktj5bjb5H0", label: "5. Draconia Malfoy A Serpent's Heart - Enchanted Meeting"}
+      - {url: "https://www.youtube.com/watch?v=MYgJu_7dE40", label: "6. Draconia Malfoy A Serpent's Heart - Shimmering Bell"}
+      - {url: "https://www.youtube.com/watch?v=w_14YmssUv8", label: "4. Draconia Malfoy A Serpent's Heart - Controlled Unease"}
+      - {url: "https://www.youtube.com/watch?v=bVJCD-jELP0", label: "2. Draconia Malfoy A Serpent's Heart - Manor Legacy"}
+      - {url: "https://www.youtube.com/watch?v=-57Pgrwj6R4", label: "🎃 Draconia Turns Someone Into a Pumpkin! 🪄🐍 | Happy Halloween! #Shorts"}
+      - {url: "https://www.youtube.com/watch?v=P-JBRNELOtM", label: "🐍 Draconia Malfoy: A Serpent’s Heart | New Episode Coming Soon! 🏰✨"}
+      - {url: "https://www.youtube.com/watch?v=LfrWg671FJE", label: "Draconia Malfoy: The Malfoy Name | Episode 1 | AI Harry Potter Fan Series"}
   - id: "creator-ai-clips-uni"
     title: "ai_clips_uni"
     first_name: ""
@@ -4308,6 +4326,11 @@ works:
     url: "https://www.youtube.com/@ai_clips_uni"
     also: ["https://x.com/ai_clips_uni"]
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=RZMBrsJn_y0", label: "Malfoid: The Series | Ep. 3: At The Yule Ball"}
+      - {url: "https://www.youtube.com/watch?v=Gq8M-OZBXF8", label: "Draconia Malfoy: The Series | Ep. 2: Before The Yule Ball"}
+      - {url: "https://www.youtube.com/watch?v=HjpYqGQ1BPI", label: "Draconia Malfoy Gets Asked To The Yule Ball"}
+      - {url: "https://www.youtube.com/watch?v=fQHYeRjjsyc", label: "Draconia Malfoy bullies Potter | Falling for me already? 💅 Draconia doesn’t miss."}
   - id: "creator-beyond-hogwarts-ai"
     title: "Beyond Hogwarts"
     first_name: ""
@@ -4315,6 +4338,25 @@ works:
     creator: "Beyond Hogwarts"
     url: "https://www.youtube.com/@BeyondHogwartsAI1"
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=uVgH9qWQD64", label: "Malfoy Origins: Draconia — Episode 1 | Our Own Kind"}
+      - {url: "https://www.youtube.com/watch?v=iYahxiK1WHo", label: "She Wasn't Born Cold | Female Draco Malfoy"}
+      - {url: "https://www.youtube.com/watch?v=Zl8Gy2E1kYU", label: "Malfoid | Malfoys Don’t Cry | Before She Built the Walls"}
+      - {url: "https://www.youtube.com/watch?v=1tRd1PFdapE", label: "Malfoid — Malfoys Don’t Cry | Harry Potter × Female Draco"}
+      - {url: "https://www.youtube.com/watch?v=5SCnsJDqJ-g", label: "Malfoid — Please Don’t Leave Me | Harry Potter × Female Draco"}
+      - {url: "https://www.youtube.com/watch?v=penD2VSqhu4", label: "What if Draco was a girl in love with Harry? | Malfoid Fan Film"}
+      - {url: "https://www.youtube.com/watch?v=QAWtVNlGNSM", label: "Harry Spotter 1"}
+      - {url: "https://www.youtube.com/watch?v=Oh2dK0Itksk", label: "Harry Potter's Magical Escape – Jungle, Waterfalls & Unexpected Romance"}
+      - {url: "https://www.youtube.com/watch?v=Das3xqItbkM", label: "Harry Potter Characters 60 Years Later | Magical Home"}
+      - {url: "https://www.youtube.com/watch?v=88WMnV9Ccd0", label: "Harry Potter in the African Savannah | AI Fan Film"}
+      - {url: "https://www.youtube.com/watch?v=lLI_0M06KD0", label: "The Childhood Harry Potter Deserved | Sirius Black Raised Him"}
+      - {url: "https://www.youtube.com/watch?v=SlP1qP4N1VU", label: "What If Draco & Hermione Had Their Dream Honeymoon? | Paradise After the War"}
+      - {url: "https://www.youtube.com/watch?v=pAAtScBRxko", label: "Harry Potter | Spread Love at Hogwarts – A Valentine Film"}
+      - {url: "https://www.youtube.com/watch?v=0bDesk7B7CY", label: "What If Hagrid Raised Harry Potter? | The Childhood He Deserved"}
+      - {url: "https://www.youtube.com/watch?v=-t9sUeIYM64", label: "Harry Potter Raised by the Weasleys | A Different Childhood Changed Everything"}
+      - {url: "https://www.youtube.com/watch?v=s4I3wkg4-RM", label: "What if Harry Potter Took a Tropical Holiday?"}
+      - {url: "https://www.youtube.com/watch?v=M1KMY-APxq4", label: "What If She Didn’t Give Up On Him? | Hermione & Draco"}
+      - {url: "https://www.youtube.com/watch?v=VP4iHbkI-Fw", label: "Christmas Moments at Hogwarts - Harry Potter Festive Compilation"}
   - id: "creator-brooklynge0214"
     title: "Brooklyn (Draconia Fanmade POVs)"
     first_name: ""
@@ -4322,6 +4364,12 @@ works:
     creator: "Brooklyn (Draconia Fanmade POVs)"
     url: "https://www.youtube.com/@brooklynge0214"
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=6sbzx-pGrmg", label: "POV: You Caught the Golden Snitch, Again, But Missed What Draconia Really Wanted…"}
+      - {url: "https://www.youtube.com/watch?v=XrgsDtHl_Ao", label: "POV: You Give Draconia Malfoy the Golden Snitch… and She Says “Catch Me Instead”"}
+      - {url: "https://www.youtube.com/watch?v=4EDlPtsbgmE", label: "POV: You Quietly Sit Beside a Sleeping Draconia Malfoy… 💚"}
+      - {url: "https://www.youtube.com/watch?v=kwhuMeQOBso", label: "POV: You Find Draconia Malfoy Asleep in the Hogwarts Library… 💚"}
+      - {url: "https://www.youtube.com/watch?v=4Cx3P66Dqmc", label: "POV: You’re Late on Your First Day… and Draconia Malfoy Is Waiting for You 💚"}
   - id: "creator-dean-xx17"
     title: "Dean_xx"
     first_name: ""
@@ -4329,6 +4377,10 @@ works:
     creator: "Dean_xx"
     url: "https://www.youtube.com/@Dean_xx17"
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=QhSjydJ_gtY", label: "Malfoid wants to dance with you | Malfoid x Harry"}
+      - {url: "https://www.youtube.com/watch?v=_73QgREWiCc", label: "Malfoid wants your attention | Malfoid x Harry First Kiss"}
+      - {url: "https://www.youtube.com/watch?v=IHMJ5CO7Ttc", label: "Malfoid wants to sit with you | Malfoid x Harry"}
   - id: "creator-draconia-malfoid"
     title: "Draconia Malfoid"
     first_name: ""
@@ -4337,6 +4389,22 @@ works:
     url: "https://www.youtube.com/@DraconiaMalfoid"
     also: ["https://x.com/DraconiaMalfoid"]
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=FDokOw4Rjxc", label: "Draconia Malfoid x Harry Potter | Malfoid Story Part 4 (foyege Fanmade Animation)"}
+      - {url: "https://www.youtube.com/watch?v=g3HbLgiCGQw", label: "Foyege Harry Potter x Malfoid – All Cast Interviews & Teaser Compilation Before Part 4 Release"}
+      - {url: "https://www.youtube.com/watch?v=Wzo5wINVy5E", label: "Harry Potter and Draconia Malfoy: A Serpent's Heart"}
+      - {url: "https://www.youtube.com/watch?v=IRJEYN14yyU", label: "Harry Potter x Malfoid | A Draconia Malfoid Saga Full Season | foyege extenden"}
+      - {url: "https://www.youtube.com/watch?v=RDJPZFEZpks", label: "[Full Movie] Draconia Malfoid x Harry Potter: The Curse of Love | Foyege Forbidden Romance"}
+      - {url: "https://www.youtube.com/watch?v=pcWKS97pZPA", label: "All Foyege Original Harry Potter x Malfoid: FATE SET THEM AGAINST EACH OTHER, YET DREW THEM TOGETHER"}
+      - {url: "https://www.youtube.com/watch?v=4EaRCi3tGBA", label: "Harry Potter and the Half-Blood Prince | Foyege Harry Potter x Malfoid fandmade"}
+      - {url: "https://www.youtube.com/watch?v=SuCPuqEJfN8", label: "Foyege Malfoid x Harry Potter FATE SET THEM AGAINST EACH OTHER, YET DREW THEM TOGETHER extend"}
+      - {url: "https://www.youtube.com/watch?v=z5RjJWgsMZ4", label: "Foyege official Malfoid x Harry Potter FATE SET THEM AGAINST EACH OTHER, YET DREW THEM TOGETHER"}
+      - {url: "https://www.youtube.com/watch?v=5-gdG183iOQ", label: "Draconia Malfoid x Harry Potter | A Little Romance (foyege part 5 fanmade)"}
+      - {url: "https://www.youtube.com/watch?v=uy0hXbuXVLI", label: "Malfoid x Harry Potter | Malfoid Story foyege fanmade full part 4"}
+      - {url: "https://www.youtube.com/watch?v=tAmPfYLHw40", label: "Malfoid x Harry Potter | foyege part 5 fanmade Dancing scene at Grand Ball"}
+      - {url: "https://www.youtube.com/watch?v=MLUEhfLQqVc", label: "[Full] Malfoid x Harry Potter | foyege part 4 & part 5 fanmade final release"}
+      - {url: "https://www.youtube.com/watch?v=dC5Adm1uv-w", label: "Draconia Malfoid x Harry Potter: Spring With Me"}
+      - {url: "https://www.youtube.com/watch?v=RRonPgbTe1s", label: "Draconia Malfoid: The Movie Love Story | foyege part 4 & part 5"}
   - id: "creator-enchanted-what-ifs"
     title: "Enchanted What Ifs"
     first_name: ""
@@ -4344,6 +4412,21 @@ works:
     creator: "Enchanted What Ifs"
     url: "https://www.youtube.com/@EnchantedWhatIfs"
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=fivHPKYO9Yg", label: "\"What Would You Know About Love?\" | Fem Malfoy × Harry | Part 14"}
+      - {url: "https://www.youtube.com/watch?v=kgalUMTdf8s", label: "\"I'll find you again. I promise.\" | Fem Malfoy × Harry | Part 13"}
+      - {url: "https://www.youtube.com/watch?v=rc9JbeCP0iY", label: "The Night the Vanishing Cabinet Opened | Fem Malfoy × Harry | Part 12"}
+      - {url: "https://www.youtube.com/watch?v=47XGz0c8XyY", label: "\"We're Survivors, Draco\" 🌙 | Fem Malfoy × Harry | Part 11"}
+      - {url: "https://www.youtube.com/watch?v=txjNW5sOsdQ", label: "The Patronus | Fem Malfoy × Harry | Part 10"}
+      - {url: "https://www.youtube.com/watch?v=T7tS4zhZu1w", label: "Malfoy Gets Jealous of Luna 💙 | Fem Malfoy × Harry | Part 9"}
+      - {url: "https://www.youtube.com/watch?v=LI7xHTYhbIA", label: "Harry and Malfoy's Detention Takes an Unexpected Turn 🎀 | Fem Malfoy × Harry | Part 8"}
+      - {url: "https://www.youtube.com/watch?v=Wgy4Ipa93bU", label: "Malfoy and Harry's First Real Fight 💔 | Fem Malfoy × Harry | Part 7"}
+      - {url: "https://www.youtube.com/watch?v=3wVlmf71TQY", label: "Malfoy Can't Stop Thinking About What Happened at the Yule Ball 😳 | Fem Malfoy × Harry | Part 4"}
+      - {url: "https://www.youtube.com/watch?v=uMZ096B5C7g", label: "Harry Saves Malfoy From the Black Lake 💚 | Fem Malfoy × Harry | Part 1"}
+      - {url: "https://www.youtube.com/watch?v=_nnmWtCzgQ0", label: "Malfoy Sees Cho Hug Harry… and Walks Away | Fem Draco × Harry | Part 6"}
+      - {url: "https://www.youtube.com/watch?v=Wkp7_NMnI7Y", label: "Malfoy Is Ordered to Take the Dark Mark 💔 |  Fem Malfoy  × Harry | Part 5"}
+      - {url: "https://www.youtube.com/watch?v=qRHHvUBNZKI", label: "Harry Is Speechless at Malfoy’s Yule Ball Dress ✨ | Fem Malfoy  × Harry | Part 3"}
+      - {url: "https://www.youtube.com/watch?v=D4SuiM9c8Yw", label: "Malfoy Thinks Harry Chose Another Girl | Fem Malfoy  × Harry | Part 2"}
   - id: "creator-ethosheretica"
     title: "TheHeretic"
     first_name: ""
@@ -4358,6 +4441,12 @@ works:
     creator: "emma_studio99"
     url: "https://www.youtube.com/@emmastudio99"
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=Nt3X9-hqojQ", label: "Harry Potter Meets Female Malfoy AGAIN! 🚂 | Shut Up, Potter! EP02"}
+      - {url: "https://www.youtube.com/watch?v=2O70wiOwZVw", label: "Harry Meets Female Malfoy for the First Time | Shut Up, Potter! EP01"}
+      - {url: "https://www.youtube.com/watch?v=lIa4skt-368", label: "Harry Potter POV: A Winter Date with Female Draco Malfoy"}
+      - {url: "https://www.youtube.com/watch?v=MVrk3ar2Wik", label: "Female Draco Malfoy Attacked Harry… Against Her Will"}
+      - {url: "https://www.youtube.com/watch?v=80LUBaYsMco", label: "Female Draco Malfoy Can't Let Go"}
   - id: "creator-gakdrama"
     title: "각드 (gakdrama)"
     first_name: ""
@@ -4373,6 +4462,10 @@ works:
     url: "https://www.youtube.com/@gasia112"
     also: ["https://x.com/Gasia112"]
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=uhsfYvxtmAM", label: "Malfoid :  I Hate That I Like You"}
+      - {url: "https://www.youtube.com/watch?v=44h4z94JCt4", label: "Malfoid : I Hate that I like you [Teaser]"}
+      - {url: "https://www.youtube.com/watch?v=06fpqAtHFnw", label: "Malfoid : I Don't Like You (just a lil bit… maybe?)"}
   - id: "creator-goldteiger2000"
     title: "Goldteiger2000"
     first_name: ""
@@ -4381,6 +4474,31 @@ works:
     url: "https://www.youtube.com/@Goldteiger2000"
     also: ["https://x.com/Goldteiger2000"]
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=2_nhbsrXOIc", label: "Malfoid Dancing for 12 Hours  🎉 PERFECT LOOP"}
+      - {url: "https://www.youtube.com/watch?v=_yy2CESCdxY", label: "The Malfoid Purge"}
+      - {url: "https://www.youtube.com/watch?v=ox6KFoxBs2o", label: "The Church Of Malfoid"}
+      - {url: "https://www.youtube.com/watch?v=-8ZKGMLIev4", label: "Malfoid Dance everywhere"}
+      - {url: "https://www.youtube.com/watch?v=f8ORvhUrAys", label: "Draco Malfoid Compilation #5"}
+      - {url: "https://www.youtube.com/watch?v=0E7VsgnsIr0", label: "The Moment I First Saw Malfoid"}
+      - {url: "https://www.youtube.com/watch?v=cQvzeDY4O-I", label: "Draco Malfoid Meme Compilation"}
+      - {url: "https://www.youtube.com/watch?v=SX7I7rxxJhY", label: "Malfoid 「AMV」Monster"}
+      - {url: "https://www.youtube.com/watch?v=XIQK3izUjwY", label: "Malfoid Dancing for 10 Hours"}
+      - {url: "https://www.youtube.com/watch?v=ZBR7oux_-kA", label: "Draco Malfoy Waifu 6.0"}
+      - {url: "https://www.youtube.com/watch?v=lVkuXqg1hVI", label: "Draco Malfoid"}
+      - {url: "https://www.youtube.com/watch?v=ySptjqI5Elo", label: "Malfoid Dance everywhere"}
+      - {url: "https://www.youtube.com/watch?v=dMoLEIlwtnY", label: "Malfoid - I feel like a Monster"}
+      - {url: "https://www.youtube.com/watch?v=B3bCBn21wRc", label: "Draco Malfoid Compilation #4"}
+      - {url: "https://www.youtube.com/watch?v=xY6M0ZprQH0", label: "Me Making Malfoid Canon  (Full Version)"}
+      - {url: "https://www.youtube.com/watch?v=VdlKFjUWY2U", label: "Draco Malfoy Waifu 5.0"}
+      - {url: "https://www.youtube.com/watch?v=BlDq12WTVyA", label: "Malfoid Dance everywhere"}
+      - {url: "https://www.youtube.com/watch?v=UC2NwPIpO0k", label: "Malfoid Living in My Head"}
+      - {url: "https://www.youtube.com/watch?v=ncSIWh7hNXk", label: "Draco Malfoid Compilation #3"}
+      - {url: "https://www.youtube.com/watch?v=V902sAIHpbM", label: "Malfoid affect me in ways..."}
+      - {url: "https://www.youtube.com/watch?v=GJ1_XdbzqM8", label: "Draco Malfoy Waifu 4.0"}
+      - {url: "https://www.youtube.com/watch?v=FWRX0OyYb4Y", label: "Draco Malfoid Meme Compilation"}
+      - {url: "https://www.youtube.com/watch?v=0PSw_IjCLVU", label: "Me Making Malfoid Canon"}
+      - {url: "https://www.youtube.com/watch?v=b2UiUf3EE54", label: "Draco Malfoy Waifu 3.0"}
   - id: "creator-gugolfaistudio"
     title: "GugolfAIStudio"
     first_name: ""
@@ -4389,6 +4507,10 @@ works:
     url: "https://www.youtube.com/@gugolfaistudio"
     also: ["https://x.com/gugolfaistudio"]
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=WMMvbPoedmg", label: "Malfoid : What if… (EP.2.5) “No Magic, Potter” | Gugolf AI Studio #malfoy #malfoid  | No music"}
+      - {url: "https://www.youtube.com/watch?v=QMvTdCylP68", label: "Malfoid : What if… (EP.2) “The Day That Wouldn’t End” | Gugolf AI Studio #malfoy"}
+      - {url: "https://www.youtube.com/watch?v=BhXadBI5HYM", label: "Malfoid : What if — Episode 1 | GUGOLF AI STUDIO"}
   - id: "creator-hasan-creatives7"
     title: "Hasan Creatives"
     first_name: ""
@@ -4396,6 +4518,25 @@ works:
     creator: "Hasan Creatives"
     url: "https://www.youtube.com/@hasancreatives7"
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=RG9NZbuDTDM", label: "She Forgot What She Was Wearing. | Malfoid x Harry EP7 💚"}
+      - {url: "https://www.youtube.com/watch?v=CpOXeXpayHU", label: "Mum Invited Him. She Has To Ask. | Malfoid x Harry EP6 💚"}
+      - {url: "https://www.youtube.com/watch?v=gL7O3qtwt24", label: "Dad Told Mum. She's Finished. | Malfoid x Harry EP5 💚"}
+      - {url: "https://www.youtube.com/watch?v=QZQU50i3x8A", label: "She Asked Him. Dad Found Out. | Malfoid x Harry EP4 💚"}
+      - {url: "https://www.youtube.com/watch?v=7CttBY2070g", label: "Who Is He, Malfoid? | Malfoid x Harry EP3 💚"}
+      - {url: "https://www.youtube.com/watch?v=mdebRrOg4uY", label: "Malfoid Meets her Father | Malfoid x Harry EP2 💚"}
+      - {url: "https://www.youtube.com/watch?v=d51jXdtcLVk", label: "Malfoid got a Letter from her Father | Malfoid x Harry EP1 💚"}
+      - {url: "https://www.youtube.com/watch?v=P6yIad6yYk0", label: "Malfoid Worn Harrie's Sweater 😂  | Malfoid x Harried 💚"}
+      - {url: "https://www.youtube.com/watch?v=8S0KZBrEWdY", label: "She Mocked Him For Eating Alone XD | Malfoid x Harried 💚"}
+      - {url: "https://www.youtube.com/watch?v=01KNl6QFnCo", label: "She Couldn't Say It. So He Did. | Malfoid x Pottahh EP7 Finale 💚"}
+      - {url: "https://www.youtube.com/watch?v=JnTI54HwZ58", label: "Wtf did she saw!?  | Malfoid x Harried"}
+      - {url: "https://www.youtube.com/watch?v=M5rQE3BvfcE", label: "Her engagement ring burned her hand today Ep6 | Harried X Malfoid"}
+      - {url: "https://www.youtube.com/watch?v=_eieaVZyFcI", label: "She Has 8 Reasons. He Has The List. | Harry × Malfoid 💚"}
+      - {url: "https://www.youtube.com/watch?v=ZpXGjINADwo", label: "\"Look At Me.\" | Malfoid x Harried EP5"}
+      - {url: "https://www.youtube.com/watch?v=PkMVTcmo8oY", label: "Did You Choose Me, Or Did The Contract? | Malfoid x Harried EP4"}
+      - {url: "https://www.youtube.com/watch?v=vQPR5Txmt0g", label: "One Dance. Then This Ends. | Malfoid x Harried EP3"}
+      - {url: "https://www.youtube.com/watch?v=ssp5dg8kio4", label: "\"Just Say You Hate Me!\" — Malfoid x Harry EP2"}
+      - {url: "https://www.youtube.com/watch?v=-SnKRKefGY0", label: "Engaged to Potter?! — Malfoid x Harry EP1"}
   - id: "creator-he0244"
     title: "He02"
     first_name: ""
@@ -4411,6 +4552,19 @@ works:
     url: "https://www.youtube.com/@hogwashexpress"
     also: ["https://x.com/Hogwashexpress"]
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=yytjC26g2T0", label: "Draconia Malfoy - A Brief History of Magical Indiscretion Eps: 1-2 & Extras."}
+      - {url: "https://www.youtube.com/watch?v=6w-zKOYjqfk", label: "Draconia Malfoy - A Brief History of Magical Indiscretion Trailer || @hogwashexpress Version ||"}
+      - {url: "https://www.youtube.com/watch?v=uRIxmO8iLgc", label: "Draconia Malfoy - Back to friends ft #Sombr MV Edit."}
+      - {url: "https://www.youtube.com/watch?v=8nV-tun4kfM", label: "Draconia Malfoy - A Brief History of Magical Indiscretion | Teaser Trailer 1 | @lilmovieperp version"}
+      - {url: "https://www.youtube.com/watch?v=DMeIQSqBdh0", label: "Draconia Malfoy - No Surprises X Radiohead - No Surprises Edit #malfoid #radiohead #nosurprises "}
+      - {url: "https://www.youtube.com/watch?v=aJw4-mlLJ14", label: "Draconia Malfoy - Malfoy Mannor Movie Mayhem | By: @lilmovieperp"}
+      - {url: "https://www.youtube.com/watch?v=CkxZR5qLsB8", label: "Draconia Malfoy - You cant put this two in the same room together... | By: @lilmovieperp"}
+      - {url: "https://www.youtube.com/watch?v=3_ust6PuNjE", label: "Draconia Malfoy - Date Night | By: @lilmovieperp"}
+      - {url: "https://www.youtube.com/watch?v=IesrpF34NPU", label: "Draconia Malfoy - Dungeon of Secret"}
+      - {url: "https://www.youtube.com/watch?v=NdajqrmGeo4", label: "Draconia Malfoy - Imperius Curse "}
+      - {url: "https://www.youtube.com/watch?v=U1wSwA-b9KA", label: "Draconia Malfoy - The Yule Ball Story ft Olivia Rodrigo - The Cure Edit"}
+      - {url: "https://www.youtube.com/watch?v=NMwL4Uq0x9E", label: "Draconia Malfoy - The Yule Ball Story"}
   - id: "creator-historias-impact"
     title: "Historias Impact"
     first_name: ""
@@ -4427,6 +4581,35 @@ works:
     url: "https://www.youtube.com/@HPAcademy1"
     also: ["https://x.com/hpacademy1"]
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=kbFdVu-DX84", label: "Korean Malfoid Marathon: Every Episode Ever Made. Episodes 1- 45"}
+      - {url: "https://www.youtube.com/watch?v=05YhdhLv-cI", label: "Will Harry and Malfoid Finally Go to the Ball Together?"}
+      - {url: "https://www.youtube.com/watch?v=MPO0oiURmH4", label: "Malfoid - the movie (2026) Episodes 1-20"}
+      - {url: "https://www.youtube.com/watch?v=sQm-1IJci-o", label: "Pt 10 - Asian Draconia Malfoy with Harry Potter 😤 #shorts #harrypotter #dracomalfoy"}
+      - {url: "https://www.youtube.com/watch?v=tdNEg48btC0", label: "Episode 15 | Draconia Malfoy - Jealous Draconia  harrypotter #hogwarts"}
+      - {url: "https://www.youtube.com/watch?v=Lr17Wgkf7tk", label: "Pt 8 - Asian Draconia Malfoy with Harry Potter 😤 #shorts #harrypotter #dracomalfoy"}
+      - {url: "https://www.youtube.com/watch?v=vB2QQ9CeltY", label: "Asian Malfoid - The Movie (2026) - 30 min - Ep 1- 10  #shorts #harrypotter #dracomalfoy #shorts"}
+      - {url: "https://www.youtube.com/watch?v=lGdRK0rH9pY", label: "Asian Malfoid - The Movie (2026) - 30 min - Ep 1- 8  #shorts #harrypotter #dracomalfoy #shorts"}
+      - {url: "https://www.youtube.com/watch?v=zb9GAlsro3Y", label: "Malfoid - the movie (2026) Episodes 1-14"}
+      - {url: "https://www.youtube.com/watch?v=kq9520STnuU", label: "Episode 14 | Draconia Malfoy - Malfoid gets shoved by a silver fox  harrypotter #hogwarts"}
+      - {url: "https://www.youtube.com/watch?v=dyEHHevMR6Y", label: "Harry and Lady Malfoy Have a Baby (It's Not What You Think) - Movie (2026)"}
+      - {url: "https://www.youtube.com/watch?v=v78BYwmzWEs", label: "Asian Draconia Malfoy - The Movie (2026)  #shorts #harrypotter #dracomalfoy"}
+      - {url: "https://www.youtube.com/watch?v=4p9JLG9_r0E", label: "Pt 7 Tsundere  Malfoy in Love?  #shorts #harrypotter #dracomalfoy"}
+      - {url: "https://www.youtube.com/watch?v=gM7LJhmvz5Q", label: "Pt 5 - Asian Draconia Malfoy with Harry Potter 😤 #shorts #harrypotter #dracomalfoy"}
+      - {url: "https://www.youtube.com/watch?v=EPZ686V4ymM", label: "Malfoid punishes Harry Potter #shorts #harrypotter #dracomalfoy"}
+      - {url: "https://www.youtube.com/watch?v=RyWpcfrbyu8", label: "Tsundere  Malfoy saves Harry from being stuck in a painting #shorts #harrypotter #dracomalfoy"}
+      - {url: "https://www.youtube.com/watch?v=-A1jV8U5i0g", label: "Harry Call me maybe?  #shorts #harrypotter #dracomalfoy"}
+      - {url: "https://www.youtube.com/watch?v=-XulbDl3ECY", label: "Pt 3 Tsundere  Malfoy in Love?  #shorts #harrypotter #dracomalfoy"}
+      - {url: "https://www.youtube.com/watch?v=tQtI3JAZOS0", label: "Pt 1 Tsundere  Malfoy in Love?  #shorts #harrypotter #dracomalfoy"}
+      - {url: "https://www.youtube.com/watch?v=uQZFz0mjJC4", label: "Tsundere Malfoy Stole Harry Potter's Glasses 😤 #shorts #harrypotter #dracomalfoy"}
+      - {url: "https://www.youtube.com/watch?v=Be4r-iGiOWQ", label: "Malfoid vs Tonks' Daughter: Harry Is Caught in the Middle"}
+      - {url: "https://www.youtube.com/watch?v=N7CGllhiMlQ", label: "Can Harry, Ron and Hermione Beat Gangnam Style?"}
+      - {url: "https://www.youtube.com/watch?v=7srjCrX6XLU", label: "Female Malfoy - Is This the Slytherin Girl Harry Potter Fans Have Been Waiting For?"}
+      - {url: "https://www.youtube.com/watch?v=IP3bF-sdzH0", label: "Harry Potter Gets Trapped in a Car With Voldemort?"}
+      - {url: "https://www.youtube.com/watch?v=SbHICpfDNZ0", label: "Twilight, Game of Thrones and Harry Potter dance off"}
+      - {url: "https://www.youtube.com/watch?v=15PG0ZtPP1Y", label: "What if Dean Winchester met Harry Potter"}
+      - {url: "https://www.youtube.com/watch?v=cMf7jcgrWII", label: "The Harry Potter national team at the FIFA World Cup"}
+      - {url: "https://www.youtube.com/watch?v=8cDozZiD_Yo", label: "Harry Potter Music Videos"}
   - id: "creator-inspo-live"
     title: "Inspo"
     first_name: ""
@@ -4434,6 +4617,19 @@ works:
     creator: "Inspo"
     url: "https://www.youtube.com/@inspo_live"
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=ZZ3PnGcTqDA", label: "Draco's Sister Cast the Killing Curse to Save Him. Now Dumbledore Knows 💚 | AI Film | Episode 3"}
+      - {url: "https://www.youtube.com/watch?v=bbmK9PEWR3w", label: "Malfoid | She LEFT Draco With the Death Eaters… | Episode 2"}
+      - {url: "https://www.youtube.com/watch?v=rRBvUStiZLQ", label: "Malfoid | Draco Used the Imperius to Save His Family | Episode 1"}
+      - {url: "https://www.youtube.com/watch?v=k22jkdNAMqs", label: "Malfoid 🎀 \"Nothing to Wear.\" Then Crabbe Pulled Out His Wand"}
+      - {url: "https://www.youtube.com/watch?v=vbsqL7xrZS0", label: "Malfoid × Potter  — \"Miss Me, Pottah?\" — POV Hogwarts Express | Episode 1"}
+      - {url: "https://www.youtube.com/watch?v=0tRSzOI4rPI", label: "Malfoid 💚 She Hid Her Love for Harry | Harry Potter × Female Draco"}
+      - {url: "https://www.youtube.com/watch?v=9rrQfExrwbs", label: "Malfoid × Potter ❄️ Ghost Ball — She Took His Hand"}
+      - {url: "https://www.youtube.com/watch?v=QdoZ9gE64Ig", label: "Malfoid ❄️ Her Father Didn't Want Her Home for Christmas | Harry Potter × Female Draco"}
+      - {url: "https://www.youtube.com/watch?v=xmgQe3uy-_U", label: "Malfoid — Two at Christmas | Harry Potter × Female Draco Malfoy | Film Sneak Peek |"}
+      - {url: "https://www.youtube.com/watch?v=_LjtuklJ5AA", label: "Malfoid : Tonight, they would have to come together. Film teaser"}
+      - {url: "https://www.youtube.com/watch?v=b8kzoTESOjk", label: "Malfoid and Potter The Last Dance — Teaser"}
+      - {url: "https://www.youtube.com/watch?v=gv3oLi9VCPk", label: "Malfoid ❄️ Lost in the Snow With Potter. Perfect. | Teaser"}
   - id: "creator-j4mbo"
     title: "James Harvey (@J4MBO)"
     first_name: ""
@@ -4448,6 +4644,8 @@ works:
     creator: "Keep Doing The Bit"
     url: "https://www.youtube.com/@keepdoingthebit"
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=v9dtkcPA3Z0", label: "He has one important thing to tell Dracaena"}
   - id: "creator-lilmovieperp"
     title: "lilmovieperp"
     first_name: ""
@@ -4462,6 +4660,9 @@ works:
     creator: "LOREMATIKA"
     url: "https://www.youtube.com/@LoreMatika"
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=qKLTpAwDBa8", label: "Malfoid"}
+      - {url: "https://www.youtube.com/watch?v=6-1oTbyrwgM", label: "Draconia & Harry Potter's Weird Romantic Interactions"}
   - id: "creator-maelle-gold"
     title: "Maelle_Gold6267"
     first_name: ""
@@ -4469,6 +4670,10 @@ works:
     creator: "Maelle_Gold6267"
     url: "https://www.youtube.com/@maelle_gold"
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=6IXVnKQComo", label: "Malfoid and Harry Anime Episode 1 to 8 Full | Galakushi"}
+      - {url: "https://www.youtube.com/watch?v=d1Dgw3kR29Y", label: "Draconia and Harry Yule Ball Full | J.A Vasquez"}
+      - {url: "https://www.youtube.com/watch?v=ohzwG0WEOHY", label: "Malfoid x Harry AU Part 1 Full | J.A Vasquez"}
   - id: "creator-madmax"
     title: "MadMax"
     first_name: ""
@@ -4485,6 +4690,34 @@ works:
     url: "https://www.youtube.com/@MadMax000"
     also: ["https://x.com/madmax000"]
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=oGoHMjYTH4o", label: "Draconia Malfoy And Harry - Part Four"}
+      - {url: "https://www.youtube.com/watch?v=H6R2YbdnTxw", label: "Draconia Malfoy And Harry - Part Three"}
+      - {url: "https://www.youtube.com/watch?v=YMT6OlX8QVE", label: "Draconia Malfoy and Harry: Hate You in Daylight"}
+      - {url: "https://www.youtube.com/watch?v=cODVk49b9rI", label: "Draconia Malfoy And Harry - Part Two"}
+      - {url: "https://www.youtube.com/watch?v=74xM4ZRZ60M", label: "Draconia Malfoy And Harry - Part one"}
+      - {url: "https://www.youtube.com/watch?v=I-k8_CWvWig", label: "Draconia Malfoy (Malfoid) vs Harry: Wizard's Duel"}
+      - {url: "https://www.youtube.com/watch?v=3lh4g1Madcc", label: "Harry wants something from Malfoid"}
+      - {url: "https://www.youtube.com/watch?v=TK33bSd7JkE", label: "May we never stop Yearning for Malfoid"}
+      - {url: "https://www.youtube.com/watch?v=rd1a8NzG-Hk", label: "Harry and Draconia Malfoy - Love or Obsession?"}
+      - {url: "https://www.youtube.com/watch?v=QG0v59Hs-Lk", label: "Ron and Harry needs a date for Yule Ball"}
+      - {url: "https://www.youtube.com/watch?v=iDwDzQq7OUc", label: "Harry and Malfoid"}
+      - {url: "https://www.youtube.com/watch?v=YLXW1HQVItE", label: "Rita Skeeter Interviews Hogwarts Students About Malfoid"}
+      - {url: "https://www.youtube.com/watch?v=IWsg4O7x3W8", label: "Malfoid is in the Ministry new education poster"}
+      - {url: "https://www.youtube.com/watch?v=8ht_HJ5aTKA", label: "Typical Morning for Malfoid"}
+      - {url: "https://www.youtube.com/watch?v=7LH5Sg6aVcg", label: "Malfoid Inner Thoughts"}
+      - {url: "https://www.youtube.com/watch?v=udwucn5j0rE", label: "Harry and Malfoid Teaser"}
+      - {url: "https://www.youtube.com/watch?v=zKbDZtqsobw", label: "Malfoid have a theory about Harry Potter"}
+      - {url: "https://www.youtube.com/watch?v=Zoeq4fIhe_Y", label: "Harry Yearning for Malfoid"}
+      - {url: "https://www.youtube.com/watch?v=dOfoLLdjFRQ", label: "The Night Malfoid Saved Harry from Dementor"}
+      - {url: "https://www.youtube.com/watch?v=DlIyH_Mcos8", label: "Draconia Malfoy - The Boy I Couldn’t Hate"}
+      - {url: "https://www.youtube.com/watch?v=0g7tqmUVOpQ", label: "What if Malfoid and Harry were in Love!"}
+      - {url: "https://www.youtube.com/watch?v=iPayhZScfQI", label: "Draconia Malfoy (Malfoid) - The  Mirror of Erised"}
+      - {url: "https://www.youtube.com/watch?v=JXBPSN0zDyk", label: "Draconia Malfoy (Malfoid) Vs Hermione: Wizard's Duel"}
+      - {url: "https://www.youtube.com/watch?v=1LoYfF0eTjg", label: "Draconia Malfoy (Malfoid) tried polyjuice potion"}
+      - {url: "https://www.youtube.com/watch?v=wN19-TZscZI", label: "Malfoid Tried Love Potion on Harry"}
+      - {url: "https://www.youtube.com/watch?v=UN0YN40qKPY", label: "Malfoid beautiful dream with Harry"}
+      - {url: "https://www.youtube.com/watch?v=Fb0bp8yc7HQ", label: "Hermione is getting jealous of Malfoid"}
   - id: "creator-malfoid-series"
     title: "Malfoid"
     first_name: ""
@@ -4501,6 +4734,9 @@ works:
     url: "https://www.youtube.com/@MoochiForge"
     also: ["https://x.com/moochiforge"]
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=3vLzVNki-Y4", label: "Necromancer — Part 2 | A Malfoid Fan Film"}
+      - {url: "https://www.youtube.com/watch?v=br72rTT6x8Y", label: "Necromancer — Part 1 | A Malfoid Fan Film"}
   - id: "creator-mystavelle"
     title: "MYSTAVELLE"
     first_name: ""
@@ -4508,6 +4744,14 @@ works:
     creator: "MYSTAVELLE"
     url: "https://www.youtube.com/@MYSTAVELLE"
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=-RKBgTDqJp8", label: "Draconia Malfoy | Don't Stay Away (Harry Potter AU Music Video)"}
+      - {url: "https://www.youtube.com/watch?v=leHlcZd2oyI", label: "Draconia Malfoy | Shadows Into Gold (Music Video)"}
+      - {url: "https://www.youtube.com/watch?v=kO6XA4E0J2Y", label: "Draconia Malfoy — Stay By My Fire (A Winter Together)"}
+      - {url: "https://www.youtube.com/watch?v=83mgIpeuSFI", label: "Draconia Malfoy | Forgot To Hate You (Harry Potter AU Music Video)"}
+      - {url: "https://www.youtube.com/watch?v=inOb19ImRPA", label: "Draconia Malfoy | You're Not Allowed to Die (Harry Potter AU Music Video)"}
+      - {url: "https://www.youtube.com/watch?v=Fr3Z6dOx-Yk", label: "Draconia Malfoy | Don't Look Away (Harry Potter AU Music Video)"}
+      - {url: "https://www.youtube.com/watch?v=yE2KmhD4g84", label: "Draconia Malfoy x Harry | When Pride Crumbles (Harry Potter AU Music Video)"}
   - id: "creator-next-realm-studios"
     title: "Next Realm Studios"
     first_name: ""
@@ -4516,6 +4760,16 @@ works:
     url: "https://www.youtube.com/@Nextrealmstudio"
     also: ["https://x.com/nextrealmstudio"]
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=TmPNf2CDLFg", label: "Draconia Malfoid & Harry: The Last Lion Trailer"}
+      - {url: "https://www.youtube.com/watch?v=xSTUE0Wt1F4", label: "Draconia Malfoid - Brand New Day"}
+      - {url: "https://www.youtube.com/watch?v=lM4V-K-apvs", label: "Draconia Malfoy: A Dark Fantasy Tale | Malfoid AI Short Film"}
+      - {url: "https://www.youtube.com/watch?v=mSF8Vrd3ZDc", label: "Draconia Malfoid Reads Your Hate Comments (Behind the Scenes 4)"}
+      - {url: "https://www.youtube.com/watch?v=RgIsgbSBG2I", label: "How I Make The Draconia Malfoy Series Videos With AI – Brief Overview"}
+      - {url: "https://www.youtube.com/watch?v=oW4r7chgiiE", label: "Draconia Malfoy | Queen of Hogwarts | Wanted Version"}
+      - {url: "https://www.youtube.com/watch?v=s6wmLDIqsww", label: "Draconia Malfoy On Set | Behind the Scenes | What if Draco was a girl? (Episode 6 Friday)"}
+      - {url: "https://www.youtube.com/watch?v=ONVFkq39OA8", label: "Draconia Malfoy & Harry Episode 6 Announcement | Malfoid in Therapy | What If Draco Was a Girl?"}
+      - {url: "https://www.youtube.com/watch?v=Eh-wCc3XZOs", label: "Draconia Malfoy : I'd Rather Pretend | Episodes 1–5 Recap |  Malfoid Series"}
   - id: "creator-novaframe-z2t"
     title: "NovaFrame"
     first_name: ""
@@ -4523,6 +4777,34 @@ works:
     creator: "NovaFrame"
     url: "https://www.youtube.com/@NovaFrame-z2t"
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=ensjh3xAhQc", label: "The Slytherin Paper Crane Only Flies to the One She Loves 🕊️ | Harry × Draconia"}
+      - {url: "https://www.youtube.com/watch?v=E4y-eDl4n0k", label: "The Malfoy Girl's New Story Begins… A Complete Hogwarts Adventure"}
+      - {url: "https://www.youtube.com/watch?v=t5z_9kXSC_4", label: "Harry… I Would Give My Life for You 💔 | Harry x Draconia AI Story"}
+      - {url: "https://www.youtube.com/watch?v=kJhp4xItSz0", label: "Harry Potter's Girlfriend Is Getting Interviewed... And She's NOT Happy!"}
+      - {url: "https://www.youtube.com/watch?v=luhtNhYPEIs", label: "Draconia Malfoy's Last Goodbye to Harry Potter 💔 | Harry Potter Fanfiction"}
+      - {url: "https://www.youtube.com/watch?v=0KDxaKvHKuw", label: "Malfoy & Harry's Halloween Night 🎃 | A Cute AI Love Story"}
+      - {url: "https://www.youtube.com/watch?v=ped0_6je1G0", label: "Harry Potter's Final Battle – We Won, Harry | AI Cinematic Film"}
+      - {url: "https://www.youtube.com/watch?v=cCatT6GeEJY", label: "Harry × Female Draco: An Unexpected Winter Date! ❄️"}
+      - {url: "https://www.youtube.com/watch?v=PWR-pQMtpfg", label: "Harry Potter × Female Draco: Their First Kiss at the Winter Ball! ❤️ | Genderbend AU"}
+      - {url: "https://www.youtube.com/watch?v=tW2RGVKsLM4", label: "Harry Potter & Female Draco Malfoy Finally Go on a Date?! 💗 | Genderbent Draco AU"}
+      - {url: "https://www.youtube.com/watch?v=6jaZJ2XwrsM", label: "Female Draco Malfoy Secretly Has Feelings for Harry ❤️"}
+      - {url: "https://www.youtube.com/watch?v=Hm4juj_FSk0", label: "There Is NO Way This Is Draco Malfoy! 😳"}
+      - {url: "https://www.youtube.com/watch?v=ptMs96q2tKM", label: "What If Older Auror Harry Potter Traveled Back in Time and Got the Marauder's Map Early?"}
+      - {url: "https://www.youtube.com/watch?v=FLyqhMBKhtk", label: "What If Older Harry Potter Traveled Back in Time to Save Draco Malfoy?"}
+      - {url: "https://www.youtube.com/watch?v=_4wZHR7UQSA", label: "The Moment Harry Potter Fell for Female Draco... ❤️"}
+      - {url: "https://www.youtube.com/watch?v=c82W3EIUeRU", label: "Even If Loving You Means Death... I'll Still Choose You | Harry Potter AU"}
+      - {url: "https://www.youtube.com/watch?v=eidreWuccIY", label: "Harry Potter & Female Draco ❤️ | The Feelings They Tried to Hide (AI Fan Film)"}
+      - {url: "https://www.youtube.com/watch?v=IFWiNNND0Wg", label: "Harry Potter Finally Confesses His Love to Female Draco Malfoy!"}
+      - {url: "https://www.youtube.com/watch?v=dk7ktnCx8Gs", label: "Harry Lied to the Blood Pact to Save Her… | Female Draco AU – Finale"}
+      - {url: "https://www.youtube.com/watch?v=QbXMaiUK2vY", label: "Love at First Sight ❤️ Harry Potter & Female Draco's Romantic Story"}
+      - {url: "https://www.youtube.com/watch?v=6AcWK2KGcOY", label: "If Harry Had Stayed by Her Side… | Harry × Draco"}
+      - {url: "https://www.youtube.com/watch?v=q5mFIv3uZ0o", label: "Female Draco REFUSES to Join Gryffindor! 😭 | Harry Potter AI Fanfiction"}
+      - {url: "https://www.youtube.com/watch?v=V9_z-dezHic", label: "Female Draco Malfoy Steals Harry's Heart?! | Harry Potter AI"}
+      - {url: "https://www.youtube.com/watch?v=r_YXXssCdYc", label: "She Didn't Want Him to Leave... ❤️ | Harry Potter AI Romance"}
+      - {url: "https://www.youtube.com/watch?v=bXH4yStLhdA", label: "Female Draco Malfoy Is Going to Be a Mother?! ❤️ | Harry Potter AI Fanmade"}
+      - {url: "https://www.youtube.com/watch?v=xXSXHGAOPWc", label: "Is There No Universe Where Harry & Draco Can Be Together? 💔"}
+      - {url: "https://www.youtube.com/watch?v=emrDUxKGydU", label: "THIS IS WHY FEMALE DRACO MALFOY EXISTS!"}
   - id: "creator-orangehoodieguy"
     title: "Orange Hoodie Guy"
     first_name: ""
@@ -4531,6 +4813,10 @@ works:
     url: "https://www.youtube.com/@orangehoodieguy"
     also: ["https://x.com/orangehoodieguy"]
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=kcvmIMI-UYQ", label: "FOYEGE | malfoid x harry potter"}
+      - {url: "https://www.youtube.com/watch?v=Dva3W9DGVFY", label: "FOYEGE | malfoid x harry potter"}
+      - {url: "https://www.youtube.com/watch?v=JcVIOKliWNM", label: "FOYEGE | malfoid x harry potter"}
   - id: "creator-spellora-ai"
     title: "Spellora"
     first_name: ""
@@ -4538,6 +4824,13 @@ works:
     creator: "Spellora"
     url: "https://www.youtube.com/@Spellora_ai"
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=atAox0ZlQj8", label: "Miss Malfoy x Harry Potter - She Used To Push Him Away, Now She Chooses Him | AI Film"}
+      - {url: "https://www.youtube.com/watch?v=Y04aaEScHhM", label: "The Love Potion Mistake - Miss Malfoy x Harry Potter | Enemies to Lovers AI Story"}
+      - {url: "https://www.youtube.com/watch?v=jlVDMFhslTY", label: "The Last Dragon | Harry x Malfoy AI Short Film [Part 1]"}
+      - {url: "https://www.youtube.com/watch?v=AOOnJzAlJVo", label: "Forced To Work Together For 2 Weeks | Miss Malfoy x Potter | Slytherin Princess AI Film"}
+      - {url: "https://www.youtube.com/watch?v=k_KajryHDzs", label: "Miss Malfoy Falls For The Bullied Boy | Slytherin Princess x Potter"}
+      - {url: "https://www.youtube.com/watch?v=autBraighiw", label: "The Sacrifice.. Harry Potter and Malfoy"}
   - id: "creator-tamaraluciaclips"
     title: "tamara lucia clips"
     first_name: ""
@@ -4545,6 +4838,13 @@ works:
     creator: "tamara lucia clips"
     url: "https://www.youtube.com/@tamaraluciaclips"
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=707T6aiyTcE", label: "The Chosen One | Harry Potter Fanfic | Chapter 6: Her First Task"}
+      - {url: "https://www.youtube.com/watch?v=ruJjP7ydqaA", label: "The Chosen One | Harry Potter Fanfic | Chapter 5: Her Worst Fear"}
+      - {url: "https://www.youtube.com/watch?v=dRDGkoMcN6o", label: "The Chosen One | Harry Potter Fanfic | Chapter 4: The First Kiss"}
+      - {url: "https://www.youtube.com/watch?v=lkxURRGiGrQ", label: "The Chosen One | Harry Potter Fanfic | Chapter 3: The Ball and Her Father's Letter"}
+      - {url: "https://www.youtube.com/watch?v=F6vB6bEIaJI", label: "The Chosen One | Harry Potter Fanfic | Chapter 2: The Duel"}
+      - {url: "https://www.youtube.com/watch?v=YtLPrtEu7Eo", label: "The Chosen One | Harry Potter Fanfic | Chapter 1: Enemies"}
   - id: "creator-themalfoyversey"
     title: "The Malfoyverse"
     first_name: ""
@@ -4552,6 +4852,25 @@ works:
     creator: "The Malfoyverse"
     url: "https://www.youtube.com/@themalfoyversey"
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=3SMAX3j4D40", label: "One Blood Curse. One Frosted Scar. | The Black Lake Trap | Ep. 17 | The Malfoyverse"}
+      - {url: "https://www.youtube.com/watch?v=RIjMV2k77M0", label: "Why Draconia Malfoy Pushed Harry Away in the Frost | The Silver Thread (Ep 16)"}
+      - {url: "https://www.youtube.com/watch?v=QWl4RDmI5f4", label: "🎬 THE MALFOYVERSE — EPISODE 15: \"THE SILENCING BLOOD SEAL\""}
+      - {url: "https://www.youtube.com/watch?v=3LaswH50B6Q", label: "One Forbidden Turn on the Winter Dance Floor | Episode 14 The Yule Ball Masquerade | The Malfoyverse"}
+      - {url: "https://www.youtube.com/watch?v=kVhX9t7cZSM", label: "Episode 13: The Arena Sabotage — Two-Way Jealousy & The Shattered Pillar | The Malfoyverse"}
+      - {url: "https://www.youtube.com/watch?v=6WRfxt5YHDQ", label: "Behind the Emerald Curtain — Episode 12 | The Malfoyverse (Original Fan Fiction Series)"}
+      - {url: "https://www.youtube.com/watch?v=mQEEoj4IZvE", label: "The Malfoyverse | Episode 11: The Midnight Trial — A Secret Conduit in the Dark"}
+      - {url: "https://www.youtube.com/watch?v=-zaTmRmRO4E", label: "Episode 10: The Six-Hour Silence — A Swapped Elixir Before the Trial | The Malfoyverse"}
+      - {url: "https://www.youtube.com/watch?v=A-9Kmu2vSOk", label: "The Malfoyverse | Episode 9: The Frozen Core — A Dying Wand & The Dawn Decree"}
+      - {url: "https://www.youtube.com/watch?v=sGikghFFj_Y", label: "The Midnight Seal — Episode 8 | Shattered Betrothal on the Snow Bridge | The Malfoyverse"}
+      - {url: "https://www.youtube.com/watch?v=Yi9WRg6_l54", label: "Episode 7: The Burning Emerald — A Ring in the Snow & The Hidden Curse | The Malfoyverse"}
+      - {url: "https://www.youtube.com/watch?v=1CzpxWYJLfk", label: "The Malfoyverse | Episode 6: The Frost Beneath the Silk — Secrets in the Restricted Section"}
+      - {url: "https://www.youtube.com/watch?v=VUdTQ8AiaRU", label: "The Edge of the Forbidden Forest — Episode 5 | The Malfoyverse (Dark Fantasy Series)"}
+      - {url: "https://www.youtube.com/watch?v=zFQ78cj-16Q", label: "Episode 4: The Twilight Pursuit — Bandaged Hands & The Corridor Alcove | The Malfoyverse"}
+      - {url: "https://www.youtube.com/watch?v=YJ7k9epT_Gs", label: "When the Ice Melts — Episode 3 (20-Minute Extended Special) | The Malfoyverse"}
+      - {url: "https://www.youtube.com/watch?v=s4otj5aOl9U", label: "The Malfoyverse | Episode 2: The Paper Crane & The Secret Cure (Original Dark Fantasy Series)"}
+      - {url: "https://www.youtube.com/watch?v=lJlDRQeEyK8", label: "Episode 1: The Substitute Waltz — A Practice Dance in the Shadows | The Malfoyverse"}
+      - {url: "https://www.youtube.com/watch?v=BvjmCR3iibU", label: "She Risked Everything for Harry Potter, Only to Have Her Heart Broken"}
   - id: "creator-throng-tv"
     title: "ThRong"
     first_name: ""
@@ -4560,6 +4879,12 @@ works:
     url: "https://www.youtube.com/@throngTV"
     also: ["https://x.com/throngtv"]
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=YaxH7GYl0fE", label: "[EP.3] Harry Finally Got His Yule Ball Dance With Malfoid"}
+      - {url: "https://www.youtube.com/watch?v=gNlynrGM5VM", label: "[EP.2] This Time Harry Asked Malfoid to the Yule Ball First"}
+      - {url: "https://www.youtube.com/watch?v=UtkyJMYCn80", label: "[EP.1] Harry Finally Fell for Malfoid the Night She Went to the Yule Ball With Cedric"}
+      - {url: "https://www.youtube.com/watch?v=P87x2XUPz2o", label: "[EP.3] Ron Asked Malfoy If She Fancies Harry on the Hogwarts Express"}
+      - {url: "https://www.youtube.com/watch?v=rlI5aCFNI9Y", label: "[EP.2] Malfoid Sees Potter's “Girl”?! Two Girls Fight Over Him. Is Harry Hogwarts' Best Playboy?"}
   - id: "creator-tooneryt"
     title: "TOONER"
     first_name: ""
@@ -4567,6 +4892,30 @@ works:
     creator: "TOONER"
     url: "https://www.youtube.com/@tooneryt"
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=txDbwS3t0HA", label: "The 14 Best New Malfoid Comic Dubs (Vol. 18)"}
+      - {url: "https://www.youtube.com/watch?v=7P5rQHBAWd0", label: "1 Hour of Real-Life Malfoid 🐍 Live-Action AI Female Draco Malfoy (Ep. 4)"}
+      - {url: "https://www.youtube.com/watch?v=2ir1svdu3wo", label: "The Most Liked Real-Life Malfoid Films 🐍 1 Hour of Live-Action AI Malfoid (Ep. 3)"}
+      - {url: "https://www.youtube.com/watch?v=bf0GaPHv-UQ", label: "The Most Liked Real-Life Malfoid Films 🐍 1 Hour of Live-Action AI Malfoid (Ep. 2)"}
+      - {url: "https://www.youtube.com/watch?v=2A2tgNmjhLc", label: "The 18 Best New Malfoid Comic Dubs (Vol. 17)"}
+      - {url: "https://www.youtube.com/watch?v=OcaADYWQfq0", label: "1 Hour of Real-Life Malfoid 🐍 Live-Action AI Female Draco Malfoy (Ep. 1)"}
+      - {url: "https://www.youtube.com/watch?v=pl0F3R4D8-c", label: "The 8 Best New Malfoid Comic Dubs (Vol. 16)"}
+      - {url: "https://www.youtube.com/watch?v=Rjv4pmufkhM", label: "The 16 Best New Malfoid Comic Dubs (Vol. 15)"}
+      - {url: "https://www.youtube.com/watch?v=7nBIxgM8Qpk", label: "\"Why Are You So Beautiful?!\" 💚 29 New Malfoid Comic Dubs (Vol. 14)"}
+      - {url: "https://www.youtube.com/watch?v=EFXdWcr-qrQ", label: "The 13 Best New Malfoid Comic Dubs (Vol. 13)"}
+      - {url: "https://www.youtube.com/watch?v=o8yPQNcj6Xc", label: "The 16 Best New Malfoid Comic Dubs (Vol. 12)"}
+      - {url: "https://www.youtube.com/watch?v=rZSMlKFBk-I", label: "The 15 Best New Malfoid Comic Dubs & Anime (Vol. 11)"}
+      - {url: "https://www.youtube.com/watch?v=Qh2hiJJW1YY", label: "2 HOURS of the Best Malfoid Comic Dubs 🐍 (Vol. 1-10)"}
+      - {url: "https://www.youtube.com/watch?v=MMWQhFdDs90", label: "The 15 Best New Malfoid Comic Dubs & Animations (Vol. 10)"}
+      - {url: "https://www.youtube.com/watch?v=GD4BZg2Oppc", label: "The 26 Best Malfoid Comic Dubs (Vol. 9)"}
+      - {url: "https://www.youtube.com/watch?v=azwQMl9cxmk", label: "The 24 Most-Liked Malfoid Comic Dubs (Vol. 8)"}
+      - {url: "https://www.youtube.com/watch?v=lhQKdzv0Dxo", label: "The 15 Best Malfoid Comic Dubs (Vol. 7)"}
+      - {url: "https://www.youtube.com/watch?v=usbgJln8P8U", label: "The 16 Best Malfoid Comic Dubs (Vol. 6)"}
+      - {url: "https://www.youtube.com/watch?v=-XMx01XCUqU", label: "The 22 Best Malfoid Comic Dubs (Vol. 5)"}
+      - {url: "https://www.youtube.com/watch?v=-gg7v_dQ0-w", label: "The 22 Best Malfoid Comic Dubs (Vol. 4)"}
+      - {url: "https://www.youtube.com/watch?v=nSqgPNDoXLI", label: "The 18 Best Malfoid Comic Dubs You Missed (Vol. 3)"}
+      - {url: "https://www.youtube.com/watch?v=ZvgzcBjL5KA", label: "The 20 Best NEW Malfoid Comic Dubs (Vol. 2)"}
+      - {url: "https://www.youtube.com/watch?v=xDwiy49v6Os", label: "The 22 Best Malfoid Comic Dubs"}
   - id: "creator-wrong-cast-official"
     title: "WRONG CAST"
     first_name: ""
@@ -4574,6 +4923,15 @@ works:
     creator: "WRONG CAST"
     url: "https://www.youtube.com/@Wrong_Cast_Official"
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=71HEYbZ1rQY", label: "몸과 영혼을 갈아넣어 만든 말포이 뮤비 I Put My Heart and Soul Into This Malfoy MV 💚 \"Lucky Me\" | WRONG CAST"}
+      - {url: "https://www.youtube.com/watch?v=KXIzo2Jikmw", label: "Malfoid Is Skipping Class Again… 💚 | 말포이는 또 수업 땡땡이 중"}
+      - {url: "https://www.youtube.com/watch?v=H7hoV3fsYkc", label: "Malfoid — You Ruined Me 💚 | 네가 날 망쳤어 | Music Video · 말포이 TS 뮤직비디오"}
+      - {url: "https://www.youtube.com/watch?v=K_WmBWooaCw", label: "Malfoid Told Harry to Leave Her Alone… 💚💔 | EP05"}
+      - {url: "https://www.youtube.com/watch?v=UyCS-8paHWI", label: "Malfoid Said Harry Was Bothering Her…  💚💔 | EP04"}
+      - {url: "https://www.youtube.com/watch?v=prD-NczSXLI", label: "Malfoid Got Caught Staring at Harry… 💚🎃 | EP03"}
+      - {url: "https://www.youtube.com/watch?v=1JewzaK61i8", label: "Malfoid Gets Jealous of Hermione 💚 | Female Draco Malfoy EP02"}
+      - {url: "https://www.youtube.com/watch?v=GHX3EjflKbY", label: "What If Draco Malfoy Was a Girl? 💚 | EP01"}
   - id: "creator-xcaliber00"
     title: "XCaliber"
     first_name: ""
@@ -4581,3 +4939,6 @@ works:
     creator: "XCaliber"
     url: "https://www.youtube.com/@XCaliber00"
     added: 2026-11-16
+    videos:
+      - {url: "https://www.youtube.com/watch?v=6gefPjzSenU", label: "Not A Word | Malfoid, Draconia — Episode 2"}
+      - {url: "https://www.youtube.com/watch?v=hVVwYeHprv0", label: "Did He Just KISS Her?! | Draconia (Female Malfoy) Anime — Episode 1: \"Just Us\" — FULL EPISODE"}
