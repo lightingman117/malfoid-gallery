@@ -2914,8 +2914,9 @@ works:
     first_name: ""
     kind: other
     format: other
-    creator: "malfoid.duckdns.org"
+    creator: "@lightingman117"
     url: "https://malfoid.duckdns.org/"
+    also: ["https://x.com/lightingman117"]
     language: "English"
     added: 2026-11-16
     summary: "A read-only file archive that indexes and keeps copies of Malfoid content, in folders for archive.org copies, music, series and stories."
