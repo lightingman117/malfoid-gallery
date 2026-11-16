@@ -4209,7 +4209,7 @@ works:
     language: "English"
     added: 2026-11-16
     thumb: "https://i.ytimg.com/vi/DRfMoptujV0/hqdefault.jpg"
-    summary: "Fan-made anime series The Last Enchantment, about Draconia, with episodes 1 to 6 and an MV, plus an anime MV of Harry and Draconia. The eight YouTube videos are embedded below. The shorts tab did not load, so it is not included."
+    summary: "Fan-made anime series The Last Enchantment, about Draconia, with episodes 1 to 6 and an MV, plus an anime MV of Harry and Draconia. The 8 videos and 5 shorts the creator shared are embedded below."
     videos:
       - "https://www.youtube.com/watch?v=DRfMoptujV0"
       - "https://www.youtube.com/watch?v=fisEixZ7lLc"
@@ -4219,4 +4219,9 @@ works:
       - "https://www.youtube.com/watch?v=oFuKPjFUf-g"
       - "https://www.youtube.com/watch?v=TC_vRBNSGcA"
       - "https://www.youtube.com/watch?v=ErRdBEG7qP0"
+      - "https://www.youtube.com/shorts/B_PP3fJZRuU"
+      - "https://www.youtube.com/shorts/4Yy0EAuqK5I"
+      - "https://www.youtube.com/shorts/yz0h6ctEVcw"
+      - "https://www.youtube.com/shorts/bZDP_BKqbjA"
+      - "https://www.youtube.com/shorts/F6ccC56yEbQ"
     tags: [anime, video, youtube, x, series]
