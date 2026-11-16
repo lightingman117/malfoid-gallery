@@ -1928,9 +1928,16 @@ works:
     url: "https://www.youtube.com/@Crimsonaigc"
     language: "English"
     added: 2026-11-09
-    summary: "Makes AI-generated videos of female Draco Malfoy (named Draco) with Harry on YouTube. The channel page did not load, so no videos are embedded yet."
+    thumb: "https://i.ytimg.com/vi/W47sIo7K-S0/hqdefault.jpg"
+    summary: "Makes AI-generated videos of female Draco Malfoy (named Draco) with Harry on YouTube, in episodes and one-off scenes. Five videos are embedded below."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=W47sIo7K-S0", label: "Malfoy × Harry Potter ｜EP.01"}
+      - {url: "https://www.youtube.com/watch?v=HEUJpbaU03w", label: "Malfoy × Harry Potter ｜EP.02"}
+      - {url: "https://www.youtube.com/watch?v=0veFNMssNlQ", label: "Harry&Malfoy [BLOODLINE]"}
+      - {url: "https://www.youtube.com/watch?v=5AsFVtwEkpQ", label: "Harry&Malfoy [Erised Mirror]"}
+      - {url: "https://www.youtube.com/watch?v=nlwyQrLuO8Y", label: "Malfoy × Harry Potter ｜A Love Potion？"}
     tags: [video, ai-generated, youtube]
-    format: other
+    format: cinematic
   - id: "creator-aimalfoyfemale"
     thumb: "https://i.ytimg.com/vi/6UxG2jTIx-s/hqdefault.jpg"
     title: "AI Malfoy Female"
