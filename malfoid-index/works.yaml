@@ -4176,3 +4176,20 @@ works:
     added: 2026-11-16
     summary: "Malfoid comes out of the shadows at a library in Hogwarts to talk to Harry, and blows him a kiss while he is reading a spell book and does not notice at first."
     tags: [art, romance, library, x]
+  - id: "creator-kyl0-dragonball-z"
+    title: "KYL0ЯЁП"
+    first_name: "Draconia"
+    kind: [creator, video]
+    format: anime
+    creator: "KYL0ЯЁП (@dragonball-z)"
+    url: "https://www.youtube.com/@dragonball-z"
+    language: "English"
+    added: 2026-11-16
+    thumb: "https://i.ytimg.com/vi/y_7npuHjM74/hqdefault.jpg"
+    summary: "Malfoid and Harry videos on YouTube, including a dinner at Malfoy Manor, a Halloween Short, a Lumos edit and Draconia's Heartbreak Part 2. Four videos are embedded below."
+    videos:
+      - "https://www.youtube.com/watch?v=y_7npuHjM74"
+      - "https://www.youtube.com/watch?v=ogZxRo_shK0"
+      - "https://www.youtube.com/watch?v=vz4bAgwd-W4"
+      - "https://www.youtube.com/watch?v=_uXMVEx3e0c"
+    tags: [anime, video, youtube, malfoid]
