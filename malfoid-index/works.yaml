@@ -1568,8 +1568,16 @@ works:
     also: ["https://www.youtube.com/@zandran2"]
     language: "English"
     added: 2026-11-09
-    summary: "Posts Harry Potter fan music and video on X, including Gryffindor vs Slytherin scenes. Its YouTube videos titled Pure Blood, Bad Attitude feature Malfoid. The channel page did not load, so none are embedded yet."
-    tags: [music, video, x]
+    thumb: "https://i.ytimg.com/vi/MgiDLQR_8ks/hqdefault.jpg"
+    summary: "Posts Harry Potter fan music and video on X, and on YouTube, including the Pure Blood series of Malfoid songs. The channel has 125 videos; the five Pure Blood videos listed below are embedded."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=MgiDLQR_8ks", label: "Pure Blood, Pure Madness | Auntie's Got the Key"}
+      - {url: "https://www.youtube.com/watch?v=sMO0zF3L6LQ", label: "Pure Blood Empty Hands"}
+      - {url: "https://www.youtube.com/watch?v=tRaqpImDEJA", label: "Pure Blood, Bleeding Heart (Director's Cut)"}
+      - {url: "https://www.youtube.com/watch?v=oUM3X_wPn7s", label: "Pure Blood, Bleeding Heart 「純血と、血を流す心」"}
+      - {url: "https://www.youtube.com/watch?v=bbb55OuctqU", label: "Pure Blood, Bad Attitude"}
+    tags: [music, video, x, youtube]
+    format: other
   - id: "creator-foyege24"
     title: "Foyege"
     first_name: ""
