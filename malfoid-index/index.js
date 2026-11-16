@@ -6,7 +6,8 @@
 
   var KINDS = { creator: "Creator", comic: "Comic", game: "Game", fanfic: "Fanfic", art: "Fan art", gallery: "Gallery", video: "Video", music: "Music", article: "Article", other: "Other" };
   var LENGTHS = { "one-shot": "One-shot", short: "Short", novel: "Novel", unknown: "Length unknown" };
-  var state = { kind: "all", length: "all", q: "", name: "" };
+  var FORMATS = { anime: "Anime", cinematic: "Cinematic", audiobook: "Audiobook", other: "Other" };
+  var state = { kind: "all", length: "all", format: "all", q: "", name: "" };
   var data = { works: [], contact: "" };
   var pageTitle = document.title;
 
@@ -127,6 +128,7 @@
   function matchesFilters(w) {
     if (state.kind !== "all" && (w.kinds || []).indexOf(state.kind) === -1) return false;
     if (state.length !== "all" && (w.length || "unknown") !== state.length) return false;
+    if (state.format !== "all" && (w.format || "other") !== state.format) return false;
     if (!state.q) return true;
     return state.q.split(/\s+/).every(function (term) { return haystack(w).indexOf(term) !== -1; });
   }
@@ -150,7 +152,7 @@
       b.type = "button";
       b.setAttribute("aria-pressed", String(state.kind === pair[0]));
       b.appendChild(el("span", "n", String(count)));
-      b.addEventListener("click", function () { state.kind = pair[0]; renderChips(); renderList(); });
+      b.addEventListener("click", function () { setKind(pair[0]); });
       box.appendChild(b);
     });
   }
@@ -169,6 +171,45 @@
       b.setAttribute("aria-pressed", String(state.length === id));
       b.appendChild(el("span", "n", String(count)));
       b.addEventListener("click", function () { state.length = id; renderLengths(); renderList(); });
+      box.appendChild(b);
+    });
+  }
+
+  // The second filter row follows the kind: length for All and Fanfic, video format for Video.
+  // Changing the kind clears both, so no filter is active while its row is hidden.
+  function setKind(kind) {
+    state.kind = kind;
+    state.length = "all";
+    state.format = "all";
+    renderChips();
+    renderSubFilters();
+    renderList();
+  }
+
+  function renderSubFilters() {
+    var lengths = document.getElementById("lengths");
+    var formats = document.getElementById("formats");
+    lengths.hidden = !(state.kind === "all" || state.kind === "fanfic");
+    formats.hidden = state.kind !== "video";
+    if (!lengths.hidden) renderLengths();
+    if (!formats.hidden) renderFormats();
+  }
+
+  function renderFormats() {
+    var box = document.getElementById("formats");
+    box.textContent = "";
+    var ids = ["all", "anime", "cinematic", "audiobook", "other"];
+    var videos = data.works.filter(function (w) { return (w.kinds || []).indexOf("video") !== -1; });
+    ids.forEach(function (id) {
+      var count = id === "all" ? videos.length
+        : videos.filter(function (w) { return (w.format || "other") === id; }).length;
+      if (id !== "all" && count === 0) return;
+      var label = id === "all" ? "Any format" : FORMATS[id];
+      var b = el("button", "chip", label);
+      b.type = "button";
+      b.setAttribute("aria-pressed", String(state.format === id));
+      b.appendChild(el("span", "n", String(count)));
+      b.addEventListener("click", function () { state.format = id; renderFormats(); renderList(); });
       box.appendChild(b);
     });
   }
@@ -305,6 +346,15 @@
       article.appendChild(watch);
     }
     if (w.summary) article.appendChild(el("p", "work-summary", w.summary));
+    var moreUrl = w.more && safeUrl(w.more.url);
+    if (moreUrl) {
+      var more = el("a", "work-more", (w.more.label || "More related videos on YouTube") + " →");
+      more.href = moreUrl;
+      more.target = "_blank";
+      more.rel = "noopener";
+      more.addEventListener("click", function () { trackOut(moreUrl); });
+      article.appendChild(more);
+    }
     var row = platformRow([w.url].concat(w.also || []));
     if (row) article.appendChild(row);
     addExpander(article, w);
@@ -438,7 +488,7 @@
     setControlsHidden(false);
     document.title = pageTitle;
     renderChips();
-    renderLengths();
+    renderSubFilters();
     renderList();
   }
 
