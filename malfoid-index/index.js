@@ -117,11 +117,17 @@
     return row;
   }
 
+  // Lowercase and drop accents, so "vazquez" finds "Vázquez" and "vázquez" alike.
+  function fold(s) {
+    return String(s).normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  }
+
   function haystack(w) {
     var itemTitles = (w.items || []).map(function (i) { return i.title; });
-    return [w.title, w.creator, w.summary, w.language, (w.tags || []).join(" "), itemTitles.join(" "),
+    var joined = [w.title, w.creator, w.summary, w.language, (w.tags || []).join(" "), itemTitles.join(" "),
       (w.kinds || []).map(function (k) { return KINDS[k] || k; }).join(" ")]
-      .join(" ").toLowerCase();
+      .join(" ");
+    return fold(joined);
   }
 
   // The kind, length and search filters, which the first-name chart follows too.
@@ -583,7 +589,7 @@
     route();
     window.addEventListener("hashchange", route);
     var q = document.getElementById("q");
-    q.addEventListener("input", function () { state.q = q.value.trim().toLowerCase(); renderList(); });
+    q.addEventListener("input", function () { state.q = fold(q.value.trim()); renderList(); });
   }
 
   function fallback() {
