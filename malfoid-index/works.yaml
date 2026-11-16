@@ -4144,3 +4144,14 @@ works:
       - "https://www.youtube.com/watch?v=nf3d0XDrOqU"
       - "https://www.youtube.com/watch?v=PFj8m7H7SPo"
     tags: [anime, video, youtube, retro]
+  - id: "fanfic-wattpad-419745237"
+    title: "Harry Potter and the Crown of Serpents"
+    kind: fanfic
+    creator: "WalkonPooh"
+    url: "https://www.wattpad.com/story/419745237"
+    language: "English"
+    added: 2026-11-16
+    summary: "In their fourth year at Hogwarts, Harry is drawn to Draconia Malfoy, a proud Slytherin heiress, after an invitation to the Yule Ball. As the Triwizard Tournament unfolds, their rivalry turns into a slow-burn romance."
+    tags: [romance, enemies-to-lovers, slow-burn, alternate-universe]
+    first_name: "Draconia"
+    length: "one-shot"
