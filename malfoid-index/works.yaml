@@ -2994,10 +2994,12 @@ works:
     format: other
     creator: "Stellar Distortion"
     url: "https://www.youtube.com/watch?v=5Der8LKEafg"
-    embed: "https://www.youtube.com/watch?v=5Der8LKEafg"
+    videos:
+      - {url: "https://www.youtube.com/watch?v=5Der8LKEafg", label: "I Am Girl of Pure Blood"}
+      - {url: "https://www.youtube.com/watch?v=sIexe4d1T-Q", label: "Icy Sovereignty"}
     language: "English"
     added: 2026-11-10
-    summary: "Stellar Distortion presents a character song about Malfoid choosing her own direction under the weight of her family name. Listen through the original upload with its songwriter, production and vocal ."
+    summary: "Stellar Distortion presents character songs about Malfoid choosing her own direction under the weight of her family name. Listen through the original upload with its songwriter, production and vocal ."
     tags: [animation, video, malfoid.com]
   - id: "video-mf-stolen-kiss-616-studio"
     thumb: "https://i.ytimg.com/vi/xTEwRfFPS8Q/hqdefault.jpg"
