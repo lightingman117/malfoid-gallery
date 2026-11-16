@@ -4931,3 +4931,14 @@ works:
     videos:
       - {url: "https://www.youtube.com/watch?v=6gefPjzSenU", label: "Not A Word | Malfoid, Draconia — Episode 2"}
       - {url: "https://www.youtube.com/watch?v=hVVwYeHprv0", label: "Did He Just KISS Her?! | Draconia (Female Malfoy) Anime — Episode 1: \"Just Us\" — FULL EPISODE"}
+  - id: "fanfic-ao3-95313496"
+    title: "Dracelle Malfoy: The House of Serpents"
+    first_name: "Dracelle"
+    kind: fanfic
+    creator: "KaosJammo"
+    url: "https://archiveofourown.org/works/95313496"
+    language: "English"
+    added: 2026-11-16
+    summary: "A Harry Potter retelling through Dracelle Malfoy, a sharp-tongued Slytherin whose rivalry with Harry becomes more complicated than either expected. Explores family, pure-blood politics and a slow-burn romance. Part of the Dracelle Malfoy Chronicles."
+    tags: [retelling, slow-burn, romance, pure-blood-politics]
+    length: "novel"
