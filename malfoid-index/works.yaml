@@ -84,7 +84,8 @@ works:
       - {url: "https://rumble.com/embed/v7g6mtg/?pub=13iafn", label: "Episode 6", also: ["https://x.com/galakushi/status/2118448276269941232"]}
       - {url: "https://rumble.com/embed/v7g6mum/?pub=13iafn", label: "Episode 7"}
       - {url: "https://rumble.com/embed/v7g6mv8/?pub=13iafn", label: "Episode 8", also: ["https://x.com/galakushi/status/2120954786040430890"]}
-    summary: "Anime series on the Galakushi YouTube channel: Malfoid and Harry, episodes 1 to 6 (Diagon Alley, the Hogwarts Express, the Sorting Ceremony) plus a Year 1 opening."
+      - {url: "https://rumble.com/embed/v7g8fd4/?pub=13iafn", label: "Harry Potter and Malfoid Anime OP", also: ["https://x.com/galakushi/status/2117542305062133777"]}
+    summary: "Anime series on the Galakushi YouTube channel: Malfoid and Harry, episodes 1 to 8 (Diagon Alley, the Hogwarts Express, the Sorting Ceremony and more), plus the Harry Potter and Malfoid Anime OP. Episodes 1 to 6 and 8 and the OP also link to their X posts; episode 7 is not on X."
     tags: [anime, series, episodes]
   - id: "article-zerohedge-malfoid-leftists"
     title: "Malfoid? Why Does This Harry Potter Fan Fiction Character Drive Leftists Insane?"
