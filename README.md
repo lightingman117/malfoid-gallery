@@ -13,6 +13,30 @@ exact prompt, and the Grok Imagine post of the result.
 > endorsed or sponsored by** Warner Bros., Wizarding World Digital or J.K. Rowling. Images will be taken down
 > on request by any rights holder (contact: <rhedak00@yahoo.de>).
 
+## Gallery and Malfoid Index
+
+The repository holds two separate collections. They have their own data files, intake and rules, and the
+site builds them as separate pages.
+
+| | **Gallery** | **Malfoid Index** |
+|---|---|---|
+| What it holds | Images and clips of Draconia, made in Grok Imagine by the maintainer, with their prompts and Grok posts | Fanfics, fan art, comics, videos and other fan works about Malfoid made by **other people** |
+| Data | `gallery.yaml`, `input/`, `plan/`, `images/` | `malfoid-index/works.yaml` |
+| Published at | <https://rhedak.github.io/malfoid-gallery/> | <https://rhedak.github.io/malfoid-gallery/malfoid-index/> (source in `site/malfoid-index/`) |
+| Added by | the maintainer, through `scripts/add_entry.py` | the work's creator, by email or pull request ([malfoid-index/CONTRIBUTING.md](malfoid-index/CONTRIBUTING.md)) |
+| Rules | Draconia only, the maintainer's own AI images, SFW | About Malfoid, English or English subs, SFW, online, not already listed, and the submitter is the creator |
+| Posted to social media | Yes, one a day, see [Posting](#posting) | No |
+
+The index is a directory: each entry links out to the work on its creator's site, with embedded players where
+a video or post can be shown. Entries that are not about Malfoid, that are not English or that are not SFW
+are not added. Its first-name and length fields feed the charts and filters on the index page.
+
+Guest works are a third, small group: they sit in the gallery under `guest/` with a Guest badge, are submitted
+by pull request only and are never posted ([guest/CONTRIBUTING.md](guest/CONTRIBUTING.md)).
+
+`scripts/build_site.py` builds both pages from their YAML files. Changing `malfoid-index/works.yaml` updates
+only the index, and changing `gallery.yaml` or `input/` updates only the gallery.
+
 ## Layout
 
 ```
