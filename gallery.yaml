@@ -153,7 +153,7 @@ entries:
     input: "input/2026-11-03-winter-ball-1.yaml"
     image: "images/2026-11-03-winter-ball-1.jpg"
     planned: 2026-11-17
-    posted:
+    posted: {date: 2026-11-17, x: "https://x.com/rhedak1/status/2122465132219662667"}
   - id: "2026-11-03-library-2"
     title: "Castle library, side glance"
     created: 2026-11-03
