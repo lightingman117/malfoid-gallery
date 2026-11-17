@@ -5015,3 +5015,17 @@ works:
       - {url: "https://x.com/PapercutJackie/status/2120329161600643355", label: "A Princess Needs A Prince, Part 4"}
       - {url: "https://x.com/PapercutJackie/status/2121337781494468617", label: "Amria the Curse, Witch of the Black Flame Labyrinth"}
       - {url: "https://x.com/PapercutJackie/status/2122398031693730153", label: "Malfoid tags along with a rescue"}
+  - id: "creator-butterlebutter"
+    title: "Butter"
+    first_name: ""
+    kind: [creator, video]
+    creator: "Butter (@butterlebutter)"
+    url: "https://x.com/butterlebutter"
+    language: "English"
+    added: 2026-11-17
+    summary: "Malfoid fan animations posted on X, with titles in English: The Day We Met, You'll Regret This! and Part 3: Why Did I Care? All three posts are embedded below."
+    tags: [x, animation, malfoid]
+    videos:
+      - {url: "https://x.com/butterlebutter/status/2116600647860855192", label: "MALFOID - The Day We Met | Fan Animation"}
+      - {url: "https://x.com/butterlebutter/status/2119176952863138187", label: "Malfoid - You'll Regret This!"}
+      - {url: "https://x.com/butterlebutter/status/2122371883094118769", label: "Malfoid - Part 3: Why Did I Care?"}
