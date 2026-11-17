@@ -4990,3 +4990,17 @@ works:
       - title: "A Lady's Wrath"
         url: "https://malfoid.love/scenes/?id=200"
         also: []
+  - id: "creator-devon-eriksen"
+    title: "Devon Eriksen"
+    first_name: ""
+    kind: [creator, fanfic]
+    creator: "Devon Eriksen (@Devon_Eriksen_)"
+    url: "https://x.com/Devon_Eriksen_"
+    language: "English"
+    added: 2026-11-17
+    summary: "Harry Potter fanfic excerpts posted as X articles, with Malfoid as a female Draco: a first day at Slytherin House with Professor Potter, a Gryffindor dormitory scene and Fred's bet with Harry. Three posts are embedded below."
+    tags: [x, excerpts, harry-potter]
+    videos:
+      - {url: "https://x.com/Devon_Eriksen_/status/2109848638419619952", label: "Welcome to your first day, boys and girls (Professor Potter)"}
+      - {url: "https://x.com/Devon_Eriksen_/status/2106409808396009562", label: "After a day as terrible as the one he had just had"}
+      - {url: "https://x.com/Devon_Eriksen_/status/2106643536183480695", label: "And you never wondered why Fred made that bet"}
