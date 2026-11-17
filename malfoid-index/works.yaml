@@ -4998,3 +4998,20 @@ works:
       - {url: "https://x.com/Devon_Eriksen_/status/2109848638419619952", label: "Welcome to your first day, boys and girls (Professor Potter)"}
       - {url: "https://x.com/Devon_Eriksen_/status/2106409808396009562", label: "After a day as terrible as the one he had just had"}
       - {url: "https://x.com/Devon_Eriksen_/status/2106643536183480695", label: "And you never wondered why Fred made that bet"}
+  - id: "creator-papercutjackie"
+    title: "Little Jackie Papercut"
+    first_name: ""
+    kind: [creator, comic]
+    creator: "Little Jackie Papercut (@PapercutJackie)"
+    url: "https://x.com/PapercutJackie"
+    language: "English"
+    added: 2026-11-17
+    summary: "Malfoid-related posts on X: parts 2 to 4 of A Princess Needs A Prince, a Malfoid teaser and a Malfoid rescue scene. Also a goblin sorceress post that does not name Malfoid. All six posts are embedded below."
+    tags: [x, comic, malfoid]
+    videos:
+      - {url: "https://x.com/PapercutJackie/status/2120294449083457873", label: "Malfoid-adjacent teaser"}
+      - {url: "https://x.com/PapercutJackie/status/2120294881071349832", label: "A Princess Needs A Prince, Part 2"}
+      - {url: "https://x.com/PapercutJackie/status/2120307035942297604", label: "A Princess Needs A Prince, Part 3"}
+      - {url: "https://x.com/PapercutJackie/status/2120329161600643355", label: "A Princess Needs A Prince, Part 4"}
+      - {url: "https://x.com/PapercutJackie/status/2121337781494468617", label: "Amria the Curse, Witch of the Black Flame Labyrinth"}
+      - {url: "https://x.com/PapercutJackie/status/2122398031693730153", label: "Malfoid tags along with a rescue"}
