@@ -2027,6 +2027,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=uqIRLJZeCz0", label: "Safety, For Now | The Man in the Mirror"}
     tags: [video, fanfic, rewrite, x, youtube]
   - id: "creator-juntahmolokai"
+    thumb: "https://i.ytimg.com/vi/pVU04EuF0d8/hqdefault.jpg"
     title: "Juntah Molokai"
     first_name: ""
     kind: [creator, music, video]
