@@ -5083,3 +5083,21 @@ works:
     added: 2026-11-17
     summary: "A one-shot set in the summer of 1995, after Voldemort's return. Dracaena Malfoy visits Harry at Privet Drive, and a day in Muggle London brings back their Hogwarts past. Translated from the author's Spanish original, El recuerdo que brilla."
     tags: [one-shot, romance, translated, ao3]
+  - id: "video-keheng-ai-ts-malfoy"
+    title: "KeHeng_AI: TS Malfoy videos"
+    first_name: ""
+    kind: video
+    creator: "KeHeng_AI (케헹)"
+    url: "https://www.youtube.com/@KeHeng_AI/videos"
+    language: "Korean, with English subtitles"
+    added: 2026-11-18
+    summary: "A Korean YouTube channel of TS Malfoy fan videos: a concept dating sim, an animation opening and ending, and short clips with songs. The submitter says all of them have English subtitles."
+    tags: [youtube, animation, music, ts-malfoy]
+    videos:
+      - {url: "https://www.youtube.com/watch?v=yRvvjuljSmc", label: "What If a Dating Sim Starring TS Malfoy Came Out?"}
+      - {url: "https://www.youtube.com/watch?v=Rhm7Zro4bcE", label: "What If a TS Malfoy Anime Came Out? Opening"}
+      - {url: "https://www.youtube.com/watch?v=Rt1NZKU91VA", label: "What If a TS Malfoy Anime Ending Song Came Out? It's Always You"}
+      - {url: "https://www.youtube.com/watch?v=cKwhDCyuyck", label: "TS Malfoy Opening: Alohomora in Your Heart (Full Version, with lyrics)"}
+      - {url: "https://www.youtube.com/watch?v=C-WGaaLr_8w", label: "[TS Malfoy] Become My Comrade"}
+      - {url: "https://www.youtube.com/watch?v=b_bV9aRuxYA", label: "[TS Malfoy] I'll Make You Regret Refusing Me"}
+      - {url: "https://www.youtube.com/watch?v=Gsoqa49_gLQ", label: "TS Malfoy Anime Second Ending Song: Not What I Meant (Full Version)"}
