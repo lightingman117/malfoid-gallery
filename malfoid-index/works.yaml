@@ -5026,4 +5026,34 @@ works:
     language: "English"
     added: 2026-11-17
     summary: "A numbered series of short romance videos on YouTube, titled memory 01 to memory 29, tagged #malfoid and #enemiestolovers. The channel says every story is original and a new one is posted daily."
+    videos:
+      - {url: "https://www.youtube.com/shorts/SexDjrNqncE", label: "memory 01 – one dance"}
+      - {url: "https://www.youtube.com/shorts/QQmi-kevJ8I", label: "memory 02 — the scarf"}
+      - {url: "https://www.youtube.com/shorts/hI9e1qN4otI", label: "memory 03 — the platform"}
+      - {url: "https://www.youtube.com/shorts/hD3nvUKEyzA", label: "memory 04 — what's your type"}
+      - {url: "https://www.youtube.com/shorts/rwiY6pOCQg4", label: "memory 05 — the barista"}
+      - {url: "https://www.youtube.com/shorts/iO_Yu0Dvtgk", label: "memory 06 — the door"}
+      - {url: "https://www.youtube.com/shorts/vaswGKIAdq0", label: "memory 07 — the fitting"}
+      - {url: "https://www.youtube.com/shorts/gkjk7nwy4KQ", label: "memory 08 — the third one"}
+      - {url: "https://www.youtube.com/shorts/aEoUXRymI48", label: "memory 09 — the mask"}
+      - {url: "https://www.youtube.com/shorts/bkk3DBVe6Qk", label: "memory 10 — the stars"}
+      - {url: "https://www.youtube.com/shorts/d7parhCdRCQ", label: "memory 11 — the flowers"}
+      - {url: "https://www.youtube.com/shorts/aedeAs75HVU", label: "memory 12 — the first move"}
+      - {url: "https://www.youtube.com/shorts/V-ebiB1dyDE", label: "memory 13 — the jumper"}
+      - {url: "https://www.youtube.com/shorts/jIriJsH7TUc", label: "memory 14 — put a finger down"}
+      - {url: "https://www.youtube.com/shorts/hIM0Q1muE9Q", label: "memory 15 — the key"}
+      - {url: "https://www.youtube.com/shorts/Tftarh8oS5k", label: "memory 16 — the rink"}
+      - {url: "https://www.youtube.com/shorts/SxzAlgvj1Ks", label: "memory 17 — the friend"}
+      - {url: "https://www.youtube.com/shorts/KEWG6PZC4fo", label: "memory 18 — the wish"}
+      - {url: "https://www.youtube.com/shorts/QHnyyOomJ-I", label: "memory 19 — out of ten"}
+      - {url: "https://www.youtube.com/shorts/MV-9cFfNgJE", label: "memory 20 — the thief"}
+      - {url: "https://www.youtube.com/shorts/MPlFsnTNcEI", label: "memory 21 — the bubbles"}
+      - {url: "https://www.youtube.com/shorts/rIC2_xRlcB8", label: "memory 22 — the mirror"}
+      - {url: "https://www.youtube.com/shorts/_RYJpOe8iO0", label: "memory 23 — the air con"}
+      - {url: "https://www.youtube.com/shorts/97XP2BQbPMA", label: "memory 24 — the tie"}
+      - {url: "https://www.youtube.com/shorts/G2ZJhYhihK0", label: "memory 25 — the waltz"}
+      - {url: "https://www.youtube.com/shorts/h0-Qs5cVjeo", label: "memory 26 — first snow"}
+      - {url: "https://www.youtube.com/shorts/TxzN7PGaPRk", label: "memory 27 — man flu"}
+      - {url: "https://www.youtube.com/shorts/LkQkaKcaAWA", label: "memory 28 — the waiter"}
+      - {url: "https://www.youtube.com/shorts/aa6Fo_Sve_o", label: "memory 29 — the worm"}
     tags: [youtube, shorts, romance]
