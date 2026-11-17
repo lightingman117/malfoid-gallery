@@ -110,7 +110,7 @@
       } else {
         a.className = "platform platform-text";
         a.title = href;
-        a.textContent = "link";
+        a.textContent = /(^|\.)drive\.google\.com$/.test(new URL(href).hostname.toLowerCase()) ? "Download" : "link";
       }
       row.appendChild(a);
     });
@@ -254,6 +254,7 @@
     if (host === "x.com" || host === "twitter.com") return "X";
     if (host === "youtube.com" || host === "youtu.be") return "YouTube";
     if (host === "rumble.com") return "Rumble";
+    if (host === "drive.google.com") return "Download (Google Drive)";
     return host;
   }
 
