@@ -3943,6 +3943,7 @@ works:
     first_name: "Carina"
     length: "novel"
   - id: "creator-catg5835"
+    thumb: "https://i.ytimg.com/vi/siEEQoCJ5HA/hqdefault.jpg"
     title: "CatG5835"
     first_name: ""
     kind: [creator, video]
@@ -3951,12 +3952,17 @@ works:
     url: "https://www.youtube.com/@%EC%BA%A3%EC%A5%90-n4l"
     language: "English"
     added: 2026-11-11
-    summary: "Makes Malfoid animations on YouTube, including the Malfoid Anime Main Story series, Entering Hogwarts and the Female Malfoy anime episode."
+    summary: "Makes Malfoid animations on YouTube, including the Malfoid Anime Main Story series, Entering Hogwarts and the Female Malfoy anime episode. Five YouTube Shorts are embedded below."
     also: ["https://x.com/CatG5835"]
     videos:
       - {url: "https://www.youtube.com/watch?v=ipMX5p79Gnk", label: "Malfoid Side Story: Future Arc(The Bathroom Duel) teaser."}
       - {url: "https://www.youtube.com/watch?v=D5s8yK-6VAA", label: "Entering Hogwarts! [TS Malfoid Animation - E.P 2]"}
       - {url: "https://www.youtube.com/watch?v=-j4ez-XG1Fc", label: "[Malfoid] Detective Hermione"}
+      - {url: "https://www.youtube.com/shorts/siEEQoCJ5HA", label: "Short: 친구 해줄까? [TS 말포이 Malfoid]"}
+      - {url: "https://www.youtube.com/shorts/fskkrA35Y_Q", label: "Short: [TS말포이]해리포터 팬애니 오프닝"}
+      - {url: "https://www.youtube.com/shorts/A5ef6xqOZx4", label: "Short: [TS말포이] 홍보하는 말포이 #malfoid #말포이 #aianimation"}
+      - {url: "https://www.youtube.com/shorts/I1MYs8kMuNU", label: "Short: [TS말포이] 미래 말포이의 홍보"}
+      - {url: "https://www.youtube.com/shorts/5jKhIj8GDcA", label: "Short: [러브코미디] 부끄러운 말포이 #malfoid #animation"}
       - {url: "https://www.youtube.com/watch?v=1h6GOMlm0jc", label: "[Malfoid Animation] Happy Halloween~! 🎃"}
       - {url: "https://www.youtube.com/watch?v=_DbIGG5GYNA", label: "[Malfoid] Harry Potter Fan Animation - Tart Episode"}
       - {url: "https://www.youtube.com/watch?v=AirdECh3E7A", label: "Harry Potter Fan Animation OP [Malfoid]"}
