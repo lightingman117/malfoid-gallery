@@ -3757,6 +3757,7 @@ works:
     summary: "Video by Slytoonz, listed on malfoid.com comics page."
     tags: [video, youtube]
   - id: "creator-immortalselchie"
+    thumb: "banners/immortalselchie-colin-pictures.webp"
     title: "Lady Selch"
     first_name: ""
     kind: [creator, art, video]
@@ -3765,68 +3766,38 @@ works:
     url: "https://x.com/ImmortalSelchie"
     language: "English"
     added: 2026-11-10
-    summary: "Makes Malfoid human art and AI videos on X, including a Pretty Girls Disappear Malfoid music video on YouTube. Works are listed below as items."
+    summary: "Makes Malfoid human art and AI videos on X, including a Pretty Girls Disappear Malfoid music video on YouTube. The X posts are embedded below."
     tags: [art, ai-video, music-video, x]
-    items:
-      - title: "Colin sells pictures of Harry and Draco"
-        url: "https://x.com/ImmortalSelchie/status/2116494698328252428"
-      - title: "Pretty Girls Disappear (Malfoid, made with AI), music video"
-        url: "https://x.com/ImmortalSelchie/status/2115515793308102933"
-        also: ["https://www.youtube.com/watch?v=mx6LHV_GX88"]
-      - title: "Yzma-inspired couple pictures, part 1"
-        url: "https://x.com/ImmortalSelchie/status/2110873094378394057"
-      - title: "Yzma-inspired couple pictures, part 2"
-        url: "https://x.com/ImmortalSelchie/status/2110873210690719792"
-      - title: "Apple art (Malfoid and Harry)"
-        url: "https://x.com/ImmortalSelchie/status/2112595504051921294"
-      - title: "Apple art, funny face"
-        url: "https://x.com/ImmortalSelchie/status/2111078340342001734"
-      - title: "Last part of the apple"
-        url: "https://x.com/ImmortalSelchie/status/2112763432919531883"
-      - title: "Cute dance alone"
-        url: "https://x.com/ImmortalSelchie/status/2115856343982866643"
-      - title: "I YEAAARN!"
-        url: "https://x.com/ImmortalSelchie/status/2115855592652972502"
-      - title: "Yearning again (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2115851620999467184"
-      - title: "Brain worms (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2116602789128491210"
-      - title: "More brain worms (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2116615444220314039"
-      - title: "Reading them to filth (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2116616087395807557"
-      - title: "Cavities (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2116616851925201053"
-      - title: "Malfoid sweets adventure (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2116617566622019777"
-      - title: "Malfoid and Harry in Candy Land (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2116785675211313330"
-      - title: "Hermione wants everyone to read (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2116784709544157506"
-      - title: "Dumbledore vs Dobby (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2116787232740921448"
-      - title: "Gym (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2116879442555605396"
-      - title: "Wardrobe change (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2117728086540382233"
-      - title: "Trope post (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2117743429111398456"
-      - title: "Another life (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2118681062096486639"
-      - title: "Brain worms strike again (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2119558867655045539"
-      - title: "NoHorny video (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2116474057994776906"
-      - title: "Darker side, Falling into Obsession (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2120269034235346946"
-      - title: "Old meme, insults are too good to be mad at (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2119984275647082689"
-      - title: "Janky but fun to imagine (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2119984703386288159"
-      - title: "Less funny after hearing it 50 times (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2119998357309735361"
-      - title: "Yearning, so sweet (AI video)"
-        url: "https://x.com/ImmortalSelchie/status/2120056363447652603"
+    videos:
+      - {url: "https://x.com/ImmortalSelchie/status/2116494698328252428", label: "Colin sells pictures of Harry and Draco"}
+      - {url: "https://x.com/ImmortalSelchie/status/2115515793308102933", label: "Pretty Girls Disappear (Malfoid, made with AI), music video", also: ["https://www.youtube.com/watch?v=mx6LHV_GX88"]}
+      - {url: "https://x.com/ImmortalSelchie/status/2110873094378394057", label: "Yzma-inspired couple pictures, part 1"}
+      - {url: "https://x.com/ImmortalSelchie/status/2110873210690719792", label: "Yzma-inspired couple pictures, part 2"}
+      - {url: "https://x.com/ImmortalSelchie/status/2112595504051921294", label: "Apple art (Malfoid and Harry)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2111078340342001734", label: "Apple art, funny face"}
+      - {url: "https://x.com/ImmortalSelchie/status/2112763432919531883", label: "Last part of the apple"}
+      - {url: "https://x.com/ImmortalSelchie/status/2115856343982866643", label: "Cute dance alone"}
+      - {url: "https://x.com/ImmortalSelchie/status/2115855592652972502", label: "I YEAAARN!"}
+      - {url: "https://x.com/ImmortalSelchie/status/2115851620999467184", label: "Yearning again (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2116602789128491210", label: "Brain worms (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2116615444220314039", label: "More brain worms (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2116616087395807557", label: "Reading them to filth (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2116616851925201053", label: "Cavities (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2116617566622019777", label: "Malfoid sweets adventure (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2116785675211313330", label: "Malfoid and Harry in Candy Land (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2116784709544157506", label: "Hermione wants everyone to read (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2116787232740921448", label: "Dumbledore vs Dobby (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2116879442555605396", label: "Gym (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2117728086540382233", label: "Wardrobe change (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2117743429111398456", label: "Trope post (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2118681062096486639", label: "Another life (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2119558867655045539", label: "Brain worms strike again (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2116474057994776906", label: "NoHorny video (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2120269034235346946", label: "Darker side, Falling into Obsession (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2119984275647082689", label: "Old meme, insults are too good to be mad at (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2119984703386288159", label: "Janky but fun to imagine (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2119998357309735361", label: "Less funny after hearing it 50 times (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2120056363447652603", label: "Yearning, so sweet (AI video)"}
   - id: "creator-0xwreck"
     title: "Train (0xWreck)"
     first_name: ""
