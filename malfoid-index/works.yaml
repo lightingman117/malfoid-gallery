@@ -5004,3 +5004,15 @@ works:
       - {url: "https://x.com/butterlebutter/status/2116600647860855192", label: "MALFOID - The Day We Met | Fan Animation"}
       - {url: "https://x.com/butterlebutter/status/2119176952863138187", label: "Malfoid - You'll Regret This!"}
       - {url: "https://x.com/butterlebutter/status/2122371883094118769", label: "Malfoid - Part 3: Why Did I Care?"}
+  - id: "fanfic-wattpad-419588659"
+    title: "Dracy Malfoy and the Boy Who Lived"
+    first_name: "Dracaena"
+    length: "novel"
+    kind: fanfic
+    creator: "MrAutizmo"
+    url: "https://www.wattpad.com/story/419588659-dracy-malfoy-and-the-boy-who-lived"
+    also: ["https://x.com/MisterAuto6"]
+    language: "English"
+    added: 2026-11-17
+    summary: "Book 1 of a planned beat-by-beat retelling of the Harry Potter books from the Slytherin side. It follows Dracaena's early life and her first meeting with Harry, with the female Slytherin dorm and the other students in view. Book 2 is in progress, and major canon changes are planned from Book 4."
+    tags: [wattpad, retelling, series, slytherin]
