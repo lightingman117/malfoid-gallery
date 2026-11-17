@@ -1797,6 +1797,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=zV96MQubjlE", label: "I DON'T HATE YOU, POTTER 💚 | Female Draco Malfoy × Harry Potter | Dark Romance Song"}
     tags: [music, video, youtube]
   - id: "creator-alxaiproductions"
+    thumb: "https://i.ytimg.com/vi/wn6wEEpCUMo/hqdefault.jpg"
     title: "ALX AI Productions"
     first_name: "Dracaena"
     kind: [creator, video]
