@@ -1694,30 +1694,34 @@ works:
     added: 2026-11-09
     summary: "Writes Harry Potter and the Sorcerer's Tsundere on Wattpad, and is also an audiobook author and narrator."
     tags: [fanfic, audiobook, x]
-  - id: "audiobook-measure-of-a-malfoy"
-    title: "The Measure of a Malfoy (audiobook)"
-    first_name: ""
-    kind: video
-    format: audiobook
-    creator: "Stories for the Road"
-    url: "https://www.youtube.com/@Stories_forthe_Road/videos"
-    language: "English"
-    added: 2026-11-09
-    summary: "Narrated audiobook of The Measure of a Malfoy, including Book 2 in parts and the Lost Chapters, on the Stories for the Road channel."
-    also: ["https://x.com/StoriesforRoad"]
-    tags: [audiobook, series, youtube]
   - id: "creator-stories-for-the-road"
     title: "Stories for the Road"
     first_name: ""
     kind: [creator, video]
     format: audiobook
-    creator: "@StoriesforRoad"
-    url: "https://x.com/StoriesforRoad"
+    creator: "Stories for the Road (@StoriesforRoad)"
+    url: "https://www.youtube.com/@Stories_forthe_Road/videos"
     language: "English"
     added: 2026-11-09
-    summary: "Narrates fantasy, science fiction and fanfiction as audiobooks, including The Measure of a Malfoy."
-    also: ["https://www.youtube.com/@Stories_forthe_Road/videos"]
-    tags: [audiobook, youtube, x]
+    summary: "Narrated audiobooks on the Stories for the Road channel: The Measure of a Malfoy in Books 1 to 3, the Lost Chapters and the Year Three, Four and Five episodes. All 15 channel videos are embedded below."
+    also: ["https://x.com/StoriesforRoad"]
+    tags: [audiobook, series, youtube, x]
+    videos:
+      - {url: "https://www.youtube.com/watch?v=PBug5a7Xx4E", label: "The Measure of a Malfoy — Year Five: The Hand She Offered | Full Harry Potter AU Audiobook"}
+      - {url: "https://www.youtube.com/watch?v=n2z_So3DYTs", label: "The Measure of a Malfoy - Lost Chapters - Book 1 - To Stand Between"}
+      - {url: "https://www.youtube.com/watch?v=ChvNMfUojwg", label: "THE MEASURE OF A MALFOY — YEAR THREE: THE GIRL WHO LOOKED AWAY - PART 4 OF 4"}
+      - {url: "https://www.youtube.com/watch?v=N3eTVGOGnzs", label: "THE MEASURE OF A MALFOY — YEAR THREE: THE GIRL WHO LOOKED AWAY - PART 3 OF 4"}
+      - {url: "https://www.youtube.com/watch?v=g08SLwXe4X4", label: "THE MEASURE OF A MALFOY — YEAR THREE: THE GIRL WHO LOOKED AWAY - PART 2 OF 4"}
+      - {url: "https://www.youtube.com/watch?v=IpaWHKH0O6Y", label: "THE MEASURE OF A MALFOY — YEAR THREE: THE GIRL WHO LOOKED AWAY - PART 1 OF 4"}
+      - {url: "https://www.youtube.com/watch?v=ULgEgBRPeHY", label: "The Measure of a Malfoy ~ Year Four ~ The Name Between Them"}
+      - {url: "https://www.youtube.com/watch?v=9UmI8HeoBNo", label: "The Measure of a Malfoy - Lost Chapters - Book 1 - The Otherside of Midnight"}
+      - {url: "https://www.youtube.com/watch?v=BdSNto7uZyE", label: "The Measure of a Malfoy Book 2 The Weight of a Word Part 3"}
+      - {url: "https://www.youtube.com/watch?v=m2ccLNmTqIE", label: "The Measure of a Malfoy Book 2 The Weight of a Word Part 2"}
+      - {url: "https://www.youtube.com/watch?v=h8kpgCeh6WE", label: "The Measure of a Malfoy Book 2 The Weight of a Word Part 1"}
+      - {url: "https://www.youtube.com/watch?v=qaLTqUNh0yc", label: "The Measure of a Malfoy - Book 3 - The Girl Who Looked Away"}
+      - {url: "https://www.youtube.com/watch?v=RilUwDDoK7c", label: "Measure of a Malfoy Lost Chapters Book1 Matter of Honor"}
+      - {url: "https://www.youtube.com/watch?v=CHYGlKlB2yY", label: "The Measure of a Malfoy - Book 2 - The Weight of a Word"}
+      - {url: "https://www.youtube.com/watch?v=im_Op6ykYXQ", label: "The Measure of a Malfoy - Book 1"}
   # NOTE: only The Weasley Spellweaver is confirmed SFW (by the submitter). Behind The Broken Glass (severed head),
   # The Serpent's Leash and A Catch Worth Falling For (kissing, mild accidental groping) are not confirmed.
   # The author's bio says the fics "might have spiciness". Story links and languages still need checking.
