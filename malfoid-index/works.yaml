@@ -4456,13 +4456,6 @@ works:
       - {url: "https://www.youtube.com/watch?v=lIa4skt-368", label: "Harry Potter POV: A Winter Date with Female Draco Malfoy"}
       - {url: "https://www.youtube.com/watch?v=MVrk3ar2Wik", label: "Female Draco Malfoy Attacked Harry… Against Her Will"}
       - {url: "https://www.youtube.com/watch?v=80LUBaYsMco", label: "Female Draco Malfoy Can't Let Go"}
-  - id: "creator-gakdrama"
-    title: "각드 (gakdrama)"
-    first_name: ""
-    kind: creator
-    creator: "각드 (gakdrama)"
-    url: "https://www.youtube.com/@gakdrama"
-    added: 2026-11-16
   - id: "creator-gasia112"
     title: "GaSIA"
     first_name: ""
