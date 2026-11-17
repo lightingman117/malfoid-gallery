@@ -2394,8 +2394,9 @@ works:
     creator: "J.A. Vázquez (@j.a.vazquez5946)"
     url: "https://www.youtube.com/watch?v=euyK-S8dOto"
     language: "English"
-    also: ["https://www.youtube.com/@j.a.vazquez5946", "https://drive.google.com/file/d/1Jji2rE3dvaME3z5tzg8tp3vVVz9EgLfu/view"]
+    also: ["https://www.youtube.com/@j.a.vazquez5946"]
     embed: "https://rumble.com/embed/v7g6oea/?pub=13iafn"
+    embed_also: ["https://drive.google.com/file/d/1Jji2rE3dvaME3z5tzg8tp3vVVz9EgLfu/view"]
     videos:
       - {url: "https://m.youtube.com/watch?v=xQCtLKeKFsg", label: "Harry Potter AU Ai-fanmade Yule Ball Snake Peek"}
       - {url: "https://rumble.com/embed/v7g92os/?pub=13iafn", label: "Draconia and Harry Yule Ball Full", also: ["https://drive.google.com/file/d/1EfbXPwZLIup-UlV6kZpVy0zKQ1tPIWt2/view"]}

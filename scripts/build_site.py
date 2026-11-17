@@ -526,6 +526,7 @@ def build_works():
             "tags": [text(t) for t in (tags if isinstance(tags, list) else [tags]) if text(t)],
             "thumb": thumb_of(w),
             "embed": embed_of(w),
+            "embed_also": [text(u) for u in (w.get("embed_also") or []) if text(u).startswith(("http://", "https://"))],
             "videos": videos_of(w),
             "also": [text(u) for u in (w.get("also") or []) if text(u).startswith(("http://", "https://"))],
             "watch": watch_of(w),

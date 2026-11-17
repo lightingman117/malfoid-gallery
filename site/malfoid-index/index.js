@@ -290,7 +290,7 @@
     });
     // Players: the work's own video first, then each listed video in order (each loads when the panel opens).
     var players = [];
-    if (w.embed) players.push({ src: w.embed, label: "" });
+    if (w.embed) players.push({ src: w.embed, label: "", also: w.embed_also || [] });
     (w.videos || []).forEach(function (v) { players.push({ src: v.embed, label: v.label || "", also: v.also || [] }); });
     if (!urls.length && !players.length) return;
 
@@ -473,7 +473,7 @@
     list.appendChild(head);
 
     var players = [];
-    if (w.embed) players.push({ src: w.embed, label: "" });
+    if (w.embed) players.push({ src: w.embed, label: "", also: w.embed_also || [] });
     (w.videos || []).forEach(function (v) { players.push({ src: v.embed, label: v.label || "", also: v.also || [] }); });
     players.forEach(function (pl) {
       var block = el("article", "work work-video-page");
