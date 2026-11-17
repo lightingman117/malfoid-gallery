@@ -110,7 +110,7 @@
       } else {
         a.className = "platform platform-text";
         a.title = href;
-        a.textContent = "link";
+        a.textContent = /(^|\.)drive\.google\.com$/.test(new URL(href).hostname.toLowerCase()) ? "Download" : "link";
       }
       row.appendChild(a);
     });
@@ -254,6 +254,7 @@
     if (host === "x.com" || host === "twitter.com") return "X";
     if (host === "youtube.com" || host === "youtu.be") return "YouTube";
     if (host === "rumble.com") return "Rumble";
+    if (host === "drive.google.com") return "Download (Google Drive)";
     return host;
   }
 
@@ -289,7 +290,7 @@
     });
     // Players: the work's own video first, then each listed video in order (each loads when the panel opens).
     var players = [];
-    if (w.embed) players.push({ src: w.embed, label: "" });
+    if (w.embed) players.push({ src: w.embed, label: w.embed_label || "", also: w.embed_also || [] });
     (w.videos || []).forEach(function (v) { players.push({ src: v.embed, label: v.label || "", also: v.also || [] }); });
     if (!urls.length && !players.length) return;
 
@@ -472,7 +473,7 @@
     list.appendChild(head);
 
     var players = [];
-    if (w.embed) players.push({ src: w.embed, label: "" });
+    if (w.embed) players.push({ src: w.embed, label: w.embed_label || "", also: w.embed_also || [] });
     (w.videos || []).forEach(function (v) { players.push({ src: v.embed, label: v.label || "", also: v.also || [] }); });
     players.forEach(function (pl) {
       var block = el("article", "work work-video-page");
