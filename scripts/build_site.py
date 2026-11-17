@@ -445,6 +445,12 @@ def build_works():
             return ""
         if host == "youtu.be" and ok_id.match(p.path.strip("/")):
             return "https://www.youtube-nocookie.com/embed/" + p.path.strip("/")
+        # A Google Drive video file (shared by link): its preview player. Folders cannot be embedded.
+        if host == "drive.google.com":
+            m = re.match(r"^/file/d/([A-Za-z0-9_-]{10,})(?:/[a-z]*)?$", p.path)
+            if m:
+                return "https://drive.google.com/file/d/" + m.group(1) + "/preview"
+            return ""
         if host == "rumble.com" and p.path.startswith("/embed/"):
             return "https://rumble.com" + p.path + ("?" + p.query if p.query else "")
         m = re.match(r"^/(v[a-z0-9]+)-[^/]*\.html$", p.path)
