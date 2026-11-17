@@ -1977,37 +1977,24 @@ works:
     added: 2026-11-09
     summary: "Makes Malfoid videos on YouTube, including the Malfoid by Fantasoner playlist."
     tags: [video, playlist, youtube]
-  - id: "video-draconia-malfoid-the-movie-luna-lovelace"
-    thumb: "banners/luna-lovelace-movie.jpg"
-    title: "Draconia Malfoid x Harry Potter | The Movie"
-    first_name: "Draconia"
-    kind: video
-    format: cinematic
-    creator: "Luna Lovelace"
-    url: "https://drive.google.com/file/d/1aFaYOITgG_t9-Oj2Ke2p5BW2oENvrEF9/view"
-    embed: "https://drive.google.com/file/d/1aFaYOITgG_t9-Oj2Ke2p5BW2oENvrEF9/view"
-    embed_also: ["https://drive.google.com/file/d/1aFaYOITgG_t9-Oj2Ke2p5BW2oENvrEF9/view"]
-    language: "English"
-    added: 2026-11-09
-    summary: "A Malfoid movie by Luna Lovelace with FoYeGe and Papallax. The channel moved its videos from YouTube to Google Drive; Movie 1, Movie II and the cast interview are embedded below."
-    videos:
-      - {url: "https://drive.google.com/file/d/1sYnlEGy8WupfNmV09qVWRmtt87cl4O4b/view", label: "The Movie - II (FoYeGe Part 4 & Papallax Spring With Her)", also: ["https://drive.google.com/file/d/1sYnlEGy8WupfNmV09qVWRmtt87cl4O4b/view"]}
-      - {url: "https://drive.google.com/file/d/1wHlAkGRzj9-8f_vbgn5kirCX2rzDVk68/view", label: "Draconia & Harry Were Asked If They're Dating - Cast Interviews (FoYeGe Universe)", also: ["https://drive.google.com/file/d/1wHlAkGRzj9-8f_vbgn5kirCX2rzDVk68/view", "https://www.youtube.com/watch?v=NXsK14WyoRo"]}
-    tags: [video, movie, collaboration]
   - id: "creator-lunalovelacetech"
+    thumb: "banners/luna-lovelace-movie.jpg"
     title: "Luna Lovelace"
     first_name: "Draconia"
     kind: [creator, video]
-    format: other
+    format: cinematic
     creator: "@LunaLovelaceTech"
     url: "https://www.youtube.com/@LunaLovelaceTech"
     language: "English"
     added: 2026-11-09
-    summary: "A tech YouTuber who also makes Malfoid videos, including the Draconia Malfoid x Harry Potter movie."
+    summary: "A tech YouTuber who also makes Malfoid videos, including the Draconia Malfoid x Harry Potter movie. The channel moved its videos from YouTube to Google Drive; Movie 1, Movie II and the cast interview are embedded below."
+    embed: "https://drive.google.com/file/d/1aFaYOITgG_t9-Oj2Ke2p5BW2oENvrEF9/view"
+    embed_label: "Draconia Malfoid x Harry Potter | The Movie"
+    embed_also: ["https://drive.google.com/file/d/1aFaYOITgG_t9-Oj2Ke2p5BW2oENvrEF9/view"]
     videos:
-      - {url: "https://www.youtube.com/watch?v=av9ekbYjLBQ", label: "Draconia Malfoid | The Movie - II (FoYeGe & Papallax)"}
-      - {url: "https://www.youtube.com/watch?v=NXsK14WyoRo", label: "Draconia & Harry Were Asked If They're Dating - Cast Interviews (FoYeGe Universe)"}
-    tags: [video, youtube]
+      - {url: "https://drive.google.com/file/d/1sYnlEGy8WupfNmV09qVWRmtt87cl4O4b/view", label: "The Movie - II (FoYeGe Part 4 & Papallax Spring With Her)", also: ["https://drive.google.com/file/d/1sYnlEGy8WupfNmV09qVWRmtt87cl4O4b/view"]}
+      - {url: "https://drive.google.com/file/d/1wHlAkGRzj9-8f_vbgn5kirCX2rzDVk68/view", label: "Draconia & Harry Were Asked If They're Dating - Cast Interviews (FoYeGe Universe)", also: ["https://drive.google.com/file/d/1wHlAkGRzj9-8f_vbgn5kirCX2rzDVk68/view", "https://www.youtube.com/watch?v=NXsK14WyoRo"]}
+    tags: [video, movie, collaboration, youtube]
   - id: "creator-papallax"
     title: "Papallax"
     first_name: "Draconia"
