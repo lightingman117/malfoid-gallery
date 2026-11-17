@@ -70,10 +70,12 @@ works:
     thumb: "https://yt3.googleusercontent.com/UGERqDUmSpox3atYXN-PNQzDyrUi70Pw6FUHvDa10IpWs_dcy-3SM52RxjGlbYHsdB0725NvFw=s900-c-k-c0x00ffffff-no-rj"
     title: "Malfoid and Harry (anime series)"
     first_name: ""
-    kind: video
+    kind: [creator, video]
     format: anime
-    creator: "Galakushi"
+    creator: "Galakushi (@Galakushi)"
     url: "https://www.youtube.com/@galakushi"
+    language: "English"
+    also: ["https://linktr.ee/galakushi", "https://x.com/Galakushi"]
     added: 2026-11-08
     videos:
       - {url: "https://rumble.com/embed/v7g6kfy/?pub=13iafn", label: "Episode 1", also: ["https://drive.google.com/file/d/1aO6JK5LqTiwGm-peuZZZJCe7Fnhcw7AH/view", "https://x.com/galakushi/status/2111961556426862729"]}
@@ -85,8 +87,8 @@ works:
       - {url: "https://rumble.com/embed/v7g6mum/?pub=13iafn", label: "Episode 7", also: ["https://drive.google.com/file/d/1f-mZLPhHm3Zr_1IU0wAnYgC_ZWc0gAZY/view"]}
       - {url: "https://rumble.com/embed/v7g6mv8/?pub=13iafn", label: "Episode 8", also: ["https://drive.google.com/file/d/188eRNmrQSZLJ5mEi4qCFy-ZKGd8mA2l3/view", "https://x.com/galakushi/status/2120954786040430890"]}
       - {url: "https://rumble.com/embed/v7g8fd4/?pub=13iafn", label: "Harry Potter and Malfoid Anime OP", also: ["https://drive.google.com/file/d/1V5tvPWkeYEaAp7-u45ndkW3inc8bq7UC/view", "https://x.com/galakushi/status/2117542305062133777"]}
-    summary: "Anime series on the Galakushi YouTube channel: Malfoid and Harry, episodes 1 to 8 (Diagon Alley, the Hogwarts Express, the Sorting Ceremony and more), plus the Harry Potter and Malfoid Anime OP. Episodes 1 to 6 and 8 and the OP also link to their X posts; episode 7 is not on X."
-    tags: [anime, series, episodes]
+    summary: "Galakushi makes Malfoid anime on YouTube: the Malfoid and Harry series, episodes 1 to 8 (Diagon Alley, the Hogwarts Express, the Sorting Ceremony and more), plus the Harry Potter and Malfoid Anime OP, and the Malfoid and Harry's wish series. Episodes 1 to 6 and 8 and the OP also link to their X posts; episode 7 is not on X. Also on X and Linktree."
+    tags: [anime, series, episodes, video, youtube, x]
   - id: "article-zerohedge-malfoid-leftists"
     title: "Malfoid? Why Does This Harry Potter Fan Fiction Character Drive Leftists Insane?"
     first_name: ""
@@ -137,19 +139,6 @@ works:
     added: 2026-11-15
     summary: "A news piece on the Malfoid trend, which turns Draco Malfoy into a bratty anime girl, and on the controversy over the name."
     tags: [article, news]
-  - id: "creator-galakushi"
-    title: "Galakushi"
-    first_name: ""
-    kind: [creator, video]
-    format: anime
-    creator: "@Galakushi"
-    url: "https://linktr.ee/galakushi"
-    also: ["https://www.youtube.com/@galakushi", "https://x.com/Galakushi"]
-    watch: {label: "Watch Malfoid and Harry (anime series) now", id: "anime-galakushi-malfoid-and-harry"}
-    language: "English"
-    added: 2026-11-15
-    summary: "Makes Malfoid anime on YouTube, including the Malfoid and Harry series (episodes 1 to 8 and the Anime OP) and the Malfoid and Harry's wish series. Also on X and Linktree."
-    tags: [anime, video, series, youtube, x]
   - id: "fanfic-dancing-with-malfoy"
     thumb: "https://www.royalroadcdn.com/public/covers-large/196770-dancing-with-malfoy.jpg"
     title: "Dancing with Malfoy"
