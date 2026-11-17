@@ -76,15 +76,15 @@ works:
     url: "https://www.youtube.com/@galakushi"
     added: 2026-11-08
     videos:
-      - {url: "https://rumble.com/embed/v7g6kfy/?pub=13iafn", label: "Episode 1", also: ["https://x.com/galakushi/status/2111961556426862729"]}
-      - {url: "https://rumble.com/embed/v7g6m6y/?pub=13iafn", label: "Episode 2", also: ["https://x.com/galakushi/status/2112666057509142928"]}
-      - {url: "https://rumble.com/embed/v7g6m7o/?pub=13iafn", label: "Episode 3", also: ["https://x.com/galakushi/status/2113380966081376378"]}
-      - {url: "https://rumble.com/embed/v7g6m96/?pub=13iafn", label: "Episode 4", also: ["https://x.com/galakushi/status/2114446902519578899"]}
-      - {url: "https://rumble.com/embed/v7g6ms0/?pub=13iafn", label: "Episode 5", also: ["https://x.com/galakushi/status/2115518965824819574"]}
-      - {url: "https://rumble.com/embed/v7g6mtg/?pub=13iafn", label: "Episode 6", also: ["https://x.com/galakushi/status/2118448276269941232"]}
-      - {url: "https://rumble.com/embed/v7g6mum/?pub=13iafn", label: "Episode 7"}
-      - {url: "https://rumble.com/embed/v7g6mv8/?pub=13iafn", label: "Episode 8", also: ["https://x.com/galakushi/status/2120954786040430890"]}
-      - {url: "https://rumble.com/embed/v7g8fd4/?pub=13iafn", label: "Harry Potter and Malfoid Anime OP", also: ["https://x.com/galakushi/status/2117542305062133777"]}
+      - {url: "https://rumble.com/embed/v7g6kfy/?pub=13iafn", label: "Episode 1", also: ["https://drive.google.com/file/d/1aO6JK5LqTiwGm-peuZZZJCe7Fnhcw7AH/view", "https://x.com/galakushi/status/2111961556426862729"]}
+      - {url: "https://rumble.com/embed/v7g6m6y/?pub=13iafn", label: "Episode 2", also: ["https://drive.google.com/file/d/1KfZ2RXvRYpDG5_ydTaXCa0Dj_II6p_ko/view", "https://x.com/galakushi/status/2112666057509142928"]}
+      - {url: "https://rumble.com/embed/v7g6m7o/?pub=13iafn", label: "Episode 3", also: ["https://drive.google.com/file/d/1xbh_e_YoGtLFVXZ3cHIKvTYmEjC2uH3N/view", "https://x.com/galakushi/status/2113380966081376378"]}
+      - {url: "https://rumble.com/embed/v7g6m96/?pub=13iafn", label: "Episode 4", also: ["https://drive.google.com/file/d/19ZS7niOaZlhbk22nayeZjNNkr3Wr7nVn/view", "https://x.com/galakushi/status/2114446902519578899"]}
+      - {url: "https://rumble.com/embed/v7g6ms0/?pub=13iafn", label: "Episode 5", also: ["https://drive.google.com/file/d/1dG1E5kf2U4YG0Qy2hoaHtVaVk5geoQZx/view", "https://x.com/galakushi/status/2115518965824819574"]}
+      - {url: "https://rumble.com/embed/v7g6mtg/?pub=13iafn", label: "Episode 6", also: ["https://drive.google.com/file/d/17udf9WGXWgpj3eHZo-eYmm9lZLxFLiVD/view", "https://x.com/galakushi/status/2118448276269941232"]}
+      - {url: "https://rumble.com/embed/v7g6mum/?pub=13iafn", label: "Episode 7", also: ["https://drive.google.com/file/d/1f-mZLPhHm3Zr_1IU0wAnYgC_ZWc0gAZY/view"]}
+      - {url: "https://rumble.com/embed/v7g6mv8/?pub=13iafn", label: "Episode 8", also: ["https://drive.google.com/file/d/188eRNmrQSZLJ5mEi4qCFy-ZKGd8mA2l3/view", "https://x.com/galakushi/status/2120954786040430890"]}
+      - {url: "https://rumble.com/embed/v7g8fd4/?pub=13iafn", label: "Harry Potter and Malfoid Anime OP", also: ["https://drive.google.com/file/d/1V5tvPWkeYEaAp7-u45ndkW3inc8bq7UC/view", "https://x.com/galakushi/status/2117542305062133777"]}
     summary: "Anime series on the Galakushi YouTube channel: Malfoid and Harry, episodes 1 to 8 (Diagon Alley, the Hogwarts Express, the Sorting Ceremony and more), plus the Harry Potter and Malfoid Anime OP. Episodes 1 to 6 and 8 and the OP also link to their X posts; episode 7 is not on X."
     tags: [anime, series, episodes]
   - id: "article-zerohedge-malfoid-leftists"
