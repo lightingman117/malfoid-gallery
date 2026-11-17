@@ -3999,14 +3999,14 @@ works:
   - id: "creator-bigcandthebots"
     title: "Big C And The Bots"
     first_name: "Dracaena"
-    kind: [creator, art, video]
+    kind: [creator, art]
     format: other
     creator: "@BigCAndTheBots"
     url: "https://x.com/BigCAndTheBots"
     language: "English"
     added: 2026-11-13
     summary: "Makes Malfoid art and videos on X, and is working on a Kingdom Hearts fan mod, Harry Potter and the Cornerstone of Light, with Dracaena as the Malfoid character. The mod is in development and has no release yet."
-    tags: [art, video, mod, x]
+    tags: [art, mod, x]
   - id: "creator-cristotheranger"
     title: "Nate (CristoTheRanger)"
     first_name: "Dracaena"
