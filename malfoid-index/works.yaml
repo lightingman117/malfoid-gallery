@@ -2246,8 +2246,30 @@ works:
     url: "https://www.youtube.com/playlist?list=PLerWz39X0HRc"
     language: "English"
     added: 2026-11-13
-    summary: "An AI-narrated audiobook series on YouTube, in 19 parts of about 10 to 14 minutes each, of a story where Malfoid is the main love interest for Harry. Chapter 2 is titled The Thief of Candlelight."
+    summary: "An AI-narrated audiobook series on YouTube, from the playlist The Malfoid series: 21 videos in all. Chapters 1 to 12 of the story where Malfoid is the main love interest for Harry (Chapter 2 is The Thief of Candlelight), then Book Two, Book Three, Book Four and The Shuttered Lamps. All 21 are embedded below."
     also: ["https://x.com/Darkllamaboy"]
+    videos:
+      - {url: "https://www.youtube.com/watch?v=hn1BAouhxzY", label: "This is Chapter one to my fan fiction of Malfoid, if she was the main love interest for Harry."}
+      - {url: "https://www.youtube.com/watch?v=dingY0nzoRY", label: "Chapter two for The Thief of Candlelight"}
+      - {url: "https://www.youtube.com/watch?v=tl2EAUEpKSM", label: "Chapter three. Detention by Lantern Lights"}
+      - {url: "https://www.youtube.com/watch?v=YHTNjSVtSFk", label: "Chapter 4: The Vanishing Candles"}
+      - {url: "https://www.youtube.com/watch?v=zo0jTlXZ9Ms", label: "Chapter 5: The Night The Lights Went Out"}
+      - {url: "https://www.youtube.com/watch?v=l27bSCmXKG4", label: "Chapter 6: Seeker"}
+      - {url: "https://www.youtube.com/watch?v=EaCcLsG2fgI", label: "Chapter 7: Snow, Secrets, And A Frog That Stayed Put"}
+      - {url: "https://www.youtube.com/watch?v=MyJ6z4FuA9A", label: "Chapter 8: The Lamplighter’s Portrait."}
+      - {url: "https://www.youtube.com/watch?v=hNhl2kuH0vE", label: "Chapter 9: Sorry Is A Small Word"}
+      - {url: "https://www.youtube.com/watch?v=i5jk46PrEqM", label: "Chapter 10: The Thief Of Candlelight."}
+      - {url: "https://www.youtube.com/watch?v=UhkwkYUd-S8", label: "Chapter 11: Exams, Owls, And The House Cup"}
+      - {url: "https://www.youtube.com/watch?v=hMjSHLWYZiY", label: "Chapter 12: The Frog On The Hogwarts Express Again."}
+      - {url: "https://www.youtube.com/watch?v=qzF3vzWuGdA", label: "Book Two of the series. Malfoid and the Whispering Corridor. Chapters 1-6"}
+      - {url: "https://www.youtube.com/watch?v=gK-V8EeksUE", label: "Part two of book two. Get ready, it’s going to be an amazing story."}
+      - {url: "https://www.youtube.com/watch?v=May5sqrAJ-E", label: "Book 3 is finally here! Malfoid and the Silverwing!"}
+      - {url: "https://www.youtube.com/watch?v=iEgMER7UImg", label: "Book Four is finally here. Malfoid and the Drowned Lantern part One"}
+      - {url: "https://www.youtube.com/watch?v=lhm67YqGzOY", label: "Part three of book four"}
+      - {url: "https://www.youtube.com/watch?v=0cHWJNVzaeY", label: "Part two of book four."}
+      - {url: "https://www.youtube.com/watch?v=pVxj1Kfyz8w", label: "Last part of book Four."}
+      - {url: "https://www.youtube.com/watch?v=3Bf6qEHG3ao", label: "Malfoid and the Shuttered Lamps"}
+      - {url: "https://www.youtube.com/watch?v=cqmvUw9dhFE", label: "Part Two of The Shuttered Lamps"}
     tags: [audiobook, series, ai-generated, youtube]
   - id: "creator-philmycrackin"
     title: "Philmycrakin-5"
