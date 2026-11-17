@@ -5071,3 +5071,15 @@ works:
     videos:
       - {url: "https://youtu.be/-jDulT-XeZg", label: "Malfoid x Harry (music video)"}
     tags: [article, commentary, substack, theology, essay]
+  - id: "fanfic-ao3-95074271"
+    title: "The Shining Memory | Harry Potter X Malfoid"
+    first_name: "Dracaena"
+    length: "one-shot"
+    kind: fanfic
+    creator: "Sliver64"
+    url: "https://archiveofourown.org/works/95074271"
+    also: ["https://x.com/sliver64"]
+    language: "English"
+    added: 2026-11-17
+    summary: "A one-shot set in the summer of 1995, after Voldemort's return. Dracaena Malfoy visits Harry at Privet Drive, and a day in Muggle London brings back their Hogwarts past. Translated from the author's Spanish original, El recuerdo que brilla."
+    tags: [one-shot, romance, translated, ao3]
