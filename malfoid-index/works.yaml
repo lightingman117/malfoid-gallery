@@ -4237,8 +4237,8 @@ works:
     thumb: "banners/enoki-saori-harry-regret.jpg"
     summary: "Gender-bent Draco Malfoy (Malfoid) AI animations about Harry on Bilibili, with English audio. Both videos are embedded below. The first is a short about Harry's regret; the second is the full story of Harry and Malfoid together."
     videos:
-      - {url: "https://rumble.com/embed/v7ga11s/?pub=13iafn", label: "[Gender-bent Draco Malfoy] I made Harry regret for life, really?!", also: ["https://www.bilibili.com/en/video/BV187HT68EBG/"]}
-      - {url: "https://rumble.com/embed/v7ga15g/?pub=13iafn", label: "[Gender-bent Draco Malfoy] It's official, Harry and I are together!", also: ["https://www.bilibili.com/en/video/BV17nsV6YEXi/"]}
+      - {url: "https://rumble.com/embed/v7ga11s/?pub=13iafn", label: "[Gender-bent Draco Malfoy] I made Harry regret for life, really?!", also: ["https://www.bilibili.com/en/video/BV187HT68EBG/", "https://drive.google.com/file/d/1_5EPIA1t_2mDW_amX0s7qy4XjgI_wYF0/view"]}
+      - {url: "https://rumble.com/embed/v7ga15g/?pub=13iafn", label: "[Gender-bent Draco Malfoy] It's official, Harry and I are together!", also: ["https://www.bilibili.com/en/video/BV17nsV6YEXi/", "https://drive.google.com/file/d/1PzterfUDaioF8HAo7uZZuUUqh7m2Zz8U/view"]}
     tags: [anime, video, bilibili, malfoid]
   - id: "creator-x1oa-bilibili"
     title: "X1OA"
