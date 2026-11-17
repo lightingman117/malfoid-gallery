@@ -4996,6 +4996,7 @@ works:
       - {url: "https://x.com/PapercutJackie/status/2121337781494468617", label: "Amria the Curse, Witch of the Black Flame Labyrinth"}
       - {url: "https://x.com/PapercutJackie/status/2122398031693730153", label: "Malfoid tags along with a rescue"}
   - id: "creator-butterlebutter"
+    thumb: "banners/butter-the-day-we-met.webp"
     title: "Butter"
     first_name: ""
     kind: [creator, video]
