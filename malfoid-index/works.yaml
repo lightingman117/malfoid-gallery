@@ -1031,10 +1031,11 @@ works:
     length: "novel"
     kind: fanfic
     creator: "Solo_Wing"
-    url: "https://www.wattpad.com/story/417780224"
+    url: "https://www.wattpad.com/user/Solo_Wing"
+    also: ["https://www.wattpad.com/story/417780224", "https://archiveofourown.org/users/Solo_Wing/works", "https://x.com/Sol0w1ng"]
     language: "English"
     added: 2026-11-08
-    summary: "In his first year at Hogwarts, Harry Potter discovers a magical world that had always been denied to him..."
+    summary: "A seven-book series. In his first year at Hogwarts, Harry Potter discovers a magical world that had always been denied to him... Book 1 is finished on Wattpad, and the remaining chapters are being posted through November 2026."
     tags: [drama, harry, hero, hogwarts]
   - id: "fanfic-wattpad-417128991"
     thumb: "https://img.wattpad.com/cover/417128991-256-k430331.jpg"
