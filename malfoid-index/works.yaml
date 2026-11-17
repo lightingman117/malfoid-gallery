@@ -2396,6 +2396,7 @@ works:
     language: "English"
     also: ["https://www.youtube.com/@j.a.vazquez5946"]
     embed: "https://rumble.com/embed/v7g6oea/?pub=13iafn"
+    embed_label: "J.A. Vázquez: Harry Potter AU Part 1"
     embed_also: ["https://drive.google.com/file/d/1Jji2rE3dvaME3z5tzg8tp3vVVz9EgLfu/view"]
     videos:
       - {url: "https://rumble.com/embed/v7g92os/?pub=13iafn", label: "Draconia and Harry Yule Ball Full", also: ["https://drive.google.com/file/d/1EfbXPwZLIup-UlV6kZpVy0zKQ1tPIWt2/view"]}
