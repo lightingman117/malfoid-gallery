@@ -4971,3 +4971,21 @@ works:
     summary: "A retelling of Harry Potter and the Chamber of Secrets from chapter 16 to chapter 18, told from Dracaena Malfoid's perspective as she takes part in the Basilisk battle alongside Harry."
     tags: [retelling, chamber-of-secrets, x-article]
     length: "one-shot"
+  - id: "creator-art-kanei-jones"
+    title: "Art_Kanei_Jones"
+    first_name: "Dracaena"
+    kind: [creator, fanfic]
+    creator: "@Art_Kanei_Jones"
+    url: "https://x.com/Art_Kanei_Jones"
+    language: "English"
+    added: 2026-11-17
+    length: "one-shot"
+    summary: "Two Malfoid one-shots on malfoid.love, both in English with Dracaena as the name: \"You Hurt her.\" and \"A Lady's Wrath\"."
+    tags: [one-shot, malfoid-love, dracaena]
+    items:
+      - title: "You Hurt her."
+        url: "https://malfoid.love/scenes/?id=1246"
+        also: []
+      - title: "A Lady's Wrath"
+        url: "https://malfoid.love/scenes/?id=200"
+        also: []
