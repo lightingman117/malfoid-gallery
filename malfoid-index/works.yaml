@@ -1766,6 +1766,7 @@ works:
     videos:
       - {url: "https://www.youtube.com/watch?v=Hcr1k2DZnUg", label: "PROJECT MALFOID REBORN - Announcement"}
       - {url: "https://www.youtube.com/watch?v=li_5kWm0CWY", label: "PROJECT MALFOID - FREE Teaser"}
+      - {url: "https://www.youtube.com/watch?v=-iQoW9f837U", label: "PROJECT MALFOID - BOOK 1", also: ["https://x.com/projectmalfoid/status/2122443270131253540"]}
     tags: [video, compilation, x, youtube]
   - id: "creator-malfoveil"
     title: "MALFOVEIL"
