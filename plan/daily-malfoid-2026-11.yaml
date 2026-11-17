@@ -358,8 +358,8 @@ days:
     n: 15
     label: "Daily Malfoid 15"
     id: "2026-11-03-winter-ball-1"
-    type: image
-    media: "images/2026-11-03-winter-ball-1.jpg"
+    type: video
+    media: "videos/winter-ball-1.mp4"
     image: "images/2026-11-03-winter-ball-1.jpg"
     theme: "Winter ball in the green gown"
     x:
