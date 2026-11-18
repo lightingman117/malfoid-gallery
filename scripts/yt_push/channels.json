@@ -1,0 +1,18 @@
+{
+  "_note": "YouTube channels to subscribe to. channel_id is the UC... ID; handle is for reference only. Add or remove entries, then run subscribe.py.",
+  "channels": [
+    {"name": "Zandran", "handle": "@zandran2", "channel_id": "UCvTcYhLhu9pq0gn7ShZL_vQ"},
+    {"name": "schmede_AI", "handle": "@schmede_AI", "channel_id": "UCA5wRJq4rRjF8oh9V0ytWng"},
+    {"name": "MALFOVEIL", "handle": "@MALFOVEIL", "channel_id": "UCvjhEFHIhUUYR9ST7pfZQ5g"},
+    {"name": "That One Belgian", "handle": "@thatonebelgian", "channel_id": "UCbC-oqKGeXUHo_Sf_LNwtcw"},
+    {"name": "Goldteiger2000", "handle": "@Goldteiger2000", "channel_id": "UCA-3-IdWv8OYL39Tzh5uFFA"},
+    {"name": "MYSTAVELLE", "handle": "@MYSTAVELLE", "channel_id": "UCr-QavdBfBfzXg_Wx3UG66w"},
+    {"name": "ALX AI Productions", "handle": "@ALXAIProductions", "channel_id": "UCoWlLBDa0_x7qlJ4ehGf1Hw"},
+    {"name": "A-Illusion Creative", "handle": "@A-IllusionCreative", "channel_id": "UCOPi5u9qwr--1ORKgmGkJFg"},
+    {"name": "YoliArt", "handle": "@YolitArt", "channel_id": "UCqpKicPWHhet15eZx6kS9Yg"},
+    {"name": "tamara lucia clips", "handle": "@tamaraluciaclips", "channel_id": "UCw5mA9-GXBLn1PklPy4r39g"},
+    {"name": "Brooklyn (Draconia Fanmade POVs)", "handle": "@BrooklynGE0214", "channel_id": "UCGw8R5MSQUkjNy7ch3yhm5g"},
+    {"name": "Harry Potter Academy", "handle": "@HPAcademy1", "channel_id": "UCQHYPABjpxsH4lCLaKET9JA"},
+    {"name": "Anigirls Archive", "handle": "@anigirl.archive", "channel_id": "UCn9fjDkS8fdrLv-ap2FbF9Q"}
+  ]
+}

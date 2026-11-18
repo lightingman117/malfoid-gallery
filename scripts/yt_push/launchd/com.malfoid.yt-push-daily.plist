@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Template. Runs once a day at 09:00: renews the subscriptions, then writes the digest.
+     Replace REPO, SECRET and TUNNEL_URL (the public https URL ending in /callback). -->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.malfoid.yt-push-daily</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/sh</string><string>-c</string>
+    <string>cd REPO/scripts/yt_push &amp;&amp; python3 subscribe.py --callback TUNNEL_URL --apply; python3 process_daily.py</string>
+  </array>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>YT_PUSH_SECRET</key><string>SECRET</string>
+  </dict>
+  <key>StartCalendarInterval</key>
+  <dict><key>Hour</key><integer>9</integer><key>Minute</key><integer>0</integer></dict>
+  <key>StandardErrorPath</key><string>REPO/scripts/yt_push/data/daily.log</string>
+</dict>
+</plist>
