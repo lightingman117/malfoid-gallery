@@ -3857,6 +3857,7 @@ works:
       - {url: "https://x.com/ImmortalSelchie/status/2119998357309735361", label: "Less funny after hearing it 50 times (AI video)"}
       - {url: "https://x.com/ImmortalSelchie/status/2120056363447652603", label: "Yearning, so sweet (AI video)"}
   - id: "creator-0xwreck"
+    thumb: "banners/0xwreck-train.webp"
     title: "Train (0xWreck)"
     first_name: ""
     kind: [creator, art, video]
@@ -3866,7 +3867,24 @@ works:
     language: "English"
     added: 2026-11-10
     summary: "Parody account making AI art and videos based on NWBro Janeway's Malfoid fiction, with the author's agreement. Posts are tagged #malfoid and #MalfoidMonday."
+    videos:
+      - {url: "https://x.com/0xWreck/status/2114594382888194233", label: "Harry Potter and the Girl with the Diary, 26 Oct 2026"}
+      - {url: "https://x.com/0xWreck/status/2114839220971844036", label: "The first #Malfoid edit, 27 Oct 2026"}
+      - {url: "https://x.com/0xWreck/status/2114501818273464335", label: "Trailer for book one of the story, 26 Oct 2026"}
+      - {url: "https://x.com/0xWreck/status/2115106905920057752", label: "A wizard walks to a snow-covered Hogwarts, 28 Oct 2026"}
+      - {url: "https://x.com/0xWreck/status/2116723722090648052", label: "Halloween post, 1 Nov 2026"}
+      - {url: "https://x.com/0xWreck/status/2117736396366495840", label: "Season 1 opening: The Girl Who Noticed Him, 4 Nov 2026"}
+      - {url: "https://x.com/0xWreck/status/2121135513600143494", label: "Me at 1am after two amazing chapters, 13 Nov 2026"}
     tags: [art, ai-art, video, parody, x]
+  - id: "game-malfoid-duel"
+    title: "Malfoid Duel"
+    first_name: ""
+    kind: game
+    creator: "0xWreck"
+    url: "https://malfoidduel.fun"
+    added: 2026-11-18
+    summary: "Game made by 0xWreck."
+    tags: [game]
   - id: "creator-zeropoint216"
     title: "ZeroPoint216"
     first_name: ""
