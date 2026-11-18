@@ -37,27 +37,27 @@ class RefTests(unittest.TestCase):
 
 
 class ClassifyTests(unittest.TestCase):
-    def test_oembed_ok_needs_no_page_read(self):
-        r = check_deleted.classify(200, lambda: self.fail("should not read the page"))
-        self.assertEqual(r["status"], "ok")
+    def test_both_signals_fine_is_ok(self):
+        self.assertEqual(check_deleted.classify(200, 200, OK_HTML)["status"], "ok")
 
-    def test_oembed_fail_but_page_ok_is_not_unavailable(self):
-        r = check_deleted.classify(404, lambda: OK_HTML)
-        self.assertEqual(r["status"], "ok")
+    def test_page_ok_but_oembed_fails_is_suspect(self):
+        r = check_deleted.classify(404, 200, OK_HTML)
+        self.assertEqual(r["status"], "suspect")
+        self.assertIn("404", r["reason"])
 
     def test_page_error_is_unavailable_with_reason(self):
-        r = check_deleted.classify(404, lambda: DEAD_HTML)
+        r = check_deleted.classify(404, 200, DEAD_HTML)
         self.assertEqual(r["status"], "unavailable")
         self.assertIn("ERROR", r["reason"])
-        self.assertIn("unavailable", r["reason"])
 
-    def test_unreadable_page_is_check_failed_not_unavailable(self):
-        r = check_deleted.classify(404, lambda: None)
-        self.assertEqual(r["status"], "check failed")
+    def test_page_404_is_unavailable(self):
+        self.assertEqual(check_deleted.classify(404, 404, "")["status"], "unavailable")
 
-    def test_page_without_status_is_unavailable(self):
-        r = check_deleted.classify(404, lambda: "<html>no data</html>")
-        self.assertEqual(r["status"], "unavailable")
+    def test_unreadable_page_is_check_failed(self):
+        self.assertEqual(check_deleted.classify(200, None, None)["status"], "check failed")
+
+    def test_page_without_status_is_check_failed_not_unavailable(self):
+        self.assertEqual(check_deleted.classify(200, 200, "<html>no data</html>")["status"], "check failed")
 
 
 class ReportTests(unittest.TestCase):

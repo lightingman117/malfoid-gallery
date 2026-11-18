@@ -4673,14 +4673,6 @@ works:
       - {url: "https://www.youtube.com/watch?v=6IXVnKQComo", label: "Malfoid and Harry Anime Episode 1 to 8 Full | Galakushi"}
       - {url: "https://www.youtube.com/watch?v=d1Dgw3kR29Y", label: "Draconia and Harry Yule Ball Full | J.A Vasquez"}
       - {url: "https://www.youtube.com/watch?v=ohzwG0WEOHY", label: "Malfoid x Harry AU Part 1 Full | J.A Vasquez"}
-  - id: "creator-madmax"
-    title: "MadMax"
-    first_name: ""
-    kind: creator
-    creator: "MadMax"
-    url: "https://www.youtube.com/@madmax"
-    also: ["https://x.com/MadMax"]
-    added: 2026-11-16
   - id: "creator-madmax000"
     title: "MadMax"
     first_name: ""
@@ -4696,8 +4688,6 @@ works:
       - {url: "https://www.youtube.com/watch?v=cODVk49b9rI", label: "Draconia Malfoy And Harry - Part Two"}
       - {url: "https://www.youtube.com/watch?v=74xM4ZRZ60M", label: "Draconia Malfoy And Harry - Part one"}
       - {url: "https://www.youtube.com/watch?v=I-k8_CWvWig", label: "Draconia Malfoy (Malfoid) vs Harry: Wizard's Duel"}
-      - {url: "https://www.youtube.com/watch?v=3lh4g1Madcc", label: "Harry wants something from Malfoid"}
-      - {url: "https://www.youtube.com/watch?v=TK33bSd7JkE", label: "May we never stop Yearning for Malfoid"}
       - {url: "https://www.youtube.com/watch?v=rd1a8NzG-Hk", label: "Harry and Draconia Malfoy - Love or Obsession?"}
       - {url: "https://www.youtube.com/watch?v=QG0v59Hs-Lk", label: "Ron and Harry needs a date for Yule Ball"}
       - {url: "https://www.youtube.com/watch?v=iDwDzQq7OUc", label: "Harry and Malfoid"}
