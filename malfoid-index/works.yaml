@@ -5101,3 +5101,16 @@ works:
       - {url: "https://www.youtube.com/watch?v=C-WGaaLr_8w", label: "[TS Malfoy] Become My Comrade"}
       - {url: "https://www.youtube.com/watch?v=b_bV9aRuxYA", label: "[TS Malfoy] I'll Make You Regret Refusing Me"}
       - {url: "https://www.youtube.com/watch?v=Gsoqa49_gLQ", label: "TS Malfoy Anime Second Ending Song: Not What I Meant (Full Version)"}
+  - id: "creator-tooner"
+    title: "TOONER"
+    first_name: ""
+    kind: [creator, video]
+    creator: "TOONER (@tooneryt)"
+    url: "https://www.youtube.com/@tooneryt"
+    language: "English"
+    added: 2026-11-18
+    summary: "A YouTube channel of Malfoid videos, including live-action AI Malfoid films and roundups of new Malfoid comic dubs. Two playlists are embedded below: Real Malfoid and Malfoid Comic Dubs."
+    tags: [youtube, live-action, ai, comic-dubs]
+    videos:
+      - {url: "https://www.youtube.com/playlist?list=PLTGMWmWdzX30", label: "Real Malfoid (playlist)"}
+      - {url: "https://www.youtube.com/playlist?list=PLPld2KgpTc4M", label: "Malfoid Comic Dubs (playlist)"}
