@@ -5128,3 +5128,50 @@ works:
     videos:
       - {url: "https://www.youtube.com/playlist?list=PLTGMWmWdzX30", label: "Real Malfoid (playlist)"}
       - {url: "https://www.youtube.com/playlist?list=PLPld2KgpTc4M", label: "Malfoid Comic Dubs (playlist)"}
+  - id: "creator-jack-demonkey"
+    title: "Jack_DeMonkey"
+    first_name: ""
+    kind: [creator, video]
+    creator: "@Jack_DeMonkey"
+    url: "https://x.com/Jack_DeMonkey"
+    language: "English"
+    added: 2026-11-18
+    summary: "Malfoid video posts on X, tagged #malfoid and #malfoygirl, including episode teasers for Next Realm Studios. All twelve posts from 17 and 18 November are embedded below."
+    tags: [x, video, malfoid]
+    videos:
+      - {url: "https://x.com/Jack_DeMonkey/status/2122791609842495823", label: "Malfoid video post, 17 Nov 2026"}
+      - {url: "https://x.com/Jack_DeMonkey/status/2122787569826247106", label: "Malfoid video post, 17 Nov 2026"}
+      - {url: "https://x.com/Jack_DeMonkey/status/2122796186386280873", label: "Malfoid video post, 17 Nov 2026"}
+      - {url: "https://x.com/Jack_DeMonkey/status/2122779769670365424", label: "Malfoid video post, 17 Nov 2026"}
+      - {url: "https://x.com/Jack_DeMonkey/status/2122788326948163761", label: "Malfoid video post, 17 Nov 2026"}
+      - {url: "https://x.com/Jack_DeMonkey/status/2122786502794965320", label: "Malfoid video post, 17 Nov 2026"}
+      - {url: "https://x.com/Jack_DeMonkey/status/2122803611688484920", label: "Malfoid video post, 17 Nov 2026"}
+      - {url: "https://x.com/Jack_DeMonkey/status/2122790249550029253", label: "Malfoid video post, 17 Nov 2026"}
+      - {url: "https://x.com/Jack_DeMonkey/status/2122789737664487860", label: "Malfoid video post, 17 Nov 2026"}
+      - {url: "https://x.com/Jack_DeMonkey/status/2122781361962725735", label: "Malfoid video post, 17 Nov 2026"}
+      - {url: "https://x.com/Jack_DeMonkey/status/2122780888660677002", label: "Malfoid video post, 17 Nov 2026"}
+      - {url: "https://x.com/Jack_DeMonkey/status/2122786916747915463", label: "Malfoid video post, 17 Nov 2026"}
+  - id: "creator-logosoverflow"
+    title: "Logos Overflow"
+    first_name: ""
+    kind: [creator, video]
+    creator: "@logosoverflow"
+    url: "https://x.com/logosoverflow"
+    language: "English"
+    added: 2026-11-18
+    summary: "A Malfoid video post on X: Malfoid finally kicks Hermione's ass, a short animated clip."
+    tags: [x, video, malfoid]
+    videos:
+      - {url: "https://x.com/logosoverflow/status/2122498877517422868", label: "Malfoid finally kicks Hermione's ass, 17 Nov 2026"}
+  - id: "creator-dddeepjapan"
+    title: "DDDeep"
+    first_name: ""
+    kind: [creator, video]
+    creator: "@DDDeepjapan"
+    url: "https://x.com/DDDeepjapan"
+    language: "English"
+    added: 2026-11-18
+    summary: "AI-made Harry Potter and Malfoid videos on X, tagged #malfoid and #malfoygirl. Kling 4.0 Harry Potter style clip, embedded below."
+    tags: [x, video, ai-video, malfoid]
+    videos:
+      - {url: "https://x.com/DDDeepjapan/status/2122714012072976763", label: "Kling 4.0 Harry Potter style, 17 Nov 2026"}
