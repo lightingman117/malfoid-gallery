@@ -4685,7 +4685,7 @@ works:
     kind: creator
     creator: "MadMax"
     url: "https://www.youtube.com/@MadMax000"
-    also: ["https://x.com/madmax000"]
+    also: ["https://x.com/MadMax_Series", "https://www.instagram.com/madma.xai/"]
     added: 2026-11-16
     videos:
       - {url: "https://www.youtube.com/watch?v=oGoHMjYTH4o", label: "Draconia Malfoy And Harry - Part Four"}
