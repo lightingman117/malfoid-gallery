@@ -34,6 +34,7 @@ import miniyaml  # noqa: E402
 BLOCKED_ACCOUNTS = {
     "katechon_studio",  # X: promotes a malfoid.tv subscription charging a monthly fee for AI fan content
     "jack_demonkey",  # X: reposts other people's videos without credit
+    "nostalgiawizar",  # X: reuploads other creators' videos without credit
 }
 # Sites that sell paid access to fan content. A work whose url or `also` link is on one of these
 # domains (or a subdomain of it) fails the build too.
