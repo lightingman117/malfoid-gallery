@@ -1418,6 +1418,7 @@ works:
     kind: [creator, video]
     creator: "rhedak"
     url: "https://x.com/rhedak1"
+    also: ["https://ko-fi.com/rhedak"]
     added: 2026-11-08
     summary: "The maintainer of this index and the Malfoid gallery. Hobby game dev and author. Malfoid meets Harry Potter for the first time at Madam Malkins, as a video and a Short."
     videos:
