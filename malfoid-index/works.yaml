@@ -5190,3 +5190,14 @@ works:
     tags: [x, video, ai-video, malfoid]
     videos:
       - {url: "https://x.com/DDDeepjapan/status/2122714012072976763", label: "Kling 4.0 Harry Potter style, 17 Nov 2026"}
+  - id: "creator-triplecrazy"
+    title: "triplecrazy"
+    first_name: ""
+    kind: [creator, video]
+    creator: "triplecrazy"
+    url: "https://space.bilibili.com/90362068"
+    added: 2026-11-18
+    summary: "Miss Malfoy (genderbent Draco Malfoy) chapters on Bilibili. Chapters 1 and 2 are embedded below, with their Bilibili pages and Google Drive downloads."
+    videos:
+      - {url: "https://rumble.com/embed/v7gc69q/?pub=13iafn", label: "[Miss Malfoy] Chapter 01", also: ["https://www.bilibili.com/en/video/BV1mCWD6EE73/", "https://drive.google.com/file/d/1Ny4M539XmaGS7yzgtOToOxpIveXhlnZi/view?usp=drive_link"]}
+      - {url: "https://rumble.com/embed/v7gc6cs/?pub=13iafn", label: "[Miss Malfoy] Chapter 02", also: ["https://www.bilibili.com/en/video/BV1RZsz6AEKK/", "https://drive.google.com/file/d/1-iLR5DoMuqvEGNxUfg3O0UV2nBgQXGUO/view?usp=drive_link"]}
