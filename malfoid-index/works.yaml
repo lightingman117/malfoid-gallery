@@ -5434,3 +5434,13 @@ works:
       - {url: "https://www.youtube.com/shorts/QN8a7x2JhXk", label: "Short: Luna exposes Malfoy's secret crush"}
       - {url: "https://www.youtube.com/shorts/zbus6j2vU5c", label: "I Made an Anime Opening for Harry Potter, but Malfoy is a girl!? (Short)"}
     tags: [video, anime, youtube]
+  - id: "comic-webtoon-hogwarts-reset-draconia"
+    title: "Hogwarts Reset: The Draconia Malfoid Anomaly"
+    first_name: "Draconia"
+    kind: comic
+    creator: "bikrant jeet sharma"
+    url: "https://www.webtoons.com/en/canvas/hogwarts-reset-the-draconia-malfoid-anomaly/list?title_no=1186576"
+    language: "English"
+    added: 2026-11-19
+    summary: "Harry is sent back in time to fix his mistakes, but the world has changed: Draco has become Draconia. Six episodes on WEBTOON Canvas."
+    tags: [comedy, webtoon, time-travel, draconiamalfoid]
