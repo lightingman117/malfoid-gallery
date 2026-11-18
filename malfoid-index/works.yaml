@@ -5288,3 +5288,54 @@ works:
       - {url: "https://x.com/viperstudios4/status/2113746815983948215", label: "Draconia Malfoy fanfic clip, 23 Oct 2026"}
       - {url: "https://x.com/viperstudios4/status/2110851678606078163", label: "Another take on the Draconia Malfoy trend, 15 Oct 2026"}
     tags: [video, ai-video, x]
+  - id: "creator-malfoid-ts-channel"
+    title: "Malfoid (말포이TS) (@Malfoid말포이TS)"
+    first_name: ""
+    kind: [creator, video]
+    creator: "Malfoid (말포이TS)"
+    url: "https://www.youtube.com/@Malfoid%EB%A7%90%ED%8F%AC%EC%9D%B4TS"
+    language: "English"
+    added: 2026-11-18
+    summary: "The Malfoid (말포이TS) series on YouTube, episodes 1 to 40. Each episode is embedded below."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=kWJgEWo6nRU", label: "malfoid(말포이TS) EP40 | The Enemy Wearing Her Smile | The Girl of Light's Warning"}
+      - {url: "https://www.youtube.com/watch?v=lusYarNz2Qs", label: "malfoid(말포이TS) EP39 | The Train That Fell From the Sky | The Door Above the Clouds"}
+      - {url: "https://www.youtube.com/watch?v=vbTbVwXtbQE", label: "malfoid(말포이TS) EP38 | The Train That Brought War | The Seal-Army and the General Who Knelt"}
+      - {url: "https://www.youtube.com/watch?v=xVu2RMSozV0", label: "malfoid(말포이TS) EP37: The Train That Carried a Name — Lyra Drives the Midnight Seal-Express"}
+      - {url: "https://www.youtube.com/watch?v=D5H-NlzZjk8", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP36 | The Door the Name Opened ✨ (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=mfxRHU-usmo", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP35 | The Name That Answered Back ✨ (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=XRxJ9Yw81tA", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP34: The Forge of White Fire"}
+      - {url: "https://www.youtube.com/watch?v=pnw7fYovaic", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP33: The Eye That Blinked Like a Friend"}
+      - {url: "https://www.youtube.com/watch?v=ckQMQbXPKmI", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP32 | The Seal That Was Never Hers ✨ The Guardian Returns!"}
+      - {url: "https://www.youtube.com/watch?v=noSR4kfNKMs", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP31 | The Face She Feared Most ✨ Which One Is Real?"}
+      - {url: "https://www.youtube.com/watch?v=jRG3dyCKT4U", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP30 | The Shadow That Knew Her Name ✨ (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=hGti-zebdb8", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP29 | The Name That Woke the Shadow ✨ Never Say His Name!"}
+      - {url: "https://www.youtube.com/watch?v=Fkx9F7cYS4Y", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP28: The Seals That Turned Black"}
+      - {url: "https://www.youtube.com/watch?v=WT1vTxCBN-8", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP27 | The Eye That Called Her Name ✨ Whose Eye Is It?"}
+      - {url: "https://www.youtube.com/watch?v=qOvMCGM-Kjs", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP26 | The Face They Trusted ✨ The Keeper Was the Seal-Eater!"}
+      - {url: "https://www.youtube.com/watch?v=NxlS6UudPeY", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP25 | The Name the Seal Whispered ✨ Who Is Aurelia?"}
+      - {url: "https://www.youtube.com/watch?v=IpTWjEl9Oaw", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP24: The Lighthouse That Held a Seal"}
+      - {url: "https://www.youtube.com/watch?v=4tNaRPrA6l0", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP23 | The Face the Seal Was Hiding ✨ (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=DhwefCOE74U", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP22 | The White Seal That Called Her Name ✨ (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=_dHShMkwAPk", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP21 | The Black Seal That Chose Her ✨ (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=aZ1FQlHrIyI", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP20 | The Eyes That Woke Beneath the Lake ✨ (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=TOizUq3JxTc", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP19 | The Stranger Who Walked Out of the Light  (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=N611cGJyFCg", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP18 | The Secret the Golden Seal Was Hiding ✨ (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=mVZIS325cvE", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP17 | The Secret Waiting in the Golden Light ✨ (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=_aAJUDgjzZY", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP16 | The Door Only Her Heart Could Open ✨ (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=0ulNoYc-Z0g", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP15 | The Key the Sender Left Behind ✨ (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=Bo6t8Xp1Llg", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP14 | The Meeting the Roses Were Waiting For 🌹"}
+      - {url: "https://www.youtube.com/watch?v=vz79ujNZiF8", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP13 | The Heart That Waited at the Gates ✨ Who Is in the"}
+      - {url: "https://www.youtube.com/watch?v=v0QAVzcohow", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP12 | The Seal That Asked for Her Heart ✨ (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=m1vLRPAK-_o", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP11 | The Confession Behind the Rose ✨ (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=WkG0AlwAoy8", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP10 | The Rose 🌹 Who Is It For? (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=nMJB7Oo2bjo", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP09 | The Third Seal 💖 (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=mpszJQCr6oU", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP08 | The Second Seal ✨ (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=8G_EBXgsTDs", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP07 | The Seal That Woke ✨ (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=Kg4nuoRwK6w", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP06 | The Sender Arrives 💍 (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=Nfawa_rXti4", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP05 | The Seal That Glowed ✨ (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=0ne9WFlq0pE", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP04 | The Owl With the Unknown Seal 🦉 (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=2dYyv-JqG5I", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP03 | The Letter That Changed Everything 💌 (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=TNKhDkUg5Ns", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP02 | The Secret in the Note 💌 (Full Story)"}
+      - {url: "https://www.youtube.com/watch?v=-0-D7IjX7x0", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP01 | The Girl Who Stole Harry's Heart 💌 (Full Story)"}
+    tags: [video, series, youtube]
