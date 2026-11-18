@@ -4,3 +4,4 @@ _site/
 scripts/yt_push/data/
 .env
 scripts/yt_push/.env
+ssh_yumkeks.sh
