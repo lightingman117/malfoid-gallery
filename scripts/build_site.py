@@ -349,6 +349,43 @@ def build_index():
     }
 
 
+def social_handles(w):
+    """Handles read from the work's own links (YouTube @handles and X profile handles), for search only."""
+    import re
+    from urllib.parse import urlparse, unquote
+    X_SKIP = {"i", "home", "search", "explore", "intent", "share", "hashtag", "notifications", "messages"}
+    urls = [w.get("url"), w.get("embed")] + list(w.get("also") or []) + list(w.get("embed_also") or [])
+    for v in (w.get("videos") or []):
+        if isinstance(v, dict):
+            urls += [v.get("url"), v.get("embed")] + list(v.get("also") or [])
+        else:
+            urls.append(v)
+    for it in (w.get("items") or []):
+        if isinstance(it, dict):
+            urls += [it.get("url")] + list(it.get("also") or [])
+    out = []
+    for u in urls:
+        u = str(u or "").strip()
+        if not u.startswith(("http://", "https://")):
+            continue
+        host = (urlparse(u).hostname or "").lower()
+        path = unquote(urlparse(u).path)
+        if host.endswith("youtube.com"):
+            m = re.match(r"/@([^/?#]+)", path)
+            if m:
+                out.append(m.group(1))
+        elif host in ("x.com", "twitter.com", "www.x.com", "www.twitter.com"):
+            seg = path.strip("/").split("/")[0]
+            if seg and seg.lower() not in X_SKIP and re.fullmatch(r"[A-Za-z0-9_]{1,30}", seg):
+                out.append(seg)
+    seen, res = set(), []
+    for h in out:
+        if h.lower() not in seen:
+            seen.add(h.lower())
+            res.append(h)
+    return res
+
+
 def kinds_of(value):
     """`kind:` is one value or a list (e.g. [other, fanfic]); the first is the primary kind."""
     items = value if isinstance(value, list) else [value]
@@ -544,7 +581,7 @@ def build_works():
             "length": length_of(w.get("length")),
             "format": format_of(w.get("format")),
             "first_name": text(w.get("first_name")),
-            "handles": [text(h) for h in (w.get("handles") or []) if text(h)],
+            "handles": list(dict.fromkeys([text(h) for h in (w.get("handles") or []) if text(h)] + social_handles(w))),
         })
     works.sort(key=lambda w: (w["order"] is None, w["order"] or 0, w["title"].lower()))
     return {"title": text(data.get("title")) or "Malfoid Index", "contact": text(data.get("contact")), "works": works}
