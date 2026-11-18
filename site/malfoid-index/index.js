@@ -85,14 +85,15 @@
     return svg;
   }
 
-  // The "on:" row: one icon per distinct http(s) link, shown only when there is more than one.
-  function platformRow(urls) {
+  // The "on:" row: one icon per distinct http(s) link. Cards show it only with two or more links (the
+  // title already links the first one); the page headers pass minLinks 1 so they always show it.
+  function platformRow(urls, minLinks) {
     var links = [];
     urls.forEach(function (u) {
       var href = safeUrl(u);
       if (href && links.indexOf(href) === -1) links.push(href);
     });
-    if (links.length < 2) return null;
+    if (links.length < (minLinks || 2)) return null;
     var row = el("p", "work-platforms");
     row.appendChild(el("span", "work-platforms-label", "on:"));
     links.forEach(function (href) {
@@ -468,7 +469,7 @@
     head.appendChild(el("h2", null, w.title || "Untitled"));
     if (w.creator) head.appendChild(el("p", "work-meta", w.creator));
     if (w.summary) head.appendChild(el("p", "work-summary", w.summary));
-    var row = platformRow([w.url].concat(w.also || []));
+    var row = platformRow([w.url].concat(w.also || []), 1);
     if (row) head.appendChild(row);
     list.appendChild(head);
 
@@ -515,7 +516,7 @@
     head.appendChild(titleOf(w));
     if (w.creator) head.appendChild(el("p", "work-meta", w.creator));
     if (w.summary) head.appendChild(el("p", "work-summary", w.summary));
-    var row = platformRow([w.url].concat(w.also || []));
+    var row = platformRow([w.url].concat(w.also || []), 1);
     if (row) head.appendChild(row);
     list.appendChild(head);
 
