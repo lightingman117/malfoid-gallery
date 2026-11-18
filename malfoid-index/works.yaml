@@ -4319,6 +4319,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=kvuRTw9n4NI", label: "10. Draconia Malfoy A Serpent's Heart - Arrival"}
       - {url: "https://www.youtube.com/watch?v=mYatv_BidUM", label: "8. Draconia Malfoy A Serpent's Heart - Gentle Curiosity"}
       - {url: "https://www.youtube.com/watch?v=pIZPcmUsGMc", label: "9. Draconia Malfoy A Serpent's Heart - Quiet Mystery"}
+      - {url: "https://www.youtube.com/watch?v=IhHXFxG99rc", label: "Draconia Malfoy: Snakes and Lions | Episode 3 | AI Harry Potter Fan Series Teaser Trailer"}
   - id: "creator-ai-clips-uni"
     title: "ai_clips_uni"
     first_name: ""
@@ -4609,6 +4610,9 @@ works:
       - {url: "https://www.youtube.com/shorts/BM0fVOqPUGM", label: "Malfoid Multiverse | 21: A Tape for You: My Date with Malfoid"}
       - {url: "https://www.youtube.com/shorts/i1RyPQSpoh0", label: "Malfoid Multiverse | 01: Her Happiest Memory (Segment 1/2)"}
       - {url: "https://www.youtube.com/shorts/b7B7B9O0UI0", label: "Magical Indiscretions | 08: Part 08: Tank"}
+      - {url: "https://www.youtube.com/watch?v=ojdxv-8f2ss", label: "Harry & Malfoy: Ten Years Later | Episode 3 — I’m Sorry"}
+      - {url: "https://www.youtube.com/watch?v=Z-xPSlk5_Ls", label: "Harry & Malfoy: Ten Years Later | Episode 2 — Ten Years of Pretending"}
+      - {url: "https://www.youtube.com/watch?v=5QI-UbE3uEo", label: "Harry & Malfoy: Ten Years Later | Episode 1 — You Cut Your Hair"}
   - id: "creator-inspo-live"
     title: "Inspo"
     first_name: ""
@@ -5128,6 +5132,7 @@ works:
     videos:
       - {url: "https://www.youtube.com/playlist?list=PLTGMWmWdzX30", label: "Real Malfoid (playlist)"}
       - {url: "https://www.youtube.com/playlist?list=PLPld2KgpTc4M", label: "Malfoid Comic Dubs (playlist)"}
+      - {url: "https://www.youtube.com/shorts/LYBoP6hkR-g", label: "Malfoid confessed in Parseltongue... Potter understood every word"}
   - id: "creator-jack-demonkey"
     title: "Jack_DeMonkey"
     first_name: ""
