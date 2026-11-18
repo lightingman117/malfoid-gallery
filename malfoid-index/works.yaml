@@ -5339,3 +5339,27 @@ works:
       - {url: "https://www.youtube.com/watch?v=TNKhDkUg5Ns", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP02 | The Secret in the Note 💌 (Full Story)"}
       - {url: "https://www.youtube.com/watch?v=-0-D7IjX7x0", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP01 | The Girl Who Stole Harry's Heart 💌 (Full Story)"}
     tags: [video, series, youtube]
+  - id: "creator-lexx-aura"
+    title: "Lex (@lexx_aura)"
+    first_name: "Draco"
+    kind: [creator, video]
+    creator: "Lex (@lexx_aura)"
+    url: "https://x.com/lexx_aura"
+    language: "English"
+    added: 2026-11-18
+    summary: "AI-made Malfoid videos on X, made with Seedance 2.5."
+    videos:
+      - {url: "https://x.com/lexx_aura/status/2122697994818769146", label: "Malfoy as a maid, 17 Nov 2026"}
+      - {url: "https://x.com/lexx_aura/status/2122442872649629880", label: "Malfoy is way too naughty, 17 Nov 2026"}
+      - {url: "https://x.com/lexx_aura/status/2121243438289211847", label: "Another Malfoy episode, 13 Nov 2026"}
+      - {url: "https://x.com/lexx_aura/status/2120630470744363160", label: "Malfoy finally kissed him, 12 Nov 2026"}
+      - {url: "https://x.com/lexx_aura/status/2119426259633512457", label: "Malfoy never runs out of tricks, 8 Nov 2026"}
+      - {url: "https://x.com/lexx_aura/status/2119063471602254289", label: "Malfoy flirts way too good, 7 Nov 2026"}
+      - {url: "https://x.com/lexx_aura/status/2118395312637395225", label: "Malfoy and Hermione put a bet on Harry, 6 Nov 2026"}
+      - {url: "https://x.com/lexx_aura/status/2117598720988418253", label: "Malfoy is totally crazy, 3 Nov 2026"}
+      - {url: "https://x.com/lexx_aura/status/2116995499278373367", label: "Malfoy is in deep love with Potter, 2 Nov 2026"}
+      - {url: "https://x.com/lexx_aura/status/2115440174603567488", label: "Another Malfoy episode, 28 Oct 2026"}
+      - {url: "https://x.com/lexx_aura/status/2115078108349083819", label: "Malfoy is always angry, 27 Oct 2026"}
+      - {url: "https://x.com/lexx_aura/status/2114712835553140946", label: "Malfoy is hot blooded, 26 Oct 2026"}
+      - {url: "https://x.com/lexx_aura/status/2114354154353381752", label: "Malfoy is being silly, 25 Oct 2026"}
+    tags: [video, ai-video, x]
