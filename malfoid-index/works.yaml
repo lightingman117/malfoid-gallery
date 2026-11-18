@@ -4638,14 +4638,6 @@ works:
       - {url: "https://www.youtube.com/watch?v=NdajqrmGeo4", label: "Draconia Malfoy - Imperius Curse "}
       - {url: "https://www.youtube.com/watch?v=U1wSwA-b9KA", label: "Draconia Malfoy - The Yule Ball Story ft Olivia Rodrigo - The Cure Edit"}
       - {url: "https://www.youtube.com/watch?v=NMwL4Uq0x9E", label: "Draconia Malfoy - The Yule Ball Story"}
-  - id: "creator-historias-impact"
-    title: "Historias Impact"
-    first_name: ""
-    kind: creator
-    creator: "Historias Impact"
-    url: "https://www.youtube.com/@HistoriasImpact"
-    also: ["https://x.com/historiasimpact"]
-    added: 2026-11-16
   - id: "creator-hpacademy1"
     title: "Harry Potter Academy"
     first_name: ""
