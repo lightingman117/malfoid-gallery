@@ -2018,6 +2018,7 @@ works:
       - {url: "https://drive.google.com/file/d/1wHlAkGRzj9-8f_vbgn5kirCX2rzDVk68/view", label: "Draconia & Harry Were Asked If They're Dating - Cast Interviews (FoYeGe Universe)", also: ["https://drive.google.com/file/d/1wHlAkGRzj9-8f_vbgn5kirCX2rzDVk68/view", "https://www.youtube.com/watch?v=NXsK14WyoRo"]}
     tags: [video, movie, collaboration, youtube]
   - id: "creator-papallax"
+    thumb: "banners/papallax.webp"
     title: "Papallax"
     first_name: "Draconia"
     kind: [creator, video]
