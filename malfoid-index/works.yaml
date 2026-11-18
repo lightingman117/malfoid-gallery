@@ -5195,29 +5195,6 @@ works:
       - {url: "https://www.youtube.com/playlist?list=PLTGMWmWdzX30", label: "Real Malfoid (playlist)"}
       - {url: "https://www.youtube.com/playlist?list=PLPld2KgpTc4M", label: "Malfoid Comic Dubs (playlist)"}
       - {url: "https://www.youtube.com/shorts/LYBoP6hkR-g", label: "Malfoid confessed in Parseltongue... Potter understood every word"}
-  - id: "creator-jack-demonkey"
-    title: "Jack_DeMonkey"
-    first_name: ""
-    kind: [creator, video]
-    creator: "@Jack_DeMonkey"
-    url: "https://x.com/Jack_DeMonkey"
-    language: "English"
-    added: 2026-11-18
-    summary: "Malfoid video posts on X, tagged #malfoid and #malfoygirl, including episode teasers for Next Realm Studios. All twelve posts from 17 and 18 November are embedded below."
-    tags: [x, video, malfoid]
-    videos:
-      - {url: "https://x.com/Jack_DeMonkey/status/2122791609842495823", label: "Malfoid video post, 17 Nov 2026"}
-      - {url: "https://x.com/Jack_DeMonkey/status/2122787569826247106", label: "Malfoid video post, 17 Nov 2026"}
-      - {url: "https://x.com/Jack_DeMonkey/status/2122796186386280873", label: "Malfoid video post, 17 Nov 2026"}
-      - {url: "https://x.com/Jack_DeMonkey/status/2122779769670365424", label: "Malfoid video post, 17 Nov 2026"}
-      - {url: "https://x.com/Jack_DeMonkey/status/2122788326948163761", label: "Malfoid video post, 17 Nov 2026"}
-      - {url: "https://x.com/Jack_DeMonkey/status/2122786502794965320", label: "Malfoid video post, 17 Nov 2026"}
-      - {url: "https://x.com/Jack_DeMonkey/status/2122803611688484920", label: "Malfoid video post, 17 Nov 2026"}
-      - {url: "https://x.com/Jack_DeMonkey/status/2122790249550029253", label: "Malfoid video post, 17 Nov 2026"}
-      - {url: "https://x.com/Jack_DeMonkey/status/2122789737664487860", label: "Malfoid video post, 17 Nov 2026"}
-      - {url: "https://x.com/Jack_DeMonkey/status/2122781361962725735", label: "Malfoid video post, 17 Nov 2026"}
-      - {url: "https://x.com/Jack_DeMonkey/status/2122780888660677002", label: "Malfoid video post, 17 Nov 2026"}
-      - {url: "https://x.com/Jack_DeMonkey/status/2122786916747915463", label: "Malfoid video post, 17 Nov 2026"}
   - id: "creator-logosoverflow"
     title: "Logos Overflow"
     first_name: ""
