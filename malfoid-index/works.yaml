@@ -5247,3 +5247,27 @@ works:
       - {url: "https://x.com/ESTEBUENOSTUDIO/status/2118704024257978432", label: "Malfoyd episode 2: The Jumper, 6 Nov 2026"}
       - {url: "https://x.com/ESTEBUENOSTUDIO/status/2118008328345604368", label: "Malfoyd episode 1: Love Potions, 4 Nov 2026"}
     tags: [video, ai-video, x]
+  - id: "creator-viperstudios4"
+    title: "Viper Studios"
+    first_name: "Draconia"
+    kind: [creator, video]
+    creator: "Viper Studios (@viperstudios4)"
+    url: "https://x.com/viperstudios4"
+    language: "English"
+    added: 2026-11-18
+    summary: "AI-made Malfoid videos on X, including The Draconia Affair episodes 1 to 3."
+    videos:
+      - {url: "https://x.com/viperstudios4/status/2122901376766497099", label: "Malfoid risks her father's wrath, 18 Nov 2026"}
+      - {url: "https://x.com/viperstudios4/status/2122048463995281851", label: "The Draconia Affair: Episode 3, 15 Nov 2026"}
+      - {url: "https://x.com/viperstudios4/status/2121399658127962146", label: "Potter gets his Swayze on with Malfoid, 14 Nov 2026"}
+      - {url: "https://x.com/viperstudios4/status/2120663983183061330", label: "The Draconia Affair: hippogriff lesson, 11 Nov 2026"}
+      - {url: "https://x.com/viperstudios4/status/2120486266290532835", label: "Harry and Malfoid cause public mayhem, 11 Nov 2026"}
+      - {url: "https://x.com/viperstudios4/status/2119236256211128484", label: "The Draconia Affair: Episode 2, 8 Nov 2026"}
+      - {url: "https://x.com/viperstudios4/status/2117734324271300832", label: "The Draconia Affair: Episode 1, 3 Nov 2026"}
+      - {url: "https://x.com/viperstudios4/status/2116984786682069061", label: "Malfoid pranks her roommate and gets caught by her own spell, 1 Nov 2026"}
+      - {url: "https://x.com/viperstudios4/status/2116379653057458574", label: "Halloween special: zombie infestation at Hogwarts, 31 Oct 2026"}
+      - {url: "https://x.com/viperstudios4/status/2115753866193203224", label: "Malfoid came prepared for Potions, 29 Oct 2026"}
+      - {url: "https://x.com/viperstudios4/status/2114647935258673371", label: "Another Malfoid clip, 26 Oct 2026"}
+      - {url: "https://x.com/viperstudios4/status/2113746815983948215", label: "Draconia Malfoy fanfic clip, 23 Oct 2026"}
+      - {url: "https://x.com/viperstudios4/status/2110851678606078163", label: "Another take on the Draconia Malfoy trend, 15 Oct 2026"}
+    tags: [video, ai-video, x]
