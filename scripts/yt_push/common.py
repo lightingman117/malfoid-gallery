@@ -3,6 +3,21 @@ import os
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
+
+
+def _load_dotenv(path: Path) -> None:
+    """Read KEY=VALUE lines into os.environ. Variables already set win."""
+    if not path.exists():
+        return
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, _, value = line.partition("=")
+        os.environ.setdefault(key.strip(), value.strip().strip('"').strip("'"))
+
+
+_load_dotenv(Path(__file__).resolve().parent / ".env")
 REPO = HERE.parent.parent
 DATA = Path(os.environ.get("YT_PUSH_DATA", HERE / "data"))
 QUEUE = DATA / "queue.jsonl"
