@@ -1412,14 +1412,18 @@ works:
     tags: [youtube, patreon, x]
   - id: "creator-rhedak"
     order: 4
+    thumb: "https://i.ytimg.com/vi/Lg4EZcwSjfg/hqdefault.jpg"
     title: "rhedak"
     first_name: ""
-    kind: creator
+    kind: [creator, video]
     creator: "rhedak"
     url: "https://x.com/rhedak1"
     added: 2026-11-08
-    summary: "The maintainer of this index and the Malfoid gallery. Hobby game dev and author."
-    tags: [gallery-maintainer, x]
+    summary: "The maintainer of this index and the Malfoid gallery. Hobby game dev and author. Malfoid meets Harry Potter for the first time at Madam Malkins, as a video and a Short."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=Lg4EZcwSjfg", label: "Malfoid meets Harry Potter for the first time at Madam Malkins"}
+      - {url: "https://www.youtube.com/shorts/R02SWtCRxAM", label: "Malfoid meets Harry Potter for the first time at Madam Malkins (Short)"}
+    tags: [gallery-maintainer, x, youtube]
   - id: "creator-blazzsatan"
     title: "Blazz"
     first_name: ""
