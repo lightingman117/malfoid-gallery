@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Template. Installed by copying with REPO and PYTHON replaced by absolute paths
+     to ~/Library/LaunchAgents/. Runs at 09:00 each day: rebuild the channel list
+     from the index, then poll the feeds and write the digest. -->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.malfoid.yt-feeds-daily</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/sh</string><string>-c</string>
+    <string>cd REPO/scripts/yt_feeds &amp;&amp; PYTHON build_channels.py; PYTHON poll_feeds.py</string>
+  </array>
+  <key>StartCalendarInterval</key>
+  <dict><key>Hour</key><integer>9</integer><key>Minute</key><integer>0</integer></dict>
+  <key>StandardOutPath</key><string>REPO/scripts/yt_feeds/data/daily.log</string>
+  <key>StandardErrorPath</key><string>REPO/scripts/yt_feeds/data/daily.log</string>
+</dict>
+</plist>

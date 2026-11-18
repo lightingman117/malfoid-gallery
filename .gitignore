@@ -5,3 +5,4 @@ scripts/yt_push/data/
 .env
 scripts/yt_push/.env
 ssh_yumkeks.sh
+scripts/yt_feeds/data/
