@@ -4352,6 +4352,7 @@ works:
     summary: "Fan videos and songs about Draconia Malfoy by @ikskei, posted on X. Some are in Japanese with English subtitles; the Livesey phonk video is music only."
     tags: [comedy, music, halloween, x]
     videos:
+      - {url: "https://x.com/ikskei/status/2123050973622948236", label: "Rule 63 comedy: Draconia's first trip to Diagon Alley, 18 Nov 2026"}
       - {url: "https://x.com/ikskei/status/2122048990376063442", label: "Rule 63 comedy: \"There's only one Malfoy in this world. That's her.\""}
       - {url: "https://x.com/ikskei/status/2116861563831513226", label: "Halloween song: \"She crowns herself pumpkin queen.\""}
       - {url: "https://x.com/ikskei/status/2121673941517513032", label: "Drakonia song: \"Drakonia Malfoy insists she's a perfectly composed Slytherin lady.\""}
