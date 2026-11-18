@@ -2947,6 +2947,7 @@ works:
     summary: "A read-only file archive that indexes and keeps copies of Malfoid content, in folders for archive.org copies, music, series and stories."
     tags: [archive, directory, files]
   - id: "site-malfoid-com"
+    thumb: "banners/malfoid-com.webp"
     title: "Malfoid (malfoid.com)"
     first_name: ""
     kind: [other, comic, fanfic, art, game, video]
