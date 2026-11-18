@@ -1389,6 +1389,7 @@ works:
     summary: "Original art and memes, with commissions open. Has a guild on Telegram."
     tags: [original-art, commissions, memes, x]
   - id: "creator-malfoid-software"
+    thumb: "https://i.ytimg.com/vi/tEcliYi8b3c/hqdefault.jpg"
     title: "Malfoid Software"
     first_name: ""
     kind: [creator, video]
@@ -1581,6 +1582,7 @@ works:
     tags: [music, video, x, youtube]
     format: other
   - id: "video-foyege-malfoy-story"
+    thumb: "https://i.ytimg.com/vi/Waim1H0GR_A/hqdefault.jpg"
     title: "The Malfoy Story"
     first_name: ""
     kind: video
@@ -1693,6 +1695,7 @@ works:
     summary: "Writes Harry Potter and the Sorcerer's Tsundere on Wattpad, and is also an audiobook author and narrator."
     tags: [fanfic, audiobook, x]
   - id: "creator-stories-for-the-road"
+    thumb: "https://i.ytimg.com/vi/PBug5a7Xx4E/hqdefault.jpg"
     title: "Stories for the Road"
     first_name: ""
     kind: [creator, video]
@@ -1758,6 +1761,7 @@ works:
     summary: "A 10-video playlist of Project Malfoid trailers and scenes in chronological order, from the teaser trailer to Une Vie à T'aimer."
     tags: [playlist, series, trailer]
   - id: "creator-projectmalfoid"
+    thumb: "https://i.ytimg.com/vi/Hcr1k2DZnUg/hqdefault.jpg"
     title: "Project Malfoid"
     first_name: ""
     kind: [creator, video]
@@ -1774,6 +1778,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=-iQoW9f837U", label: "PROJECT MALFOID - BOOK 1", also: ["https://x.com/projectmalfoid/status/2122443270131253540"]}
     tags: [video, compilation, x, youtube]
   - id: "creator-malfoveil"
+    thumb: "https://i.ytimg.com/vi/zxSyvt4wl78/hqdefault.jpg"
     title: "MALFOVEIL"
     first_name: ""
     kind: [creator, music, video]
@@ -1903,6 +1908,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=aGSG0e-uVmc", label: "I Think I Know Why Foyege's Malfoid Got Taken Down"}
     tags: [video, playlist, youtube]
   - id: "creator-unstablegen"
+    thumb: "https://i.ytimg.com/vi/p2J1NCV-A8g/hqdefault.jpg"
     title: "UnstableGen"
     first_name: ""
     kind: [creator, video]
@@ -1963,6 +1969,7 @@ works:
     summary: "AI Malfoy story fan art and Malfoid videos on YouTube. Episodes 2 to 13 of the Malfoid (말포이TS) series and a compilation of episodes 1 to 14 are embedded below."
     tags: [fan-art, video, ai-generated, youtube]
   - id: "creator-mastodonstudios"
+    thumb: "https://i.ytimg.com/vi/tuLSqmkm7AU/hqdefault.jpg"
     title: "Mastodon Studios"
     first_name: ""
     kind: [creator, video]
@@ -2110,6 +2117,7 @@ works:
     also: ["https://www.deviantart.com/theexileddraco/gallery/104055535/hp---malfoy", "https://youtube.com/@TheExiledDraco"]
     tags: [comic, art, deviantart, x, youtube]
   - id: "creator-zey"
+    thumb: "https://i.ytimg.com/vi/MhNOO2ersyQ/hqdefault.jpg"
     title: "Zey"
     first_name: ""
     kind: [creator, video]
@@ -2213,6 +2221,7 @@ works:
     summary: "A Yule Ball scene with Dracea Malfoid and Harry, told over several X posts."
     tags: [yule-ball, x, thread]
   - id: "video-somehow-only-guy-wizarding-school"
+    thumb: "https://i.ytimg.com/vi/fqVd1D7ZQ2s/hqdefault.jpg"
     title: "Somehow I'm The Only Guy At Wizarding School (AI anime music videos)"
     first_name: ""
     kind: video
@@ -2241,6 +2250,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=FPxL2u9EuVY", label: "Somehow I'm the only guy at wizarding school: Year One (Malfoid Romcom)"}
     tags: [music-video, anime, ai-generated, subtitled]
   - id: "creator-thatonebelgian"
+    thumb: "https://i.ytimg.com/vi/PtRWLuY_f18/hqdefault.jpg"
     title: "That One Belgian"
     first_name: ""
     kind: [creator, video]
@@ -2255,6 +2265,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=PtRWLuY_f18", label: "My Immortal Chapter 1 (PLZ tell me fangz)"}
     tags: [video, ai-generated, youtube, x]
   - id: "audiobook-malfoid-and-the-thief-of-candlelight"
+    thumb: "https://i.ytimg.com/vi/hn1BAouhxzY/hqdefault.jpg"
     title: "Malfoid and the Thief of Candlelight (audiobook)"
     first_name: ""
     kind: video
@@ -2289,6 +2300,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=cqmvUw9dhFE", label: "Part Two of The Shuttered Lamps"}
     tags: [audiobook, series, ai-generated, youtube]
   - id: "creator-philmycrackin"
+    thumb: "https://i.ytimg.com/vi/hn1BAouhxzY/hqdefault.jpg"
     title: "Philmycrakin-5"
     first_name: ""
     kind: [creator, video]
@@ -2322,6 +2334,7 @@ works:
     summary: "A megathread on X that compiles the author's Malfoid writing, with commentary on Draceana and Harry, across several posts."
     tags: [thread, collection, x]
   - id: "creator-wispaigc"
+    thumb: "https://i.ytimg.com/vi/MuGOwvS3ONY/hqdefault.jpg"
     title: "WispAIGC"
     first_name: "Draconia"
     kind: [creator, video]
@@ -2849,6 +2862,7 @@ works:
       - title: "Harry Potter and a Date in Halloween"
         url: "https://x.com/crow_agito/status/2115805533638996209"
   - id: "creator-weeknight"
+    thumb: "https://i.ytimg.com/vi/oxIP3u9FleA/hqdefault.jpg"
     title: "Weeknight"
     first_name: ""
     kind: [creator, video]
@@ -2892,6 +2906,7 @@ works:
     summary: "Free Harry Potter visual novel and dating sim (version 2.1.4), with a female Draco Malfoy who keeps asking Harry out, across seven years at Hogwarts. Based loosely on the Wattpad story Draconia Malfoy and the Boy Who Said No. Version 2.0 has 21 chapters, about 61,000 words and 6 to 8 reading hours. The older chapters have 12 languages and voices; the added chapters are English text only. The creator discloses AI-assisted writing, art and synthetic audio. The game contains war violence, deaths and an abusive parent."
     tags: [visual-novel, dating-sim, ai-assisted, content-warnings, free, game]
   - id: "creator-psyernprodigi"
+    thumb: "https://i.ytimg.com/vi/FH6H9DAB_iE/hqdefault.jpg"
     title: "Psyern"
     first_name: "Draconia"
     kind: [creator, video]
@@ -5046,6 +5061,7 @@ works:
     summary: "Book 1 of a planned beat-by-beat retelling of the Harry Potter books from the Slytherin side. It follows Dracaena's early life and her first meeting with Harry, with the female Slytherin dorm and the other students in view. Book 2 is in progress, and major canon changes are planned from Book 4."
     tags: [wattpad, retelling, series, slytherin]
   - id: "video-haleamory-memory-shorts"
+    thumb: "https://i.ytimg.com/vi/SexDjrNqncE/hqdefault.jpg"
     title: "Amory Hale: memory shorts"
     first_name: ""
     kind: video
@@ -5112,6 +5128,7 @@ works:
     summary: "A one-shot set in the summer of 1995, after Voldemort's return. Dracaena Malfoy visits Harry at Privet Drive, and a day in Muggle London brings back their Hogwarts past. Translated from the author's Spanish original, El recuerdo que brilla."
     tags: [one-shot, romance, translated, ao3]
   - id: "video-keheng-ai-ts-malfoy"
+    thumb: "https://i.ytimg.com/vi/yRvvjuljSmc/hqdefault.jpg"
     title: "KeHeng_AI: TS Malfoy videos"
     first_name: ""
     kind: video
@@ -5130,6 +5147,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=b_bV9aRuxYA", label: "[TS Malfoy] I'll Make You Regret Refusing Me"}
       - {url: "https://www.youtube.com/watch?v=Gsoqa49_gLQ", label: "TS Malfoy Anime Second Ending Song: Not What I Meant (Full Version)"}
   - id: "creator-tooner"
+    thumb: "https://i.ytimg.com/vi/LYBoP6hkR-g/hqdefault.jpg"
     title: "TOONER"
     first_name: ""
     kind: [creator, video]
