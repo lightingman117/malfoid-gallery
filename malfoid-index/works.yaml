@@ -4717,6 +4717,8 @@ works:
       - {url: "https://www.youtube.com/watch?v=wN19-TZscZI", label: "Malfoid Tried Love Potion on Harry"}
       - {url: "https://www.youtube.com/watch?v=UN0YN40qKPY", label: "Malfoid beautiful dream with Harry"}
       - {url: "https://www.youtube.com/watch?v=Fb0bp8yc7HQ", label: "Hermione is getting jealous of Malfoid"}
+      - {url: "https://rumble.com/embed/v7gc4ak/?pub=13iafn", label: "May we Never Stop Yearning for Malfoid", also: ["https://drive.google.com/file/d/1pekrP1kU7NduBOZgIeKxuul0UcNiY7bw/view?usp=drive_link"]}
+      - {url: "https://rumble.com/embed/v7gc4di/?pub=13iafn", label: "Harry Wants Something from Malfoid", also: ["https://drive.google.com/file/d/1PA7dFjQNU2ct-eJfdhRg8kf89qaMrtVW/view?usp=drive_link"]}
   - id: "creator-malfoid-series"
     title: "Malfoid"
     first_name: ""
