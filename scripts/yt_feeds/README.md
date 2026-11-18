@@ -27,3 +27,14 @@ Stop it: `launchctl bootout gui/$(id -u)/com.malfoid.yt-feeds-daily`
 Start it again: `launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.malfoid.yt-feeds-daily.plist`
 
 Run it now: `cd scripts/yt_feeds && python3 build_channels.py && python3 poll_feeds.py`
+
+## Deleted-video check
+
+`check_deleted.py` runs after the feed poll. It checks every YouTube video linked from `works.yaml` (about 820) and writes `data/deleted-report-YYYY-MM-DD.md` when something is unavailable, back online, or could not be checked. It also keeps the last known state in `data/video_status.json`.
+
+- A video is only reported as unavailable when the watch page itself says so. A failed oEmbed lookup on its own does not count, because oEmbed has returned false "not found" results for working Shorts.
+- A network error is reported as "could not check", never as unavailable.
+- It changes nothing in the index. Verify each report entry by hand, then edit the index.
+- Playlists and channels are not checked.
+
+Run it now: `python3 check_deleted.py`
