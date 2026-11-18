@@ -5383,3 +5383,19 @@ works:
       - {url: "https://www.youtube.com/shorts/kkBQInY7Zzo", label: "[AI MV] Don't Hold Back (Part 3) | Fem!Malfoy Knight Academy AU (Short)"}
       - {url: "https://www.youtube.com/shorts/1f9x9e1YP4M", label: "[AI MV] Don't Hold Back (Part 3) | Fem!Malfoy Knight Academy AU (Short)"}
     tags: [video, music, ai-video, youtube]
+  - id: "creator-mysticsageia"
+    title: "Mystic Sageia (@Mysticsageia)"
+    first_name: ""
+    kind: [creator, video]
+    creator: "Mystic Sageia (@Mysticsageia)"
+    url: "https://www.youtube.com/@Mysticsageia"
+    language: "English"
+    added: 2026-11-18
+    summary: "Malfoid anime-style videos on YouTube, all about Malfoid."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=Nu2YCSlcRUk", label: "What If Draconia Got Married? \"Fly Away on a Broomstick\" | Malfoid MV"}
+      - {url: "https://www.youtube.com/watch?v=58hACrzKF4U", label: "IT'S HER?! Ferret Draconia's Adventures (Full Episode) | Malfoid Anime"}
+      - {url: "https://www.youtube.com/watch?v=LaoA141MBiI", label: "Draconia Took him on a Date | Malfoid: Hogsmeade Episode | Harry Potter Anime Parody"}
+      - {url: "https://www.youtube.com/watch?v=_yFiftzSXcQ", label: "Pottah Fell for a Ferret | Malfoid: The Polyjuice Arc (Full)"}
+      - {url: "https://www.youtube.com/watch?v=KBX6kXEzjV0", label: "They Almost Kissed in Mid-Air | Malfoid: The Amortentia Arc (Full) | Anime"}
+    tags: [video, anime, youtube]
