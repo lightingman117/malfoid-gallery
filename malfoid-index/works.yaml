@@ -2444,6 +2444,7 @@ works:
     kind: [creator, video, fanfic]
     format: anime
     creator: "J.A. Vázquez (@j.a.vazquez5946) / Historias Impact Eng (@AzratemES)"
+    handles: ["j.a.vazquez5946", "AzratemES", "Historias Impact Eng"]
     url: "https://www.youtube.com/watch?v=euyK-S8dOto"
     language: "English"
     also: ["https://www.youtube.com/@j.a.vazquez5946", "https://x.com/AzratemES"]

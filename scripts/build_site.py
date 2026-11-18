@@ -544,6 +544,7 @@ def build_works():
             "length": length_of(w.get("length")),
             "format": format_of(w.get("format")),
             "first_name": text(w.get("first_name")),
+            "handles": [text(h) for h in (w.get("handles") or []) if text(h)],
         })
     works.sort(key=lambda w: (w["order"] is None, w["order"] or 0, w["title"].lower()))
     return {"title": text(data.get("title")) or "Malfoid Index", "contact": text(data.get("contact")), "works": works}
