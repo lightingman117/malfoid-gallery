@@ -1571,6 +1571,8 @@ works:
       - {url: "https://www.youtube.com/watch?v=tRaqpImDEJA", label: "Pure Blood, Bleeding Heart (Director's Cut)"}
       - {url: "https://www.youtube.com/watch?v=oUM3X_wPn7s", label: "Pure Blood, Bleeding Heart 「純血と、血を流す心」"}
       - {url: "https://www.youtube.com/watch?v=bbb55OuctqU", label: "Pure Blood, Bad Attitude"}
+      - {url: "https://www.youtube.com/watch?v=BZUj-788q7c", label: "Cake or Creature? | Sorting Hogwarts Into Sweets and Beasts"}
+      - {url: "https://www.youtube.com/watch?v=C63V4sG74us", label: "Over My Dead Broom | Six Big Brothers, But I Bite the Worst"}
     tags: [music, video, x, youtube]
     format: other
   - id: "video-foyege-malfoy-story"
@@ -1713,6 +1715,8 @@ works:
       - {url: "https://www.youtube.com/watch?v=RilUwDDoK7c", label: "Measure of a Malfoy Lost Chapters Book1 Matter of Honor"}
       - {url: "https://www.youtube.com/watch?v=CHYGlKlB2yY", label: "The Measure of a Malfoy - Book 2 - The Weight of a Word"}
       - {url: "https://www.youtube.com/watch?v=im_Op6ykYXQ", label: "The Measure of a Malfoy - Book 1"}
+      - {url: "https://www.youtube.com/watch?v=cYF_-oFELPU", label: "The Measure of a Malfoy — Year Four: The Name Between Them, Part 1 of 4"}
+      - {url: "https://www.youtube.com/watch?v=TwhZPL19dDk", label: "Stories for the Road Trailer ~ Our Ethos"}
   # NOTE: only The Weasley Spellweaver is confirmed SFW (by the submitter). Behind The Broken Glass (severed head),
   # The Serpent's Leash and A Catch Worth Falling For (kissing, mild accidental groping) are not confirmed.
   # The author's bio says the fics "might have spiciness". Story links and languages still need checking.
@@ -1797,6 +1801,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=R7uAki7r2_4", label: "YOU'RE MY WORST SPELL 🖤 | Harry Potter x Female Malfoy | Hogwarts Dark Romance"}
       - {url: "https://www.youtube.com/watch?v=mFA29V8mUSs", label: "BORN TO BE YOUR ENEMY 🖤 | Female Draco Malfoy × Harry Potter | Gothic Rock"}
       - {url: "https://www.youtube.com/watch?v=zV96MQubjlE", label: "I DON'T HATE YOU, POTTER 💚 | Female Draco Malfoy × Harry Potter | Dark Romance Song"}
+      - {url: "https://www.youtube.com/watch?v=FuphhjOT-rw", label: "MALFOID Thought She Lost HARRY POTTER | I Thought I Lost You (Gothic Rock Music Video)"}
     tags: [music, video, youtube]
   - id: "creator-alxaiproductions"
     thumb: "https://i.ytimg.com/vi/wn6wEEpCUMo/hqdefault.jpg"
@@ -1826,6 +1831,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=Q0A9L00RsUw", label: "Chapter 13: A Visitor (A Dracaena Malfoy Saga)"}
       - {url: "https://www.youtube.com/watch?v=FCHx36oEMzU", label: "Chapter 14: The Mirror (A Dracaena Malfoy Saga)"}
       - {url: "https://www.youtube.com/watch?v=BL0FhRKHd1g", label: "A Dracaena Malfoy Saga Chapters 1 - 10 (Season 1 Complete)"}
+      - {url: "https://www.youtube.com/watch?v=VegYq4mKb9Y", label: "Chapter 15: Family Dinner (A Dracaena Malfoy Saga)"}
     tags: [video, ai-generated, youtube]
   - id: "creator-schmede-ai"
     thumb: "https://i.ytimg.com/vi/cNyD-fQWU-Q/hqdefault.jpg"
@@ -1888,6 +1894,8 @@ works:
       - {url: "https://www.youtube.com/watch?v=_oBn5vsJf-Y", label: "Malfoid - I Was Joking Pt. 8 - Does He Know?"}
       - {url: "https://www.youtube.com/watch?v=KGR6ejXoDZ8", label: "Malfoid - I Was Joking Pt. 9 - I Won't Say Anything"}
       - {url: "https://www.youtube.com/watch?v=2OIGH7ywlpY", label: "Malfoid - I Was Joking Pt. 10 - You All Right?"}
+      - {url: "https://www.youtube.com/watch?v=27HaV1mLSeg", label: "Malfoid - I Was Joking Pt. 12 - What Slytherin Girl?"}
+      - {url: "https://www.youtube.com/watch?v=aGSG0e-uVmc", label: "I Think I Know Why Foyege's Malfoid Got Taken Down"}
     tags: [video, playlist, youtube]
   - id: "creator-unstablegen"
     title: "UnstableGen"
@@ -2237,6 +2245,8 @@ works:
     added: 2026-11-09
     summary: "Makes AI-made anime music videos of Somehow I'm The Only Guy At Wizarding School on YouTube."
     also: ["https://x.com/belgianredacted"]
+    videos:
+      - {url: "https://www.youtube.com/watch?v=PtRWLuY_f18", label: "My Immortal Chapter 1 (PLZ tell me fangz)"}
     tags: [video, ai-generated, youtube, x]
   - id: "audiobook-malfoid-and-the-thief-of-candlelight"
     title: "Malfoid and the Thief of Candlelight (audiobook)"
@@ -2292,6 +2302,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=zXh0pGRFclI", label: "New music video from Malfoid."}
       - {url: "https://www.youtube.com/watch?v=May5sqrAJ-E", label: "Book 3 is finally here! Malfoid and the Silverwing!"}
       - {url: "https://www.youtube.com/watch?v=qzF3vzWuGdA", label: "Book Two of the series. Malfoid and the Whispering Corridor. Chapters 1-6"}
+      - {url: "https://www.youtube.com/shorts/M5ERcKRTgLI", label: "For The Boy Who Lives"}
     tags: [video, series, youtube]
   - id: "fanfic-critical-scribe-megathread"
     title: "Malfoid writing megathread (X)"
@@ -4029,7 +4040,7 @@ works:
     language: "English"
     added: 2026-11-16
     thumb: "https://i.ytimg.com/vi/TZutaMyIxoc/hqdefault.jpg"
-    summary: "Short anime edits of Malfoid with Harry Potter on YouTube, from the Malfoid playlist. All 45 videos in the playlist are embedded below."
+    summary: "Short anime edits of Malfoid with Harry Potter on YouTube, from the Malfoid playlist. The 45 videos of the playlist, plus two newer shorts, are embedded below."
     videos:
       - "https://www.youtube.com/watch?v=TZutaMyIxoc"
       - "https://www.youtube.com/watch?v=mVzTcsNuvcw"
@@ -4076,6 +4087,8 @@ works:
       - "https://www.youtube.com/watch?v=Ks6M7QZaI5s"
       - "https://www.youtube.com/watch?v=7VhFIPMe100"
       - "https://www.youtube.com/watch?v=KjA1z8wD8Uk"
+      - {url: "https://www.youtube.com/shorts/1F0mXkcofVg", label: "He Chose Her Over Everything"}
+      - {url: "https://www.youtube.com/shorts/exmHK9p1JKA", label: "So, What Will Draconia Say?"}
     tags: [anime, video, youtube, malfoid]
   - id: "creator-yolitart"
     title: "YoliArt"
@@ -4087,7 +4100,7 @@ works:
     language: "English"
     added: 2026-11-16
     thumb: "https://i.ytimg.com/vi/3Cr9V9Y_O7g/hqdefault.jpg"
-    summary: "Retro anime style Harry Potter and Draco love-story videos on YouTube. All 27 of the channel's videos are embedded below: 16 regular videos and 11 shorts."
+    summary: "Retro anime style Harry Potter and Draco love-story videos on YouTube. All 28 of the channel's videos are embedded below: 17 regular videos and 11 shorts."
     videos:
       - "https://www.youtube.com/watch?v=3Cr9V9Y_O7g"
       - "https://www.youtube.com/watch?v=VlktJl1rMLU"
@@ -4116,6 +4129,7 @@ works:
       - "https://www.youtube.com/watch?v=TqCaz1fY_E8"
       - "https://www.youtube.com/watch?v=nf3d0XDrOqU"
       - "https://www.youtube.com/watch?v=PFj8m7H7SPo"
+      - {url: "https://www.youtube.com/watch?v=Zn8jrtlCYH0", label: "LOVE, PRIDE & MAGIC | YoliArt – The Story Continues"}
     tags: [anime, video, youtube, retro]
   - id: "fanfic-wattpad-419745237"
     title: "Harry Potter and the Crown of Serpents"
@@ -4302,6 +4316,9 @@ works:
       - {url: "https://www.youtube.com/watch?v=-57Pgrwj6R4", label: "🎃 Draconia Turns Someone Into a Pumpkin! 🪄🐍 | Happy Halloween! #Shorts"}
       - {url: "https://www.youtube.com/watch?v=P-JBRNELOtM", label: "🐍 Draconia Malfoy: A Serpent’s Heart | New Episode Coming Soon! 🏰✨"}
       - {url: "https://www.youtube.com/watch?v=LfrWg671FJE", label: "Draconia Malfoy: The Malfoy Name | Episode 1 | AI Harry Potter Fan Series"}
+      - {url: "https://www.youtube.com/watch?v=kvuRTw9n4NI", label: "10. Draconia Malfoy A Serpent's Heart - Arrival"}
+      - {url: "https://www.youtube.com/watch?v=mYatv_BidUM", label: "8. Draconia Malfoy A Serpent's Heart - Gentle Curiosity"}
+      - {url: "https://www.youtube.com/watch?v=pIZPcmUsGMc", label: "9. Draconia Malfoy A Serpent's Heart - Quiet Mystery"}
   - id: "creator-ai-clips-uni"
     title: "ai_clips_uni"
     first_name: ""
@@ -4354,6 +4371,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=4EDlPtsbgmE", label: "POV: You Quietly Sit Beside a Sleeping Draconia Malfoy… 💚"}
       - {url: "https://www.youtube.com/watch?v=kwhuMeQOBso", label: "POV: You Find Draconia Malfoy Asleep in the Hogwarts Library… 💚"}
       - {url: "https://www.youtube.com/watch?v=4Cx3P66Dqmc", label: "POV: You’re Late on Your First Day… and Draconia Malfoy Is Waiting for You 💚"}
+      - {url: "https://www.youtube.com/watch?v=gyYYw4NfmrY", label: "POV: \"Just the Scarf, Then?\""}
   - id: "creator-dean-xx17"
     title: "Dean_xx"
     first_name: ""
@@ -4476,6 +4494,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=FWRX0OyYb4Y", label: "Draco Malfoid Meme Compilation"}
       - {url: "https://www.youtube.com/watch?v=0PSw_IjCLVU", label: "Me Making Malfoid Canon"}
       - {url: "https://www.youtube.com/watch?v=b2UiUf3EE54", label: "Draco Malfoy Waifu 3.0"}
+      - {url: "https://www.youtube.com/watch?v=2pcT-jQcpeo", label: "Draco Malfoid Compilation #6"}
   - id: "creator-gugolfaistudio"
     title: "GugolfAIStudio"
     first_name: ""
@@ -4587,6 +4606,9 @@ works:
       - {url: "https://www.youtube.com/watch?v=15PG0ZtPP1Y", label: "What if Dean Winchester met Harry Potter"}
       - {url: "https://www.youtube.com/watch?v=cMf7jcgrWII", label: "The Harry Potter national team at the FIFA World Cup"}
       - {url: "https://www.youtube.com/watch?v=8cDozZiD_Yo", label: "Harry Potter Music Videos"}
+      - {url: "https://www.youtube.com/shorts/BM0fVOqPUGM", label: "Malfoid Multiverse | 21: A Tape for You: My Date with Malfoid"}
+      - {url: "https://www.youtube.com/shorts/i1RyPQSpoh0", label: "Malfoid Multiverse | 01: Her Happiest Memory (Segment 1/2)"}
+      - {url: "https://www.youtube.com/shorts/b7B7B9O0UI0", label: "Magical Indiscretions | 08: Part 08: Tank"}
   - id: "creator-inspo-live"
     title: "Inspo"
     first_name: ""
@@ -4729,6 +4751,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=inOb19ImRPA", label: "Draconia Malfoy | You're Not Allowed to Die (Harry Potter AU Music Video)"}
       - {url: "https://www.youtube.com/watch?v=Fr3Z6dOx-Yk", label: "Draconia Malfoy | Don't Look Away (Harry Potter AU Music Video)"}
       - {url: "https://www.youtube.com/watch?v=yE2KmhD4g84", label: "Draconia Malfoy x Harry | When Pride Crumbles (Harry Potter AU Music Video)"}
+      - {url: "https://www.youtube.com/watch?v=WL-7tPuhE6Y", label: "Draconia Malfoy | Don't Let Me Go (Harry Potter AU Music Video)"}
   - id: "creator-next-realm-studios"
     title: "Next Realm Studios"
     first_name: ""
@@ -4822,6 +4845,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=lkxURRGiGrQ", label: "The Chosen One | Harry Potter Fanfic | Chapter 3: The Ball and Her Father's Letter"}
       - {url: "https://www.youtube.com/watch?v=F6vB6bEIaJI", label: "The Chosen One | Harry Potter Fanfic | Chapter 2: The Duel"}
       - {url: "https://www.youtube.com/watch?v=YtLPrtEu7Eo", label: "The Chosen One | Harry Potter Fanfic | Chapter 1: Enemies"}
+      - {url: "https://www.youtube.com/watch?v=0Oj9n0BdJbM", label: "Chapter 13: Their First Kiss | The Chosen One Audiobook"}
   - id: "creator-themalfoyversey"
     title: "The Malfoyverse"
     first_name: ""
