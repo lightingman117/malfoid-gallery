@@ -6,3 +6,4 @@ scripts/yt_push/data/
 scripts/yt_push/.env
 ssh_yumkeks.sh
 scripts/yt_feeds/data/
+scripts/x_daily/data/
