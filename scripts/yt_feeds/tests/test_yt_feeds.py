@@ -40,10 +40,20 @@ class ParseTests(unittest.TestCase):
 
 class PollTests(unittest.TestCase):
     def test_first_run_seeds_seen_without_new_items(self):
-        r = poll_feeds.poll(CHANNELS, fetch_ok, {}, first_run=True, backfill=False, today="2026-11-18")
+        from datetime import datetime, timezone
+        much_later = datetime(2030, 1, 1, tzinfo=timezone.utc)  # every fixture entry is now older than 24 hours
+        r = poll_feeds.poll(CHANNELS, fetch_ok, {}, first_run=True, backfill=False, today="2026-11-18", now=much_later)
         self.assertEqual(r["new"], [])
         self.assertEqual(r["errors"], [])
         self.assertEqual(set(r["seen"]), {"AAAAAAAAAAA", "BBBBBBBBBBB", "CCCCCCCCCCC", "DDDDDDDDDDD"})
+
+    def test_first_run_reports_only_last_24_hours(self):
+        from datetime import datetime, timezone
+        now = datetime(2026, 11, 18, 12, 0, tzinfo=timezone.utc)
+        r = poll_feeds.poll(CHANNELS, fetch_ok, {}, first_run=True, backfill=False, today="2026-11-18", now=now)
+        # FEED_A's "BBBBBBBBBBB" is published 2026-11-18T10:00 (recent); "AAAAAAAAAAA" is 2026-11-01 (old)
+        self.assertEqual({e["video_id"] for e in r["new"]}, {"BBBBBBBBBBB", "DDDDDDDDDDD"})
+        self.assertEqual(len(r["seen"]), 4)
 
     def test_backfill_reports_existing_on_first_run(self):
         r = poll_feeds.poll(CHANNELS, fetch_ok, {}, first_run=True, backfill=True, today="2026-11-18")

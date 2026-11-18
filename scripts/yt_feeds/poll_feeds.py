@@ -1,8 +1,9 @@
 """Daily poll of each channel's RSS feed. Reports videos not seen before.
 
-First run: every video currently in the feeds is recorded as seen and no digest
-is written, so you are not sent the existing back catalogue. Use --backfill to
-report them on the first run instead.
+First run: every video currently in the feeds is recorded as seen, but only the
+ones published in the last 24 hours are reported, so today's uploads are not
+lost and the older back catalogue is not sent. Use --backfill to report all of
+them on the first run instead.
 
 Later runs: each new video goes into data/digest-YYYY-MM-DD.md, marked "in index"
 or "not in index" depending on whether its ID appears in malfoid-index/works.yaml.
@@ -13,7 +14,7 @@ import json
 import sys
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import date
+from datetime import date, datetime, timedelta, timezone
 
 from common import DATA, FEED_URL, SEEN, USER_AGENT, WORKS, atomic_write, load_channels
 
@@ -45,8 +46,21 @@ def parse_feed(body: bytes, fallback_name: str = "") -> list[dict]:
     return out
 
 
-def poll(channels: list[dict], fetch, seen: dict, first_run: bool, backfill: bool, today: str) -> dict:
+RECENT = timedelta(hours=24)
+
+
+def is_recent(published: str, now: datetime) -> bool:
+    try:
+        when = datetime.fromisoformat(published.replace("Z", "+00:00"))
+    except ValueError:
+        return False
+    return now - when <= RECENT
+
+
+def poll(channels: list[dict], fetch, seen: dict, first_run: bool, backfill: bool, today: str,
+         now: datetime | None = None) -> dict:
     """Return {"new": [...], "errors": [...], "seen": updated_seen}. Does not touch the disk."""
+    now = now or datetime.now(timezone.utc)
     errors, found = [], []
     for c in channels:
         try:
@@ -60,7 +74,7 @@ def poll(channels: list[dict], fetch, seen: dict, first_run: bool, backfill: boo
 
     updated = dict(seen)
     if first_run and not backfill:
-        new = []
+        new = [e for vid, e in unique.items() if is_recent(e["published"], now)]
     else:
         new = [e for vid, e in unique.items() if vid not in seen]
     for vid, e in unique.items():
@@ -104,7 +118,7 @@ def main() -> int:
         print("nothing new")
     atomic_write(SEEN, json.dumps(result["seen"], ensure_ascii=False, indent=0) + "\n")
     if first_run and not args.backfill:
-        print(f"first run: recorded {len(result['seen'])} videos as seen, no digest written")
+        print(f"first run: recorded {len(result['seen'])} videos as seen; reported only those from the last 24 hours")
     return 1 if result["errors"] else 0
 
 
