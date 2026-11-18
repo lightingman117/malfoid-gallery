@@ -3963,6 +3963,8 @@ works:
       - {url: "https://www.youtube.com/watch?v=_DbIGG5GYNA", label: "[Malfoid] Harry Potter Fan Animation - Tart Episode"}
       - {url: "https://www.youtube.com/watch?v=AirdECh3E7A", label: "Harry Potter Fan Animation OP [Malfoid]"}
       - {url: "https://www.youtube.com/watch?v=AEWyBgP5ltI", label: "[Malfoid] Female Malfoy anime EP."}
+      - {url: "https://www.youtube.com/watch?v=pM2fkcGKGtE", label: "Malfoid: \"Potter merch is worth at least $67,000.\""}
+      - {url: "https://www.youtube.com/watch?v=4r2vSaY6Zk0", label: "[Malfoid] The Philosopher’s Stone MV"}
     tags: [animation, video, youtube, x]
   - id: "game-night-of-the-zomfoids"
     title: "Night of the Zomfoids"
