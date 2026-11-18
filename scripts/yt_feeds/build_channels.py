@@ -18,6 +18,9 @@ NOT_CHANNELS = {"watch", "shorts", "playlist", "embed", "feeds", "results"}
 CANONICAL_RE = re.compile(r'<link rel="canonical" href="https://www\.youtube\.com/channel/(UC[\w-]{22})"')
 ANY_CHANNEL_RE = re.compile(r"youtube\.com/channel/(UC[\w-]{22})")
 TITLE_RE = re.compile(r'<meta property="og:title" content="([^"]+)"')
+# Channels linked from the index that no longer exist. Skipped so the daily poll stays clean.
+# Papallax (creator-papallax): account deleted; its videos are being sought elsewhere.
+EXCLUDED = {"channel/uc_ys3lsi6f63bil1tnepn0w"}
 
 
 def extract_targets(text: str) -> list[str]:
@@ -68,7 +71,7 @@ def resolve(key: str, fetch=fetch_html) -> dict:
 
 def build(text: str, previous: list[dict], fetch=fetch_html) -> tuple[list[dict], list[str]]:
     """Return (channels, warnings). Previous entries are kept for channels that fail to resolve."""
-    targets = extract_targets(text)
+    targets = [k for k in extract_targets(text) if k.lower() not in EXCLUDED]
     prev_by_handle = {c["handle"].lower(): c for c in previous}
     with ThreadPoolExecutor(8) as ex:
         results = list(ex.map(lambda k: _safe_resolve(k, fetch), targets))
