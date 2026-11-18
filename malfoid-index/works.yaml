@@ -5363,3 +5363,22 @@ works:
       - {url: "https://x.com/lexx_aura/status/2114712835553140946", label: "Malfoy is hot blooded, 26 Oct 2026"}
       - {url: "https://x.com/lexx_aura/status/2114354154353381752", label: "Malfoy is being silly, 25 Oct 2026"}
     tags: [video, ai-video, x]
+  - id: "creator-ddulgul-ddulgula"
+    title: "뒹굴뒹굴 (@뒹굴뒹굴A)"
+    first_name: ""
+    kind: [creator, video]
+    creator: "뒹굴뒹굴 (@뒹굴뒹굴A)"
+    url: "https://www.youtube.com/@%EB%92%B9%EA%B5%B4%EB%92%B9%EA%B5%B4A"
+    language: "English"
+    added: 2026-11-18
+    summary: "AI music videos of Fem!Malfoy in a knight academy AU. Speech is English with Korean subtitles."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=f9qGkBXZ7H8", label: "[AI MV] Look Back | 여자 말포이 기사 학원 AU (Fem!Malfoy Knight Academy AU)"}
+      - {url: "https://www.youtube.com/watch?v=QKqe6eD4Y1g", label: "[AI MV] Come Back (Part 2) | Fem!Malfoy Knight Academy AU"}
+      - {url: "https://www.youtube.com/watch?v=LyMBfvcvZhw", label: "[AI MV] Don't Hold Back (Part 3) | Fem!Malfoy Knight Academy AU"}
+      - {url: "https://www.youtube.com/watch?v=T4C1lPmxsSA", label: "[AI MV] Step Back (Part 4) | Fem!Malfoy Knight Academy AU"}
+      - {url: "https://www.youtube.com/shorts/iSNQpBNKS6s", label: "[AI MV] Look Back (Part 1) | Fem!Malfoy Knight Academy AU (Short)"}
+      - {url: "https://www.youtube.com/shorts/9bWIYOlahas", label: "[AI MV] Come Back (Part 2) | Fem!Malfoy Knight Academy AU (Short)"}
+      - {url: "https://www.youtube.com/shorts/kkBQInY7Zzo", label: "[AI MV] Don't Hold Back (Part 3) | Fem!Malfoy Knight Academy AU (Short)"}
+      - {url: "https://www.youtube.com/shorts/1f9x9e1YP4M", label: "[AI MV] Don't Hold Back (Part 3) | Fem!Malfoy Knight Academy AU (Short)"}
+    tags: [video, music, ai-video, youtube]
