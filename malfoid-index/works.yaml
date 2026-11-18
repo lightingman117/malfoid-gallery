@@ -3957,7 +3957,8 @@ works:
     videos:
       - {url: "https://www.youtube.com/watch?v=ipMX5p79Gnk", label: "Malfoid Side Story: Future Arc(The Bathroom Duel) teaser."}
       - {url: "https://www.youtube.com/watch?v=D5s8yK-6VAA", label: "Entering Hogwarts! [TS Malfoid Animation - E.P 2]"}
-      - {url: "https://www.youtube.com/watch?v=-j4ez-XG1Fc", label: "[Malfoid] Detective Hermione"}
+      - {url: "https://rumble.com/embed/v7gc5ii/?pub=13iafn", label: "[Malfoid] Detective Hermione", also: ["https://www.youtube.com/watch?v=-j4ez-XG1Fc"]}
+      - {url: "https://rumble.com/embed/v7gc5lm/?pub=13iafn", label: "[Malfoid] love"}
       - {url: "https://www.youtube.com/shorts/siEEQoCJ5HA", label: "Short: 친구 해줄까? [TS 말포이 Malfoid]"}
       - {url: "https://www.youtube.com/shorts/fskkrA35Y_Q", label: "Short: [TS말포이]해리포터 팬애니 오프닝"}
       - {url: "https://www.youtube.com/shorts/A5ef6xqOZx4", label: "Short: [TS말포이] 홍보하는 말포이 #malfoid #말포이 #aianimation"}
