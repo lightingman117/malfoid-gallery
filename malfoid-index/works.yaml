@@ -5385,7 +5385,7 @@ works:
     tags: [video, music, ai-video, youtube]
   - id: "creator-mysticsageia"
     title: "Mystic Sageia (@Mysticsageia)"
-    first_name: ""
+    first_name: "Draconia"
     kind: [creator, video]
     creator: "Mystic Sageia (@Mysticsageia)"
     url: "https://www.youtube.com/@Mysticsageia"
@@ -5398,4 +5398,38 @@ works:
       - {url: "https://www.youtube.com/watch?v=LaoA141MBiI", label: "Draconia Took him on a Date | Malfoid: Hogsmeade Episode | Harry Potter Anime Parody"}
       - {url: "https://www.youtube.com/watch?v=_yFiftzSXcQ", label: "Pottah Fell for a Ferret | Malfoid: The Polyjuice Arc (Full)"}
       - {url: "https://www.youtube.com/watch?v=KBX6kXEzjV0", label: "They Almost Kissed in Mid-Air | Malfoid: The Amortentia Arc (Full) | Anime"}
+    tags: [video, anime, youtube]
+  - id: "creator-plotflip-studios"
+    title: "PlotFlip Studios (@PlotFlipStudios-t9e)"
+    first_name: ""
+    kind: [creator, video]
+    creator: "PlotFlip Studios (@PlotFlipStudios-t9e)"
+    url: "https://www.youtube.com/@PlotFlipStudios-t9e"
+    language: "English"
+    added: 2026-11-18
+    summary: "Anime-style Malfoid videos on YouTube, mostly the My Slytherin Rival Is a Girl series, with shorts."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=qOLMDsgwcqM", label: "My Slytherin Rival Is a Girl: Malfoy's Quidditch Disaster"}
+      - {url: "https://www.youtube.com/watch?v=V6LzPA1Dw88", label: "My Slytherin Rival Is a Girl: Sectumsempra, dramatic confrontation with Malfoy"}
+      - {url: "https://www.youtube.com/watch?v=YUKcKLNWNtM", label: "My Slytherin Rival Is a Girl: Malfoy turns herself into a ferret"}
+      - {url: "https://www.youtube.com/watch?v=Z4k556s6M_Y", label: "My Slytherin Rival Is a Girl: Malfoy challenged Ron to Wizard's Chess"}
+      - {url: "https://www.youtube.com/watch?v=-raDeCMAsVk", label: "My Slytherin Rival Is a Girl: Short, Malfoy cosplays as Potter for Halloween"}
+      - {url: "https://www.youtube.com/watch?v=2sqtl5BKM_Q", label: "My Slytherin Rival Is a Girl: Malfoy's worst nightmare is Harry getting married"}
+      - {url: "https://www.youtube.com/watch?v=SyWBSD8DUEY", label: "My Slytherin Rival Is a Girl: Luna exposes Malfoy's secret crush"}
+      - {url: "https://www.youtube.com/watch?v=znBvWuOxSu0", label: "What If Harry Potter Was a Romantic Comedy Anime with its own song?"}
+      - {url: "https://www.youtube.com/watch?v=URTVwX1RP9A", label: "What If Harry Potter Had a Romance Anime? Behind a Blink (Original Song)"}
+      - {url: "https://www.youtube.com/shorts/cEksHWisJaY", label: "Short: #anime #harrypotter #malfoid"}
+      - {url: "https://www.youtube.com/shorts/n8yPVH5sOhk", label: "Short: full video on channel #anime #harrypotter #malfoid"}
+      - {url: "https://www.youtube.com/shorts/MeH4RHmiKw8", label: "My Slytherin Rival Is a Girl, part 1 (Short)"}
+      - {url: "https://www.youtube.com/shorts/yQRSWKB52qw", label: "My Slytherin Rival Is a Girl, part 2 (Short)"}
+      - {url: "https://www.youtube.com/shorts/uuQcYsdCmms", label: "My Slytherin Rival Is a Girl, part 3 (Short)"}
+      - {url: "https://www.youtube.com/shorts/rGKoMb4oNK0", label: "My Slytherin Rival Is a Girl, part 4 (Short)"}
+      - {url: "https://www.youtube.com/shorts/qwbOyU9wsUM", label: "Short: #anime #malfoid #harrypotter #femalemalfoy #dracomalfoy"}
+      - {url: "https://www.youtube.com/shorts/J3YkC0SISU4", label: "My Slytherin Rival Is a Girl, part 5 (Short)"}
+      - {url: "https://www.youtube.com/shorts/RGM5t8ob94s", label: "My Slytherin Rival Is a Girl, part 6 (Short)"}
+      - {url: "https://www.youtube.com/shorts/f4v7QViu_ko", label: "My Slytherin Rival Is a Girl, extra 1 (Short)"}
+      - {url: "https://www.youtube.com/shorts/rFnyoIRFRJc", label: "My Slytherin Rival Is a Girl: Boggart Disaster, part 1 (Short)"}
+      - {url: "https://www.youtube.com/shorts/3kJcj-nG1Lc", label: "My Slytherin Rival Is a Girl: Boggart Disaster, part 2 (Short)"}
+      - {url: "https://www.youtube.com/shorts/QN8a7x2JhXk", label: "Short: Luna exposes Malfoy's secret crush"}
+      - {url: "https://www.youtube.com/shorts/zbus6j2vU5c", label: "I Made an Anime Opening for Harry Potter, but Malfoy is a girl!? (Short)"}
     tags: [video, anime, youtube]
