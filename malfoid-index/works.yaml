@@ -3605,16 +3605,33 @@ works:
     added: 2026-11-10
     summary: "Malfoid fan art on X, featured on malfoid.com: An upward glance, redrawn."
     tags: [art, x, malfoid.com]
+  - id: "creator-malfoyism"
+    title: "Malfoyism"
+    first_name: ""
+    kind: [creator, video]
+    creator: "Malfoyism (@Malfoyism-i3w)"
+    url: "https://www.youtube.com/@Malfoyism-i3w"
+    language: "English"
+    added: 2026-11-18
+    summary: "Draconia Malfoy Harry Potter POV videos on YouTube."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=SYG9osdIlVA", label: "Valentine's Day with Her | Draconia Malfoy from Harry Potter's POV"}
+      - {url: "https://www.youtube.com/watch?v=RsQshyL2oEs", label: "Potter's Christmas Flirting | Female Draco Malfoy x Harry Potter | POV"}
+    tags: [video, pov, youtube]
   - id: "creator-mf-zerozakiyamo"
     title: "零崎業萌"
     first_name: ""
-    kind: [creator, art]
+    kind: [creator, art, video]
     creator: "@zerozakiyamo"
     url: "https://x.com/zerozakiyamo"
+    also: ["https://www.youtube.com/@zerozakiyamo"]
     language: "English"
     added: 2026-11-10
-    summary: "Malfoid fan art on X, featured on malfoid.com: Bootlace on the lake embankment."
-    tags: [art, x, malfoid.com]
+    summary: "Malfoid fan art on X, featured on malfoid.com: Bootlace on the lake embankment. English dub episodes of Malfoy Won't Be Honest are on YouTube."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=lPapjPnfAZQ", label: "Malfoy Won't Be Honest: The Anonymous Bettor Pays Up (English Dub) | The Quibbler Extra"}
+      - {url: "https://www.youtube.com/watch?v=G3ZdQjVGBV4", label: "When Malfoy is a Girl: The Duelling Club Rematch (English Dub) | Malfoy won't be honest Ep.25"}
+    tags: [art, x, malfoid.com, video]
   - id: "creator-mf-sigmman"
     title: "시금"
     first_name: ""
