@@ -126,7 +126,7 @@
   function haystack(w) {
     var itemTitles = (w.items || []).map(function (i) { return i.title; });
     var joined = [w.title, w.creator, w.summary, w.language, (w.tags || []).join(" "), itemTitles.join(" "),
-      (w.kinds || []).map(function (k) { return KINDS[k] || k; }).join(" ")]
+      (w.handles || []).join(" "), (w.kinds || []).map(function (k) { return KINDS[k] || k; }).join(" ")]
       .join(" ");
     return fold(joined);
   }
