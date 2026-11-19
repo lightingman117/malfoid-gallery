@@ -2445,7 +2445,7 @@ works:
     format: anime
     creator: "J.A. Vázquez (@j.a.vazquez5946) / Historias Impact Eng (@AzratemES)"
     handles: ["j.a.vazquez5946", "AzratemES", "Historias Impact Eng"]
-    url: "https://www.youtube.com/watch?v=euyK-S8dOto"
+    url: "https://www.youtube.com/@j.a.vazquez5946"
     language: "English"
     also: ["https://www.youtube.com/@j.a.vazquez5946", "https://x.com/AzratemES"]
     embed: "https://rumble.com/embed/v7g6oea/?pub=13iafn"
@@ -2453,13 +2453,32 @@ works:
     embed_also: ["https://drive.google.com/file/d/1Jji2rE3dvaME3z5tzg8tp3vVVz9EgLfu/view"]
     videos:
       - {url: "https://rumble.com/embed/v7g92os/?pub=13iafn", label: "Draconia and Harry Yule Ball Full", also: ["https://drive.google.com/file/d/1EfbXPwZLIup-UlV6kZpVy0zKQ1tPIWt2/view"]}
-      - {url: "https://m.youtube.com/watch?v=xQCtLKeKFsg", label: "Harry Potter AU Ai-fanmade Yule Ball Snake Peek"}
+      - {url: "https://m.youtube.com/watch?v=xQCtLKeKFsg", label: "Harry Potter AU Ai-fanmade Yule Ball Snake Peek", also: ["https://x.com/AzratemES/status/2110096783775002957"]}
       - {url: "https://m.youtube.com/watch?v=22KxE-7dE70", label: "Harry Potter × Malfoid | SOON!!"}
       - {url: "https://m.youtube.com/watch?v=lYEIa9e1NH8", label: "Harry Potter AU || Final Battle || Snake Peak"}
       - {url: "https://m.youtube.com/watch?v=g6jjXAASi_Q", label: "Harry Potter AU || Final Battle || Sectumsempra Incident"}
-      - {url: "https://m.youtube.com/watch?v=WsgsDkufyNE", label: "Harry Potter AU || Battle of Hogwarts || Snake Peek"}
+      - {url: "https://m.youtube.com/watch?v=WsgsDkufyNE", label: "Harry Potter AU || Battle of Hogwarts || Snake Peek", also: ["https://x.com/AzratemES/status/2111593255414456644"]}
       - {url: "https://m.youtube.com/watch?v=Wwfda-Kykhg", label: "Harry Potter AU || Part 2 Snake Peak"}
-      - {url: "https://www.youtube.com/watch?v=qyVaSmKccjQ", label: "Harry Potter AU || Ultimatum || Snake Peek"}
+      - {url: "https://www.youtube.com/watch?v=qyVaSmKccjQ", label: "Harry Potter AU || Ultimatum || Snake Peek", also: ["https://x.com/AzratemES/status/2111513460794425645"]}
+      - {url: "https://x.com/AzratemES/status/2106082153293312467", label: "Harry Potter AU clip, 02 Oct 2026"}
+      - {url: "https://x.com/AzratemES/status/2106115213405880645", label: "Harry Potter AU clip, 02 Oct 2026"}
+      - {url: "https://x.com/AzratemES/status/2106541441560293478", label: "Harry Potter AU clip, 04 Oct 2026"}
+      - {url: "https://x.com/AzratemES/status/2106726241923375272", label: "Harry Potter AU clip, 04 Oct 2026"}
+      - {url: "https://x.com/AzratemES/status/2106815690703278404", label: "Harry Potter AU clip, 04 Oct 2026"}
+      - {url: "https://x.com/AzratemES/status/2106911216153297283", label: "Harry Potter AU clip, 05 Oct 2026"}
+      - {url: "https://x.com/AzratemES/status/2108655599772909693", label: "Harry Potter AU clip, 09 Oct 2026"}
+      - {url: "https://x.com/AzratemES/status/2110151687587676665", label: "Harry Potter AU clip, 13 Oct 2026"}
+      - {url: "https://x.com/AzratemES/status/2110430593100206139", label: "Harry Potter AU clip, 14 Oct 2026"}
+      - {url: "https://x.com/AzratemES/status/2110743720995770653", label: "Harry Potter AU clip, 15 Oct 2026"}
+      - {url: "https://x.com/AzratemES/status/2110946912480174465", label: "Harry Potter AU clip, 16 Oct 2026"}
+      - {url: "https://x.com/AzratemES/status/2112175849474511191", label: "Harry Potter AU clip, 19 Oct 2026"}
+      - {url: "https://x.com/AzratemES/status/2113264693552763308", label: "Harry Potter AU clip, 22 Oct 2026"}
+      - {url: "https://x.com/AzratemES/status/2115152514006073607", label: "Harry Potter AU clip, 27 Oct 2026"}
+      - {url: "https://x.com/AzratemES/status/2116209669840539806", label: "Harry Potter AU clip, 30 Oct 2026"}
+      - {url: "https://x.com/AzratemES/status/2117026872429072530", label: "Harry Potter AU clip, 01 Nov 2026"}
+      - {url: "https://x.com/AzratemES/status/2119432040286134495", label: "Harry Potter AU clip, 08 Nov 2026"}
+      - {url: "https://x.com/AzratemES/status/2120147523709042976", label: "Harry Potter AU clip, 10 Nov 2026"}
+      - {url: "https://x.com/AzratemES/status/2122477542112461133", label: "Harry Potter AU clip, 16 Nov 2026"}
     added: 2026-11-08
     summary: "Makes Harry Potter AU videos on YouTube, including Part 1, a 1 hour 23 minute movie that retells the battle of Hogwarts."
     tags: [harry-potter, au, movie, youtube]
