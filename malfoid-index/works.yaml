@@ -2455,6 +2455,7 @@ works:
     embed_label: "J.A. Vázquez: Harry Potter AU Part 1"
     embed_also: ["https://drive.google.com/file/d/1Jji2rE3dvaME3z5tzg8tp3vVVz9EgLfu/view"]
     videos:
+      - {url: "https://rumble.com/embed/v7geif4/?pub=13iafn", label: "Malfoid AU PT2", also: ["https://drive.google.com/file/d/13qSZX8k26y0qfV5GXMP0peRTGX4S6dc5/view?usp=drive_link", "https://www.bilibili.com/video/BV1Wqs86dE95/"]}
       - {url: "https://rumble.com/embed/v7g92os/?pub=13iafn", label: "Draconia and Harry Yule Ball Full", also: ["https://drive.google.com/file/d/1EfbXPwZLIup-UlV6kZpVy0zKQ1tPIWt2/view", "https://x.com/AzratemES/status/2110096783775002957"]}
       - {url: "https://m.youtube.com/watch?v=xQCtLKeKFsg", label: "Harry Potter AU Ai-fanmade Yule Ball Snake Peek"}
       - {url: "https://m.youtube.com/watch?v=22KxE-7dE70", label: "Harry Potter × Malfoid | SOON!!"}
@@ -2482,7 +2483,6 @@ works:
       - {url: "https://x.com/AzratemES/status/2119432040286134495", label: "Harry Potter AU: Part 2 Snake Peak, 8 Nov 2026"}
       - {url: "https://x.com/AzratemES/status/2120147523709042976", label: "Harry Potter AU: Part 2 Snake Peak, 10 Nov 2026"}
       - {url: "https://x.com/AzratemES/status/2122477542112461133", label: "Video post, no caption, 16 Nov 2026"}
-      - {url: "https://rumble.com/embed/v7geif4/?pub=13iafn", label: "Malfoid AU PT2", also: ["https://drive.google.com/file/d/13qSZX8k26y0qfV5GXMP0peRTGX4S6dc5/view?usp=drive_link", "https://www.bilibili.com/video/BV1Wqs86dE95/"]}
     added: 2026-11-08
     summary: "Makes Harry Potter AU videos on YouTube, including Part 1, a 1 hour 23 minute movie that retells the battle of Hogwarts."
     tags: [harry-potter, au, movie, youtube]
