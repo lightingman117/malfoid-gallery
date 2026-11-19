@@ -2455,8 +2455,8 @@ works:
     embed_label: "J.A. Vázquez: Harry Potter AU Part 1"
     embed_also: ["https://drive.google.com/file/d/1Jji2rE3dvaME3z5tzg8tp3vVVz9EgLfu/view"]
     videos:
-      - {url: "https://rumble.com/embed/v7g92os/?pub=13iafn", label: "Draconia and Harry Yule Ball Full", also: ["https://drive.google.com/file/d/1EfbXPwZLIup-UlV6kZpVy0zKQ1tPIWt2/view"]}
-      - {url: "https://m.youtube.com/watch?v=xQCtLKeKFsg", label: "Harry Potter AU Ai-fanmade Yule Ball Snake Peek", also: ["https://x.com/AzratemES/status/2110096783775002957"]}
+      - {url: "https://rumble.com/embed/v7g92os/?pub=13iafn", label: "Draconia and Harry Yule Ball Full", also: ["https://drive.google.com/file/d/1EfbXPwZLIup-UlV6kZpVy0zKQ1tPIWt2/view", "https://x.com/AzratemES/status/2110096783775002957"]}
+      - {url: "https://m.youtube.com/watch?v=xQCtLKeKFsg", label: "Harry Potter AU Ai-fanmade Yule Ball Snake Peek"}
       - {url: "https://m.youtube.com/watch?v=22KxE-7dE70", label: "Harry Potter × Malfoid | SOON!!"}
       - {url: "https://m.youtube.com/watch?v=lYEIa9e1NH8", label: "Harry Potter AU || Final Battle || Snake Peak"}
       - {url: "https://m.youtube.com/watch?v=g6jjXAASi_Q", label: "Harry Potter AU || Final Battle || Sectumsempra Incident"}
