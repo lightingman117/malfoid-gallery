@@ -137,11 +137,6 @@
       "name": "HDM5121"
     },
     {
-      "handle": "@HistoriasImpact",
-      "channel_id": "UCTsIFQeOBoFoZnSP-daG81g",
-      "name": "Historias Impact"
-    },
-    {
       "handle": "@inspo_live",
       "channel_id": "UCRZ7ycerRf7hhka-veUOu_w",
       "name": "Inspo"
@@ -155,6 +150,11 @@
       "handle": "@juntahmolokai",
       "channel_id": "UCMspTJV1aqQTpZk7ZAq-NXw",
       "name": "Juntah Molokai"
+    },
+    {
+      "handle": "@zerozakiyamo",
+      "channel_id": "UCtU6ZbG5lTiAuI5Wg_BLXNA",
+      "name": "Karma Moe | 自業自萌"
     },
     {
       "handle": "@keepdoingthebit",
@@ -182,11 +182,6 @@
       "name": "Luna Lovelace"
     },
     {
-      "handle": "@madmax",
-      "channel_id": "UCAy4_6Axl1iNQ_0cXPTaHQQ",
-      "name": "madmax"
-    },
-    {
       "handle": "@MadMax000",
       "channel_id": "UCcivAAuINq7-NhKwCECqhlA",
       "name": "MadMax"
@@ -202,6 +197,11 @@
       "name": "Malfoid"
     },
     {
+      "handle": "@Malfoid말포이TS",
+      "channel_id": "UChKbeCxfoZS_oivQtbn7wVw",
+      "name": "Malfoid (말포이TS)"
+    },
+    {
       "handle": "@MalfoidSoftware",
       "channel_id": "UCq1p_vq5FgSNZW07BJ59m7A",
       "name": "Malfoid Software"
@@ -210,6 +210,11 @@
       "handle": "@MALFOVEIL",
       "channel_id": "UCvjhEFHIhUUYR9ST7pfZQ5g",
       "name": "MALFOVEIL"
+    },
+    {
+      "handle": "@Malfoyism-i3w",
+      "channel_id": "UC5sj5JVAwogp-Xthe_gzv4w",
+      "name": "Malfoyism"
     },
     {
       "handle": "@MastodonStudios",
@@ -225,6 +230,11 @@
       "handle": "@MYSTAVELLE",
       "channel_id": "UCr-QavdBfBfzXg_Wx3UG66w",
       "name": "MYSTAVELLE"
+    },
+    {
+      "handle": "@Mysticsageia",
+      "channel_id": "UCzLXddDXlKMKjsubq7a4odQ",
+      "name": "Mystic Sageia"
     },
     {
       "handle": "@Nextrealmstudio",
@@ -250,6 +260,11 @@
       "handle": "@Philmycrackin-5",
       "channel_id": "UC5-tdWzymlL0uPwhglHxQZw",
       "name": "Philmycrakin-5"
+    },
+    {
+      "handle": "@PlotFlipStudios-t9e",
+      "channel_id": "UCFMh8auOqginCQp4yDDMlRA",
+      "name": "PlotFlip Studios"
     },
     {
       "handle": "@projectmalfoid",
@@ -355,6 +370,11 @@
       "handle": "@zeyhashimoto",
       "channel_id": "UCECj8bVlVGe7MbRaSufcDwA",
       "name": "Zey"
+    },
+    {
+      "handle": "@뒹굴뒹굴A",
+      "channel_id": "UCKvFrdhVLQ3xfNL9BWBUsJg",
+      "name": "뒹굴뒹굴"
     },
     {
       "handle": "@KeHeng_AI",
