@@ -7159,3 +7159,31 @@ works:
       - {url: "https://www.youtube.com/watch?v=Jjt_hF2eJ6Y", label: "[Malfoy Is a Girl?!] Miss Malfoy Wants to Invite Me to Dance?!"}
       - {url: "https://www.youtube.com/watch?v=4ymOolDZfmc", label: "【Malfoy Is a Girl?!】② Miss Malfoy Wants to Be Harry’s Mum?!"}
       - {url: "https://www.youtube.com/watch?v=Letrv1FAxxo", label: "【Malfoy Is a Girl?!】③ Malfoy Pins Harry Down! Hermione and Ron Can Only Watch!"}
+  - id: "creator-ma-2sidecine"
+    title: "2면극장"
+    first_name: ""
+    kind: [creator, video]
+    creator: "2면극장 (@2SIDECINE)"
+    url: "https://www.youtube.com/@2SIDECINE"
+    language: "English"
+    thumb: "https://i.ytimg.com/vi/qPDAInLaruo/hqdefault.jpg"
+    also: ["https://malfoid.duckdns.org/video/2%EB%A9%B4%EA%B7%B9%EC%9E%A5%20(2SIDECINE)/"]
+    added: 2026-11-20
+    summary: "Korean-subtitled Malfoid videos by 2면극장 (2SIDECINE) on YouTube: 여자 말포이는 연애중 and 썸 타는 중 series, in English."
+    tags: [video, archive]
+    videos:
+      - {url: "https://www.youtube.com/watch?v=qPDAInLaruo", label: "눈밭에서 또 가까워진 둘. “난 좋은데” | 여자 말포이는 썸 타는 중 5화"}
+      - {url: "https://www.youtube.com/watch?v=a5MWheqUa2M", label: "고양이 앞에서 다정한 티를 내버린 말포이 | 여자 말포이는 썸 타는 중 4화"}
+      - {url: "https://www.youtube.com/watch?v=OeqHc6pQBYw", label: "“너무 가깝잖아.” “알아.” | 여자 말포이는 썸 타는 중 3화"}
+      - {url: "https://www.youtube.com/watch?v=9w9zd-sVn5Y", label: "여자 말포이는 썸 타는 중 2화책만 꺼내주면 되는데… 해리 너 왜 이렇게 가까이 와?? | 여자 말포이는 썸 타는 중 2화"}
+      - {url: "https://www.youtube.com/watch?v=K9Ity1HawCw", label: "누가 내 머리 만져도 된다했어... “말포이..난 그냥..” | 여자 말포이는 썸 타는 중 1화"}
+      - {url: "https://www.youtube.com/watch?v=49NAVI9yUSw", label: "여자 말포이는 연애중 1~9화 몰아보기"}
+      - {url: "https://www.youtube.com/watch?v=DggVDuTvgm8", label: "여긴 우리 둘뿐이야! 드디어 오늘 부터 1일? ｜여자 말포이는 연애중 9화"}
+      - {url: "https://www.youtube.com/watch?v=af5lb1Y4aAs", label: "늘 장난치던 해리가 내 옆에 있고 싶다고 고백했다｜여자 말포이는 연애중 8화"}
+      - {url: "https://www.youtube.com/watch?v=CoZ2x_3lMWM", label: "내 남자 해리는 내가 지켜.. 오크가 쫒아와도 달달함은 계속된다 ｜여자 말포이는 연애중 7화"}
+      - {url: "https://www.youtube.com/watch?v=gksRX6dxYfE", label: "말포이가 임신? 근데 해리, 넌 왜 입꼬리가 올라가??｜여자 말포이는 연애중 4화"}
+      - {url: "https://www.youtube.com/watch?v=KS3qT08QDSs", label: "키스해도 될까요? 포터부인? ｜여자 말포이는 연애중 6화"}
+      - {url: "https://www.youtube.com/watch?v=4_kHdzhN_jU", label: "해리 이래도 안넘어와…? 근데 왜 내 심장만 뛰지..｜여자 말포이는 연애중 5화"}
+      - {url: "https://www.youtube.com/watch?v=JOrlQdX4_SY", label: "[해리포터x말포이] 분명 고양이 아니라며 소리쳤는데… 포터가 깃털을 흔드니까 나도 모르게??"}
+      - {url: "https://www.youtube.com/watch?v=hmgwozpfyeM", label: "[말포이x해리포터] 둘이 사귀냐니까 아니라는데… 얘들아, 그 말은 일단 내려와서 해야 하지 않아??"}
+      - {url: "https://www.youtube.com/watch?v=pfH2MBSNou8", label: "[말포이 x 해리포터] 해리한테 그렇게 튕기더니… 첫 춤 추자마자 저렇게 웃어버리면 다 들키잖아??"}

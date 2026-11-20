@@ -16,16 +16,6 @@ works:
     summary: "Malfoid videos by -ה (PRIDE), archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
   # other (text)
-  - id: "creator-ma-2sidecine"
-    title: "2면극장"
-    first_name: ""
-    kind: [creator, video]
-    creator: "2면극장 (@2SIDECINE)"
-    url: "https://www.youtube.com/@2SIDECINE"
-    also: ["https://malfoid.duckdns.org/video/2%EB%A9%B4%EA%B7%B9%EC%9E%A5%20(2SIDECINE)/"]
-    added: 2026-11-20
-    summary: "Malfoid videos by 2면극장, archived on the M.A. (Malfoid Archive)."
-    tags: [video, archive]
   # unclear (text)
   - id: "creator-ma-37-2cafterclass7"
     title: "37.2C AFTERCLASS"
