@@ -111,7 +111,7 @@
       } else {
         a.className = "platform platform-text";
         a.title = href;
-        a.textContent = /(^|\.)drive\.google\.com$/.test(new URL(href).hostname.toLowerCase()) ? "Download" : "link";
+        a.textContent = siteName(href);
       }
       row.appendChild(a);
     });
@@ -261,8 +261,12 @@
     if (host === "rumble.com") return "Rumble";
     if (host === "drive.google.com") return "Google Drive";
     if (host === "malfoid.duckdns.org") return "M.A.";
+    if (host === "rhedak.github.io" && /^\/rhedak-bio(\/|$)/.test(new URL(href).pathname)) return "bio";
     if (host === "bilibili.com") return "bilibili";
-    return host;
+    var names = { "ko-fi.com": "Ko-fi", "linktr.ee": "Linktree", "tiktok.com": "TikTok", "instagram.com": "Instagram",
+      "wattpad.com": "Wattpad", "archiveofourown.org": "AO3", "fanfiction.net": "FFN", "webtoons.com": "WEBTOON",
+      "bsky.app": "Bluesky", "facebook.com": "Facebook", "discord.gg": "Discord", "patreon.com": "Patreon" };
+    return names[host] || host;
   }
 
   function titleOf(w, cls) {
