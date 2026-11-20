@@ -135,6 +135,11 @@
   }
 
   // The kind, length and search filters, which the first-name chart follows too.
+  // The works the page is showing: the greylist only when its checkbox is on.
+  function listed() {
+    return data.works.filter(function (w) { return state.showGrey || !w.greylisted; });
+  }
+
   function matchesFilters(w) {
     if (w.greylisted && !state.showGrey) return false;
     if (state.kind !== "all" && (w.kinds || []).indexOf(state.kind) === -1) return false;
@@ -156,8 +161,8 @@
     var kinds = [["all", "All"]];
     Object.keys(KINDS).forEach(function (k) { kinds.push([k, KINDS[k]]); });
     kinds.forEach(function (pair) {
-      var count = pair[0] === "all" ? data.works.length
-        : data.works.filter(function (w) { return (w.kinds || []).indexOf(pair[0]) !== -1; }).length;
+      var count = pair[0] === "all" ? listed().length
+        : listed().filter(function (w) { return (w.kinds || []).indexOf(pair[0]) !== -1; }).length;
       if (pair[0] !== "all" && count === 0) return;
       var b = el("button", "chip", pair[1]);
       b.type = "button";
@@ -173,8 +178,8 @@
     box.textContent = "";
     var ids = ["all", "one-shot", "short", "novel", "unknown"];
     ids.forEach(function (id) {
-      var count = id === "all" ? data.works.length
-        : data.works.filter(function (w) { return (w.length || "unknown") === id; }).length;
+      var count = id === "all" ? listed().length
+        : listed().filter(function (w) { return (w.length || "unknown") === id; }).length;
       if (id !== "all" && count === 0) return;
       var label = id === "all" ? "Any length" : LENGTHS[id];
       var b = el("button", "chip", label);
@@ -210,7 +215,7 @@
     var box = document.getElementById("formats");
     box.textContent = "";
     var ids = ["all", "anime", "cinematic", "audiobook", "other"];
-    var videos = data.works.filter(function (w) { return (w.kinds || []).indexOf("video") !== -1; });
+    var videos = listed().filter(function (w) { return (w.kinds || []).indexOf("video") !== -1; });
     ids.forEach(function (id) {
       var count = id === "all" ? videos.length
         : videos.filter(function (w) { return (w.format || "other") === id; }).length;
@@ -444,13 +449,13 @@
     var list = document.getElementById("list");
     var count = document.getElementById("count");
     list.textContent = "";
-    var shown = data.works.filter(matches);
-    count.textContent = (shown.length === data.works.length
-      ? data.works.length + (data.works.length === 1 ? " work" : " works")
-      : shown.length + " of " + data.works.length + " works")
+    var shown = listed().filter(matches);
+    count.textContent = (shown.length === listed().length
+      ? listed().length + (listed().length === 1 ? " work" : " works")
+      : shown.length + " of " + listed().length + " works")
       + (state.name ? " named " + state.name : "");
     if (!shown.length) {
-      list.appendChild(el("div", "index-empty", data.works.length
+      list.appendChild(el("div", "index-empty", listed().length
         ? "Nothing matches that search yet."
         : "No works listed yet. Be the first to send one in."));
       return;
@@ -609,7 +614,7 @@
     q.addEventListener("input", function () { state.q = fold(q.value.trim()); renderList(); });
     var grey = document.getElementById("showGrey");
     grey.checked = state.showGrey;
-    grey.addEventListener("change", function () { state.showGrey = grey.checked; renderList(); });
+    grey.addEventListener("change", function () { state.showGrey = grey.checked; renderChips(); renderLengths(); renderSubFilters(); renderFormats(); renderList(); });
   }
 
   function fallback() {
