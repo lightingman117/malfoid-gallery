@@ -5614,16 +5614,6 @@ works:
     videos:
       - {url: "https://www.youtube.com/watch?v=kZxMtyvVnRI", label: "抜錨｜Batsubyou【Malfoid Anime MAD / Cover MV】"}
     tags: [music, anime, youtube]
-  - id: "creator-ma-3danimationfamily"
-    title: "3D Animation Video"
-    first_name: ""
-    kind: [creator, video]
-    creator: "3D Animation Video (@3DAnimationFamily)"
-    url: "https://www.youtube.com/@3DAnimationFamily"
-    also: ["https://malfoid.duckdns.org/video/3D%20Animation%20Video%20(3DAnimationFamily)/"]
-    added: 2026-11-20
-    summary: "Malfoid videos by 3D Animation Video, archived on the M.A. (Malfoid Archive)."
-    tags: [video, archive]
   - id: "creator-ma-aiflickfactory"
     title: "AI Flick Factory"
     first_name: ""
