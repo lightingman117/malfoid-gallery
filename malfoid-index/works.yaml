@@ -81,7 +81,7 @@ works:
       - {url: "https://rumble.com/embed/v7g6kfy/?pub=13iafn", label: "Episode 1", also: ["https://malfoid.duckdns.org/video/Galakushi%20(rhedak)/Harry%20Potter%20and%20Malfoid%20-%20S01E01%20%5B1aO6JK5LqTiwGm-peuZZZJCe7Fnhcw7AH%5D%20%5BGDrive%5D.mp4", "https://drive.google.com/file/d/1aO6JK5LqTiwGm-peuZZZJCe7Fnhcw7AH/view", "https://x.com/galakushi/status/2111961556426862729"]}
       - {url: "https://rumble.com/embed/v7g6m6y/?pub=13iafn", label: "Episode 2", also: ["https://malfoid.duckdns.org/video/Galakushi%20(rhedak)/Harry%20Potter%20and%20Malfoid%20-%20S01E02%20%5B1KfZ2RXvRYpDG5_ydTaXCa0Dj_II6p_ko%5D%20%5BGDrive%5D.mp4", "https://drive.google.com/file/d/1KfZ2RXvRYpDG5_ydTaXCa0Dj_II6p_ko/view", "https://x.com/galakushi/status/2112666057509142928"]}
       - {url: "https://rumble.com/embed/v7g6m7o/?pub=13iafn", label: "Episode 3", also: ["https://malfoid.duckdns.org/video/Galakushi%20(rhedak)/Harry%20Potter%20and%20Malfoid%20-%20S01E03%20%5B1xbh_e_YoGtLFVXZ3cHIKvTYmEjC2uH3N%5D%20%5BGDrive%5D.mp4", "https://drive.google.com/file/d/1xbh_e_YoGtLFVXZ3cHIKvTYmEjC2uH3N/view", "https://x.com/galakushi/status/2113380966081376378"]}
-      - {url: "https://rumble.com/embed/v7g6m96/?pub=13iafn", label: "Episode 4", also: ["https://drive.google.com/file/d/19ZS7niOaZlhbk22nayeZjNNkr3Wr7nVn/view", "https://x.com/galakushi/status/2114446902519578899"]}
+      - {url: "https://rumble.com/embed/v7g6m96/?pub=13iafn", label: "Episode 4", also: ["https://drive.google.com/file/d/19ZS7niOaZlhbk22nayeZjNNkr3Wr7nVn/view", "https://x.com/galakushi/status/2114446902519578899", "https://malfoid.duckdns.org/video/Galakushi/Episode%204.webm"]}
       - {url: "https://rumble.com/embed/v7g6ms0/?pub=13iafn", label: "Episode 5", also: ["https://malfoid.duckdns.org/video/Galakushi%20(rhedak)/Harry%20Potter%20and%20Malfoid%20-%20S01E05%20%5B1dG1E5kf2U4YG0Qy2hoaHtVaVk5geoQZx%5D%20%5BGDrive%5D.mp4", "https://drive.google.com/file/d/1dG1E5kf2U4YG0Qy2hoaHtVaVk5geoQZx/view", "https://x.com/galakushi/status/2115518965824819574"]}
       - {url: "https://rumble.com/embed/v7g6mtg/?pub=13iafn", label: "Episode 6", also: ["https://malfoid.duckdns.org/video/Galakushi%20(rhedak)/Harry%20Potter%20and%20Malfoid%20-%20S01E06%20%5B17udf9WGXWgpj3eHZo-eYmm9lZLxFLiVD%5D%20%5BGDrive%5D.mp4", "https://drive.google.com/file/d/17udf9WGXWgpj3eHZo-eYmm9lZLxFLiVD/view", "https://x.com/galakushi/status/2118448276269941232"]}
       - {url: "https://rumble.com/embed/v7g6mum/?pub=13iafn", label: "Episode 7", also: ["https://malfoid.duckdns.org/video/Galakushi%20(rhedak)/Harry%20Potter%20and%20Malfoid%20-%20S01E07%20%5B1f-mZLPhHm3Zr_1IU0wAnYgC_ZWc0gAZY%5D%20%5BGDrive%5D.mp4", "https://drive.google.com/file/d/1f-mZLPhHm3Zr_1IU0wAnYgC_ZWc0gAZY/view"]}
@@ -177,34 +177,34 @@ works:
     url: "https://x.com/shishirdotai"
     also: ["https://malfoid.duckdns.org/video/Shishir%20(shishirdotai)/"]
     videos:
-      - {url: "https://x.com/shishirdotai/status/2110329289157845353", label: "Episode 1"}
-      - {url: "https://x.com/shishirdotai/status/2110776884774773204", label: "Episode 2"}
-      - {url: "https://x.com/shishirdotai/status/2111115388927012881", label: "Episode 3"}
-      - {url: "https://x.com/shishirdotai/status/2111487246562214070", label: "Episode 4"}
-      - {url: "https://x.com/shishirdotai/status/2111771875718431112", label: "Episode 5"}
-      - {url: "https://x.com/shishirdotai/status/2111833228374168007", label: "Episode 6"}
-      - {url: "https://x.com/shishirdotai/status/2112228988550803510", label: "Episode 7"}
-      - {url: "https://x.com/shishirdotai/status/2112566904858738837", label: "Episode 8"}
-      - {url: "https://x.com/shishirdotai/status/2112828408963141898", label: "Episode 9"}
-      - {url: "https://x.com/shishirdotai/status/2113240772644598182", label: "Episode 10"}
-      - {url: "https://x.com/shishirdotai/status/2113588488797139188", label: "Episode 11"}
-      - {url: "https://x.com/shishirdotai/status/2113929705405759744", label: "Episode 12"}
-      - {url: "https://x.com/shishirdotai/status/2114339266746888535", label: "Episode 13"}
-      - {url: "https://x.com/shishirdotai/status/2114713206287741328", label: "Episode 14"}
-      - {url: "https://x.com/shishirdotai/status/2115075174488052012", label: "Episode 15"}
-      - {url: "https://x.com/shishirdotai/status/2115398931312226430", label: "Episode 16"}
-      - {url: "https://x.com/shishirdotai/status/2115857688181748166", label: "Episode 17"}
-      - {url: "https://x.com/shishirdotai/status/2116207246128623929", label: "Episode 18"}
-      - {url: "https://x.com/shishirdotai/status/2116882817544286519", label: "Episode 19"}
-      - {url: "https://x.com/shishirdotai/status/2117269718621127073", label: "Episode 20"}
-      - {url: "https://x.com/shishirdotai/status/2117557395543249355", label: "Episode 21"}
-      - {url: "https://x.com/shishirdotai/status/2117926418298589254", label: "Episode 22"}
-      - {url: "https://x.com/shishirdotai/status/2118398038742049272", label: "Episode 23"}
-      - {url: "https://x.com/shishirdotai/status/2118676307882172844", label: "Episode 24"}
-      - {url: "https://x.com/shishirdotai/status/2119428251512967232", label: "Episode 25"}
-      - {url: "https://x.com/shishirdotai/status/2120560179079205085", label: "Episode 26"}
-      - {url: "https://x.com/shishirdotai/status/2121575053137707282", label: "Episode 27"}
-      - {url: "https://x.com/shishirdotai/status/2122321348769071559", label: "Malfoid & Pottah: Sweet little moments"}
+      - {url: "https://x.com/shishirdotai/status/2110329289157845353", label: "Episode 1", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-14%20Episode%201.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2110776884774773204", label: "Episode 2", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-15%20Episode%202.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2111115388927012881", label: "Episode 3", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-16%20Episode%203.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2111487246562214070", label: "Episode 4", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-17%20Episode%204.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2111771875718431112", label: "Episode 5", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-18%20Episode%205.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2111833228374168007", label: "Episode 6", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-18%20Episode%206.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2112228988550803510", label: "Episode 7", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-19%20Episode%207.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2112566904858738837", label: "Episode 8", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-20%20Episode%208.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2112828408963141898", label: "Episode 9", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-21%20Episode%209.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2113240772644598182", label: "Episode 10", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/Episode%2010.webm"]}
+      - {url: "https://x.com/shishirdotai/status/2113588488797139188", label: "Episode 11", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-23%20Episode%2011.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2113929705405759744", label: "Episode 12", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-24%20Episode%2012.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2114339266746888535", label: "Episode 13", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-25%20Episode%2013.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2114713206287741328", label: "Episode 14", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-26%20Episode%2014.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2115075174488052012", label: "Episode 15", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-27%20Episode%2015.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2115398931312226430", label: "Episode 16", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-28%20Episode%2016.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2115857688181748166", label: "Episode 17", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-29%20Episode%2017.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2116207246128623929", label: "Episode 18", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-30%20Episode%2018.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2116882817544286519", label: "Episode 19", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-01%20Episode%2019.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2117269718621127073", label: "Episode 20", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-02%20Episode%2020.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2117557395543249355", label: "Episode 21", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-03%20Episode%2021.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2117926418298589254", label: "Episode 22", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-04%20Episode%2022.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2118398038742049272", label: "Episode 23", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-05%20Episode%2023.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2118676307882172844", label: "Episode 24", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-06%20Episode%2024.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2119428251512967232", label: "Episode 25", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-08%20Episode%2025.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2120560179079205085", label: "Episode 26", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-11%20Episode%2026.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2121575053137707282", label: "Episode 27", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-14%20Episode%2027.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2122321348769071559", label: "Malfoid & Pottah: Sweet little moments", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-16%20Malfoid%20%26%20Pottah%EF%BC%9A%20Sweet%20little%20moments.mp4"]}
     language: "English"
     added: 2026-11-15
     summary: "A Harry Potter romantic comedy about Malfoid and Harry, told in short episodes. The YouTube videos were taken down by Shishir; the 27 episodes remain on X, and each is embedded here."
@@ -1535,13 +1535,13 @@ works:
       - {url: "https://x.com/Drifler7/status/2118772454478766233", label: "Meeting the Malfoys, Episode 1, 7 Nov 2026", also: ["https://malfoid.duckdns.org/video/Drifler7/2026-11-06%20Meeting%20the%20Malfoys%2C%20Episode%201%2C%207%20Nov%202026.mp4"]}
       - {url: "https://x.com/Drifler7/status/2118046947340890123", label: "Harry and Dracy with Pansy, 5 Nov 2026", also: ["https://malfoid.duckdns.org/video/Drifler7/2026-11-04%20Harry%20and%20Dracy%20with%20Pansy%2C%205%20Nov%202026.mp4"]}
       - {url: "https://x.com/Drifler7/status/2117685474542141468", label: "Dracy and Harry are married, time turner clip, 4 Nov 2026", also: ["https://malfoid.duckdns.org/video/Drifler7/2026-11-03%20Dracy%20and%20Harry%20are%20married%2C%20time%20turner%20clip%2C%204%20Nov%202026.mp4"]}
-      - {url: "https://x.com/Drifler7/status/2117342139525058561", label: "First Task aftermath, Harry invites his future wife to the ball, 3 Nov 2026"}
+      - {url: "https://x.com/Drifler7/status/2117342139525058561", label: "First Task aftermath, Harry invites his future wife to the ball, 3 Nov 2026", also: ["https://malfoid.duckdns.org/video/Drifler7/2026-11-02%20First%20Task%20aftermath%2C%20Harry%20invites%20his%20future%20wife%20to%20the%20ball%2C%203%20Nov%202026.mp4"]}
       - {url: "https://x.com/Drifler7/status/2116904689195241566", label: "First Task of the Triwizard Tournament, short movie, 1 Nov 2026", also: ["https://malfoid.duckdns.org/video/Drifler7/2026-11-01%20First%20Task%20of%20the%20Triwizard%20Tournament%2C%20short%20movie%2C%201%20Nov%202026.mp4"]}
       - {url: "https://x.com/Drifler7/status/2115108347468763364", label: "Harry factory-resets his girlfriend's brain, 27 Oct 2026", also: ["https://malfoid.duckdns.org/video/Drifler7/2026-10-27%20Harry%20factory-resets%20his%20girlfriend%27s%20brain%2C%2027%20Oct%202026.mp4"]}
-      - {url: "https://x.com/Drifler7/status/2114358972568211632", label: "Harry and Malfoid watch the Quidditch World Cup final, 25 Oct 2026"}
+      - {url: "https://x.com/Drifler7/status/2114358972568211632", label: "Harry and Malfoid watch the Quidditch World Cup final, 25 Oct 2026", also: ["https://malfoid.duckdns.org/video/Drifler7/2026-10-25%20Harry%20and%20Malfoid%20watch%20the%20Quidditch%20World%20Cup%20final%2C%2025%20Oct%202026.mp4"]}
       - {url: "https://x.com/Drifler7/status/2113958805448863959", label: "Draconia is possessive of her boyfriend, 24 Oct 2026", also: ["https://malfoid.duckdns.org/video/Drifler7/2026-10-24%20Draconia%20is%20possessive%20of%20her%20boyfriend%2C%2024%20Oct%202026.mp4"]}
-      - {url: "https://x.com/Drifler7/status/2113279493708054742", label: "Draconia and the Scarf bloopers and backstage reel, 22 Oct 2026"}
-      - {url: "https://x.com/Drifler7/status/2113277729067962821", label: "Draconia and the Scarf, parts 1, 2 and epilogue together, 22 Oct 2026"}
+      - {url: "https://x.com/Drifler7/status/2113279493708054742", label: "Draconia and the Scarf bloopers and backstage reel, 22 Oct 2026", also: ["https://malfoid.duckdns.org/video/Drifler7/2026-10-22%20Draconia%20and%20the%20Scarf%20bloopers%20and%20backstage%20reel%2C%2022%20Oct%202026.mp4"]}
+      - {url: "https://x.com/Drifler7/status/2113277729067962821", label: "Draconia and the Scarf, parts 1, 2 and epilogue together, 22 Oct 2026", also: ["https://malfoid.duckdns.org/video/Drifler7/2026-10-22%20Draconia%20and%20the%20Scarf%2C%20parts%201%2C%202%20and%20epilogue%20together%2C%2022%20Oct%202026.mp4"]}
       - {url: "https://x.com/Drifler7/status/2112956630430331226", label: "Epilogue to Draconia and the Scarf, 21 Oct 2026", also: ["https://malfoid.duckdns.org/video/Drifler7/2026-10-21%20Epilogue%20to%20Draconia%20and%20the%20Scarf%2C%2021%20Oct%202026.mp4"]}
       - {url: "https://x.com/Drifler7/status/2112094371948748891", label: "Malfoidverse Scooby-Doo style chase, 19 Oct 2026", also: ["https://malfoid.duckdns.org/video/Drifler7/2026-10-19%20Malfoidverse%20Scooby-Doo%20style%20chase%2C%2019%20Oct%202026.mp4"]}
       - {url: "https://x.com/Drifler7/status/2111805070358741298", label: "Draconia and The Scarf, part 2, 18 Oct 2026", also: ["https://malfoid.duckdns.org/video/Drifler7/2026-10-18%20Draconia%20and%20The%20Scarf%2C%20part%202%2C%2018%20Oct%202026.mp4"]}
@@ -1643,9 +1643,9 @@ works:
       - {url: "https://www.youtube.com/watch?v=bbb55OuctqU", label: "Pure Blood, Bad Attitude", also: ["https://malfoid.duckdns.org/music/zandran2/2026-10-07%20Pure%20Blood%2C%20Bad%20Attitude.mp4"]}
       - {url: "https://www.youtube.com/watch?v=BZUj-788q7c", label: "Cake or Creature? | Sorting Hogwarts Into Sweets and Beasts", also: ["https://malfoid.duckdns.org/music/zandran2/2026-11-17%20Cake%20or%20Creature%EF%BC%9F%20%EF%BD%9C%20Sorting%20Hogwarts%20Into%20Sweets%20and%20Beasts.mp4"]}
       - {url: "https://www.youtube.com/watch?v=C63V4sG74us", label: "Over My Dead Broom | Six Big Brothers, But I Bite the Worst", also: ["https://malfoid.duckdns.org/music/zandran2/2026-11-17%20Over%20My%20Dead%20Broom%20%EF%BD%9C%20Six%20Big%20Brothers%2C%20But%20I%20Bite%20the%20Worst.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=yITj1RHFKAc", label: "Say You Don't Know Me | A Malfoy Manor Duet"}
-      - {url: "https://www.youtube.com/watch?v=nJg8CF406CA", label: "Catch the Snitch, Not Feelings | A Quidditch Pep-Talk Gone Wrong"}
-      - {url: "https://www.youtube.com/watch?v=ve3HAbHgTUk", label: "Where the Rules Fell Out | A Night Heist"}
+      - {url: "https://www.youtube.com/watch?v=yITj1RHFKAc", label: "Say You Don't Know Me | A Malfoy Manor Duet", also: ["https://malfoid.duckdns.org/video/Zandran/2026-11-19%20Say%20You%20Don%27t%20Know%20Me%20%EF%BD%9C%20A%20Malfoy%20Manor%20Duet.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=nJg8CF406CA", label: "Catch the Snitch, Not Feelings | A Quidditch Pep-Talk Gone Wrong", also: ["https://malfoid.duckdns.org/video/Zandran/2026-11-19%20Catch%20the%20Snitch%2C%20Not%20Feelings%20%EF%BD%9C%20A%20Quidditch%20Pep-Talk%20Gone%20Wrong.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=ve3HAbHgTUk", label: "Where the Rules Fell Out | A Night Heist", also: ["https://malfoid.duckdns.org/video/Zandran/2026-11-19%20Where%20the%20Rules%20Fell%20Out%20%EF%BD%9C%20A%20Night%20Heist.mp4"]}
     tags: [music, video, x, youtube]
     format: other
   - id: "video-foyege-malfoy-story"
@@ -1747,7 +1747,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=qRjTJKCXeLY", label: "Lumos Lumos Anime OVA ‘Year 8’ (ft. Say Yes) [Official Music Video]", also: ["https://malfoid.duckdns.org/video/Lumos%20Lumos%20%28ADayASMR%29/2026-11-06%20Lumos%20Lumos%20Anime%20OVA%20%E2%80%98Year%208%E2%80%99%20%28ft.%20Say%20Yes%29%20%5BOfficial%20Music%20Video%5D.mp4"]}
       - {url: "https://www.youtube.com/watch?v=YuL-vEPe1ao", label: "Lumos Lumos Anime Epilogue [ft. Lumos Lumos]", also: ["https://malfoid.duckdns.org/video/Lumos%20Lumos%20%28ADayASMR%29/2026-10-30%20Lumos%20Lumos%20Anime%20Epilogue%20%5Bft.%20Lumos%20Lumos%5D.mp4"]}
       - {url: "https://www.youtube.com/watch?v=asCB612w_eA", label: "Lumos Lumos Epilogue 2 (ft. Little Hands) [Official Music Video]", also: ["https://malfoid.duckdns.org/video/Lumos%20Lumos%20%28ADayASMR%29/2026-11-11%20Lumos%20Lumos%20Epilogue%202%20%28ft.%20Little%20Hands%29%20%5BOfficial%20Music%20Video%5D.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=NAZz8Hxh0pU", label: "Lumos Lumos Anime OVA ‘Break the Sky’ (ft. Catch Me If You Can) [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=NAZz8Hxh0pU", label: "Lumos Lumos Anime OVA ‘Break the Sky’ (ft. Catch Me If You Can) [Official Music Video]", also: ["https://malfoid.duckdns.org/video/Lumos%20Lumos%20%28ADayASMR%29/2026-11-20%20Lumos%20Lumos%20Anime%20OVA%20%E2%80%98Break%20the%20Sky%E2%80%99%20%28ft.%20Catch%20Me%20If%20You%20Can%29%20%5BOfficial%20Music%20Video%5D.mp4"]}
     language: "English"
     added: 2026-11-09
     summary: "Makes songs and animations, including the Lumos Lumos anime series on YouTube."
@@ -1793,7 +1793,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=im_Op6ykYXQ", label: "The Measure of a Malfoy - Book 1", also: ["https://malfoid.duckdns.org/stories/Stories_forthe_Road/2026-10-24%20The%20Measure%20of%20a%20Malfoy%20-%20Book%201.mp4"]}
       - {url: "https://www.youtube.com/watch?v=cYF_-oFELPU", label: "The Measure of a Malfoy — Year Four: The Name Between Them, Part 1 of 4", also: ["https://malfoid.duckdns.org/stories/Stories_forthe_Road/2026-11-17%20The%20Measure%20of%20a%20Malfoy%20%E2%80%94%20Year%20Four%EF%BC%9A%20The%20Name%20Between%20Them%2C%20Part%201%20of%204.mp4"]}
       - {url: "https://www.youtube.com/watch?v=TwhZPL19dDk", label: "Stories for the Road Trailer ~ Our Ethos", also: ["https://malfoid.duckdns.org/stories/Stories_forthe_Road/2026-11-17%20Stories%20for%20the%20Road%20Trailer%20~%20Our%20Ethos.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=rtKLdCg9dw0", label: "THE MEASURE OF A MALFOY — YEAR FOUR: THE NAME BETWEEN THEMPART 3 OF 4 — BENEATH THE WINTER WATER"}
+      - {url: "https://www.youtube.com/watch?v=rtKLdCg9dw0", label: "THE MEASURE OF A MALFOY — YEAR FOUR: THE NAME BETWEEN THEMPART 3 OF 4 — BENEATH THE WINTER WATER", also: ["https://malfoid.duckdns.org/stories/Stories_forthe_Road/2026-11-19%20THE%20MEASURE%20OF%20A%20MALFOY%20%E2%80%94%20YEAR%20FOUR%EF%BC%9A%20THE%20NAME%20BETWEEN%20THEMPART%203%20OF%204%20%E2%80%94%20BENEATH%20THE%20WINTER%20WATER.mp4"]}
   # NOTE: only The Weasley Spellweaver is confirmed SFW (by the submitter). Behind The Broken Glass (severed head),
   # The Serpent's Leash and A Catch Worth Falling For (kissing, mild accidental groping) are not confirmed.
   # The author's bio says the fics "might have spiciness". Story links and languages still need checking.
@@ -1882,7 +1882,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=mFA29V8mUSs", label: "BORN TO BE YOUR ENEMY 🖤 | Female Draco Malfoy × Harry Potter | Gothic Rock", also: ["https://malfoid.duckdns.org/music/MALFOVEIL/2026-10-19%20BORN%20TO%20BE%20YOUR%20ENEMY%20%F0%9F%96%A4%20%EF%BD%9C%20Female%20Draco%20Malfoy%20%C3%97%20Harry%20Potter%20%EF%BD%9C%20Gothic%20Rock.mp4"]}
       - {url: "https://www.youtube.com/watch?v=zV96MQubjlE", label: "I DON'T HATE YOU, POTTER 💚 | Female Draco Malfoy × Harry Potter | Dark Romance Song", also: ["https://malfoid.duckdns.org/music/MALFOVEIL/2026-10-18%20I%20DON%27T%20HATE%20YOU%2C%20POTTER%20%F0%9F%92%9A%20%EF%BD%9C%20Female%20Draco%20Malfoy%20%C3%97%20Harry%20Potter%20%EF%BD%9C%20Dark%20Romance%20Song.mp4"]}
       - {url: "https://www.youtube.com/watch?v=FuphhjOT-rw", label: "MALFOID Thought She Lost HARRY POTTER | I Thought I Lost You (Gothic Rock Music Video)", also: ["https://malfoid.duckdns.org/music/MALFOVEIL/2026-11-17%20MALFOID%20Thought%20She%20Lost%20HARRY%20POTTER%20%EF%BD%9C%20I%20Thought%20I%20Lost%20You%20%28Gothic%20Rock%20Music%20Video%29.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=yIkuYDqqedc", label: "🐍 MALFOID × HARRY POTTER — THE CHAMBER IS OPEN | Official Music Video by MALFOVEIL"}
+      - {url: "https://www.youtube.com/watch?v=yIkuYDqqedc", label: "🐍 MALFOID × HARRY POTTER — THE CHAMBER IS OPEN | Official Music Video by MALFOVEIL", also: ["https://malfoid.duckdns.org/music/MALFOVEIL/2026-11-19%20%F0%9F%90%8D%20MALFOID%20%C3%97%20HARRY%20POTTER%20%E2%80%94%20THE%20CHAMBER%20IS%20OPEN%20%EF%BD%9C%20Official%20Music%20Video%20by%20MALFOVEIL.mp4"]}
     tags: [music, video, youtube]
   - id: "creator-alxaiproductions"
     thumb: "https://i.ytimg.com/vi/wn6wEEpCUMo/hqdefault.jpg"
@@ -1978,8 +1978,8 @@ works:
       - {url: "https://www.youtube.com/watch?v=2OIGH7ywlpY", label: "Malfoid - I Was Joking Pt. 10 - You All Right?", also: ["https://malfoid.duckdns.org/video/Malfoid%20Main%20Story/2026-11-13%20Malfoid%20-%20I%20Was%20Joking%20Pt.%2010%20-%20You%20All%20Right%EF%BC%9F.mp4"]}
       - {url: "https://www.youtube.com/watch?v=27HaV1mLSeg", label: "Malfoid - I Was Joking Pt. 12 - What Slytherin Girl?", also: ["https://malfoid.duckdns.org/video/Malfoid%20Main%20Story/2026-11-17%20Malfoid%20-%20I%20Was%20Joking%20Pt.%2012%20-%20What%20Slytherin%20Girl%EF%BC%9F.mp4"]}
       - {url: "https://www.youtube.com/watch?v=aGSG0e-uVmc", label: "I Think I Know Why Foyege's Malfoid Got Taken Down", also: ["https://malfoid.duckdns.org/video/schmede_AI/2026-11-17%20I%20Think%20I%20Know%20Why%20Foyege%27s%20Malfoid%20Got%20Taken%20Down.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=O6kI53BPgUw", label: "LIVE: making Malfoid with AI 🐍 Yule Ball crunch time 😰 (Spoilers)"}
-      - {url: "https://www.youtube.com/watch?v=cTaYrdEzuKQ", label: "Why It Takes Me So Long to Make Malfoid"}
+      - {url: "https://www.youtube.com/watch?v=O6kI53BPgUw", label: "LIVE: making Malfoid with AI 🐍 Yule Ball crunch time 😰 (Spoilers)", also: ["https://malfoid.duckdns.org/video/schmede_AI/2026-11-20%20LIVE%EF%BC%9A%20making%20Malfoid%20with%20AI%20%F0%9F%90%8D%20Yule%20Ball%20crunch%20time%20%F0%9F%98%B0%20%28Spoilers%29.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=cTaYrdEzuKQ", label: "Why It Takes Me So Long to Make Malfoid", also: ["https://malfoid.duckdns.org/video/schmede_AI/2026-11-19%20Why%20It%20Takes%20Me%20So%20Long%20to%20Make%20Malfoid.mp4"]}
     tags: [video, playlist, youtube]
   - id: "creator-unstablegen"
     thumb: "https://i.ytimg.com/vi/p2J1NCV-A8g/hqdefault.jpg"
@@ -2014,7 +2014,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=HEUJpbaU03w", label: "Malfoy × Harry Potter ｜EP.02", also: ["https://malfoid.duckdns.org/video/Crimsonaigc/2026-10-23%20Malfoy%20%C3%97%20Harry%20Potter%20%EF%BD%9CEP.02.mp4"]}
       - {url: "https://www.youtube.com/watch?v=0veFNMssNlQ", label: "Harry&Malfoy [BLOODLINE]", also: ["https://malfoid.duckdns.org/video/Crimsonaigc/2026-10-30%20Harry%26Malfoy%20%5BBLOODLINE%5D.mp4"]}
       - {url: "https://www.youtube.com/watch?v=5AsFVtwEkpQ", label: "Harry&Malfoy [Erised Mirror]", also: ["https://malfoid.duckdns.org/video/Crimsonaigc/2026-10-30%20Harry%26Malfoy%20%5BErised%20Mirror%5D.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=nlwyQrLuO8Y", label: "Malfoy × Harry Potter ｜A Love Potion？"}
+      - {url: "https://www.youtube.com/watch?v=nlwyQrLuO8Y", label: "Malfoy × Harry Potter ｜A Love Potion？", also: ["https://malfoid.duckdns.org/video/Crimsonaigc/2026-11-12%20Malfoy%20%C3%97%20Harry%20Potter%20%EF%BD%9CA%20Love%20Potion%EF%BC%9F.mp4"]}
     tags: [video, ai-generated, youtube]
     format: cinematic
   - id: "creator-aimalfoyfemale"
@@ -2108,8 +2108,8 @@ works:
     added: 2026-11-09
     summary: "Makes Draconia Malfoy Harry Potter POV videos, such as Winter with Her and Spring with Her. The YouTube channel was deleted; these two videos are now on Rumble, with Google Drive downloads."
     videos:
-      - {url: "https://rumble.com/embed/v7gc1hm/?pub=13iafn", label: "Spring with Her | Draconia Malfoy × Potter POV", also: ["https://drive.google.com/file/d/1fvhvi0sGZC2KTjkgfCIGBwPDaXV9X9Vl/view?usp=drive_link", "https://x.com/Papallax/status/2122772504158798124"]}
-      - {url: "https://rumble.com/embed/v7gby9m/?pub=13iafn", label: "Winter with Her | Draconia Malfoy from Harry Potter’s POV", also: ["https://drive.google.com/file/d/1PF8W2EULfyAZZFGtOITXFZuQcIYiSj37/view?usp=drive_link", "https://x.com/Papallax/status/2116834888079036460"]}
+      - {url: "https://rumble.com/embed/v7gc1hm/?pub=13iafn", label: "Spring with Her | Draconia Malfoy × Potter POV", also: ["https://drive.google.com/file/d/1fvhvi0sGZC2KTjkgfCIGBwPDaXV9X9Vl/view?usp=drive_link", "https://x.com/Papallax/status/2122772504158798124", "https://malfoid.duckdns.org/video/Papallax%20%28rhedak%29/Spring%20with%20Her%20%EF%BD%9C%20Draconia%20Malfoy%20%C3%97%20Potter%20POV.mp4"]}
+      - {url: "https://rumble.com/embed/v7gby9m/?pub=13iafn", label: "Winter with Her | Draconia Malfoy from Harry Potter’s POV", also: ["https://drive.google.com/file/d/1PF8W2EULfyAZZFGtOITXFZuQcIYiSj37/view?usp=drive_link", "https://x.com/Papallax/status/2116834888079036460", "https://malfoid.duckdns.org/video/Papallax%20%28rhedak%29/Winter%20with%20Her%20%EF%BD%9C%20Draconia%20Malfoy%20from%20Harry%20Potter%E2%80%99s%20POV.mp4"]}
       - {url: "https://www.youtube.com/watch?v=idz08OGToh4", label: "Draconia Malfoy - Spring With Her | PAPALLAX Archive", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20%28hogwashexpress%29/2026-11-18%20Draconia%20Malfoy%20-%20Spring%20With%20Her%20%EF%BD%9C%20PAPALLAX%20Archive.mp4"]}
       - {url: "https://www.youtube.com/watch?v=AjzkqEwYcmo", label: "Draconia Malfoy - Winter With Her | PAPALLAX Archive", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20%28hogwashexpress%29/2026-11-18%20Draconia%20Malfoy%20-%20Winter%20With%20Her%20%EF%BD%9C%20PAPALLAX%20Archive.mp4"]}
       - {url: "https://www.youtube.com/watch?v=pB5UJ6zBiCc", label: "#draconiamalfoy - Spring With Her | PAPALLAX Edit #draconiamalfoy #malfoid", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20%28hogwashexpress%29/2026-11-18%20%23draconiamalfoy%20-%20Spring%20With%20Her%20%EF%BD%9C%20PAPALLAX%20Edit%20%23draconiamalfoy%20%23malfoid.mp4"]}
@@ -2322,7 +2322,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=6dEun966TGY", label: "Somehow I'm The Only Guy At Wizarding School:Year 6 Dialogue version (instrumental Malfoid inspired)", also: ["https://malfoid.duckdns.org/video/That%20One%20Belgian%20%28thatonebelgian%29/2026-11-12%20Somehow%20I%27m%20The%20Only%20Guy%20At%20Wizarding%20School%EF%BC%9AYear%206%20Dialogue%20version%20%28instrumental%20Malfoid%20inspired%29.mp4"]}
       - {url: "https://www.youtube.com/watch?v=5dgFf8oHfJU", label: "Somehow I'm The Only Guy At Wizarding School: Year 6 (malfoid inspired)", also: ["https://malfoid.duckdns.org/video/That%20One%20Belgian%20%28thatonebelgian%29/2026-11-11%20Somehow%20I%27m%20The%20Only%20Guy%20At%20Wizarding%20School%EF%BC%9A%20Year%206%20%28malfoid%20inspired%29.mp4"]}
       - {url: "https://www.youtube.com/watch?v=0kWyUs-dZ_s", label: "Somehow I'm The Only Guy At Wizarding School: Year 6 teaser (malfoid inspired)", also: ["https://malfoid.duckdns.org/video/That%20One%20Belgian%20%28thatonebelgian%29/2026-11-03%20Somehow%20I%27m%20The%20Only%20Guy%20At%20Wizarding%20School%EF%BC%9A%20Year%206%20teaser%20%28malfoid%20inspired%29.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=w4qWzn_A578", label: "Somehow I'm NOT The Only Guy At Wizarding School: year 5. (Whoops just malfoid)"}
+      - {url: "https://www.youtube.com/watch?v=w4qWzn_A578", label: "Somehow I'm NOT The Only Guy At Wizarding School: year 5. (Whoops just malfoid)", also: ["https://malfoid.duckdns.org/video/That%20One%20Belgian%20%28thatonebelgian%29/2026-11-01%20Somehow%20I%27m%20NOT%20The%20Only%20Guy%20At%20Wizarding%20School%EF%BC%9A%20year%205.%20%28Whoops%20just%20malfoid%29.mp4"]}
       - {url: "https://www.youtube.com/watch?v=EJ0BBvRyiK0", label: "The Malfoid Gambit (Department Of Education)", also: ["https://malfoid.duckdns.org/video/That%20One%20Belgian%20%28thatonebelgian%29/2026-10-28%20The%20Malfoid%20Gambit%20%28Department%20Of%20Education%29.mp4"]}
       - {url: "https://www.youtube.com/watch?v=o_lFNHaaAlg", label: "Somehow I'm The Only Guy At Wizarding School: Year 5 (Malfoid inspired)", also: ["https://malfoid.duckdns.org/video/That%20One%20Belgian%20%28thatonebelgian%29/2026-10-26%20Somehow%20I%27m%20The%20Only%20Guy%20At%20Wizarding%20School%EF%BC%9A%20Year%205%20%28Malfoid%20inspired%29.mp4"]}
       - {url: "https://www.youtube.com/watch?v=eBJj8WEzyX0", label: "Somehow I'm The Only Guy At Wizarding School: Year 5 Teaser (malfoid inspired)", also: ["https://malfoid.duckdns.org/video/That%20One%20Belgian%20%28thatonebelgian%29/2026-10-24%20Somehow%20I%27m%20The%20Only%20Guy%20At%20Wizarding%20School%EF%BC%9A%20Year%205%20Teaser%20%28malfoid%20inspired%29.mp4"]}
@@ -2347,7 +2347,7 @@ works:
     summary: "Makes AI-made anime music videos of Somehow I'm The Only Guy At Wizarding School on YouTube."
     also: ["https://x.com/belgianredacted"]
     videos:
-      - {url: "https://www.youtube.com/watch?v=PtRWLuY_f18", label: "My Immortal Chapter 1 (PLZ tell me fangz)"}
+      - {url: "https://www.youtube.com/watch?v=PtRWLuY_f18", label: "My Immortal Chapter 1 (PLZ tell me fangz)", also: ["https://malfoid.duckdns.org/stories/thatonebelgian/2026-11-17%20My%20Immortal%20Chapter%201%20%28PLZ%20tell%20me%20fangz%29.mp4"]}
     tags: [video, ai-generated, youtube, x]
   - id: "audiobook-malfoid-and-the-thief-of-candlelight"
     thumb: "https://i.ytimg.com/vi/hn1BAouhxzY/hqdefault.jpg"
@@ -2535,13 +2535,13 @@ works:
       - {url: "https://x.com/AzratemES/status/2110946912480174465", label: "Post on the project and the fandom, 16 Oct 2026", also: ["https://malfoid.duckdns.org/video/Historias%20Impact%20%28J.A.%20V%C3%A1zquez%29/2026-10-16%20Post%20on%20the%20project%20and%20the%20fandom%2C%2016%20Oct%202026.mp4"]}
       - {url: "https://x.com/AzratemES/status/2112175849474511191", label: "Harry Potter AU: Room of Requirement \"Snake\" Peek, 19 Oct 2026", also: ["https://malfoid.duckdns.org/video/Historias%20Impact%20%28J.A.%20V%C3%A1zquez%29/2026-10-19%20Harry%20Potter%20AU%EF%BC%9A%20Room%20of%20Requirement%20%EF%BC%82Snake%EF%BC%82%20Peek%2C%2019%20Oct%202026.mp4"]}
       - {url: "https://x.com/AzratemES/status/2113264693552763308", label: "The final Malfoid Snake Peek, 22 Oct 2026", also: ["https://malfoid.duckdns.org/video/Historias%20Impact%20%28J.A.%20V%C3%A1zquez%29/2026-10-22%20The%20final%20Malfoid%20Snake%20Peek%2C%2022%20Oct%202026.mp4"]}
-      - {url: "https://x.com/AzratemES/status/2115152514006073607", label: "Last Snake Peek, 27 Oct 2026"}
+      - {url: "https://x.com/AzratemES/status/2115152514006073607", label: "Last Snake Peek, 27 Oct 2026", also: ["https://malfoid.duckdns.org/video/Historias%20Impact%20%28J.A.%20V%C3%A1zquez%29/2026-10-27%20Last%20Snake%20Peek%2C%2027%20Oct%202026.mp4"]}
       - {url: "https://x.com/AzratemES/status/2116209669840539806", label: "Malfoid: The Final Battle, official trailer Part 1, 30 Oct 2026", also: ["https://malfoid.duckdns.org/video/Historias%20Impact%20%28J.A.%20V%C3%A1zquez%29/2026-10-30%20Malfoid%EF%BC%9A%20The%20Final%20Battle%2C%20official%20trailer%20Part%201%2C%2030%20Oct%202026.mp4"]}
       - {url: "https://x.com/AzratemES/status/2117026872429072530", label: "\"This is gonna be all of us next Saturday\", 1 Nov 2026", also: ["https://malfoid.duckdns.org/video/Historias%20Impact%20%28J.A.%20V%C3%A1zquez%29/2026-11-01%20%EF%BC%82This%20is%20gonna%20be%20all%20of%20us%20next%20Saturday%EF%BC%82%2C%201%20Nov%202026.mp4"]}
       - {url: "https://x.com/AzratemES/status/2119432040286134495", label: "Harry Potter AU: Part 2 Snake Peak, 8 Nov 2026"}
-      - {url: "https://x.com/AzratemES/status/2120147523709042976", label: "Harry Potter AU: Part 2 Snake Peak, 10 Nov 2026"}
+      - {url: "https://x.com/AzratemES/status/2120147523709042976", label: "Harry Potter AU: Part 2 Snake Peak, 10 Nov 2026", also: ["https://malfoid.duckdns.org/video/Historias%20Impact%20%28J.A.%20V%C3%A1zquez%29/2026-11-10%20Harry%20Potter%20AU%EF%BC%9A%20Part%202%20Snake%20Peak%2C%2010%20Nov%202026.mp4"]}
       - {url: "https://x.com/AzratemES/status/2122477542112461133", label: "Video post, no caption, 16 Nov 2026", also: ["https://malfoid.duckdns.org/video/Historias%20Impact%20%28J.A.%20V%C3%A1zquez%29/2026-11-16%20Video%20post%2C%20no%20caption%2C%2016%20Nov%202026.mp4"]}
-      - {url: "https://x.com/AzratemES/status/2123413330534486032", label: "Many Thanks for Everything. The video is available now on BiliBili, 19 Nov 2026"}
+      - {url: "https://x.com/AzratemES/status/2123413330534486032", label: "Many Thanks for Everything. The video is available now on BiliBili, 19 Nov 2026", also: ["https://malfoid.duckdns.org/video/Historias%20Impact%20%28J.A.%20V%C3%A1zquez%29/2026-11-19%20Many%20Thanks%20for%20Everything.%20The%20video%20is%20available%20now%20on%20BiliBili%2C%2019%20Nov%202026.mp4"]}
     added: 2026-11-08
     summary: "Makes Harry Potter AU videos on YouTube, including Part 1, a 1 hour 23 minute movie that retells the battle of Hogwarts."
     tags: [harry-potter, au, movie, youtube]
@@ -3742,8 +3742,8 @@ works:
       - {url: "https://www.youtube.com/watch?v=p_JbMSvt8pI", label: "Malfoy Won't Be Honest Ep.26: The Corridor Where No One Laughs (English Dub)", also: ["https://malfoid.duckdns.org/video/Karma%20Moe%20-%20%E8%87%AA%E6%A5%AD%E8%87%AA%E8%90%8C%20%28zerozakiyamo%29/2026-11-18%20Malfoy%20Won%27t%20Be%20Honest%20Ep.26%EF%BC%9A%20The%20Corridor%20Where%20No%20One%20Laughs%20%28English%20Dub%29.mp4"]}
       - {url: "https://www.youtube.com/watch?v=qzM7mDCB4xo", label: "It really isn't funny. | Malfoy Won't Be Honest Ep.26 #malfoy #malfoid", also: ["https://malfoid.duckdns.org/video/Karma%20Moe%20-%20%E8%87%AA%E6%A5%AD%E8%87%AA%E8%90%8C%20%28zerozakiyamo%29/2026-11-18%20It%20really%20isn%27t%20funny.%20%EF%BD%9C%20Malfoy%20Won%27t%20Be%20Honest%20Ep.26%20%23malfoy%20%23malfoid.mp4"]}
       - {url: "https://www.youtube.com/watch?v=lIHGhWcOTO0", label: "Malfoy Won't Be Honest: Her Friends Take the Stand (English Dub) | The Quibbler Extra", also: ["https://malfoid.duckdns.org/video/Karma%20Moe%20-%20%E8%87%AA%E6%A5%AD%E8%87%AA%E8%90%8C%20%28zerozakiyamo%29/2026-11-18%20Malfoy%20Won%27t%20Be%20Honest%EF%BC%9A%20Her%20Friends%20Take%20the%20Stand%20%28English%20Dub%29%20%EF%BD%9C%20The%20Quibbler%20Extra.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=qT2Ed75V0U8", label: "Malfoy Won't Be Honest: What Is in Her Boggart Wardrobe? (English Dub) | The Quibbler Extra"}
-      - {url: "https://www.youtube.com/watch?v=XE1GA-K4wq0", label: "Have I got something on my face? | Malfoy Won't Be Honest Ep.27 #malfoy #malfoid"}
+      - {url: "https://www.youtube.com/watch?v=qT2Ed75V0U8", label: "Malfoy Won't Be Honest: What Is in Her Boggart Wardrobe? (English Dub) | The Quibbler Extra", also: ["https://malfoid.duckdns.org/video/Karma%20Moe%20%EF%BD%9C%20%E8%87%AA%E6%A5%AD%E8%87%AA%E8%90%8C/2026-11-19%20Malfoy%20Won%27t%20Be%20Honest%EF%BC%9A%20What%20Is%20in%20Her%20Boggart%20Wardrobe%EF%BC%9F%20%28English%20Dub%29%20%EF%BD%9C%20The%20Quibbler%20Extra.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=XE1GA-K4wq0", label: "Have I got something on my face? | Malfoy Won't Be Honest Ep.27 #malfoy #malfoid", also: ["https://malfoid.duckdns.org/video/Karma%20Moe%20-%20%E8%87%AA%E6%A5%AD%E8%87%AA%E8%90%8C%20%28zerozakiyamo%29/2026-11-19%20Have%20I%20got%20something%20on%20my%20face%EF%BC%9F%20%EF%BD%9C%20Malfoy%20Won%27t%20Be%20Honest%20Ep.27%20%23malfoy%20%23malfoid.mp4"]}
       - {url: "https://www.youtube.com/watch?v=G6ROTk93ccs", label: "Malfoy Won't Be Honest Ep.27: What Did You Do with My Face? (English Dub)", also: ["https://malfoid.duckdns.org/video/Karma%20Moe%20-%20%E8%87%AA%E6%A5%AD%E8%87%AA%E8%90%8C%20%28zerozakiyamo%29/2026-11-19%20Malfoy%20Won%27t%20Be%20Honest%20Ep.27%EF%BC%9A%20What%20Did%20You%20Do%20with%20My%20Face%EF%BC%9F%20%28English%20Dub%29.mp4"]}
       - {url: "https://www.youtube.com/watch?v=5YKfEGMUgP0", label: "\"A very consistent printing error.\" Malfoy 📒 | The Quibbler Extra #malfoy #malfoid", also: ["https://malfoid.duckdns.org/video/Karma%20Moe%20-%20%E8%87%AA%E6%A5%AD%E8%87%AA%E8%90%8C%20%28zerozakiyamo%29/2026-11-19%20%EF%BC%82A%20very%20consistent%20printing%20error.%EF%BC%82%20Malfoy%20%F0%9F%93%92%20%EF%BD%9C%20The%20Quibbler%20Extra%20%23malfoy%20%23malfoid.mp4"]}
       - {url: "https://www.youtube.com/watch?v=HaFQxx_0T9Q", label: "\"That was not helping. That was lending.\" Crabbe 🧥 | The Quibbler Extra #malfoy #malfoid", also: ["https://malfoid.duckdns.org/video/Karma%20Moe%20-%20%E8%87%AA%E6%A5%AD%E8%87%AA%E8%90%8C%20%28zerozakiyamo%29/2026-11-19%20%EF%BC%82That%20was%20not%20helping.%20That%20was%20lending.%EF%BC%82%20Crabbe%20%F0%9F%A7%A5%20%EF%BD%9C%20The%20Quibbler%20Extra%20%23malfoy%20%23malfoid.mp4"]}
@@ -3987,17 +3987,17 @@ works:
     summary: "Makes Malfoid human art and AI videos on X, including a Pretty Girls Disappear Malfoid music video on YouTube. The X posts are embedded below."
     tags: [art, ai-video, music-video, x]
     videos:
-      - {url: "https://x.com/ImmortalSelchie/status/2116494698328252428", label: "Colin sells pictures of Harry and Draco"}
+      - {url: "https://x.com/ImmortalSelchie/status/2116494698328252428", label: "Colin sells pictures of Harry and Draco", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-10-31%20Colin%20sells%20pictures%20of%20Harry%20and%20Draco.mp4"]}
       - {url: "https://x.com/ImmortalSelchie/status/2115515793308102933", label: "Pretty Girls Disappear (Malfoid, made with AI), music video"}
       - {url: "https://x.com/ImmortalSelchie/status/2110873094378394057", label: "Yzma-inspired couple pictures, part 1"}
       - {url: "https://x.com/ImmortalSelchie/status/2110873210690719792", label: "Yzma-inspired couple pictures, part 2"}
       - {url: "https://x.com/ImmortalSelchie/status/2112595504051921294", label: "Apple art (Malfoid and Harry)"}
       - {url: "https://x.com/ImmortalSelchie/status/2111078340342001734", label: "Apple art, funny face"}
       - {url: "https://x.com/ImmortalSelchie/status/2112763432919531883", label: "Last part of the apple"}
-      - {url: "https://x.com/ImmortalSelchie/status/2115856343982866643", label: "Cute dance alone"}
-      - {url: "https://x.com/ImmortalSelchie/status/2115855592652972502", label: "I YEAAARN!"}
+      - {url: "https://x.com/ImmortalSelchie/status/2115856343982866643", label: "Cute dance alone", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-10-29%20Cute%20dance%20alone.mp4"]}
+      - {url: "https://x.com/ImmortalSelchie/status/2115855592652972502", label: "I YEAAARN!", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-10-29%20I%20YEAAARN%21.mp4"]}
       - {url: "https://x.com/ImmortalSelchie/status/2115851620999467184", label: "Yearning again (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-10-29%20Lady%20Selch%20-%20ah%20hell%20im%20yearning%20again%20%28tried%20a%20different%20ai%20went%20much%20smoother%20%5B2115851433769910272%5D.mp4"]}
-      - {url: "https://x.com/ImmortalSelchie/status/2116602789128491210", label: "Brain worms (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2116602789128491210", label: "Brain worms (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-10-31%20Brain%20worms%20%28AI%20video%29.mp4"]}
       - {url: "https://x.com/ImmortalSelchie/status/2116615444220314039", label: "More brain worms (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-10-31%20Lady%20Selch%20-%20the%20inspiration%20for%20this%20meme%20always%20pops%20up%20in%20my%20YT%20feed%20so%20here%20%5B2116615148668588032%5D.mp4"]}
       - {url: "https://x.com/ImmortalSelchie/status/2116616087395807557", label: "Reading them to filth (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-10-31%20Lady%20Selch%20-%20also%20this%20was%20fun%20to%20make%20inspired%20by%20the%20old%20saying%20%EF%BC%82reading%20them%20%5B2116615860035239936%5D.mp4"]}
       - {url: "https://x.com/ImmortalSelchie/status/2116616851925201053", label: "Cavities (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-10-31%20Lady%20Selch%20-%20its%20so%20sweet%20im%20getting%20cavities%21%20%5B2116616714607874048%5D.mp4"]}
@@ -4005,17 +4005,17 @@ works:
       - {url: "https://x.com/ImmortalSelchie/status/2116785675211313330", label: "Malfoid and Harry in Candy Land (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-01%20Lady%20Selch%20-%20the%20next%20of%20my%20%23malfoid%20and%20%23HarryPotter%20in%20candy%20land%20%28exploring%20c%20%5B2116784836300120064%5D.mp4"]}
       - {url: "https://x.com/ImmortalSelchie/status/2116784709544157506", label: "Hermione wants everyone to read (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-01%20Lady%20Selch%20-%20Hermione%20wants%20everyone%20to%20read%20even%20if%20its%20fan%20fiction%20%5B2116784350952083456%5D.mp4"]}
       - {url: "https://x.com/ImmortalSelchie/status/2116787232740921448", label: "Dumbledore vs Dobby (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-01%20Lady%20Selch%20-%20im%20kinda%20here%20for%20the%20Dumbledore%20vs%20dobby%20but%20%23Yearning%20is%20still%20m%20%5B2116786850505666560%5D.mp4"]}
-      - {url: "https://x.com/ImmortalSelchie/status/2116879442555605396", label: "Gym (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2116879442555605396", label: "Gym (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-01%20Gym%20%28AI%20video%29.mp4"]}
       - {url: "https://x.com/ImmortalSelchie/status/2117728086540382233", label: "Wardrobe change (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-03%20Lady%20Selch%20-%20OK%20its%20finally%20done%20and%20it%20only%20took%20a%20wardrobe%20change%20and%20my%20sanit%20%5B2117727780888801280%5D.mp4"]}
       - {url: "https://x.com/ImmortalSelchie/status/2117743429111398456", label: "Trope post (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-03%20Lady%20Selch%20-%20based%20on%20a%20trope%20that%27s%20a%20guilty%20pleasure%20of%20mine%20%5B2117742833490862080%5D.mp4"]}
-      - {url: "https://x.com/ImmortalSelchie/status/2118681062096486639", label: "Another life (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2118681062096486639", label: "Another life (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-06%20Another%20life%20%28AI%20video%29.mp4"]}
       - {url: "https://x.com/ImmortalSelchie/status/2119558867655045539", label: "Brain worms strike again (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-08%20Lady%20Selch%20-%20brain%20worms%20strike%20again%20%23malfoid%20%23HarryPotter%20%23MalfoidUniverse%20hi%20%5B2119557547405537280%5D.mp4"]}
-      - {url: "https://x.com/ImmortalSelchie/status/2116474057994776906", label: "NoHorny video (AI video)"}
-      - {url: "https://x.com/ImmortalSelchie/status/2120269034235346946", label: "Darker side, Falling into Obsession (AI video)"}
-      - {url: "https://x.com/ImmortalSelchie/status/2119984275647082689", label: "Old meme, insults are too good to be mad at (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2116474057994776906", label: "NoHorny video (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-10-31%20NoHorny%20video%20%28AI%20video%29.mp4"]}
+      - {url: "https://x.com/ImmortalSelchie/status/2120269034235346946", label: "Darker side, Falling into Obsession (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-10%20Darker%20side%2C%20Falling%20into%20Obsession%20%28AI%20video%29.mp4"]}
+      - {url: "https://x.com/ImmortalSelchie/status/2119984275647082689", label: "Old meme, insults are too good to be mad at (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-10%20Old%20meme%2C%20insults%20are%20too%20good%20to%20be%20mad%20at%20%28AI%20video%29.mp4"]}
       - {url: "https://x.com/ImmortalSelchie/status/2119984703386288159", label: "Janky but fun to imagine (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-10%20Lady%20Selch%20-%20its%20janky%20as%20hell%20but%20i%20had%20fun%20imagining%20it%20%5B2119984393674727424%5D.mp4"]}
-      - {url: "https://x.com/ImmortalSelchie/status/2119998357309735361", label: "Less funny after hearing it 50 times (AI video)"}
-      - {url: "https://x.com/ImmortalSelchie/status/2120056363447652603", label: "Yearning, so sweet (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2119998357309735361", label: "Less funny after hearing it 50 times (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-10%20Less%20funny%20after%20hearing%20it%2050%20times%20%28AI%20video%29.mp4"]}
+      - {url: "https://x.com/ImmortalSelchie/status/2120056363447652603", label: "Yearning, so sweet (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-10%20Yearning%2C%20so%20sweet%20%28AI%20video%29.mp4"]}
   - id: "creator-0xwreck"
     thumb: "banners/0xwreck-train.webp"
     title: "Train (0xWreck)"
@@ -4282,10 +4282,10 @@ works:
       - "https://www.youtube.com/watch?v=Ks6M7QZaI5s"
       - "https://www.youtube.com/watch?v=7VhFIPMe100"
       - "https://www.youtube.com/watch?v=KjA1z8wD8Uk"
-      - {url: "https://www.youtube.com/shorts/1F0mXkcofVg", label: "He Chose Her Over Everything"}
+      - {url: "https://www.youtube.com/shorts/1F0mXkcofVg", label: "He Chose Her Over Everything", also: ["https://malfoid.duckdns.org/video/Anigirls%20Archive/2026-11-17%20He%20Chose%20Her%20Over%20Everything.mp4"]}
       - {url: "https://www.youtube.com/shorts/exmHK9p1JKA", label: "So, What Will Draconia Say?", also: ["https://malfoid.duckdns.org/video/Anigirls%20Archive/2026-11-17%20So%2C%20What%20Will%20Draconia%20Say%EF%BC%9F.mp4"]}
       - {url: "https://www.youtube.com/watch?v=_1vA1lNkZT0", label: "A Truce Under the Stars 🌙✨💚 #draconia #harrypotter #malfoid", also: ["https://malfoid.duckdns.org/video/Anigirls%20Archive/2026-11-18%20A%20Truce%20Under%20the%20Stars%20%F0%9F%8C%99%E2%9C%A8%F0%9F%92%9A%20%23draconia%20%23harrypotter%20%23malfoid.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=tRE28eDbTmY", label: "You Asked WHO to the Ball?! 💃😱♟ #harrypotter #malfoid"}
+      - {url: "https://www.youtube.com/watch?v=tRE28eDbTmY", label: "You Asked WHO to the Ball?! 💃😱♟ #harrypotter #malfoid", also: ["https://malfoid.duckdns.org/video/Anigirls%20Archive/2026-11-19%20You%20Asked%20WHO%20to%20the%20Ball%EF%BC%9F%21%20%F0%9F%92%83%F0%9F%98%B1%E2%99%9F%20%23harrypotter%20%23malfoid.mp4"]}
     tags: [anime, video, youtube, malfoid]
   - id: "creator-yolitart"
     title: "YoliArt"
@@ -4406,7 +4406,7 @@ works:
       - "https://www.youtube.com/shorts/yz0h6ctEVcw"
       - "https://www.youtube.com/shorts/bZDP_BKqbjA"
       - "https://www.youtube.com/shorts/F6ccC56yEbQ"
-      - {url: "https://www.youtube.com/watch?v=IoYrewCIxcg", label: "Draconia Got Caught Brewing a \"Tracking Draught\"... for Potter? 💗 #malfoid"}
+      - {url: "https://www.youtube.com/watch?v=IoYrewCIxcg", label: "Draconia Got Caught Brewing a \"Tracking Draught\"... for Potter? 💗 #malfoid", also: ["https://malfoid.duckdns.org/video/OtakuAI2345/2026-11-19%20Draconia%20Got%20Caught%20Brewing%20a%20%EF%BC%82Tracking%20Draught%EF%BC%82...%20for%20Potter%EF%BC%9F%20%F0%9F%92%97%20%23malfoid.mp4"]}
     tags: [anime, video, youtube, x, series]
   - id: "creator-enoki-saori-bilibili"
     title: "榎木纱织"
@@ -4421,8 +4421,8 @@ works:
     thumb: "banners/enoki-saori-harry-regret.jpg"
     summary: "Gender-bent Draco Malfoy (Malfoid) AI animations about Harry on Bilibili, with English audio. Both videos are embedded below. The first is a short about Harry's regret; the second is the full story of Harry and Malfoid together."
     videos:
-      - {url: "https://rumble.com/embed/v7ga11s/?pub=13iafn", label: "[Gender-bent Draco Malfoy] I made Harry regret for life, really?!", also: ["https://www.bilibili.com/en/video/BV187HT68EBG/", "https://drive.google.com/file/d/1_5EPIA1t_2mDW_amX0s7qy4XjgI_wYF0/view"]}
-      - {url: "https://rumble.com/embed/v7ga15g/?pub=13iafn", label: "[Gender-bent Draco Malfoy] It's official, Harry and I are together!", also: ["https://www.bilibili.com/en/video/BV17nsV6YEXi/", "https://drive.google.com/file/d/1PzterfUDaioF8HAo7uZZuUUqh7m2Zz8U/view"]}
+      - {url: "https://rumble.com/embed/v7ga11s/?pub=13iafn", label: "[Gender-bent Draco Malfoy] I made Harry regret for life, really?!", also: ["https://www.bilibili.com/en/video/BV187HT68EBG/", "https://drive.google.com/file/d/1_5EPIA1t_2mDW_amX0s7qy4XjgI_wYF0/view", "https://malfoid.duckdns.org/video/%E6%A6%8E%E6%9C%A8%E7%BA%B1%E7%BB%87%20%28rhedak%29/%5BGender-bent%20Draco%20Malfoy%5D%20I%20made%20Harry%20regret%20for%20life%2C%20really%EF%BC%9F%21.mp4"]}
+      - {url: "https://rumble.com/embed/v7ga15g/?pub=13iafn", label: "[Gender-bent Draco Malfoy] It's official, Harry and I are together!", also: ["https://www.bilibili.com/en/video/BV17nsV6YEXi/", "https://drive.google.com/file/d/1PzterfUDaioF8HAo7uZZuUUqh7m2Zz8U/view", "https://malfoid.duckdns.org/video/%E6%A6%8E%E6%9C%A8%E7%BA%B1%E7%BB%87%20%28rhedak%29/%5BGender-bent%20Draco%20Malfoy%5D%20It%27s%20official%2C%20Harry%20and%20I%20are%20together%21.mp4"]}
     tags: [anime, video, bilibili, malfoid]
   - id: "creator-x1oa-bilibili"
     title: "X1OA"
@@ -4445,7 +4445,7 @@ works:
       - {url: "https://www.bilibili.com/en/video/BV1TSJD66EMo/", label: "【Animated Version】Miss Malfoy and Potter's School Life Series 01", also: ["https://malfoid.duckdns.org/video/X1OA/2026-10-16%20%E3%80%90Animated%20Version%E3%80%91Miss%20Malfoy%20and%20Potter%27s%20School%20Life%20Series%2001.mp4"]}
       - {url: "https://www.bilibili.com/en/video/BV1vhn36VEGW/", label: "[Animated version] Miss Malfoy was KISSED by Potter at the bottom of the Black Lake", also: ["https://malfoid.duckdns.org/video/X1OA/2026-10-18%20%5BAnimated%20version%5D%20Miss%20Malfoy%20was%20KISSED%20by%20Potter%20at%20the%20bottom%20of%20the%20Black%20Lake.mp4"]}
       - {url: "https://www.bilibili.com/en/video/BV1HunE6rE97/", label: "[Animated version] Miss Malfoy frantically pats Potter's shoulder in the Forbidden Forest", also: ["https://malfoid.duckdns.org/video/X1OA/2026-10-19%20%5BAnimated%20version%5D%20Miss%20Malfoy%20frantically%20pats%20Potter%27s%20shoulder%20in%20the%20Forbidden%20Forest.mp4"]}
-      - {url: "https://www.bilibili.com/en/video/BV1KpH56gEXJ/", label: "[Animated version] Miss Malfoy finds the person who made badges to insult Potter (Badge chapter)"}
+      - {url: "https://www.bilibili.com/en/video/BV1KpH56gEXJ/", label: "[Animated version] Miss Malfoy finds the person who made badges to insult Potter (Badge chapter)", also: ["https://malfoid.duckdns.org/video/X1OA/2026-10-25%20%5BAnimated%20version%5D%20Miss%20Malfoy%20finds%20the%20person%20who%20made%20badges%20to%20insult%20Potter%20%28Badge%20chapter%29.mp4"]}
       - {url: "https://www.bilibili.com/en/video/BV1Rhsf6pEG6/", label: "[Animated version] Miss Malfoy holds hands with Potter on Christmas morning (Christmas edition)", also: ["https://malfoid.duckdns.org/video/X1OA/2026-10-29%20%5BAnimated%20version%5D%20Miss%20Malfoy%20holds%20hands%20with%20Potter%20on%20Christmas%20morning%20%28Christmas%20edition%29.mp4"]}
       - {url: "https://www.bilibili.com/en/video/BV1CoxY6YELL/", label: "[Animated Version] Miss Malfoy and Bugles the Cat and Shield and Sword Dog", also: ["https://malfoid.duckdns.org/video/X1OA/2026-10-30%20%5BAnimated%20Version%5D%20Miss%20Malfoy%20and%20Bugles%20the%20Cat%20and%20Shield%20and%20Sword%20Dog.mp4"]}
       - {url: "https://www.bilibili.com/en/video/BV1Mbx163ExV/", label: "【Animated Version】Miss Malfoy and Potter's Halloween Event", also: ["https://malfoid.duckdns.org/video/X1OA/2026-10-31%20%E3%80%90Animated%20Version%E3%80%91Miss%20Malfoy%20and%20Potter%27s%20Halloween%20Event.mp4"]}
@@ -4458,14 +4458,14 @@ works:
       - {url: "https://www.bilibili.com/en/video/BV1uyno6wEUL/", label: "[Anime Version] After Miss Malfoy is 'accidentally' pushed down by Potter (Christmas Chapter)", also: ["https://malfoid.duckdns.org/video/X1OA/2026-10-26%20%5BAnime%20Version%5D%20After%20Miss%20Malfoy%20is%20%27accidentally%27%20pushed%20down%20by%20Potter%20%28Christmas%20Chapter%29.mp4"]}
       - {url: "https://www.bilibili.com/en/video/BV1JZxM6dEDH/", label: "[Animated Version] Miss Malfoy Saw How Father Lucius Punished Potter (Christmas Edition)", also: ["https://malfoid.duckdns.org/video/X1OA/2026-10-27%20%5BAnimated%20Version%5D%20Miss%20Malfoy%20Saw%20How%20Father%20Lucius%20Punished%20Potter%20%28Christmas%20Edition%29.mp4"]}
       - {url: "https://www.bilibili.com/en/video/BV1ZFxE6LEPK/", label: "[Animated version] Draco Malfoy's lap pillow and Potter's 'dream'? (Christmas edition)", also: ["https://malfoid.duckdns.org/video/X1OA/2026-10-28%20%5BAnimated%20version%5D%20Draco%20Malfoy%27s%20lap%20pillow%20and%20Potter%27s%20%27dream%27%EF%BC%9F%20%28Christmas%20edition%29.mp4"]}
-      - {url: "https://www.bilibili.com/en/video/BV1E64P61Eku/", label: "[Animated version] Narcissa, the mother of Miss Malfoy, makes her debut"}
+      - {url: "https://www.bilibili.com/en/video/BV1E64P61Eku/", label: "[Animated version] Narcissa, the mother of Miss Malfoy, makes her debut", also: ["https://malfoid.duckdns.org/video/X1OA/2026-11-02%20%5BAnimated%20version%5D%20Narcissa%2C%20the%20mother%20of%20Miss%20Malfoy%2C%20makes%20her%20debut.mp4"]}
       - {url: "https://www.bilibili.com/en/video/BV1hh4G69Evt/", label: "[Animated Version] Draco Malfoy's mother and Potter", also: ["https://malfoid.duckdns.org/video/X1OA/2026-11-03%20%5BAnimated%20Version%5D%20Draco%20Malfoy%27s%20mother%20and%20Potter.mp4"]}
       - {url: "https://www.bilibili.com/en/video/BV18ZxX6eECK/", label: "[Animated version] Draco Malfoy young lady's 'food guarding'", also: ["https://malfoid.duckdns.org/video/X1OA/2026-11-04%20%5BAnimated%20version%5D%20Draco%20Malfoy%20young%20lady%27s%20%27food%20guarding%27.mp4"]}
       - {url: "https://www.bilibili.com/en/video/BV17M4b6yEWR/", label: "[Animated version] Miss Malfoy says do I smell bad?", also: ["https://malfoid.duckdns.org/video/X1OA/2026-11-05%20%5BAnimated%20version%5D%20Miss%20Malfoy%20says%20do%20I%20smell%20bad%EF%BC%9F.mp4"]}
       - {url: "https://www.bilibili.com/en/video/BV1cApB6NEaT/", label: "[Animated version] Miss Malfoy and Potter broke up [Breakup chapter]", also: ["https://malfoid.duckdns.org/video/X1OA/2026-10-13%20%5BAnimated%20version%5D%20Miss%20Malfoy%20and%20Potter%20broke%20up%20%5BBreakup%20chapter%5D.mp4"]}
       - {url: "https://www.bilibili.com/en/video/BV1U9JC69Eyr/", label: "[Animated Version] After Draco Malfoy and Potter Break Up [Breakup Chapter]", also: ["https://malfoid.duckdns.org/video/X1OA/2026-10-15%20%5BAnimated%20Version%5D%20After%20Draco%20Malfoy%20and%20Potter%20Break%20Up%20%5BBreakup%20Chapter%5D.mp4"]}
       - {url: "https://www.bilibili.com/en/video/BV1voxs6hEeE/", label: "[Animated Version] Miss Malfoy's New Hairstyle (Breakup Chapter)", also: ["https://malfoid.duckdns.org/video/X1OA/2026-11-01%20%5BAnimated%20Version%5D%20Miss%20Malfoy%27s%20New%20Hairstyle%20%28Breakup%20Chapter%29.mp4"]}
-      - {url: "https://www.bilibili.com/en/video/BV126sp66Eds/", label: "[Animated version] Miss Malfoy and Potter — (Philosopher's Stone arc) OP"}
+      - {url: "https://www.bilibili.com/en/video/BV126sp66Eds/", label: "[Animated version] Miss Malfoy and Potter — (Philosopher's Stone arc) OP", also: ["https://malfoid.duckdns.org/video/X1OA/2026-11-15%20%5BAnimated%20version%5D%20Miss%20Malfoy%20and%20Potter%20%E2%80%94%20%28Philosopher%27s%20Stone%20arc%29%20OP.mp4"]}
     tags: [anime, video, bilibili, animated]
   - id: "creator-ikskei"
     title: "XK☭HK"
@@ -4481,12 +4481,12 @@ works:
     tags: [comedy, music, halloween, x]
     videos:
       - {url: "https://x.com/ikskei/status/2123050973622948236", label: "Rule 63 comedy: Draconia's first trip to Diagon Alley, 18 Nov 2026", also: ["https://malfoid.duckdns.org/video/XK%E2%98%ADHK%20%28ikskei%29/2026-11-18%20Rule%2063%20comedy%EF%BC%9A%20Draconia%27s%20first%20trip%20to%20Diagon%20Alley%2C%2018%20Nov%202026.mp4"]}
-      - {url: "https://x.com/ikskei/status/2122048990376063442", label: "Rule 63 comedy: \"There's only one Malfoy in this world. That's her.\""}
-      - {url: "https://x.com/ikskei/status/2116861563831513226", label: "Halloween song: \"She crowns herself pumpkin queen.\""}
-      - {url: "https://x.com/ikskei/status/2121673941517513032", label: "Drakonia song: \"Drakonia Malfoy insists she's a perfectly composed Slytherin lady.\""}
-      - {url: "https://x.com/ikskei/status/2115925670219927992", label: "Livesey phonk: \"Draconia leads. Crabbe and Goyle follow.\""}
-      - {url: "https://x.com/ikskei/status/2118925735784272115", label: "Ron and Pansy: \"Nearly christmas in Hogsmeade.\""}
-      - {url: "https://x.com/ikskei/status/2119543504754082037", label: "Ron and Pansy before Quidditch: \"She said it was for luck.\""}
+      - {url: "https://x.com/ikskei/status/2122048990376063442", label: "Rule 63 comedy: \"There's only one Malfoy in this world. That's her.\"", also: ["https://malfoid.duckdns.org/video/XK%E2%98%ADHK%20%28ikskei%29/2026-11-15%20Rule%2063%20comedy%EF%BC%9A%20%EF%BC%82There%27s%20only%20one%20Malfoy%20in%20this%20world.%20That%27s%20her.%EF%BC%82.mp4"]}
+      - {url: "https://x.com/ikskei/status/2116861563831513226", label: "Halloween song: \"She crowns herself pumpkin queen.\"", also: ["https://malfoid.duckdns.org/video/XK%E2%98%ADHK%20%28ikskei%29/2026-11-01%20Halloween%20song%EF%BC%9A%20%EF%BC%82She%20crowns%20herself%20pumpkin%20queen.%EF%BC%82.mp4"]}
+      - {url: "https://x.com/ikskei/status/2121673941517513032", label: "Drakonia song: \"Drakonia Malfoy insists she's a perfectly composed Slytherin lady.\"", also: ["https://malfoid.duckdns.org/video/XK%E2%98%ADHK%20%28ikskei%29/2026-11-14%20Drakonia%20song%EF%BC%9A%20%EF%BC%82Drakonia%20Malfoy%20insists%20she%27s%20a%20perfectly%20composed%20Slytherin%20lady.%EF%BC%82.mp4"]}
+      - {url: "https://x.com/ikskei/status/2115925670219927992", label: "Livesey phonk: \"Draconia leads. Crabbe and Goyle follow.\"", also: ["https://malfoid.duckdns.org/video/XK%E2%98%ADHK%20%28ikskei%29/2026-10-29%20Livesey%20phonk%EF%BC%9A%20%EF%BC%82Draconia%20leads.%20Crabbe%20and%20Goyle%20follow.%EF%BC%82.mp4"]}
+      - {url: "https://x.com/ikskei/status/2118925735784272115", label: "Ron and Pansy: \"Nearly christmas in Hogsmeade.\"", also: ["https://malfoid.duckdns.org/video/XK%E2%98%ADHK%20%28ikskei%29/2026-11-07%20Ron%20and%20Pansy%EF%BC%9A%20%EF%BC%82Nearly%20christmas%20in%20Hogsmeade.%EF%BC%82.mp4"]}
+      - {url: "https://x.com/ikskei/status/2119543504754082037", label: "Ron and Pansy before Quidditch: \"She said it was for luck.\"", also: ["https://malfoid.duckdns.org/video/XK%E2%98%ADHK%20%28ikskei%29/2026-11-08%20Ron%20and%20Pansy%20before%20Quidditch%EF%BC%9A%20%EF%BC%82She%20said%20it%20was%20for%20luck.%EF%BC%82.mp4"]}
   - id: "creator-616studioph"
     title: "616 STUDIO"
     first_name: ""
@@ -4551,18 +4551,18 @@ works:
       - {url: "https://www.youtube.com/watch?v=1tRd1PFdapE", label: "Malfoid — Malfoys Don’t Cry | Harry Potter × Female Draco", also: ["https://malfoid.duckdns.org/video/Beyond%20Hogwarts%20%28BeyondHogwartsAI1%29/2026-10-29%20Malfoid%20%E2%80%94%20Malfoys%20Don%E2%80%99t%20Cry%20%EF%BD%9C%20Harry%20Potter%20%C3%97%20Female%20Draco.mp4"]}
       - {url: "https://www.youtube.com/watch?v=5SCnsJDqJ-g", label: "Malfoid — Please Don’t Leave Me | Harry Potter × Female Draco", also: ["https://malfoid.duckdns.org/video/Beyond%20Hogwarts%20%28BeyondHogwartsAI1%29/2026-10-27%20Malfoid%20%E2%80%94%20Please%20Don%E2%80%99t%20Leave%20Me%20%EF%BD%9C%20Harry%20Potter%20%C3%97%20Female%20Draco.mp4"]}
       - {url: "https://www.youtube.com/watch?v=penD2VSqhu4", label: "What if Draco was a girl in love with Harry? | Malfoid Fan Film", also: ["https://malfoid.duckdns.org/video/Beyond%20Hogwarts%20%28BeyondHogwartsAI1%29/2026-10-24%20What%20if%20Draco%20was%20a%20girl%20in%20love%20with%20Harry%EF%BC%9F%20%EF%BD%9C%20Malfoid%20Fan%20Film.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=QAWtVNlGNSM", label: "Harry Spotter 1"}
-      - {url: "https://www.youtube.com/watch?v=Oh2dK0Itksk", label: "Harry Potter's Magical Escape – Jungle, Waterfalls & Unexpected Romance"}
-      - {url: "https://www.youtube.com/watch?v=Das3xqItbkM", label: "Harry Potter Characters 60 Years Later | Magical Home"}
-      - {url: "https://www.youtube.com/watch?v=88WMnV9Ccd0", label: "Harry Potter in the African Savannah | AI Fan Film"}
-      - {url: "https://www.youtube.com/watch?v=lLI_0M06KD0", label: "The Childhood Harry Potter Deserved | Sirius Black Raised Him"}
-      - {url: "https://www.youtube.com/watch?v=SlP1qP4N1VU", label: "What If Draco & Hermione Had Their Dream Honeymoon? | Paradise After the War"}
-      - {url: "https://www.youtube.com/watch?v=pAAtScBRxko", label: "Harry Potter | Spread Love at Hogwarts – A Valentine Film"}
-      - {url: "https://www.youtube.com/watch?v=0bDesk7B7CY", label: "What If Hagrid Raised Harry Potter? | The Childhood He Deserved"}
-      - {url: "https://www.youtube.com/watch?v=-t9sUeIYM64", label: "Harry Potter Raised by the Weasleys | A Different Childhood Changed Everything"}
-      - {url: "https://www.youtube.com/watch?v=s4I3wkg4-RM", label: "What if Harry Potter Took a Tropical Holiday?"}
-      - {url: "https://www.youtube.com/watch?v=M1KMY-APxq4", label: "What If She Didn’t Give Up On Him? | Hermione & Draco"}
-      - {url: "https://www.youtube.com/watch?v=VP4iHbkI-Fw", label: "Christmas Moments at Hogwarts - Harry Potter Festive Compilation"}
+      - {url: "https://www.youtube.com/watch?v=QAWtVNlGNSM", label: "Harry Spotter 1", also: ["https://malfoid.duckdns.org/video/Beyond%20Hogwarts%20%28BeyondHogwartsAI1%29/2026-03-15%20Harry%20Spotter%201.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=Oh2dK0Itksk", label: "Harry Potter's Magical Escape – Jungle, Waterfalls & Unexpected Romance", also: ["https://malfoid.duckdns.org/video/Beyond%20Hogwarts%20%28BeyondHogwartsAI1%29/2026-03-13%20Harry%20Potter%27s%20Magical%20Escape%20%E2%80%93%20Jungle%2C%20Waterfalls%20%26%20Unexpected%20Romance.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=Das3xqItbkM", label: "Harry Potter Characters 60 Years Later | Magical Home", also: ["https://malfoid.duckdns.org/video/Beyond%20Hogwarts%20%28BeyondHogwartsAI1%29/2026-03-01%20Harry%20Potter%20Characters%2060%20Years%20Later%20%EF%BD%9C%20Magical%20Home.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=88WMnV9Ccd0", label: "Harry Potter in the African Savannah | AI Fan Film", also: ["https://malfoid.duckdns.org/video/Beyond%20Hogwarts%20%28BeyondHogwartsAI1%29/2026-01-30%20Harry%20Potter%20in%20the%20African%20Savannah%20%EF%BD%9C%20AI%20Fan%20Film.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=lLI_0M06KD0", label: "The Childhood Harry Potter Deserved | Sirius Black Raised Him", also: ["https://malfoid.duckdns.org/video/Beyond%20Hogwarts%20%28BeyondHogwartsAI1%29/2026-01-25%20The%20Childhood%20Harry%20Potter%20Deserved%20%EF%BD%9C%20Sirius%20Black%20Raised%20Him.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=SlP1qP4N1VU", label: "What If Draco & Hermione Had Their Dream Honeymoon? | Paradise After the War", also: ["https://malfoid.duckdns.org/video/Beyond%20Hogwarts%20%28BeyondHogwartsAI1%29/2026-01-20%20What%20If%20Draco%20%26%20Hermione%20Had%20Their%20Dream%20Honeymoon%EF%BC%9F%20%EF%BD%9C%20Paradise%20After%20the%20War.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=pAAtScBRxko", label: "Harry Potter | Spread Love at Hogwarts – A Valentine Film", also: ["https://malfoid.duckdns.org/video/Beyond%20Hogwarts%20%28BeyondHogwartsAI1%29/2026-01-15%20Harry%20Potter%20%EF%BD%9C%20Spread%20Love%20at%20Hogwarts%20%E2%80%93%20A%20Valentine%20Film.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=0bDesk7B7CY", label: "What If Hagrid Raised Harry Potter? | The Childhood He Deserved", also: ["https://malfoid.duckdns.org/video/Beyond%20Hogwarts%20%28BeyondHogwartsAI1%29/2026-01-12%20What%20If%20Hagrid%20Raised%20Harry%20Potter%EF%BC%9F%20%EF%BD%9C%20The%20Childhood%20He%20Deserved.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=-t9sUeIYM64", label: "Harry Potter Raised by the Weasleys | A Different Childhood Changed Everything", also: ["https://malfoid.duckdns.org/video/Beyond%20Hogwarts%20%28BeyondHogwartsAI1%29/2026-01-08%20Harry%20Potter%20Raised%20by%20the%20Weasleys%20%EF%BD%9C%20A%20Different%20Childhood%20Changed%20Everything.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=s4I3wkg4-RM", label: "What if Harry Potter Took a Tropical Holiday?", also: ["https://malfoid.duckdns.org/video/Beyond%20Hogwarts%20%28BeyondHogwartsAI1%29/2026-01-04%20What%20if%20Harry%20Potter%20Took%20a%20Tropical%20Holiday%EF%BC%9F.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=M1KMY-APxq4", label: "What If She Didn’t Give Up On Him? | Hermione & Draco", also: ["https://malfoid.duckdns.org/video/Beyond%20Hogwarts%20%28BeyondHogwartsAI1%29/2026-01-01%20What%20If%20She%20Didn%E2%80%99t%20Give%20Up%20On%20Him%EF%BC%9F%20%EF%BD%9C%20Hermione%20%26%20Draco.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=VP4iHbkI-Fw", label: "Christmas Moments at Hogwarts - Harry Potter Festive Compilation", also: ["https://malfoid.duckdns.org/video/Beyond%20Hogwarts%20%28BeyondHogwartsAI1%29/2025-12-26%20Christmas%20Moments%20at%20Hogwarts%20-%20Harry%20Potter%20Festive%20Compilation.mp4"]}
   - id: "creator-brooklynge0214"
     title: "Brooklyn (Draconia Fanmade POVs)"
     first_name: ""
@@ -4588,7 +4588,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=QhSjydJ_gtY", label: "Malfoid wants to dance with you | Malfoid x Harry", also: ["https://malfoid.duckdns.org/video/Dean_xx%20%28Dean_xx17%29/2026-11-09%20Malfoid%20wants%20to%20dance%20with%20you%20%EF%BD%9C%20Malfoid%20x%20Harry.mp4"]}
       - {url: "https://www.youtube.com/watch?v=_73QgREWiCc", label: "Malfoid wants your attention | Malfoid x Harry First Kiss", also: ["https://malfoid.duckdns.org/video/Dean_xx%20%28Dean_xx17%29/2026-10-27%20Malfoid%20wants%20your%20attention%20%EF%BD%9C%20Malfoid%20x%20Harry%20First%20Kiss.mp4"]}
       - {url: "https://www.youtube.com/watch?v=IHMJ5CO7Ttc", label: "Malfoid wants to sit with you | Malfoid x Harry", also: ["https://malfoid.duckdns.org/video/Dean_xx%20%28Dean_xx17%29/2026-10-25%20Malfoid%20wants%20to%20sit%20with%20you%20%EF%BD%9C%20Malfoid%20x%20Harry.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=Qt0W7GB00UE", label: "Malfoid wants a Rematch | Malfoid x Harry"}
+      - {url: "https://www.youtube.com/watch?v=Qt0W7GB00UE", label: "Malfoid wants a Rematch | Malfoid x Harry", also: ["https://malfoid.duckdns.org/video/Dean_xx%20%28Dean_xx17%29/2026-11-19%20Malfoid%20wants%20a%20Rematch%20%EF%BD%9C%20Malfoid%20x%20Harry.mp4"]}
   - id: "creator-draconia-malfoid"
     title: "Draconia Malfoid"
     first_name: ""
@@ -4702,10 +4702,10 @@ works:
       - {url: "https://www.youtube.com/watch?v=0PSw_IjCLVU", label: "Me Making Malfoid Canon", also: ["https://malfoid.duckdns.org/video/Goldteiger2000/2026-10-19%20Me%20Making%20Malfoid%20Canon.mp4"]}
       - {url: "https://www.youtube.com/watch?v=b2UiUf3EE54", label: "Draco Malfoy Waifu 3.0", also: ["https://malfoid.duckdns.org/video/Goldteiger2000/2026-10-18%20Draco%20Malfoy%20Waifu%203.0.mp4"]}
       - {url: "https://www.youtube.com/watch?v=2pcT-jQcpeo", label: "Draco Malfoid Compilation #6", also: ["https://malfoid.duckdns.org/video/Goldteiger2000/2026-11-17%20Draco%20Malfoid%20Compilation%20%236.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=YWQQErCAVE4", label: "Malfoid Make Is Better 💚"}
-      - {url: "https://www.youtube.com/watch?v=xqBFdI5QBbQ", label: "Malfoid Make Is Better 💚"}
-      - {url: "https://www.youtube.com/watch?v=ymk344SvFb4", label: "The Last Stand"}
-      - {url: "https://www.youtube.com/watch?v=Oabdz4i2u6A", label: "Draco Malfoid Waifu"}
+      - {url: "https://www.youtube.com/watch?v=YWQQErCAVE4", label: "Malfoid Make Is Better 💚", also: ["https://malfoid.duckdns.org/video/Goldteiger2000/2026-11-19%20Malfoid%20Make%20Is%20Better%20%F0%9F%92%9A.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=xqBFdI5QBbQ", label: "Malfoid Make Is Better 💚", also: ["https://malfoid.duckdns.org/video/Goldteiger2000/2026-11-19%20Malfoid%20Make%20Is%20Better%20%F0%9F%92%9A%20%282%29.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=ymk344SvFb4", label: "The Last Stand", also: ["https://malfoid.duckdns.org/video/Goldteiger2000/2026-11-19%20The%20Last%20Stand.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=Oabdz4i2u6A", label: "Draco Malfoid Waifu", also: ["https://malfoid.duckdns.org/video/Goldteiger2000/2026-11-19%20Draco%20Malfoid%20Waifu.mp4"]}
   - id: "creator-gugolfaistudio"
     title: "GugolfAIStudio"
     first_name: ""
@@ -4765,7 +4765,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=uRIxmO8iLgc", label: "Draconia Malfoy - Back to friends ft #Sombr MV Edit.", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20%28hogwashexpress%29/2026-11-11%20Draconia%20Malfoy%20-%20Back%20to%20friends%20ft%20%23Sombr%20MV%20Edit.mp4"]}
       - {url: "https://www.youtube.com/watch?v=DMeIQSqBdh0", label: "Draconia Malfoy - No Surprises X Radiohead - No Surprises Edit #malfoid #radiohead #nosurprises ", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20%28hogwashexpress%29/2026-11-06%20Draconia%20Malfoy%20-%20No%20Surprises%20X%20Radiohead%20-%20No%20Surprises%20Edit%20%23malfoid%20%23radiohead%20%23nosurprises.mp4"]}
       - {url: "https://www.youtube.com/watch?v=aJw4-mlLJ14", label: "Draconia Malfoy - Malfoy Mannor Movie Mayhem | By: @lilmovieperp", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20%28hogwashexpress%29/2026-11-05%20Draconia%20Malfoy%20-%20Malfoy%20Mannor%20Movie%20Mayhem%20%EF%BD%9C%20By%EF%BC%9A%20%40lilmovieperp.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=CkxZR5qLsB8", label: "Draconia Malfoy - You cant put this two in the same room together... | By: @lilmovieperp"}
+      - {url: "https://www.youtube.com/watch?v=CkxZR5qLsB8", label: "Draconia Malfoy - You cant put this two in the same room together... | By: @lilmovieperp", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20%28hogwashexpress%29/2026-11-02%20Draconia%20Malfoy%20-%20You%20cant%20put%20this%20two%20in%20the%20same%20room%20together...%20%EF%BD%9C%20By%EF%BC%9A%20%40lilmovieperp.mp4"]}
       - {url: "https://www.youtube.com/watch?v=3_ust6PuNjE", label: "Draconia Malfoy - Date Night | By: @lilmovieperp", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20%28hogwashexpress%29/2026-10-31%20Draconia%20Malfoy%20-%20Date%20Night%20%EF%BD%9C%20By%EF%BC%9A%20%40lilmovieperp.mp4"]}
       - {url: "https://www.youtube.com/watch?v=IesrpF34NPU", label: "Draconia Malfoy - Dungeon of Secret", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20%28hogwashexpress%29/2026-10-29%20Draconia%20Malfoy%20-%20Dungeon%20of%20Secret.mp4"]}
       - {url: "https://www.youtube.com/watch?v=NdajqrmGeo4", label: "Draconia Malfoy - Imperius Curse ", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20%28hogwashexpress%29/2026-10-27%20Draconia%20Malfoy%20-%20Imperius%20Curse.mp4"]}
@@ -4801,13 +4801,13 @@ works:
       - {url: "https://www.youtube.com/watch?v=tQtI3JAZOS0", label: "Pt 1 Tsundere  Malfoy in Love?  #shorts #harrypotter #dracomalfoy", also: ["https://malfoid.duckdns.org/video/Harry%20Potter%20Academy%20%28HPAcademy1%29/2026-10-22%20Pt%201%20Tsundere%20Malfoy%20in%20Love%EF%BC%9F%20%23shorts%20%23harrypotter%20%23dracomalfoy.mp4"]}
       - {url: "https://www.youtube.com/watch?v=uQZFz0mjJC4", label: "Tsundere Malfoy Stole Harry Potter's Glasses 😤 #shorts #harrypotter #dracomalfoy", also: ["https://malfoid.duckdns.org/video/Harry%20Potter%20Academy%20%28HPAcademy1%29/2026-10-22%20Tsundere%20Malfoy%20Stole%20Harry%20Potter%27s%20Glasses%20%F0%9F%98%A4%20%23shorts%20%23harrypotter%20%23dracomalfoy.mp4"]}
       - {url: "https://www.youtube.com/watch?v=Be4r-iGiOWQ", label: "Malfoid vs Tonks' Daughter: Harry Is Caught in the Middle", also: ["https://malfoid.duckdns.org/video/Harry%20Potter%20Academy%20%28HPAcademy1%29/2026-10-21%20Malfoid%20vs%20Tonks%27%20Daughter%EF%BC%9A%20Harry%20Is%20Caught%20in%20the%20Middle.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=N7CGllhiMlQ", label: "Can Harry, Ron and Hermione Beat Gangnam Style?"}
+      - {url: "https://www.youtube.com/watch?v=N7CGllhiMlQ", label: "Can Harry, Ron and Hermione Beat Gangnam Style?", also: ["https://malfoid.duckdns.org/video/Harry%20Potter%20Academy%20%28HPAcademy1%29/2026-10-20%20Can%20Harry%2C%20Ron%20and%20Hermione%20Beat%20Gangnam%20Style%EF%BC%9F.mp4"]}
       - {url: "https://www.youtube.com/watch?v=7srjCrX6XLU", label: "Female Malfoy - Is This the Slytherin Girl Harry Potter Fans Have Been Waiting For?", also: ["https://malfoid.duckdns.org/video/Harry%20Potter%20Academy%20%28HPAcademy1%29/2026-10-17%20Female%20Malfoy%20-%20Is%20This%20the%20Slytherin%20Girl%20Harry%20Potter%20Fans%20Have%20Been%20Waiting%20For%EF%BC%9F.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=IP3bF-sdzH0", label: "Harry Potter Gets Trapped in a Car With Voldemort?"}
-      - {url: "https://www.youtube.com/watch?v=SbHICpfDNZ0", label: "Twilight, Game of Thrones and Harry Potter dance off"}
-      - {url: "https://www.youtube.com/watch?v=15PG0ZtPP1Y", label: "What if Dean Winchester met Harry Potter"}
-      - {url: "https://www.youtube.com/watch?v=cMf7jcgrWII", label: "The Harry Potter national team at the FIFA World Cup"}
-      - {url: "https://www.youtube.com/watch?v=8cDozZiD_Yo", label: "Harry Potter Music Videos"}
+      - {url: "https://www.youtube.com/watch?v=IP3bF-sdzH0", label: "Harry Potter Gets Trapped in a Car With Voldemort?", also: ["https://malfoid.duckdns.org/video/Harry%20Potter%20Academy%20%28HPAcademy1%29/2026-10-16%20Harry%20Potter%20Gets%20Trapped%20in%20a%20Car%20With%20Voldemort%EF%BC%9F.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=SbHICpfDNZ0", label: "Twilight, Game of Thrones and Harry Potter dance off", also: ["https://malfoid.duckdns.org/video/Harry%20Potter%20Academy%20%28HPAcademy1%29/2026-09-28%20Twilight%2C%20Game%20of%20Thrones%20and%20Harry%20Potter%20dance%20off.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=15PG0ZtPP1Y", label: "What if Dean Winchester met Harry Potter", also: ["https://malfoid.duckdns.org/video/Harry%20Potter%20Academy%20%28HPAcademy1%29/2026-09-27%20What%20if%20Dean%20Winchester%20met%20Harry%20Potter.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=cMf7jcgrWII", label: "The Harry Potter national team at the FIFA World Cup", also: ["https://malfoid.duckdns.org/video/Harry%20Potter%20Academy%20%28HPAcademy1%29/2026-09-27%20The%20Harry%20Potter%20national%20team%20at%20the%20FIFA%20World%20Cup.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=8cDozZiD_Yo", label: "Harry Potter Music Videos", also: ["https://malfoid.duckdns.org/video/Harry%20Potter%20Academy%20%28HPAcademy1%29/2026-08-10%20Harry%20Potter%20Music%20Videos.mp4"]}
       - {url: "https://www.youtube.com/shorts/BM0fVOqPUGM", label: "Malfoid Multiverse | 21: A Tape for You: My Date with Malfoid", also: ["https://malfoid.duckdns.org/video/Harry%20Potter%20Academy%20%28HPAcademy1%29/2026-11-17%20Malfoid%20Multiverse%20%EF%BD%9C%2021%EF%BC%9A%20A%20Tape%20for%20You%EF%BC%9A%20My%20Date%20with%20Malfoid.mp4"]}
       - {url: "https://www.youtube.com/shorts/i1RyPQSpoh0", label: "Malfoid Multiverse | 01: Her Happiest Memory (Segment 1/2)", also: ["https://malfoid.duckdns.org/video/Harry%20Potter%20Academy%20%28HPAcademy1%29/2026-11-17%20Malfoid%20Multiverse%20%EF%BD%9C%2001%EF%BC%9A%20Her%20Happiest%20Memory%20%28Segment%201%E2%A7%B82%29.mp4"]}
       - {url: "https://www.youtube.com/shorts/b7B7B9O0UI0", label: "Magical Indiscretions | 08: Part 08: Tank", also: ["https://malfoid.duckdns.org/video/Harry%20Potter%20Academy%20%28HPAcademy1%29/2026-11-17%20Magical%20Indiscretions%20%EF%BD%9C%2008%EF%BC%9A%20Part%2008%EF%BC%9A%20Tank.mp4"]}
@@ -4851,7 +4851,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=gv3oLi9VCPk", label: "Malfoid ❄️ Lost in the Snow With Potter. Perfect. | Teaser", also: ["https://malfoid.duckdns.org/video/Inspo%20%28Slopfacex%29/2026-10-22%20Malfoid%20%E2%9D%84%EF%B8%8F%20Lost%20in%20the%20Snow%20With%20Potter.%20Perfect.%20%EF%BD%9C%20Teaser.mp4"]}
       - {url: "https://www.youtube.com/watch?v=LdEGIjEqyvA", label: "Malfoid Episode 4 | Running Out of Time", also: ["https://malfoid.duckdns.org/video/Inspo%20%28Slopfacex%29/2026-11-18%20Malfoid%20Episode%204%20%EF%BD%9C%20Running%20Out%20of%20Time.mp4"]}
       - {url: "https://www.youtube.com/watch?v=FeLrM02LAPY", label: "Malfoid Episode 4 | Running Out of Time  #malfoid", also: ["https://malfoid.duckdns.org/video/Inspo%20%28Slopfacex%29/2026-11-18%20Malfoid%20Episode%204%20%EF%BD%9C%20Running%20Out%20of%20Time%20%23malfoid.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=55hpPRVPBts", label: "Malfoid Episode 4 | Running Out of Time  #malfoid"}
+      - {url: "https://www.youtube.com/watch?v=55hpPRVPBts", label: "Malfoid Episode 4 | Running Out of Time  #malfoid", also: ["https://malfoid.duckdns.org/video/Inspo%20%28Slopfacex%29/2026-11-19%20Malfoid%20Episode%204%20%EF%BD%9C%20Running%20Out%20of%20Time%20%23malfoid.mp4"]}
   - id: "creator-j4mbo"
     title: "James Harvey (@J4MBO)"
     first_name: ""
@@ -4911,14 +4911,14 @@ works:
       - {url: "https://www.youtube.com/watch?v=dOfoLLdjFRQ", label: "The Night Malfoid Saved Harry from Dementor", also: ["https://malfoid.duckdns.org/video/MadMax%20%28MadMax000%29/2026-10-22%20The%20Night%20Malfoid%20Saved%20Harry%20from%20Dementor.mp4"]}
       - {url: "https://www.youtube.com/watch?v=DlIyH_Mcos8", label: "Draconia Malfoy - The Boy I Couldn’t Hate", also: ["https://malfoid.duckdns.org/video/MadMax%20%28MadMax000%29/2026-10-21%20Draconia%20Malfoy%20-%20The%20Boy%20I%20Couldn%E2%80%99t%20Hate.mp4"]}
       - {url: "https://www.youtube.com/watch?v=0g7tqmUVOpQ", label: "What if Malfoid and Harry were in Love!", also: ["https://malfoid.duckdns.org/video/MadMax%20%28MadMax000%29/2026-10-20%20What%20if%20Malfoid%20and%20Harry%20were%20in%20Love%21.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=iPayhZScfQI", label: "Draconia Malfoy (Malfoid) - The  Mirror of Erised"}
+      - {url: "https://www.youtube.com/watch?v=iPayhZScfQI", label: "Draconia Malfoy (Malfoid) - The  Mirror of Erised", also: ["https://malfoid.duckdns.org/video/MadMax%20%28MadMax000%29/2026-10-19%20Draconia%20Malfoy%20%28Malfoid%29%20-%20The%20Mirror%20of%20Erised.mp4"]}
       - {url: "https://www.youtube.com/watch?v=JXBPSN0zDyk", label: "Draconia Malfoy (Malfoid) Vs Hermione: Wizard's Duel", also: ["https://malfoid.duckdns.org/video/MadMax%20%28MadMax000%29/2026-10-18%20Draconia%20Malfoy%20%28Malfoid%29%20Vs%20Hermione%EF%BC%9A%20Wizard%27s%20Duel.mp4"]}
       - {url: "https://www.youtube.com/watch?v=1LoYfF0eTjg", label: "Draconia Malfoy (Malfoid) tried polyjuice potion", also: ["https://malfoid.duckdns.org/video/MadMax%20%28MadMax000%29/2026-10-16%20Draconia%20Malfoy%20%28Malfoid%29%20tried%20polyjuice%20potion.mp4"]}
       - {url: "https://www.youtube.com/watch?v=wN19-TZscZI", label: "Malfoid Tried Love Potion on Harry", also: ["https://malfoid.duckdns.org/video/MadMax%20%28MadMax000%29/2026-10-15%20Malfoid%20Tried%20Love%20Potion%20on%20Harry.mp4"]}
       - {url: "https://www.youtube.com/watch?v=UN0YN40qKPY", label: "Malfoid beautiful dream with Harry", also: ["https://malfoid.duckdns.org/video/MadMax%20%28MadMax000%29/2026-10-14%20Malfoid%20beautiful%20dream%20with%20Harry.mp4"]}
       - {url: "https://www.youtube.com/watch?v=Fb0bp8yc7HQ", label: "Hermione is getting jealous of Malfoid", also: ["https://malfoid.duckdns.org/video/MadMax%20%28MadMax000%29/2026-10-13%20Hermione%20is%20getting%20jealous%20of%20Malfoid.mp4"]}
-      - {url: "https://rumble.com/embed/v7gc4ak/?pub=13iafn", label: "May we Never Stop Yearning for Malfoid", also: ["https://drive.google.com/file/d/1pekrP1kU7NduBOZgIeKxuul0UcNiY7bw/view?usp=drive_link"]}
-      - {url: "https://rumble.com/embed/v7gc4di/?pub=13iafn", label: "Harry Wants Something from Malfoid", also: ["https://drive.google.com/file/d/1PA7dFjQNU2ct-eJfdhRg8kf89qaMrtVW/view?usp=drive_link"]}
+      - {url: "https://rumble.com/embed/v7gc4ak/?pub=13iafn", label: "May we Never Stop Yearning for Malfoid", also: ["https://drive.google.com/file/d/1pekrP1kU7NduBOZgIeKxuul0UcNiY7bw/view?usp=drive_link", "https://malfoid.duckdns.org/video/MadMax%20%28MadMax000%29/2026-11-05%20May%20we%20Never%20Stop%20Yearning%20for%20Malfoid.mp4"]}
+      - {url: "https://rumble.com/embed/v7gc4di/?pub=13iafn", label: "Harry Wants Something from Malfoid", also: ["https://drive.google.com/file/d/1PA7dFjQNU2ct-eJfdhRg8kf89qaMrtVW/view?usp=drive_link", "https://malfoid.duckdns.org/video/MadMax%20%28MadMax000%29/2026-11-06%20Harry%20Wants%20Something%20from%20Malfoid.mp4"]}
   - id: "creator-malfoid-series"
     title: "Malfoid"
     first_name: ""
@@ -5018,7 +5018,7 @@ works:
     added: 2026-11-16
     videos:
       - {url: "https://www.youtube.com/watch?v=kcvmIMI-UYQ", label: "FOYEGE | malfoid x harry potter", also: ["https://malfoid.duckdns.org/video/Orange%20Hoodie%20Guy/2026-11-16%20FOYEGE%20%EF%BD%9C%20malfoid%20x%20harry%20potter.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=Dva3W9DGVFY", label: "FOYEGE | malfoid x harry potter"}
+      - {url: "https://www.youtube.com/watch?v=Dva3W9DGVFY", label: "FOYEGE | malfoid x harry potter", also: ["https://malfoid.duckdns.org/video/Orange%20Hoodie%20Guy/2026-11-15%20FOYEGE%20%EF%BD%9C%20malfoid%20x%20harry%20potter%20%282%29.mp4"]}
       - {url: "https://www.youtube.com/watch?v=JcVIOKliWNM", label: "FOYEGE | malfoid x harry potter", also: ["https://malfoid.duckdns.org/video/Orange%20Hoodie%20Guy/2026-11-15%20FOYEGE%20%EF%BD%9C%20malfoid%20x%20harry%20potter.mp4"]}
   - id: "creator-spellora-ai"
     title: "Spellora"
@@ -5050,8 +5050,8 @@ works:
       - {url: "https://www.youtube.com/watch?v=F6vB6bEIaJI", label: "The Chosen One | Harry Potter Fanfic | Chapter 2: The Duel", also: ["https://malfoid.duckdns.org/video/tamara%20lucia%20clips/2026-11-03%20The%20Chosen%20One%20%EF%BD%9C%20Harry%20Potter%20Fanfic%20%EF%BD%9C%20Chapter%202%EF%BC%9A%20The%20Duel.mp4"]}
       - {url: "https://www.youtube.com/watch?v=YtLPrtEu7Eo", label: "The Chosen One | Harry Potter Fanfic | Chapter 1: Enemies", also: ["https://malfoid.duckdns.org/video/tamara%20lucia%20clips/2026-11-03%20The%20Chosen%20One%20%EF%BD%9C%20Harry%20Potter%20Fanfic%20%EF%BD%9C%20Chapter%201%EF%BC%9A%20Enemies.mp4"]}
       - {url: "https://www.youtube.com/watch?v=0Oj9n0BdJbM", label: "Chapter 13: Their First Kiss | The Chosen One Audiobook", also: ["https://malfoid.duckdns.org/video/tamara%20lucia%20clips/2026-11-17%20Chapter%2013%EF%BC%9A%20Their%20First%20Kiss%20%EF%BD%9C%20The%20Chosen%20One%20Audiobook.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=cd0levOdMpY", label: "She wasn't his person… but he dove into the Black Lake for her anyway 🌊 | Draconia Malfoy"}
-      - {url: "https://www.youtube.com/watch?v=exVtAv_kmmg", label: "\"I'm going home in a few days…\" \"Don't go\" 💔 | Draconia Malfoy #harrypotter #malfoid"}
+      - {url: "https://www.youtube.com/watch?v=cd0levOdMpY", label: "She wasn't his person… but he dove into the Black Lake for her anyway 🌊 | Draconia Malfoy", also: ["https://malfoid.duckdns.org/video/tamara%20lucia%20clips/2026-11-19%20She%20wasn%27t%20his%20person%E2%80%A6%20but%20he%20dove%20into%20the%20Black%20Lake%20for%20her%20anyway%20%F0%9F%8C%8A%20%EF%BD%9C%20Draconia%20Malfoy.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=exVtAv_kmmg", label: "\"I'm going home in a few days…\" \"Don't go\" 💔 | Draconia Malfoy #harrypotter #malfoid", also: ["https://malfoid.duckdns.org/video/tamara%20lucia%20clips/2026-11-19%20%EF%BC%82I%27m%20going%20home%20in%20a%20few%20days%E2%80%A6%EF%BC%82%20%EF%BC%82Don%27t%20go%EF%BC%82%20%F0%9F%92%94%20%EF%BD%9C%20Draconia%20Malfoy%20%23harrypotter%20%23malfoid.mp4"]}
       - {url: "https://www.youtube.com/watch?v=ilznk5J-3v8", label: "Their first kiss… and they got caught 😱💋 | Draconia Malfoy #harrypotter #malfoid", also: ["https://malfoid.duckdns.org/video/tamara%20lucia%20clips/2026-11-18%20Their%20first%20kiss%E2%80%A6%20and%20they%20got%20caught%20%F0%9F%98%B1%F0%9F%92%8B%20%EF%BD%9C%20Draconia%20Malfoy%20%23harrypotter%20%23malfoid.mp4"]}
       - {url: "https://www.youtube.com/watch?v=8oz9HtCEBVo", label: "\"Trust me\"… and he gave her a vomit-flavored bean 🤢😂 | Draconia Malfoy #harrypotter #malfoid", also: ["https://malfoid.duckdns.org/video/tamara%20lucia%20clips/2026-11-19%20%EF%BC%82Trust%20me%EF%BC%82%E2%80%A6%20and%20he%20gave%20her%20a%20vomit-flavored%20bean%20%F0%9F%A4%A2%F0%9F%98%82%20%EF%BD%9C%20Draconia%20Malfoy%20%23harrypotter%20%23malfoid.mp4"]}
       - {url: "https://www.youtube.com/watch?v=Vli5AUpguFU", label: "Draconia's boggart appeared… and only Harry noticed 😨 | Full chapter on my channel", also: ["https://malfoid.duckdns.org/video/tamara%20lucia%20clips/2026-11-19%20Draconia%27s%20boggart%20appeared%E2%80%A6%20and%20only%20Harry%20noticed%20%F0%9F%98%A8%20%EF%BD%9C%20Full%20chapter%20on%20my%20channel.mp4"]}
@@ -5083,7 +5083,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=BvjmCR3iibU", label: "She Risked Everything for Harry Potter, Only to Have Her Heart Broken", also: ["https://malfoid.duckdns.org/video/The%20Malfoyverse%20%28themalfoyversey%29/2026-10-26%20She%20Risked%20Everything%20for%20Harry%20Potter%2C%20Only%20to%20Have%20Her%20Heart%20Broken.mp4"]}
       - {url: "https://www.youtube.com/watch?v=Sn0FwhRU-sU", label: "What Was Hidden Behind Snape’s Cellar Wall? The Hidden Silver Vial Ep. 19 | The Malfoyverse", also: ["https://malfoid.duckdns.org/video/The%20Malfoyverse%20%28themalfoyversey%29/2026-11-18%20What%20Was%20Hidden%20Behind%20Snape%E2%80%99s%20Cellar%20Wall%EF%BC%9F%20The%20Hidden%20Silver%20Vial%20Ep.%2019%20%EF%BD%9C%20The%20Malfoyverse.mp4"]}
       - {url: "https://www.youtube.com/watch?v=7zTuzas7zXw", label: "The Oath She Wore Alone All Winter | Tears in the Pensieve — The Malfoyverse Ep. 20", also: ["https://malfoid.duckdns.org/video/The%20Malfoyverse%20%28themalfoyversey%29/2026-11-18%20The%20Oath%20She%20Wore%20Alone%20All%20Winter%20%EF%BD%9C%20Tears%20in%20the%20Pensieve%20%E2%80%94%20The%20Malfoyverse%20Ep.%2020.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=DVqb-uwgjaE", label: "His Silent Shield (Episode 21): He Already Knows the Truth—She Thinks He Hates Her"}
+      - {url: "https://www.youtube.com/watch?v=DVqb-uwgjaE", label: "His Silent Shield (Episode 21): He Already Knows the Truth—She Thinks He Hates Her", also: ["https://malfoid.duckdns.org/video/The%20Malfoyverse%20%28themalfoyversey%29/2026-11-19%20His%20Silent%20Shield%20%28Episode%2021%29%EF%BC%9A%20He%20Already%20Knows%20the%20Truth%E2%80%94She%20Thinks%20He%20Hates%20Her.mp4"]}
   - id: "creator-throng-tv"
     title: "ThRong"
     first_name: ""
@@ -5136,10 +5136,10 @@ works:
       - {url: "https://www.youtube.com/playlist?list=PLTGMWmWdzX30", label: "Real Malfoid (playlist)"}
       - {url: "https://www.youtube.com/playlist?list=PLPld2KgpTc4M", label: "Malfoid Comic Dubs (playlist)"}
       - {url: "https://www.youtube.com/shorts/LYBoP6hkR-g", label: "Malfoid confessed in Parseltongue... Potter understood every word", also: ["https://malfoid.duckdns.org/video/TOONER%20%28tooneryt%29/2026-11-18%20Malfoid%20confessed%20in%20Parseltongue...%20Potter%20understood%20every%20word.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=mQwV7ImNAiU", label: "Malfoid heard Potter had a date... so she crashed the party 😏 #malfoid #harrypotter #shorts"}
-      - {url: "https://www.youtube.com/watch?v=QhxI1wE6DGk", label: "Malfoid stole Potter's glasses... then guarded him all day 👓 #malfoid #harrypotter #shorts"}
-      - {url: "https://www.youtube.com/watch?v=d54QVwKB2XY", label: "Malfoid called Potter an idiot... then made a date with him 😳 #malfoid #harrypotter #shorts"}
-      - {url: "https://www.youtube.com/watch?v=BFyPaiPGUOs", label: "5 HOURS of Real-Life Malfoid 🐍 Live-Action AI Female Draco Malfoy (Ep. 1-5)"}
+      - {url: "https://www.youtube.com/watch?v=mQwV7ImNAiU", label: "Malfoid heard Potter had a date... so she crashed the party 😏 #malfoid #harrypotter #shorts", also: ["https://malfoid.duckdns.org/video/TOONER/2026-11-19%20Malfoid%20heard%20Potter%20had%20a%20date...%20so%20she%20crashed%20the%20party%20%F0%9F%98%8F%20%23malfoid%20%23harrypotter%20%23shorts.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=QhxI1wE6DGk", label: "Malfoid stole Potter's glasses... then guarded him all day 👓 #malfoid #harrypotter #shorts", also: ["https://malfoid.duckdns.org/video/TOONER/2026-11-19%20Malfoid%20stole%20Potter%27s%20glasses...%20then%20guarded%20him%20all%20day%20%F0%9F%91%93%20%23malfoid%20%23harrypotter%20%23shorts.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=d54QVwKB2XY", label: "Malfoid called Potter an idiot... then made a date with him 😳 #malfoid #harrypotter #shorts", also: ["https://malfoid.duckdns.org/video/TOONER/2026-11-19%20Malfoid%20called%20Potter%20an%20idiot...%20then%20made%20a%20date%20with%20him%20%F0%9F%98%B3%20%23malfoid%20%23harrypotter%20%23shorts.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=BFyPaiPGUOs", label: "5 HOURS of Real-Life Malfoid 🐍 Live-Action AI Female Draco Malfoy (Ep. 1-5)", also: ["https://malfoid.duckdns.org/video/TOONER%20%28tooneryt%29/2026-11-19%205%20HOURS%20of%20Real-Life%20Malfoid%20%F0%9F%90%8D%20Live-Action%20AI%20Female%20Draco%20Malfoy%20%28Ep.%201-5%29.mp4"]}
   - id: "creator-wrong-cast-official"
     title: "WRONG CAST"
     first_name: ""
@@ -5166,7 +5166,7 @@ works:
     videos:
       - {url: "https://www.youtube.com/watch?v=6gefPjzSenU", label: "Not A Word | Malfoid, Draconia — Episode 2", also: ["https://malfoid.duckdns.org/video/XCaliber%20%28XCaliber00%29/2026-11-03%20Not%20A%20Word%20%EF%BD%9C%20Malfoid%2C%20Draconia%20%E2%80%94%20Episode%202.mp4"]}
       - {url: "https://www.youtube.com/watch?v=hVVwYeHprv0", label: "Did He Just KISS Her?! | Draconia (Female Malfoy) Anime — Episode 1: \"Just Us\" — FULL EPISODE", also: ["https://malfoid.duckdns.org/video/XCaliber%20%28XCaliber00%29/2026-10-20%20Did%20He%20Just%20KISS%20Her%EF%BC%9F%21%20%EF%BD%9C%20Draconia%20%28Female%20Malfoy%29%20Anime%20%E2%80%94%20Episode%201%EF%BC%9A%20%EF%BC%82Just%20Us%EF%BC%82%20%E2%80%94%20FULL%20EPISODE.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=GRh7yo70amg", label: "Draconia Malfoid is Jealous of the French Girl"}
+      - {url: "https://www.youtube.com/watch?v=GRh7yo70amg", label: "Draconia Malfoid is Jealous of the French Girl", also: ["https://malfoid.duckdns.org/video/XCaliber%20%28XCaliber00%29/2026-11-19%20Draconia%20Malfoid%20is%20Jealous%20of%20the%20French%20Girl.mp4"]}
   - id: "fanfic-ao3-95313496"
     title: "Dracelle Malfoy: The House of Serpents"
     first_name: "Dracelle"
@@ -5233,12 +5233,12 @@ works:
     summary: "Malfoid-related posts on X: parts 2 to 4 of A Princess Needs A Prince, a Malfoid teaser and a Malfoid rescue scene. Also a goblin sorceress post that does not name Malfoid. All six posts are embedded below."
     tags: [x, comic, malfoid]
     videos:
-      - {url: "https://x.com/PapercutJackie/status/2120294449083457873", label: "Malfoid-adjacent teaser"}
-      - {url: "https://x.com/PapercutJackie/status/2120294881071349832", label: "A Princess Needs A Prince, Part 2"}
-      - {url: "https://x.com/PapercutJackie/status/2120307035942297604", label: "A Princess Needs A Prince, Part 3"}
-      - {url: "https://x.com/PapercutJackie/status/2120329161600643355", label: "A Princess Needs A Prince, Part 4"}
-      - {url: "https://x.com/PapercutJackie/status/2121337781494468617", label: "Amria the Curse, Witch of the Black Flame Labyrinth"}
-      - {url: "https://x.com/PapercutJackie/status/2122398031693730153", label: "Malfoid tags along with a rescue"}
+      - {url: "https://x.com/PapercutJackie/status/2120294449083457873", label: "Malfoid-adjacent teaser", also: ["https://malfoid.duckdns.org/video/Little%20Jackie%20Papercut%20%28PapercutJackie%29/2026-11-10%20Malfoid-adjacent%20teaser.mp4"]}
+      - {url: "https://x.com/PapercutJackie/status/2120294881071349832", label: "A Princess Needs A Prince, Part 2", also: ["https://malfoid.duckdns.org/video/Little%20Jackie%20Papercut%20%28PapercutJackie%29/2026-11-10%20A%20Princess%20Needs%20A%20Prince%2C%20Part%202.mp4"]}
+      - {url: "https://x.com/PapercutJackie/status/2120307035942297604", label: "A Princess Needs A Prince, Part 3", also: ["https://malfoid.duckdns.org/video/Little%20Jackie%20Papercut%20%28PapercutJackie%29/2026-11-11%20A%20Princess%20Needs%20A%20Prince%2C%20Part%203.mp4"]}
+      - {url: "https://x.com/PapercutJackie/status/2120329161600643355", label: "A Princess Needs A Prince, Part 4", also: ["https://malfoid.duckdns.org/video/Little%20Jackie%20Papercut%20%28PapercutJackie%29/2026-11-11%20A%20Princess%20Needs%20A%20Prince%2C%20Part%204.mp4"]}
+      - {url: "https://x.com/PapercutJackie/status/2121337781494468617", label: "Amria the Curse, Witch of the Black Flame Labyrinth", also: ["https://malfoid.duckdns.org/video/Little%20Jackie%20Papercut%20%28PapercutJackie%29/2026-11-13%20Amria%20the%20Curse%2C%20Witch%20of%20the%20Black%20Flame%20Labyrinth.mp4"]}
+      - {url: "https://x.com/PapercutJackie/status/2122398031693730153", label: "Malfoid tags along with a rescue", also: ["https://malfoid.duckdns.org/video/Little%20Jackie%20Papercut%20%28PapercutJackie%29/2026-11-16%20Malfoid%20tags%20along%20with%20a%20rescue.mp4"]}
   - id: "creator-butterlebutter"
     thumb: "banners/butter-the-day-we-met.webp"
     title: "Butter"
@@ -5251,9 +5251,9 @@ works:
     summary: "Malfoid fan animations posted on X, with titles in English: The Day We Met, You'll Regret This! and Part 3: Why Did I Care? All three posts are embedded below."
     tags: [x, animation, malfoid]
     videos:
-      - {url: "https://x.com/butterlebutter/status/2116600647860855192", label: "MALFOID - The Day We Met | Fan Animation"}
-      - {url: "https://x.com/butterlebutter/status/2119176952863138187", label: "Malfoid - You'll Regret This!"}
-      - {url: "https://x.com/butterlebutter/status/2122371883094118769", label: "Malfoid - Part 3: Why Did I Care?"}
+      - {url: "https://x.com/butterlebutter/status/2116600647860855192", label: "MALFOID - The Day We Met | Fan Animation", also: ["https://malfoid.duckdns.org/video/Butter%20AI/2026-10-31%20MALFOID%20-%20The%20Day%20We%20Met%20%EF%BD%9C%20Fan%20Animation.mp4"]}
+      - {url: "https://x.com/butterlebutter/status/2119176952863138187", label: "Malfoid - You'll Regret This!", also: ["https://malfoid.duckdns.org/video/Butter%20AI/2026-11-07%20Malfoid%20-%20You%27ll%20Regret%20This%21.mp4"]}
+      - {url: "https://x.com/butterlebutter/status/2122371883094118769", label: "Malfoid - Part 3: Why Did I Care?", also: ["https://malfoid.duckdns.org/video/Butter%20AI/2026-11-16%20Malfoid%20-%20Part%203%EF%BC%9A%20Why%20Did%20I%20Care%EF%BC%9F.mp4"]}
   - id: "fanfic-wattpad-419588659"
     title: "Dracy Malfoy and the Boy Who Lived"
     first_name: "Dracaena"
@@ -5306,8 +5306,8 @@ works:
       - {url: "https://www.instagram.com/reel/DfueQ-zRRIZ/", label: "memory 27 — man flu", also: ["https://drive.google.com/file/d/1byATLR9IuLeUQwNUh2Ee4TnSlgHlTA19/view"]}
       - {url: "https://www.instagram.com/reel/Dfw78UsxUzP/", label: "memory 28 — the waiter", also: ["https://drive.google.com/file/d/1ZzpPUHjTLMS5JvcTNWehxkUdBYsFORNU/view"]}
       - {url: "https://www.instagram.com/reel/Dfzlj2xxu1Y/", label: "memory 29 — the worm", also: ["https://drive.google.com/file/d/11h0MrGR5hXBMW6Y3adz4ssxEOmGdLhn8/view"]}
-      - {url: "https://www.instagram.com/reel/Df2PgVzx8NP/", label: "memory 30 — memories", also: ["https://drive.google.com/file/d/1FjB07S2U3s-LqR1tqGvy-GzrzM_NLcJy/view"]}
-      - {url: "https://www.instagram.com/reel/Df457STRn-B/", label: "memory 31 — not a real one", also: ["https://drive.google.com/file/d/1Abd3glHMFnMoWJWHne55A3KAgx9VFPtt/view"]}
+      - {url: "https://www.instagram.com/reel/Df2PgVzx8NP/", label: "memory 30 — memories", also: ["https://drive.google.com/file/d/1FjB07S2U3s-LqR1tqGvy-GzrzM_NLcJy/view", "https://malfoid.duckdns.org/stories/Amory%20Hale%20%28haleamory%29/2026-11-17%20memory%2030%20%E2%80%94%20memories.mp4"]}
+      - {url: "https://www.instagram.com/reel/Df457STRn-B/", label: "memory 31 — not a real one", also: ["https://drive.google.com/file/d/1Abd3glHMFnMoWJWHne55A3KAgx9VFPtt/view", "https://malfoid.duckdns.org/stories/Amory%20Hale%20%28haleamory%29/2026-11-18%20memory%2031%20%E2%80%94%20not%20a%20real%20one.mp4"]}
     tags: [youtube, shorts, romance]
   - id: "article-bcwarr-substack-malfoid-commentary"
     title: "Malfoid commentary on Substack (bcwarr)"
@@ -5390,8 +5390,8 @@ works:
     added: 2026-11-18
     summary: "Miss Malfoy (genderbent Draco Malfoy) chapters on Bilibili. Chapters 1 and 2 are embedded below, with their Bilibili pages and Google Drive downloads."
     videos:
-      - {url: "https://rumble.com/embed/v7gc69q/?pub=13iafn", label: "[Miss Malfoy] Chapter 01", also: ["https://www.bilibili.com/en/video/BV1mCWD6EE73/", "https://drive.google.com/file/d/1Ny4M539XmaGS7yzgtOToOxpIveXhlnZi/view?usp=drive_link"]}
-      - {url: "https://rumble.com/embed/v7gc6cs/?pub=13iafn", label: "[Miss Malfoy] Chapter 02", also: ["https://www.bilibili.com/en/video/BV1RZsz6AEKK/", "https://drive.google.com/file/d/1-iLR5DoMuqvEGNxUfg3O0UV2nBgQXGUO/view?usp=drive_link"]}
+      - {url: "https://rumble.com/embed/v7gc69q/?pub=13iafn", label: "[Miss Malfoy] Chapter 01", also: ["https://www.bilibili.com/en/video/BV1mCWD6EE73/", "https://drive.google.com/file/d/1Ny4M539XmaGS7yzgtOToOxpIveXhlnZi/view?usp=drive_link", "https://malfoid.duckdns.org/video/triplecrazy%20%28rhedak%29/%5BMiss%20Malfoy%5D%20Chapter%2001.mp4"]}
+      - {url: "https://rumble.com/embed/v7gc6cs/?pub=13iafn", label: "[Miss Malfoy] Chapter 02", also: ["https://www.bilibili.com/en/video/BV1RZsz6AEKK/", "https://drive.google.com/file/d/1-iLR5DoMuqvEGNxUfg3O0UV2nBgQXGUO/view?usp=drive_link", "https://malfoid.duckdns.org/video/triplecrazy%20%28rhedak%29/%5BMiss%20Malfoy%5D%20Chapter%2002.mp4"]}
   - id: "creator-estebuenostudio"
     title: "Zha.riel"
     first_name: ""
@@ -5421,18 +5421,18 @@ works:
     summary: "AI-made Malfoid videos on X, including The Draconia Affair episodes 1 to 3."
     videos:
       - {url: "https://x.com/viperstudios4/status/2122901376766497099", label: "Malfoid risks her father's wrath, 18 Nov 2026", also: ["https://malfoid.duckdns.org/video/viperstudios4/2026-11-18%20Malfoid%20risks%20her%20father%27s%20wrath%2C%2018%20Nov%202026.mp4"]}
-      - {url: "https://x.com/viperstudios4/status/2122048463995281851", label: "The Draconia Affair: Episode 3, 15 Nov 2026"}
+      - {url: "https://x.com/viperstudios4/status/2122048463995281851", label: "The Draconia Affair: Episode 3, 15 Nov 2026", also: ["https://malfoid.duckdns.org/video/viperstudios4/2026-11-15%20The%20Draconia%20Affair%EF%BC%9A%20Episode%203%2C%2015%20Nov%202026.mp4"]}
       - {url: "https://x.com/viperstudios4/status/2121399658127962146", label: "Potter gets his Swayze on with Malfoid, 14 Nov 2026", also: ["https://malfoid.duckdns.org/video/viperstudios4/2026-11-14%20Potter%20gets%20his%20Swayze%20on%20with%20Malfoid%2C%2014%20Nov%202026.mp4"]}
       - {url: "https://x.com/viperstudios4/status/2120663983183061330", label: "The Draconia Affair: hippogriff lesson, 11 Nov 2026", also: ["https://malfoid.duckdns.org/video/viperstudios4/2026-11-11%20The%20Draconia%20Affair%EF%BC%9A%20hippogriff%20lesson%2C%2011%20Nov%202026.mp4"]}
       - {url: "https://x.com/viperstudios4/status/2120486266290532835", label: "Harry and Malfoid cause public mayhem, 11 Nov 2026", also: ["https://malfoid.duckdns.org/video/viperstudios4/2026-11-11%20Harry%20and%20Malfoid%20cause%20public%20mayhem%2C%2011%20Nov%202026.mp4"]}
-      - {url: "https://x.com/viperstudios4/status/2119236256211128484", label: "The Draconia Affair: Episode 2, 8 Nov 2026"}
-      - {url: "https://x.com/viperstudios4/status/2117734324271300832", label: "The Draconia Affair: Episode 1, 3 Nov 2026"}
+      - {url: "https://x.com/viperstudios4/status/2119236256211128484", label: "The Draconia Affair: Episode 2, 8 Nov 2026", also: ["https://malfoid.duckdns.org/video/viperstudios4/2026-11-08%20The%20Draconia%20Affair%EF%BC%9A%20Episode%202%2C%208%20Nov%202026.mp4"]}
+      - {url: "https://x.com/viperstudios4/status/2117734324271300832", label: "The Draconia Affair: Episode 1, 3 Nov 2026", also: ["https://malfoid.duckdns.org/video/viperstudios4/2026-11-03%20The%20Draconia%20Affair%EF%BC%9A%20Episode%201%2C%203%20Nov%202026.mp4"]}
       - {url: "https://x.com/viperstudios4/status/2116984786682069061", label: "Malfoid pranks her roommate and gets caught by her own spell, 1 Nov 2026", also: ["https://malfoid.duckdns.org/video/viperstudios4/2026-11-01%20Malfoid%20pranks%20her%20roommate%20and%20gets%20caught%20by%20her%20own%20spell%2C%201%20Nov%202026.mp4"]}
-      - {url: "https://x.com/viperstudios4/status/2116379653057458574", label: "Halloween special: zombie infestation at Hogwarts, 31 Oct 2026"}
+      - {url: "https://x.com/viperstudios4/status/2116379653057458574", label: "Halloween special: zombie infestation at Hogwarts, 31 Oct 2026", also: ["https://malfoid.duckdns.org/video/viperstudios4/2026-10-31%20Halloween%20special%EF%BC%9A%20zombie%20infestation%20at%20Hogwarts%2C%2031%20Oct%202026.mp4"]}
       - {url: "https://x.com/viperstudios4/status/2115753866193203224", label: "Malfoid came prepared for Potions, 29 Oct 2026", also: ["https://malfoid.duckdns.org/video/viperstudios4/2026-10-29%20Malfoid%20came%20prepared%20for%20Potions%2C%2029%20Oct%202026.mp4"]}
       - {url: "https://x.com/viperstudios4/status/2114647935258673371", label: "Another Malfoid clip, 26 Oct 2026", also: ["https://malfoid.duckdns.org/video/viperstudios4/2026-10-26%20Another%20Malfoid%20clip%2C%2026%20Oct%202026.mp4"]}
       - {url: "https://x.com/viperstudios4/status/2113746815983948215", label: "Draconia Malfoy fanfic clip, 23 Oct 2026", also: ["https://malfoid.duckdns.org/video/viperstudios4/2026-10-23%20Draconia%20Malfoy%20fanfic%20clip%2C%2023%20Oct%202026.mp4"]}
-      - {url: "https://x.com/viperstudios4/status/2110851678606078163", label: "Another take on the Draconia Malfoy trend, 15 Oct 2026"}
+      - {url: "https://x.com/viperstudios4/status/2110851678606078163", label: "Another take on the Draconia Malfoy trend, 15 Oct 2026", also: ["https://malfoid.duckdns.org/video/viperstudios4/2026-10-15%20Another%20take%20on%20the%20Draconia%20Malfoy%20trend%2C%2015%20Oct%202026.mp4"]}
     tags: [video, ai-video, x]
   - id: "creator-malfoid-ts-channel"
     title: "Malfoid (말포이TS) (@Malfoid말포이TS)"
@@ -5503,10 +5503,10 @@ works:
     videos:
       - {url: "https://x.com/lexx_aura/status/2122697994818769146", label: "Malfoy as a maid, 17 Nov 2026", also: ["https://malfoid.duckdns.org/video/lexx_aura/2026-11-17%20Malfoy%20as%20a%20maid%2C%2017%20Nov%202026.mp4"]}
       - {url: "https://x.com/lexx_aura/status/2122442872649629880", label: "Malfoy is way too naughty, 17 Nov 2026", also: ["https://malfoid.duckdns.org/video/lexx_aura/2026-11-16%20Malfoy%20is%20way%20too%20naughty%2C%2017%20Nov%202026.mp4"]}
-      - {url: "https://x.com/lexx_aura/status/2121243438289211847", label: "Another Malfoy episode, 13 Nov 2026"}
+      - {url: "https://x.com/lexx_aura/status/2121243438289211847", label: "Another Malfoy episode, 13 Nov 2026", also: ["https://malfoid.duckdns.org/video/lexx_aura/2026-11-13%20Another%20Malfoy%20episode%2C%2013%20Nov%202026.mp4"]}
       - {url: "https://x.com/lexx_aura/status/2120630470744363160", label: "Malfoy finally kissed him, 12 Nov 2026", also: ["https://malfoid.duckdns.org/video/lexx_aura/2026-11-11%20Malfoy%20finally%20kissed%20him%2C%2012%20Nov%202026.mp4"]}
       - {url: "https://x.com/lexx_aura/status/2119426259633512457", label: "Malfoy never runs out of tricks, 8 Nov 2026", also: ["https://malfoid.duckdns.org/video/lexx_aura/2026-11-08%20Malfoy%20never%20runs%20out%20of%20tricks%2C%208%20Nov%202026.mp4"]}
-      - {url: "https://x.com/lexx_aura/status/2119063471602254289", label: "Malfoy flirts way too good, 7 Nov 2026"}
+      - {url: "https://x.com/lexx_aura/status/2119063471602254289", label: "Malfoy flirts way too good, 7 Nov 2026", also: ["https://malfoid.duckdns.org/video/lexx_aura/2026-11-07%20Malfoy%20flirts%20way%20too%20good%2C%207%20Nov%202026.mp4"]}
       - {url: "https://x.com/lexx_aura/status/2118395312637395225", label: "Malfoy and Hermione put a bet on Harry, 6 Nov 2026", also: ["https://malfoid.duckdns.org/video/lexx_aura/2026-11-05%20Malfoy%20and%20Hermione%20put%20a%20bet%20on%20Harry%2C%206%20Nov%202026.mp4"]}
       - {url: "https://x.com/lexx_aura/status/2117598720988418253", label: "Malfoy is totally crazy, 3 Nov 2026", also: ["https://malfoid.duckdns.org/video/lexx_aura/2026-11-03%20Malfoy%20is%20totally%20crazy%2C%203%20Nov%202026.mp4"]}
       - {url: "https://x.com/lexx_aura/status/2116995499278373367", label: "Malfoy is in deep love with Potter, 2 Nov 2026", also: ["https://malfoid.duckdns.org/video/lexx_aura/2026-11-01%20Malfoy%20is%20in%20deep%20love%20with%20Potter%2C%202%20Nov%202026.mp4"]}
@@ -5589,7 +5589,7 @@ works:
       - {url: "https://www.youtube.com/shorts/3kJcj-nG1Lc", label: "My Slytherin Rival Is a Girl: Boggart Disaster, part 2 (Short)", also: ["https://malfoid.duckdns.org/video/PlotFlipStudios-t9e/2026-10-22%20My%20Slytherin%20Rival%20Is%20a%20Girl%EF%BC%9A%20Boggart%20Disaster%2C%20part%202%20%28Short%29.mp4"]}
       - {url: "https://www.youtube.com/shorts/QN8a7x2JhXk", label: "Short: Luna exposes Malfoy's secret crush", also: ["https://malfoid.duckdns.org/video/PlotFlipStudios-t9e/2026-10-24%20Short%EF%BC%9A%20Luna%20exposes%20Malfoy%27s%20secret%20crush.mp4"]}
       - {url: "https://www.youtube.com/shorts/zbus6j2vU5c", label: "I Made an Anime Opening for Harry Potter, but Malfoy is a girl!? (Short)", also: ["https://malfoid.duckdns.org/video/PlotFlipStudios-t9e/2026-10-28%20I%20Made%20an%20Anime%20Opening%20for%20Harry%20Potter%2C%20but%20Malfoy%20is%20a%20girl%21%EF%BC%9F%20%28Short%29.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=icXz3IyQZZM", label: "【My Slytherin Rival Is a Girl?!】A Quidditch SHOWDOWN Between Malfoy and Ginny!"}
+      - {url: "https://www.youtube.com/watch?v=icXz3IyQZZM", label: "【My Slytherin Rival Is a Girl?!】A Quidditch SHOWDOWN Between Malfoy and Ginny!", also: ["https://malfoid.duckdns.org/video/PlotFlipStudios-t9e/2026-11-19%20%E3%80%90My%20Slytherin%20Rival%20Is%20a%20Girl%EF%BC%9F%21%E3%80%91A%20Quidditch%20SHOWDOWN%20Between%20Malfoy%20and%20Ginny%21.mp4"]}
     tags: [video, anime, youtube]
   - id: "comic-webtoon-hogwarts-reset-draconia"
     title: "Hogwarts Reset: The Draconia Malfoid Anomaly"
@@ -5614,27 +5614,27 @@ works:
       - {url: "https://x.com/lilmovieperp/status/2123573679267405945", label: "Malfoid: A Brief History of Magical Indiscretions / FINALE and more soon! / Malfoy malfoid MalfoidArt AIFilmma, 20 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-20%20Malfoid%EF%BC%9A%20A%20Brief%20History%20of%20Magical%20Indiscretions%20%E2%A7%B8%20FINALE%20and%20more%20soon%21%20%E2%A7%B8%20Malfoy%20malfoid%20MalfoidArt%20AIFilmma%2C%2020%20Nov%202026.mp4"]}
       - {url: "https://x.com/lilmovieperp/status/2123086186654867683", label: "MALFOID: A Brief History of Magical Indiscretions / malfoid MalfoidArt, 18 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-18%20MALFOID%EF%BC%9A%20A%20Brief%20History%20of%20Magical%20Indiscretions%20%E2%A7%B8%20malfoid%20MalfoidArt%2C%2018%20Nov%202026.mp4"]}
       - {url: "https://x.com/lilmovieperp/status/2122894437324054795", label: "Malfoid: A Brief History of Magical Indiscretions / Malfoid HarryPotter AIFilm WizardingWorld FoundFootage, 18 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-18%20Malfoid%EF%BC%9A%20A%20Brief%20History%20of%20Magical%20Indiscretions%20%E2%A7%B8%20Malfoid%20HarryPotter%20AIFilm%20WizardingWorld%20FoundFootage%2C%2018%20Nov%202026.mp4"]}
-      - {url: "https://x.com/lilmovieperp/status/2122537128576024625", label: "MALFOID: A Brief History of Magical Indiscretions / More soon. / MalfoidMonday Malfoid HarryPotter AIFilmmakin, 17 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2122430874264232256", label: "Video post, 16 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2122108227701604760", label: "She wants to thank you guys!, 15 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2121999106193436803", label: "MALFOID: A Brief History of Magical Indiscretions / CUT TO THE CHASE! / Cowboy BeBop car chase scene only. / M, 15 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2121758743712911457", label: "MALFOID: A Brief History of Magical Indiscretions / WE'RE GOING ARTHOUSE!! / EPIC FINALE COMING SOON! / Malfoi, 15 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2121641330447200516", label: "Video post, 14 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2121259432499691933", label: "as promised on Frog__Tony's show.... EdgeLordWheeler gets a message from Malfoid..., 13 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2121079855521624223", label: "MALFOID ft. THE WARGIRLS OF ITO / from: 'A Brief History of Magical Indiscretions', 13 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2120973956572426332", label: "MALFOID / A Brief History of Magical Indiscretions / Malfoid malfoy HarryPotter Aifilmmaking, 12 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2120755836914213293", label: "indie pop star in the making... / MALFOID: A Brief History of Magical Indiscretions / malfoid malfoyd HarryPot, 12 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2120694784813940964", label: "REC MALFOID: A Brief History of Magical Indiscretions / / Malfoid HarryPotter, 12 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2120574371932594312", label: "MALFOID: A Brief History of Magical Indiscretions / / \"...like a dragon...\" / / Malfoid MalfoidArt HarryPotter, 11 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2120248248061645269", label: "MALFOID: A Brief History of Magical Indiscretions / Here we go... / HarryPotter Malfoid AIFilm FanFilm, 10 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2120184065404104830", label: "Fly Me to the Moon / / Malfoid: A Brief History of Magical Indiscretion. / / we're catching up to the present, 10 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2120001557924380712", label: "Malfoid: A Brief History of Magical Indiscretions / / HarryPotter ShortFilm AIFilmmaking Malfoid, 10 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2119279829270904992", label: "MALFOID: A Brief History of Magical Indiscretions, 08 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2118863010085089349", label: "MALFOID: A BRIEF HISTORY OF MAGICAL INDISCRETIONS / / This one's a BIG one. Enjoy the chaos. / More SOON! / /, 07 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2118778080101900297", label: "MALFOID: A Brief History of Magical Indiscretions / “Just wear a T-shirt and Norma(L) Jean.” / Malfoid HarryPo, 06 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2118536791879975228", label: "Malfoid &amp Harry Get Cultured (720p) / Absolutely no respect for the performing arts. / / from MALFOID: A Br, 06 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2118534670929567831", label: "Malfoid &amp Harry Get Cultured / Absolutely no respect for the performing arts. / / A little romantic disaste, 06 Nov 2026"}
-      - {url: "https://x.com/lilmovieperp/status/2118124722202218785", label: "Malfoid: A Brief History of Magical Indiscretions / Scene: \"Malfoid Manor Movie Mayhem\" / HarryPotter malfoid, 04 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2122537128576024625", label: "MALFOID: A Brief History of Magical Indiscretions / More soon. / MalfoidMonday Malfoid HarryPotter AIFilmmakin, 17 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-17%20MALFOID%EF%BC%9A%20A%20Brief%20History%20of%20Magical%20Indiscretions%20%E2%A7%B8%20More%20soon.%20%E2%A7%B8%20MalfoidMonday%20Malfoid%20HarryPotter%20AIFilmmakin%2C%2017%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2122430874264232256", label: "Video post, 16 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-16%20Video%20post%2C%2016%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2122108227701604760", label: "She wants to thank you guys!, 15 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-15%20She%20wants%20to%20thank%20you%20guys%21%2C%2015%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2121999106193436803", label: "MALFOID: A Brief History of Magical Indiscretions / CUT TO THE CHASE! / Cowboy BeBop car chase scene only. / M, 15 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-15%20MALFOID%EF%BC%9A%20A%20Brief%20History%20of%20Magical%20Indiscretions%20%E2%A7%B8%20CUT%20TO%20THE%20CHASE%21%20%E2%A7%B8%20Cowboy%20BeBop%20car%20chase%20scene%20only.%20%E2%A7%B8%20M%2C%2015%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2121758743712911457", label: "MALFOID: A Brief History of Magical Indiscretions / WE'RE GOING ARTHOUSE!! / EPIC FINALE COMING SOON! / Malfoi, 15 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-15%20MALFOID%EF%BC%9A%20A%20Brief%20History%20of%20Magical%20Indiscretions%20%E2%A7%B8%20WE%27RE%20GOING%20ARTHOUSE%21%21%20%E2%A7%B8%20EPIC%20FINALE%20COMING%20SOON%21%20%E2%A7%B8%20Malfoi%2C%2015%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2121641330447200516", label: "Video post, 14 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-14%20Video%20post%2C%2014%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2121259432499691933", label: "as promised on Frog__Tony's show.... EdgeLordWheeler gets a message from Malfoid..., 13 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-13%20as%20promised%20on%20Frog__Tony%27s%20show....%20EdgeLordWheeler%20gets%20a%20message%20from%20Malfoid...%2C%2013%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2121079855521624223", label: "MALFOID ft. THE WARGIRLS OF ITO / from: 'A Brief History of Magical Indiscretions', 13 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-13%20MALFOID%20ft.%20THE%20WARGIRLS%20OF%20ITO%20%E2%A7%B8%20from%EF%BC%9A%20%27A%20Brief%20History%20of%20Magical%20Indiscretions%27%2C%2013%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2120973956572426332", label: "MALFOID / A Brief History of Magical Indiscretions / Malfoid malfoy HarryPotter Aifilmmaking, 12 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-12%20MALFOID%20%E2%A7%B8%20A%20Brief%20History%20of%20Magical%20Indiscretions%20%E2%A7%B8%20Malfoid%20malfoy%20HarryPotter%20Aifilmmaking%2C%2012%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2120755836914213293", label: "indie pop star in the making... / MALFOID: A Brief History of Magical Indiscretions / malfoid malfoyd HarryPot, 12 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-12%20indie%20pop%20star%20in%20the%20making...%20%E2%A7%B8%20MALFOID%EF%BC%9A%20A%20Brief%20History%20of%20Magical%20Indiscretions%20%E2%A7%B8%20malfoid%20malfoyd%20HarryPot%2C%2012%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2120694784813940964", label: "REC MALFOID: A Brief History of Magical Indiscretions / / Malfoid HarryPotter, 12 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-12%20REC%20MALFOID%EF%BC%9A%20A%20Brief%20History%20of%20Magical%20Indiscretions%20%E2%A7%B8%20%E2%A7%B8%20Malfoid%20HarryPotter%2C%2012%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2120574371932594312", label: "MALFOID: A Brief History of Magical Indiscretions / / \"...like a dragon...\" / / Malfoid MalfoidArt HarryPotter, 11 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-11%20MALFOID%EF%BC%9A%20A%20Brief%20History%20of%20Magical%20Indiscretions%20%E2%A7%B8%20%E2%A7%B8%20%EF%BC%82...like%20a%20dragon...%EF%BC%82%20%E2%A7%B8%20%E2%A7%B8%20Malfoid%20MalfoidArt%20HarryPotter%2C%2011%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2120248248061645269", label: "MALFOID: A Brief History of Magical Indiscretions / Here we go... / HarryPotter Malfoid AIFilm FanFilm, 10 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-10%20MALFOID%EF%BC%9A%20A%20Brief%20History%20of%20Magical%20Indiscretions%20%E2%A7%B8%20Here%20we%20go...%20%E2%A7%B8%20HarryPotter%20Malfoid%20AIFilm%20FanFilm%2C%2010%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2120184065404104830", label: "Fly Me to the Moon / / Malfoid: A Brief History of Magical Indiscretion. / / we're catching up to the present, 10 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-10%20Fly%20Me%20to%20the%20Moon%20%E2%A7%B8%20%E2%A7%B8%20Malfoid%EF%BC%9A%20A%20Brief%20History%20of%20Magical%20Indiscretion.%20%E2%A7%B8%20%E2%A7%B8%20we%27re%20catching%20up%20to%20the%20present%2C%2010%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2120001557924380712", label: "Malfoid: A Brief History of Magical Indiscretions / / HarryPotter ShortFilm AIFilmmaking Malfoid, 10 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-10%20Malfoid%EF%BC%9A%20A%20Brief%20History%20of%20Magical%20Indiscretions%20%E2%A7%B8%20%E2%A7%B8%20HarryPotter%20ShortFilm%20AIFilmmaking%20Malfoid%2C%2010%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2119279829270904992", label: "MALFOID: A Brief History of Magical Indiscretions, 08 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-08%20MALFOID%EF%BC%9A%20A%20Brief%20History%20of%20Magical%20Indiscretions%2C%2008%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2118863010085089349", label: "MALFOID: A BRIEF HISTORY OF MAGICAL INDISCRETIONS / / This one's a BIG one. Enjoy the chaos. / More SOON! / /, 07 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-07%20MALFOID%EF%BC%9A%20A%20BRIEF%20HISTORY%20OF%20MAGICAL%20INDISCRETIONS%20%E2%A7%B8%20%E2%A7%B8%20This%20one%27s%20a%20BIG%20one.%20Enjoy%20the%20chaos.%20%E2%A7%B8%20More%20SOON%21%20%E2%A7%B8%20%E2%A7%B8%2C%2007%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2118778080101900297", label: "MALFOID: A Brief History of Magical Indiscretions / “Just wear a T-shirt and Norma(L) Jean.” / Malfoid HarryPo, 06 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-06%20MALFOID%EF%BC%9A%20A%20Brief%20History%20of%20Magical%20Indiscretions%20%E2%A7%B8%20%E2%80%9CJust%20wear%20a%20T-shirt%20and%20Norma%28L%29%20Jean.%E2%80%9D%20%E2%A7%B8%20Malfoid%20HarryPo%2C%2006%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2118536791879975228", label: "Malfoid &amp Harry Get Cultured (720p) / Absolutely no respect for the performing arts. / / from MALFOID: A Br, 06 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-06%20Malfoid%20%26amp%20Harry%20Get%20Cultured%20%28720p%29%20%E2%A7%B8%20Absolutely%20no%20respect%20for%20the%20performing%20arts.%20%E2%A7%B8%20%E2%A7%B8%20from%20MALFOID%EF%BC%9A%20A%20Br%2C%2006%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2118534670929567831", label: "Malfoid &amp Harry Get Cultured / Absolutely no respect for the performing arts. / / A little romantic disaste, 06 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-06%20Malfoid%20%26amp%20Harry%20Get%20Cultured%20%E2%A7%B8%20Absolutely%20no%20respect%20for%20the%20performing%20arts.%20%E2%A7%B8%20%E2%A7%B8%20A%20little%20romantic%20disaste%2C%2006%20Nov%202026.mp4"]}
+      - {url: "https://x.com/lilmovieperp/status/2118124722202218785", label: "Malfoid: A Brief History of Magical Indiscretions / Scene: \"Malfoid Manor Movie Mayhem\" / HarryPotter malfoid, 04 Nov 2026", also: ["https://malfoid.duckdns.org/video/lilmovieperp/2026-11-04%20Malfoid%EF%BC%9A%20A%20Brief%20History%20of%20Magical%20Indiscretions%20%E2%A7%B8%20Scene%EF%BC%9A%20%EF%BC%82Malfoid%20Manor%20Movie%20Mayhem%EF%BC%82%20%E2%A7%B8%20HarryPotter%20malfoid%2C%2004%20Nov%202026.mp4"]}
     tags: [video, ai-film, x]
   - id: "creator-hirose-studio"
     title: "HIROSE Studio (@HIROSE-CVs)"
@@ -5647,7 +5647,7 @@ works:
     added: 2026-11-20
     summary: "Malfoid anime MAD and cover music videos by HIROSE Studio, with English subtitles for the music."
     videos:
-      - {url: "https://www.youtube.com/watch?v=kZxMtyvVnRI", label: "抜錨｜Batsubyou【Malfoid Anime MAD / Cover MV】"}
+      - {url: "https://www.youtube.com/watch?v=kZxMtyvVnRI", label: "抜錨｜Batsubyou【Malfoid Anime MAD / Cover MV】", also: ["https://malfoid.duckdns.org/video/HIROSE%20Studio/2026-11-19%20%E6%8A%9C%E9%8C%A8%EF%BD%9CBatsubyou%E3%80%90Malfoid%20Anime%20MAD%20%E2%A7%B8%20Cover%20MV%E3%80%91.mp4"]}
     tags: [music, anime, youtube]
   - id: "creator-ma-aiglitchez"
     title: "AI Glitchez"
@@ -5721,7 +5721,7 @@ works:
     summary: "Malfoid videos by Aerylla VA, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
     videos:
-      - {url: "https://www.youtube.com/watch?v=P5hCMZrPbtA", label: "Your Tsundere Magic Academy Classmate Secretly Likes You [Audio Roleplay] [F4M] [Fem Malfoy]"}
+      - {url: "https://www.youtube.com/watch?v=P5hCMZrPbtA", label: "Your Tsundere Magic Academy Classmate Secretly Likes You [Audio Roleplay] [F4M] [Fem Malfoy]", also: ["https://malfoid.duckdns.org/video/Aerylla%20VA%20%28Aerylla_VA%29/2026-10-24%20Your%20Tsundere%20Magic%20Academy%20Classmate%20Secretly%20Likes%20You%20%5BAudio%20Roleplay%5D%20%5BF4M%5D%20%5BFem%20Malfoy%5D.mp4"]}
   - id: "creator-ma-nyro2019"
     title: "𝗡𝘆𝗿𝗼"
     first_name: ""
@@ -7174,9 +7174,9 @@ works:
     summary: "Malfoy Is a Girl? video series by R.U. Archives | Slacker-in-Chief, in English, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
     videos:
-      - {url: "https://www.youtube.com/watch?v=Jjt_hF2eJ6Y", label: "[Malfoy Is a Girl?!] Miss Malfoy Wants to Invite Me to Dance?!"}
-      - {url: "https://www.youtube.com/watch?v=4ymOolDZfmc", label: "【Malfoy Is a Girl?!】② Miss Malfoy Wants to Be Harry’s Mum?!"}
-      - {url: "https://www.youtube.com/watch?v=Letrv1FAxxo", label: "【Malfoy Is a Girl?!】③ Malfoy Pins Harry Down! Hermione and Ron Can Only Watch!"}
+      - {url: "https://www.youtube.com/watch?v=Jjt_hF2eJ6Y", label: "[Malfoy Is a Girl?!] Miss Malfoy Wants to Invite Me to Dance?!", also: ["https://malfoid.duckdns.org/video/R.U.%20Archives%20-%20Slacker-in-Chief%20%28GOASkey%29/2026-10-05%20%5BMalfoy%20Is%20a%20Girl%EF%BC%9F%21%5D%20Miss%20Malfoy%20Wants%20to%20Invite%20Me%20to%20Dance%EF%BC%9F%21.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=4ymOolDZfmc", label: "【Malfoy Is a Girl?!】② Miss Malfoy Wants to Be Harry’s Mum?!", also: ["https://malfoid.duckdns.org/video/R.U.%20Archives%20-%20Slacker-in-Chief%20%28GOASkey%29/2026-10-09%20%E3%80%90Malfoy%20Is%20a%20Girl%EF%BC%9F%21%E3%80%91%E2%91%A1%20Miss%20Malfoy%20Wants%20to%20Be%20Harry%E2%80%99s%20Mum%EF%BC%9F%21.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=Letrv1FAxxo", label: "【Malfoy Is a Girl?!】③ Malfoy Pins Harry Down! Hermione and Ron Can Only Watch!", also: ["https://malfoid.duckdns.org/video/R.U.%20Archives%20-%20Slacker-in-Chief%20%28GOASkey%29/2026-10-14%20%E3%80%90Malfoy%20Is%20a%20Girl%EF%BC%9F%21%E3%80%91%E2%91%A2%20Malfoy%20Pins%20Harry%20Down%21%20Hermione%20and%20Ron%20Can%20Only%20Watch%21.mp4"]}
   - id: "creator-ma-2sidecine"
     title: "2면극장"
     first_name: ""
@@ -7190,21 +7190,21 @@ works:
     summary: "Korean-subtitled Malfoid videos by 2면극장 (2SIDECINE) on YouTube: 여자 말포이는 연애중 and 썸 타는 중 series, in English."
     tags: [video, archive]
     videos:
-      - {url: "https://www.youtube.com/watch?v=qPDAInLaruo", label: "눈밭에서 또 가까워진 둘. “난 좋은데” | 여자 말포이는 썸 타는 중 5화"}
-      - {url: "https://www.youtube.com/watch?v=a5MWheqUa2M", label: "고양이 앞에서 다정한 티를 내버린 말포이 | 여자 말포이는 썸 타는 중 4화"}
-      - {url: "https://www.youtube.com/watch?v=OeqHc6pQBYw", label: "“너무 가깝잖아.” “알아.” | 여자 말포이는 썸 타는 중 3화"}
-      - {url: "https://www.youtube.com/watch?v=9w9zd-sVn5Y", label: "여자 말포이는 썸 타는 중 2화책만 꺼내주면 되는데… 해리 너 왜 이렇게 가까이 와?? | 여자 말포이는 썸 타는 중 2화"}
-      - {url: "https://www.youtube.com/watch?v=K9Ity1HawCw", label: "누가 내 머리 만져도 된다했어... “말포이..난 그냥..” | 여자 말포이는 썸 타는 중 1화"}
-      - {url: "https://www.youtube.com/watch?v=49NAVI9yUSw", label: "여자 말포이는 연애중 1~9화 몰아보기"}
-      - {url: "https://www.youtube.com/watch?v=DggVDuTvgm8", label: "여긴 우리 둘뿐이야! 드디어 오늘 부터 1일? ｜여자 말포이는 연애중 9화"}
-      - {url: "https://www.youtube.com/watch?v=af5lb1Y4aAs", label: "늘 장난치던 해리가 내 옆에 있고 싶다고 고백했다｜여자 말포이는 연애중 8화"}
-      - {url: "https://www.youtube.com/watch?v=CoZ2x_3lMWM", label: "내 남자 해리는 내가 지켜.. 오크가 쫒아와도 달달함은 계속된다 ｜여자 말포이는 연애중 7화"}
-      - {url: "https://www.youtube.com/watch?v=gksRX6dxYfE", label: "말포이가 임신? 근데 해리, 넌 왜 입꼬리가 올라가??｜여자 말포이는 연애중 4화"}
-      - {url: "https://www.youtube.com/watch?v=KS3qT08QDSs", label: "키스해도 될까요? 포터부인? ｜여자 말포이는 연애중 6화"}
-      - {url: "https://www.youtube.com/watch?v=4_kHdzhN_jU", label: "해리 이래도 안넘어와…? 근데 왜 내 심장만 뛰지..｜여자 말포이는 연애중 5화"}
-      - {url: "https://www.youtube.com/watch?v=JOrlQdX4_SY", label: "[해리포터x말포이] 분명 고양이 아니라며 소리쳤는데… 포터가 깃털을 흔드니까 나도 모르게??"}
-      - {url: "https://www.youtube.com/watch?v=hmgwozpfyeM", label: "[말포이x해리포터] 둘이 사귀냐니까 아니라는데… 얘들아, 그 말은 일단 내려와서 해야 하지 않아??"}
-      - {url: "https://www.youtube.com/watch?v=pfH2MBSNou8", label: "[말포이 x 해리포터] 해리한테 그렇게 튕기더니… 첫 춤 추자마자 저렇게 웃어버리면 다 들키잖아??"}
+      - {url: "https://www.youtube.com/watch?v=qPDAInLaruo", label: "눈밭에서 또 가까워진 둘. “난 좋은데” | 여자 말포이는 썸 타는 중 5화", also: ["https://malfoid.duckdns.org/video/2%EB%A9%B4%EA%B7%B9%EC%9E%A5%20%282SIDECINE%29/2026-11-13%20%EB%88%88%EB%B0%AD%EC%97%90%EC%84%9C%20%EB%98%90%20%EA%B0%80%EA%B9%8C%EC%9B%8C%EC%A7%84%20%EB%91%98.%20%E2%80%9C%EB%82%9C%20%EC%A2%8B%EC%9D%80%EB%8D%B0%E2%80%9D%20%EF%BD%9C%20%EC%97%AC%EC%9E%90%20%EB%A7%90%ED%8F%AC%EC%9D%B4%EB%8A%94%20%EC%8D%B8%20%ED%83%80%EB%8A%94%20%EC%A4%91%205%ED%99%94.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=a5MWheqUa2M", label: "고양이 앞에서 다정한 티를 내버린 말포이 | 여자 말포이는 썸 타는 중 4화", also: ["https://malfoid.duckdns.org/video/2%EB%A9%B4%EA%B7%B9%EC%9E%A5%20%282SIDECINE%29/2026-11-12%20%EA%B3%A0%EC%96%91%EC%9D%B4%20%EC%95%9E%EC%97%90%EC%84%9C%20%EB%8B%A4%EC%A0%95%ED%95%9C%20%ED%8B%B0%EB%A5%BC%20%EB%82%B4%EB%B2%84%EB%A6%B0%20%EB%A7%90%ED%8F%AC%EC%9D%B4%20%EF%BD%9C%20%EC%97%AC%EC%9E%90%20%EB%A7%90%ED%8F%AC%EC%9D%B4%EB%8A%94%20%EC%8D%B8%20%ED%83%80%EB%8A%94%20%EC%A4%91%204%ED%99%94.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=OeqHc6pQBYw", label: "“너무 가깝잖아.” “알아.” | 여자 말포이는 썸 타는 중 3화", also: ["https://malfoid.duckdns.org/video/2%EB%A9%B4%EA%B7%B9%EC%9E%A5%20%282SIDECINE%29/2026-11-11%20%E2%80%9C%EB%84%88%EB%AC%B4%20%EA%B0%80%EA%B9%9D%EC%9E%96%EC%95%84.%E2%80%9D%20%E2%80%9C%EC%95%8C%EC%95%84.%E2%80%9D%20%EF%BD%9C%20%EC%97%AC%EC%9E%90%20%EB%A7%90%ED%8F%AC%EC%9D%B4%EB%8A%94%20%EC%8D%B8%20%ED%83%80%EB%8A%94%20%EC%A4%91%203%ED%99%94.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=9w9zd-sVn5Y", label: "여자 말포이는 썸 타는 중 2화책만 꺼내주면 되는데… 해리 너 왜 이렇게 가까이 와?? | 여자 말포이는 썸 타는 중 2화", also: ["https://malfoid.duckdns.org/video/2%EB%A9%B4%EA%B7%B9%EC%9E%A5%20%282SIDECINE%29/2026-11-08%20%EC%97%AC%EC%9E%90%20%EB%A7%90%ED%8F%AC%EC%9D%B4%EB%8A%94%20%EC%8D%B8%20%ED%83%80%EB%8A%94%20%EC%A4%91%202%ED%99%94%EC%B1%85%EB%A7%8C%20%EA%BA%BC%EB%82%B4%EC%A3%BC%EB%A9%B4%20%EB%90%98%EB%8A%94%EB%8D%B0%E2%80%A6%20%ED%95%B4%EB%A6%AC%20%EB%84%88%20%EC%99%9C%20%EC%9D%B4%EB%A0%87%EA%B2%8C%20%EA%B0%80%EA%B9%8C%EC%9D%B4%20%EC%99%80%EF%BC%9F%EF%BC%9F%20%EF%BD%9C%20%EC%97%AC%EC%9E%90%20%EB%A7%90%ED%8F%AC%EC%9D%B4%EB%8A%94%20%EC%8D%B8%20%ED%83%80%EB%8A%94%20%EC%A4%91%202%ED%99%94.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=K9Ity1HawCw", label: "누가 내 머리 만져도 된다했어... “말포이..난 그냥..” | 여자 말포이는 썸 타는 중 1화", also: ["https://malfoid.duckdns.org/video/2%EB%A9%B4%EA%B7%B9%EC%9E%A5%20%282SIDECINE%29/2026-11-07%20%EB%88%84%EA%B0%80%20%EB%82%B4%20%EB%A8%B8%EB%A6%AC%20%EB%A7%8C%EC%A0%B8%EB%8F%84%20%EB%90%9C%EB%8B%A4%ED%96%88%EC%96%B4...%20%E2%80%9C%EB%A7%90%ED%8F%AC%EC%9D%B4..%EB%82%9C%20%EA%B7%B8%EB%83%A5..%E2%80%9D%20%EF%BD%9C%20%EC%97%AC%EC%9E%90%20%EB%A7%90%ED%8F%AC%EC%9D%B4%EB%8A%94%20%EC%8D%B8%20%ED%83%80%EB%8A%94%20%EC%A4%91%201%ED%99%94.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=49NAVI9yUSw", label: "여자 말포이는 연애중 1~9화 몰아보기", also: ["https://malfoid.duckdns.org/video/2%EB%A9%B4%EA%B7%B9%EC%9E%A5%20%282SIDECINE%29/2026-11-06%20%EC%97%AC%EC%9E%90%20%EB%A7%90%ED%8F%AC%EC%9D%B4%EB%8A%94%20%EC%97%B0%EC%95%A0%EC%A4%91%201~9%ED%99%94%20%EB%AA%B0%EC%95%84%EB%B3%B4%EA%B8%B0.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=DggVDuTvgm8", label: "여긴 우리 둘뿐이야! 드디어 오늘 부터 1일? ｜여자 말포이는 연애중 9화", also: ["https://malfoid.duckdns.org/video/2%EB%A9%B4%EA%B7%B9%EC%9E%A5%20%282SIDECINE%29/2026-11-05%20%EC%97%AC%EA%B8%B4%20%EC%9A%B0%EB%A6%AC%20%EB%91%98%EB%BF%90%EC%9D%B4%EC%95%BC%21%20%EB%93%9C%EB%94%94%EC%96%B4%20%EC%98%A4%EB%8A%98%20%EB%B6%80%ED%84%B0%201%EC%9D%BC%EF%BC%9F%20%EF%BD%9C%EC%97%AC%EC%9E%90%20%EB%A7%90%ED%8F%AC%EC%9D%B4%EB%8A%94%20%EC%97%B0%EC%95%A0%EC%A4%91%209%ED%99%94.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=af5lb1Y4aAs", label: "늘 장난치던 해리가 내 옆에 있고 싶다고 고백했다｜여자 말포이는 연애중 8화", also: ["https://malfoid.duckdns.org/video/2%EB%A9%B4%EA%B7%B9%EC%9E%A5%20%282SIDECINE%29/2026-11-05%20%EB%8A%98%20%EC%9E%A5%EB%82%9C%EC%B9%98%EB%8D%98%20%ED%95%B4%EB%A6%AC%EA%B0%80%20%EB%82%B4%20%EC%98%86%EC%97%90%20%EC%9E%88%EA%B3%A0%20%EC%8B%B6%EB%8B%A4%EA%B3%A0%20%EA%B3%A0%EB%B0%B1%ED%96%88%EB%8B%A4%EF%BD%9C%EC%97%AC%EC%9E%90%20%EB%A7%90%ED%8F%AC%EC%9D%B4%EB%8A%94%20%EC%97%B0%EC%95%A0%EC%A4%91%208%ED%99%94.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=CoZ2x_3lMWM", label: "내 남자 해리는 내가 지켜.. 오크가 쫒아와도 달달함은 계속된다 ｜여자 말포이는 연애중 7화", also: ["https://malfoid.duckdns.org/video/2%EB%A9%B4%EA%B7%B9%EC%9E%A5%20%282SIDECINE%29/2026-11-04%20%EB%82%B4%20%EB%82%A8%EC%9E%90%20%ED%95%B4%EB%A6%AC%EB%8A%94%20%EB%82%B4%EA%B0%80%20%EC%A7%80%EC%BC%9C..%20%EC%98%A4%ED%81%AC%EA%B0%80%20%EC%AB%92%EC%95%84%EC%99%80%EB%8F%84%20%EB%8B%AC%EB%8B%AC%ED%95%A8%EC%9D%80%20%EA%B3%84%EC%86%8D%EB%90%9C%EB%8B%A4%20%EF%BD%9C%EC%97%AC%EC%9E%90%20%EB%A7%90%ED%8F%AC%EC%9D%B4%EB%8A%94%20%EC%97%B0%EC%95%A0%EC%A4%91%207%ED%99%94.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=gksRX6dxYfE", label: "말포이가 임신? 근데 해리, 넌 왜 입꼬리가 올라가??｜여자 말포이는 연애중 4화", also: ["https://malfoid.duckdns.org/video/2%EB%A9%B4%EA%B7%B9%EC%9E%A5%20%282SIDECINE%29/2026-11-03%20%EB%A7%90%ED%8F%AC%EC%9D%B4%EA%B0%80%20%EC%9E%84%EC%8B%A0%EF%BC%9F%20%EA%B7%BC%EB%8D%B0%20%ED%95%B4%EB%A6%AC%2C%20%EB%84%8C%20%EC%99%9C%20%EC%9E%85%EA%BC%AC%EB%A6%AC%EA%B0%80%20%EC%98%AC%EB%9D%BC%EA%B0%80%EF%BC%9F%EF%BC%9F%EF%BD%9C%EC%97%AC%EC%9E%90%20%EB%A7%90%ED%8F%AC%EC%9D%B4%EB%8A%94%20%EC%97%B0%EC%95%A0%EC%A4%91%204%ED%99%94.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=KS3qT08QDSs", label: "키스해도 될까요? 포터부인? ｜여자 말포이는 연애중 6화", also: ["https://malfoid.duckdns.org/video/2%EB%A9%B4%EA%B7%B9%EC%9E%A5%20%282SIDECINE%29/2026-11-03%20%ED%82%A4%EC%8A%A4%ED%95%B4%EB%8F%84%20%EB%90%A0%EA%B9%8C%EC%9A%94%EF%BC%9F%20%ED%8F%AC%ED%84%B0%EB%B6%80%EC%9D%B8%EF%BC%9F%20%EF%BD%9C%EC%97%AC%EC%9E%90%20%EB%A7%90%ED%8F%AC%EC%9D%B4%EB%8A%94%20%EC%97%B0%EC%95%A0%EC%A4%91%206%ED%99%94.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=4_kHdzhN_jU", label: "해리 이래도 안넘어와…? 근데 왜 내 심장만 뛰지..｜여자 말포이는 연애중 5화", also: ["https://malfoid.duckdns.org/video/2%EB%A9%B4%EA%B7%B9%EC%9E%A5%20%282SIDECINE%29/2026-11-03%20%ED%95%B4%EB%A6%AC%20%EC%9D%B4%EB%9E%98%EB%8F%84%20%EC%95%88%EB%84%98%EC%96%B4%EC%99%80%E2%80%A6%EF%BC%9F%20%EA%B7%BC%EB%8D%B0%20%EC%99%9C%20%EB%82%B4%20%EC%8B%AC%EC%9E%A5%EB%A7%8C%20%EB%9B%B0%EC%A7%80..%EF%BD%9C%EC%97%AC%EC%9E%90%20%EB%A7%90%ED%8F%AC%EC%9D%B4%EB%8A%94%20%EC%97%B0%EC%95%A0%EC%A4%91%205%ED%99%94.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=JOrlQdX4_SY", label: "[해리포터x말포이] 분명 고양이 아니라며 소리쳤는데… 포터가 깃털을 흔드니까 나도 모르게??", also: ["https://malfoid.duckdns.org/video/2%EB%A9%B4%EA%B7%B9%EC%9E%A5%20%282SIDECINE%29/2026-11-02%20%5B%ED%95%B4%EB%A6%AC%ED%8F%AC%ED%84%B0x%EB%A7%90%ED%8F%AC%EC%9D%B4%5D%20%EB%B6%84%EB%AA%85%20%EA%B3%A0%EC%96%91%EC%9D%B4%20%EC%95%84%EB%8B%88%EB%9D%BC%EB%A9%B0%20%EC%86%8C%EB%A6%AC%EC%B3%A4%EB%8A%94%EB%8D%B0%E2%80%A6%20%ED%8F%AC%ED%84%B0%EA%B0%80%20%EA%B9%83%ED%84%B8%EC%9D%84%20%ED%9D%94%EB%93%9C%EB%8B%88%EA%B9%8C%20%EB%82%98%EB%8F%84%20%EB%AA%A8%EB%A5%B4%EA%B2%8C%EF%BC%9F%EF%BC%9F.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=hmgwozpfyeM", label: "[말포이x해리포터] 둘이 사귀냐니까 아니라는데… 얘들아, 그 말은 일단 내려와서 해야 하지 않아??", also: ["https://malfoid.duckdns.org/video/2%EB%A9%B4%EA%B7%B9%EC%9E%A5%20%282SIDECINE%29/2026-11-01%20%5B%EB%A7%90%ED%8F%AC%EC%9D%B4x%ED%95%B4%EB%A6%AC%ED%8F%AC%ED%84%B0%5D%20%EB%91%98%EC%9D%B4%20%EC%82%AC%EA%B7%80%EB%83%90%EB%8B%88%EA%B9%8C%20%EC%95%84%EB%8B%88%EB%9D%BC%EB%8A%94%EB%8D%B0%E2%80%A6%20%EC%96%98%EB%93%A4%EC%95%84%2C%20%EA%B7%B8%20%EB%A7%90%EC%9D%80%20%EC%9D%BC%EB%8B%A8%20%EB%82%B4%EB%A0%A4%EC%99%80%EC%84%9C%20%ED%95%B4%EC%95%BC%20%ED%95%98%EC%A7%80%20%EC%95%8A%EC%95%84%EF%BC%9F%EF%BC%9F.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=pfH2MBSNou8", label: "[말포이 x 해리포터] 해리한테 그렇게 튕기더니… 첫 춤 추자마자 저렇게 웃어버리면 다 들키잖아??", also: ["https://malfoid.duckdns.org/video/2%EB%A9%B4%EA%B7%B9%EC%9E%A5%20%282SIDECINE%29/2026-11-01%20%5B%EB%A7%90%ED%8F%AC%EC%9D%B4%20x%20%ED%95%B4%EB%A6%AC%ED%8F%AC%ED%84%B0%5D%20%ED%95%B4%EB%A6%AC%ED%95%9C%ED%85%8C%20%EA%B7%B8%EB%A0%87%EA%B2%8C%20%ED%8A%95%EA%B8%B0%EB%8D%94%EB%8B%88%E2%80%A6%20%EC%B2%AB%20%EC%B6%A4%20%EC%B6%94%EC%9E%90%EB%A7%88%EC%9E%90%20%EC%A0%80%EB%A0%87%EA%B2%8C%20%EC%9B%83%EC%96%B4%EB%B2%84%EB%A6%AC%EB%A9%B4%20%EB%8B%A4%20%EB%93%A4%ED%82%A4%EC%9E%96%EC%95%84%EF%BC%9F%EF%BC%9F.mp4"]}
   - id: "fanfic-ao3-series-6753906"
     title: "Green and Silver"
     first_name: "Darcy"
