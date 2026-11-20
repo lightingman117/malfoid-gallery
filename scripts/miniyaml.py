@@ -1,9 +1,12 @@
-"""Tiny YAML loader for the subset used in this repo (stdlib only).
+"""Tiny YAML loader wrapper for this repo.
 
-Uses PyYAML when it is installed; otherwise parses: block mappings, block lists
-("- item" / "- key: value"), nested blocks by indentation, flow lists [a, "b"],
+Uses PyYAML when it is installed, which is required for the full gallery data:
+gallery.yaml uses flow mappings and the index uses wrapped plain scalars. The
+stdlib fallback only handles: block mappings, block lists ("- item" /
+"- key: value"), nested blocks by indentation, flow lists [a, "b"],
 double/single-quoted or bare scalars, true/false/null, ints, and full-line
-comments. Write repo YAML in that subset (quote strings that contain ": " or "#").
+comments. It is enough for the simpler idea files, not for a full site build.
+Write repo YAML in that subset (quote strings that contain ": " or "#").
 """
 import json
 import re

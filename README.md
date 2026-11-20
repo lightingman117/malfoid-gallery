@@ -69,7 +69,8 @@ malfoid-index/works.yaml  Malfoid Index: fanfics and other fan works by other pe
 guest/entries/        guest works for the gallery, one YAML file each (artist, AI declaration, license); images in guest/images/
                       submitted by pull request only, see guest/CONTRIBUTING.md; shown with a rose frame and a Guest badge, never posted
 site/                 static source of the website: index.html, style.css, app.js, vendor/ (MiniSearch, MIT); site/malfoid-index/ is the Malfoid Index sub page
-scripts/miniyaml.py   tiny YAML loader (uses PyYAML if installed), so the scripts need only Python 3
+scripts/miniyaml.py   tiny YAML loader; PyYAML is required for the full gallery data, the built-in fallback
+                      only covers the simpler idea files
 ```
 
 Entry ids are `<created date>-<theme>-<n>`, e.g. `2026-11-03-thanksgiving-1`, giving
@@ -262,26 +263,18 @@ are free; a pose and an expression can't both set her gaze.
 
 How it is built: `scripts/build_site.py` merges `gallery.yaml`, `input/*.yaml`, `plan/daily-malfoid-*.yaml`,
 `videos/videos.yaml` and the names from `ideas/*.yaml` into `_site/index.json`, copies `site/` and the linked
-images, clips and references, and makes ~480 px WebP thumbnails (`_site/thumbs/`, needs Pillow). Older entries
-without an `idea:` block get their outfit from their prompt and their location group from their tags. Nothing
-generated is committed to `main`.
+images, clips and references, and makes ~480 px WebP thumbnails (`_site/thumbs/`). It needs PyYAML for the
+gallery data and Pillow only for thumbnails; a missing referenced file now fails the build instead of publishing
+a broken link. Older entries without an `idea:` block get their outfit from their prompt and their location group
+from their tags. Nothing generated is committed to `main`.
 
-Publishing: Pages serves the `gh-pages` branch, which holds only the built `_site/`. After changing the YAML,
-rebuild and push it again (the index does not update by itself):
-
-```sh
-python3 scripts/build_site.py --out /tmp/malfoid-site
-cd /tmp/malfoid-site && git init -q -b gh-pages && git add -A \
-  && git commit -qm "Build site" && git push -f https://github.com/rhedak/malfoid-gallery.git gh-pages
-```
-
-(A GitHub Actions workflow that builds and deploys on every push to `main` can replace this step; adding it needs
-a token with the `workflow` scope or a commit made in the GitHub web UI.)
+Publishing: Pages serves the `gh-pages` branch, which holds only the built `_site/`. The Pages workflow builds it
+and pushes it on every push to `main` (and on manual runs), so no separate push is needed.
 
 Preview locally:
 
 ```sh
-python3 -m venv /tmp/venv && /tmp/venv/bin/pip install pillow   # or any Python with Pillow
+python3 -m venv /tmp/venv && /tmp/venv/bin/pip install pillow pyyaml
 /tmp/venv/bin/python scripts/build_site.py                      # -> _site/  (--no-thumbs works without Pillow)
 cd _site && python3 -m http.server 8000                         # http://localhost:8000/
 ```

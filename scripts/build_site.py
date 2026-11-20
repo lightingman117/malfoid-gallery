@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Build the static gallery website (GitHub Pages) from the repo data.
 
+Requires PyYAML for the full gallery data (the built-in fallback in miniyaml.py cannot parse flow
+mappings or wrapped scalars); Pillow is only needed for thumbnails.
+
 Reads gallery.yaml, input/*.yaml, plan/daily-malfoid-*.yaml, videos/videos.yaml and the ideas/ lists,
 and writes a ready-to-serve folder (default `_site/`, not committed):
 
@@ -351,25 +354,35 @@ def build_index():
     }
 
 
+def _as_list(value):
+    """A YAML list, or one value as a one-item list (never the characters of a string)."""
+    if not value:
+        return []
+    return value if isinstance(value, list) else [value]
+
+
+def work_urls(w):
+    """Every http(s) link stored on a work, including embed, video and item links."""
+    urls = [w.get("url"), w.get("embed")]
+    urls += _as_list(w.get("also")) + _as_list(w.get("embed_also"))
+    for v in _as_list(w.get("videos")):
+        if isinstance(v, dict):
+            urls += [v.get("url"), v.get("embed")] + _as_list(v.get("also"))
+        else:
+            urls.append(v)
+    for it in _as_list(w.get("items")):
+        if isinstance(it, dict):
+            urls += [it.get("url")] + _as_list(it.get("also"))
+    return [u for u in (str(x or "").strip() for x in urls) if u.startswith(("http://", "https://"))]
+
+
 def social_handles(w):
     """Handles read from the work's own links (YouTube @handles and X profile handles), for search only."""
     import re
     from urllib.parse import urlparse, unquote
     X_SKIP = {"i", "home", "search", "explore", "intent", "share", "hashtag", "notifications", "messages"}
-    urls = [w.get("url"), w.get("embed")] + list(w.get("also") or []) + list(w.get("embed_also") or [])
-    for v in (w.get("videos") or []):
-        if isinstance(v, dict):
-            urls += [v.get("url"), v.get("embed")] + list(v.get("also") or [])
-        else:
-            urls.append(v)
-    for it in (w.get("items") or []):
-        if isinstance(it, dict):
-            urls += [it.get("url")] + list(it.get("also") or [])
     out = []
-    for u in urls:
-        u = str(u or "").strip()
-        if not u.startswith(("http://", "https://")):
-            continue
+    for u in work_urls(w):
         host = (urlparse(u).hostname or "").lower()
         path = unquote(urlparse(u).path)
         if host.endswith("youtube.com"):
@@ -386,6 +399,29 @@ def social_handles(w):
             seen.add(h.lower())
             res.append(h)
     return res
+
+
+def blocked_handle(w):
+    """The blocked account or domain a work links to (creator, handles or any URL), or None."""
+    from urllib.parse import urlparse
+    urls = work_urls(w)
+    creator = str(w.get("creator") or "").strip()
+    if creator.startswith(("http://", "https://")):
+        urls.append(creator)
+    for u in urls:
+        host = (urlparse(u).hostname or "").lower()
+        for d in BLOCKED_DOMAINS:
+            if host == d or host.endswith("." + d):
+                return d
+    names = [creator.lstrip("@")]
+    names += [str(h or "").strip().lstrip("@") for h in _as_list(w.get("handles"))]
+    if creator.startswith(("http://", "https://")):
+        names += social_handles({"url": creator})
+    names += social_handles(w)
+    for h in names:
+        if h and h.lower() in BLOCKED_ACCOUNTS:
+            return h
+    return None
 
 
 def kinds_of(value):
@@ -429,29 +465,6 @@ def build_works():
 
     def text(v):
         return "" if v is None else str(v).strip()
-
-    def handle_from_url(u):
-        from urllib.parse import urlparse
-        seg = urlparse(u).path.strip("/").split("/")[0]
-        return seg.lstrip("@").lower()
-
-    def blocked_handle(w):
-        """The blocked account or domain a work points at (creator, url or also link), or None."""
-        from urllib.parse import urlparse
-        for c in [text(w.get("creator"))] + [text(w.get("url"))] + [text(u) for u in (w.get("also") or [])]:
-            if not c:
-                continue
-            if c.startswith(("http://", "https://")):
-                host = (urlparse(c).hostname or "").lower()
-                for d in BLOCKED_DOMAINS:
-                    if host == d or host.endswith("." + d):
-                        return d
-                h = handle_from_url(c)
-            else:
-                h = c.lstrip("@").lower()
-            if h and h in BLOCKED_ACCOUNTS:
-                return h
-        return None
 
     def thumb_of(w):
         """An https image, or a banner file in site/malfoid-index/banners/ (copied with the site)."""
@@ -602,8 +615,7 @@ def build_works():
 def copy(rel, out):
     src, dst = os.path.join(ROOT, rel), os.path.join(out, rel)
     if not os.path.isfile(src):
-        print("warning: missing", rel, file=sys.stderr)
-        return
+        raise SystemExit("error: the gallery references a missing file: %s" % rel)
     os.makedirs(os.path.dirname(dst), exist_ok=True)
     if not os.path.exists(dst) or os.path.getmtime(dst) < os.path.getmtime(src):
         shutil.copy2(src, dst)
@@ -630,8 +642,11 @@ def make_thumb(src, dst):
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("--out", default=os.path.join(ROOT, "_site"), help="output folder (default: _site/)")
-    ap.add_argument("--no-thumbs", action="store_true", help="skip thumbnails (no Pillow needed)")
+    ap.add_argument("--no-thumbs", action="store_true", help="skip thumbnails (no Pillow needed; PyYAML still required)")
     args = ap.parse_args()
+    if miniyaml._pyyaml is None:
+        raise SystemExit("error: PyYAML is required to build the site (pip install pyyaml); "
+                         "the built-in fallback cannot parse all gallery data")
     out = os.path.abspath(args.out)
     os.makedirs(out, exist_ok=True)
 

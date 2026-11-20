@@ -1,15 +1,23 @@
 name: Submission check
 
-# Checks pull requests that touch the Malfoid Index, guest gallery entries or the site build, so a broken
-# works.yaml or guest entry (missing credit, license or AI declaration, or a bad image path) is caught before merge.
+# Checks pull requests that touch the gallery, Malfoid Index, guest entries or the site build, so broken data
+# (a bad YAML file, missing credit, or a missing image) is caught before merge rather than on the next push to main.
 
 on:
   pull_request:
     paths:
+      - "gallery.yaml"
+      - "input/**"
+      - "plan/**"
+      - "images/**"
+      - "videos/**"
+      - "references/**"
+      - "ideas/**"
       - "malfoid-index/**"
       - "guest/**"
       - "scripts/**"
       - "site/**"
+      - "tests/**"
 
 permissions:
   contents: read
@@ -29,6 +37,9 @@ jobs:
 
       - name: Build the site
         run: python scripts/build_site.py --out "$RUNNER_TEMP/site" --no-thumbs
+
+      - name: Run build guardrail tests
+        run: python -m unittest discover -s tests
 
       - name: Check external guest image links
         run: python scripts/check_guest_images.py
