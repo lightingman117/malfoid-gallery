@@ -1422,6 +1422,7 @@ works:
     kind: [creator, video]
     creator: "rhedak"
     url: "https://x.com/rhedak1"
+    language: "Japanese audio, English subtitles"
     also: ["https://ko-fi.com/rhedak", "https://malfoid.duckdns.org/video/Rhedak/", "https://rhedak.github.io/rhedak-bio/"]
     added: 2026-11-08
     summary: "The maintainer of this index and the Malfoid gallery. Hobby game dev and author. Malfoid meets Harry Potter for the first time at Madam Malkins, as a video and a Short."
