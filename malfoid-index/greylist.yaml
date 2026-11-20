@@ -8545,3 +8545,14 @@ works:
     added: 2026-11-20
     summary: "Malfoid videos by 𝙔𝙁𝘿 𝙎𝙏𝙐𝘿𝙄𝙊, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
+  # other (not Malfoid: an original universe inspired by it)
+  - id: "creator-ma-aiflickfactory"
+    title: "AI Flick Factory"
+    first_name: ""
+    kind: [creator, video]
+    creator: "AI Flick Factory (@AIFlickFactory)"
+    url: "https://www.youtube.com/@AIFlickFactory"
+    also: ["https://malfoid.duckdns.org/video/AI%20Flick%20Factory/"]
+    added: 2026-11-20
+    summary: "Malfoid videos by AI Flick Factory, archived on the M.A. (Malfoid Archive)."
+    tags: [video, archive]
