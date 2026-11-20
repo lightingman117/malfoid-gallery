@@ -5681,3 +5681,16 @@ works:
       - {url: "https://x.com/lilmovieperp/status/2118534670929567831", label: "Malfoid &amp Harry Get Cultured / Absolutely no respect for the performing arts. / / A little romantic disaste, 06 Nov 2026"}
       - {url: "https://x.com/lilmovieperp/status/2118124722202218785", label: "Malfoid: A Brief History of Magical Indiscretions / Scene: \"Malfoid Manor Movie Mayhem\" / HarryPotter malfoid, 04 Nov 2026"}
     tags: [video, ai-film, x]
+  - id: "creator-hirose-studio"
+    title: "HIROSE Studio (@HIROSE-CVs)"
+    first_name: ""
+    kind: [creator, video, music]
+    creator: "HIROSE Studio (@HIROSE-CVs)"
+    url: "https://www.youtube.com/@HIROSE-CVs"
+    also: ["https://x.com/hiroseyuma33077"]
+    language: "English subs"
+    added: 2026-11-20
+    summary: "Malfoid anime MAD and cover music videos by HIROSE Studio, with English subtitles for the music."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=kZxMtyvVnRI", label: "抜錨｜Batsubyou【Malfoid Anime MAD / Cover MV】"}
+    tags: [music, anime, youtube]

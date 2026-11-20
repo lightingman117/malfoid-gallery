@@ -499,6 +499,10 @@ def build_works():
         m = re.match(r"^/[A-Za-z0-9_]{1,30}/status/(\d{5,25})$", p.path)
         if host in ("x.com", "www.x.com", "twitter.com", "www.twitter.com") and m:
             return "https://platform.twitter.com/embed/Tweet.html?id=" + m.group(1)
+        # A public Instagram post or reel: its embed page (only the shortcode is used).
+        m = re.match(r"^/(p|reel)/([A-Za-z0-9_-]{5,20})/?$", p.path)
+        if host in ("instagram.com", "www.instagram.com") and m:
+            return "https://www.instagram.com/" + m.group(1) + "/" + m.group(2) + "/embed/"
         # A Bilibili video page (English or Chinese path): its BV id plays in Bilibili's external player.
         m = re.match(r"^/(?:[a-z]{2}/)?video/(BV[A-Za-z0-9]{10})/?$", p.path)
         if host in ("bilibili.com", "www.bilibili.com") and m:
