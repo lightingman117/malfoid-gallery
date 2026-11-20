@@ -7284,5 +7284,5 @@ works:
     also: ["https://github.com/Topovn/malfoid-artwork-archive", "https://x.com/Topovn"]
     language: "English"
     added: 2026-11-20
-    summary: "A searchable archive of Malfoid artwork posted on X before October 2026, with curated collections by likes and artist, plus a posting timeline. The source code and the maintainer's X account are linked."
+    summary: "A searchable archive of Malfoid artwork posted on X, with curated collections by likes and artist, plus a posting timeline. The source code and the maintainer's X account are linked."
     tags: [gallery, art, archive, x]
