@@ -7254,3 +7254,23 @@ works:
       - {url: "https://www.youtube.com/shorts/3I1NOR7TYjU", label: "Short: Malfoid Yearns for Harry 🫣 EPISODE 5 (teaser). #malfoid"}
       - {url: "https://www.youtube.com/shorts/PaCtgZ2rumI", label: "Short: Malfoid gets serious with Potter. Ep. 6"}
     tags: [video, youtube, series, shorts]
+  - id: "creator-angelsotoai"
+    thumb: "https://pbs.twimg.com/amplify_video_thumb/2111206484667248640/img/Q77enedJS-My7tDn.jpg"
+    title: "Mythic Render (X)"
+    first_name: "Draconia"
+    kind: [creator, video]
+    format: other
+    creator: "Mythic Render (@Angelsotoai)"
+    url: "https://x.com/Angelsotoai"
+    also: ["https://www.youtube.com/@MythicRenderFilm"]
+    language: "English"
+    added: 2026-11-20
+    summary: "The Hogwarts University episodes 1-6 posted on X by Mythic Render, following Draconia Malfoid and Harry in another universe. The same series is also on the creator's YouTube channel."
+    videos:
+      - {url: "https://x.com/Angelsotoai/status/2111208018813817181", label: 'Ep 1: "Scared, Potter?"'}
+      - {url: "https://x.com/Angelsotoai/status/2111971286612402518", label: 'Ep 2: "It was a lucky shot."'}
+      - {url: "https://x.com/Angelsotoai/status/2113638708280795305", label: "Ep 3: Harry's dreams"}
+      - {url: "https://x.com/Angelsotoai/status/2118057041944097276", label: "Ep 4: Harry faces the Lioness"}
+      - {url: "https://x.com/Angelsotoai/status/2119939696755114487", label: "Ep 5: Malfoid makes her move"}
+      - {url: "https://x.com/Angelsotoai/status/2122016302374039658", label: "Ep 6: Draconia's offer to Potter"}
+    tags: [video, x, series, episodes]
