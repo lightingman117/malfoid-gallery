@@ -235,6 +235,10 @@
   function alsoLine(urls) {
     var safe = (urls || []).map(safeUrl).filter(Boolean);
     if (!safe.length) return null;
+    // Sorted by site name, ignoring case, so the order does not depend on how a name is capitalised.
+    safe.sort(function (a, b) {
+      return siteName(a).toLowerCase().localeCompare(siteName(b).toLowerCase()) || a.localeCompare(b);
+    });
     var p = el("p", "work-video-also", "Also on: ");
     safe.forEach(function (href, i) {
       if (i) p.appendChild(document.createTextNode(" · "));
@@ -255,7 +259,9 @@
     if (host === "x.com" || host === "twitter.com") return "X";
     if (host === "youtube.com" || host === "youtu.be") return "YouTube";
     if (host === "rumble.com") return "Rumble";
-    if (host === "drive.google.com") return "Download (Google Drive)";
+    if (host === "drive.google.com") return "Google Drive";
+    if (host === "malfoid.duckdns.org") return "M.A.";
+    if (host === "bilibili.com") return "bilibili";
     return host;
   }
 
