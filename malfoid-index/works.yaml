@@ -7274,3 +7274,15 @@ works:
       - {url: "https://x.com/Angelsotoai/status/2119939696755114487", label: "Ep 5: Malfoid makes her move"}
       - {url: "https://x.com/Angelsotoai/status/2122016302374039658", label: "Ep 6: Draconia's offer to Potter"}
     tags: [video, x, series, episodes]
+  - id: "gallery-topovn-artwork-archive"
+    title: "The Malfoid Artwork Archive"
+    thumb: "banners/malfoid-artwork-archive.webp"
+    first_name: ""
+    kind: gallery
+    creator: "Topovn (@Topovn)"
+    url: "https://topovn.github.io/malfoid-artwork-archive/"
+    also: ["https://github.com/Topovn/malfoid-artwork-archive", "https://x.com/Topovn"]
+    language: "English"
+    added: 2026-11-20
+    summary: "A searchable archive of Malfoid artwork posted on X before October 2026, with curated collections by likes and artist, plus a posting timeline. The source code and the maintainer's X account are linked."
+    tags: [gallery, art, archive, x]
