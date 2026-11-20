@@ -5685,6 +5685,7 @@ works:
     summary: "Malfoid videos by AUDIOBOOK PRODUCTION, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
   - id: "creator-ma-aerylla-va"
+    thumb: "https://i.ytimg.com/vi/P5hCMZrPbtA/hqdefault.jpg"
     title: "Aerylla VA"
     first_name: ""
     kind: [creator, video]
@@ -5694,6 +5695,8 @@ works:
     added: 2026-11-20
     summary: "Malfoid videos by Aerylla VA, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
+    videos:
+      - {url: "https://www.youtube.com/watch?v=P5hCMZrPbtA", label: "Your Tsundere Magic Academy Classmate Secretly Likes You [Audio Roleplay] [F4M] [Fem Malfoy]"}
   - id: "creator-ma-nyro2019"
     title: "𝗡𝘆𝗿𝗼"
     first_name: ""
