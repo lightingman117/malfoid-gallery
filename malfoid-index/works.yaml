@@ -1608,6 +1608,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=C63V4sG74us", label: "Over My Dead Broom | Six Big Brothers, But I Bite the Worst"}
       - {url: "https://www.youtube.com/watch?v=yITj1RHFKAc", label: "Say You Don't Know Me | A Malfoy Manor Duet"}
       - {url: "https://www.youtube.com/watch?v=nJg8CF406CA", label: "Catch the Snitch, Not Feelings | A Quidditch Pep-Talk Gone Wrong"}
+      - {url: "https://www.youtube.com/watch?v=ve3HAbHgTUk", label: "Where the Rules Fell Out | A Night Heist"}
     tags: [music, video, x, youtube]
     format: other
   - id: "video-foyege-malfoy-story"
