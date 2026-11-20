@@ -3496,17 +3496,6 @@ works:
     summary: "Malfoid videos by Mythic Subframe, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
   # unclear (text)
-  - id: "creator-ma-mythicrenderfilm"
-    title: "Mythic Render"
-    first_name: ""
-    kind: [creator, video]
-    creator: "Mythic Render (@MythicRenderFilm)"
-    url: "https://www.youtube.com/@MythicRenderFilm"
-    also: ["https://malfoid.duckdns.org/video/MythicRenderFilm/"]
-    added: 2026-11-20
-    summary: "Malfoid videos by Mythic Render, archived on the M.A. (Malfoid Archive)."
-    tags: [video, archive]
-  # unclear (text)
   - id: "creator-ma-patreonx"
     title: "NEW MMD"
     first_name: ""

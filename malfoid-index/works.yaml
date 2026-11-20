@@ -7229,3 +7229,28 @@ works:
     videos:
       - {url: "https://rumble.com/embed/v7gfuw4/?pub=13iafn", label: "\"As a Slytherin, she drew the Sword of Gryffindor, which symbolizes courage.\"", also: ["https://drive.google.com/file/d/1xIp1UsnStf9kGv2nQAKCjZXBIhgucCKq/view?usp=drive_link", "https://www.bilibili.com/en/video/BV1iGJb6xEaa/"]}
     tags: [video, bilibili]
+  - id: "creator-ma-mythicrenderfilm"
+    thumb: "https://i.ytimg.com/vi/QnDZ1PMvdso/hqdefault.jpg"
+    title: "Mythic Render"
+    first_name: "Draconia"
+    kind: [creator, video]
+    creator: "Mythic Render (@MythicRenderFilm)"
+    url: "https://www.youtube.com/@MythicRenderFilm"
+    also: ["https://malfoid.duckdns.org/video/MythicRenderFilm/"]
+    language: "English"
+    added: 2026-11-20
+    summary: "Mythic Render's Hogwarts University videos follow Harry and Draconia Malfoid in another world: six full episodes and six shorts/teasers. Also archived on the M.A. (Malfoid Archive)."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=QnDZ1PMvdso", label: "Harry & Malfoy (Malfoid) duel in another world | Hogwarts University: Ep 1"}
+      - {url: "https://www.youtube.com/watch?v=aYsJRiWq_eY", label: "It was a Lucky Shot… | Hogwarts University: Ep 2"}
+      - {url: "https://www.youtube.com/watch?v=G6pyZDEySxI", label: "Malfoid & Potter, and so it begins? | Hogwarts University: Ep 3"}
+      - {url: "https://www.youtube.com/watch?v=XFv1Ax1Lnhw", label: "Malfoid Watches Harry Battle Ginny the Lioness | Hogwarts University Ep. 4"}
+      - {url: "https://www.youtube.com/watch?v=2wEAJP3Em4k", label: "Malfoid’s Pride Gets Checked | Hogwarts University Ep. 5"}
+      - {url: "https://www.youtube.com/watch?v=01X3gFWdryY", label: "Draconia Malfoid Makes Harry an Offer He Can't Refuse | Hogwarts University Ep. 6"}
+      - {url: "https://www.youtube.com/shorts/nZ6lN5owaog", label: 'Short: Malfoid - Lost? (Female Draco)'}
+      - {url: "https://www.youtube.com/shorts/ZZ6rus2ioI0", label: 'Short: "It was a lucky shot." Malfoid 👀 #harrypotter'}
+      - {url: "https://www.youtube.com/shorts/lSju-3eWnBY", label: "Short: Watch till the end! Hogwarts University ep3 Malfoid (malfoy) takes over Potter's world. #malfoy"}
+      - {url: "https://www.youtube.com/shorts/ckpIyNOPK9c", label: "Short: Malfoid watches Harry try to survive."}
+      - {url: "https://www.youtube.com/shorts/3I1NOR7TYjU", label: "Short: Malfoid Yearns for Harry 🫣 EPISODE 5 (teaser). #malfoid"}
+      - {url: "https://www.youtube.com/shorts/PaCtgZ2rumI", label: "Short: Malfoid gets serious with Potter. Ep. 6"}
+    tags: [video, youtube, series, shorts]
