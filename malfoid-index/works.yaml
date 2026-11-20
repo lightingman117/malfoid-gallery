@@ -1606,6 +1606,8 @@ works:
       - {url: "https://www.youtube.com/watch?v=bbb55OuctqU", label: "Pure Blood, Bad Attitude"}
       - {url: "https://www.youtube.com/watch?v=BZUj-788q7c", label: "Cake or Creature? | Sorting Hogwarts Into Sweets and Beasts"}
       - {url: "https://www.youtube.com/watch?v=C63V4sG74us", label: "Over My Dead Broom | Six Big Brothers, But I Bite the Worst"}
+      - {url: "https://www.youtube.com/watch?v=yITj1RHFKAc", label: "Say You Don't Know Me | A Malfoy Manor Duet"}
+      - {url: "https://www.youtube.com/watch?v=nJg8CF406CA", label: "Catch the Snitch, Not Feelings | A Quidditch Pep-Talk Gone Wrong"}
     tags: [music, video, x, youtube]
     format: other
   - id: "video-foyege-malfoy-story"
@@ -1752,6 +1754,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=im_Op6ykYXQ", label: "The Measure of a Malfoy - Book 1"}
       - {url: "https://www.youtube.com/watch?v=cYF_-oFELPU", label: "The Measure of a Malfoy — Year Four: The Name Between Them, Part 1 of 4"}
       - {url: "https://www.youtube.com/watch?v=TwhZPL19dDk", label: "Stories for the Road Trailer ~ Our Ethos"}
+      - {url: "https://www.youtube.com/watch?v=rtKLdCg9dw0", label: "THE MEASURE OF A MALFOY — YEAR FOUR: THE NAME BETWEEN THEMPART 3 OF 4 — BENEATH THE WINTER WATER"}
   # NOTE: only The Weasley Spellweaver is confirmed SFW (by the submitter). Behind The Broken Glass (severed head),
   # The Serpent's Leash and A Catch Worth Falling For (kissing, mild accidental groping) are not confirmed.
   # The author's bio says the fics "might have spiciness". Story links and languages still need checking.
@@ -1840,6 +1843,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=mFA29V8mUSs", label: "BORN TO BE YOUR ENEMY 🖤 | Female Draco Malfoy × Harry Potter | Gothic Rock"}
       - {url: "https://www.youtube.com/watch?v=zV96MQubjlE", label: "I DON'T HATE YOU, POTTER 💚 | Female Draco Malfoy × Harry Potter | Dark Romance Song"}
       - {url: "https://www.youtube.com/watch?v=FuphhjOT-rw", label: "MALFOID Thought She Lost HARRY POTTER | I Thought I Lost You (Gothic Rock Music Video)"}
+      - {url: "https://www.youtube.com/watch?v=yIkuYDqqedc", label: "🐍 MALFOID × HARRY POTTER — THE CHAMBER IS OPEN | Official Music Video by MALFOVEIL"}
     tags: [music, video, youtube]
   - id: "creator-alxaiproductions"
     thumb: "https://i.ytimg.com/vi/wn6wEEpCUMo/hqdefault.jpg"
@@ -1935,6 +1939,8 @@ works:
       - {url: "https://www.youtube.com/watch?v=2OIGH7ywlpY", label: "Malfoid - I Was Joking Pt. 10 - You All Right?"}
       - {url: "https://www.youtube.com/watch?v=27HaV1mLSeg", label: "Malfoid - I Was Joking Pt. 12 - What Slytherin Girl?", also: ["https://malfoid.duckdns.org/video/schmede_AI/2026-11-17%20Malfoid%20-%20I%20Was%20Joking%20Pt.%20%EF%BC%91%EF%BC%92%20-%20What%20Slytherin%20Girl%EF%BC%9F%20%5BYT%2027HaV1mLSeg%5D.mp4"]}
       - {url: "https://www.youtube.com/watch?v=aGSG0e-uVmc", label: "I Think I Know Why Foyege's Malfoid Got Taken Down", also: ["https://malfoid.duckdns.org/video/schmede_AI/2026-11-17%20I%20Think%20I%20Know%20Why%20Foyege%27s%20Malfoid%20Got%20Taken%20Down%20%5BYT%20aGSG0e-uVmc%5D.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=O6kI53BPgUw", label: "LIVE: making Malfoid with AI 🐍 Yule Ball crunch time 😰 (Spoilers)"}
+      - {url: "https://www.youtube.com/watch?v=cTaYrdEzuKQ", label: "Why It Takes Me So Long to Make Malfoid"}
     tags: [video, playlist, youtube]
   - id: "creator-unstablegen"
     thumb: "https://i.ytimg.com/vi/p2J1NCV-A8g/hqdefault.jpg"
@@ -3694,6 +3700,11 @@ works:
       - {url: "https://www.youtube.com/watch?v=p_JbMSvt8pI", label: "Malfoy Won't Be Honest Ep.26: The Corridor Where No One Laughs (English Dub)", also: ["https://malfoid.duckdns.org/video/Karma%20Moe%20-%20%E8%87%AA%E6%A5%AD%E8%87%AA%E8%90%8C%20(zerozakiyamo)/2026-11-18%20Malfoy%20Won%27t%20Be%20Honest%20Ep.%EF%BC%92%EF%BC%96%EF%BC%9A%20The%20Corridor%20Where%20No%20One%20Laug%20%5BYT%20p_JbMSvt8pI%5D.mp4"]}
       - {url: "https://www.youtube.com/watch?v=qzM7mDCB4xo", label: "It really isn't funny. | Malfoy Won't Be Honest Ep.26 #malfoy #malfoid", also: ["https://malfoid.duckdns.org/video/Karma%20Moe%20-%20%E8%87%AA%E6%A5%AD%E8%87%AA%E8%90%8C%20(zerozakiyamo)/2026-11-18%20It%20really%20isn%27t%20funny.%20%EF%BD%9C%20Malfoy%20Won%27t%20Be%20Honest%20Ep.%EF%BC%92%EF%BC%96%20%5BYT%20qzM7mDCB4xo%5D.mp4"]}
       - {url: "https://www.youtube.com/watch?v=lIHGhWcOTO0", label: "Malfoy Won't Be Honest: Her Friends Take the Stand (English Dub) | The Quibbler Extra", also: ["https://malfoid.duckdns.org/video/Karma%20Moe%20-%20%E8%87%AA%E6%A5%AD%E8%87%AA%E8%90%8C%20(zerozakiyamo)/2026-11-18%20Malfoy%20Won%27t%20Be%20Honest%EF%BC%9A%20Her%20Friends%20Take%20the%20Stand%20%28English%20%5BYT%20lIHGhWcOTO0%5D.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=qT2Ed75V0U8", label: "Malfoy Won't Be Honest: What Is in Her Boggart Wardrobe? (English Dub) | The Quibbler Extra"}
+      - {url: "https://www.youtube.com/watch?v=XE1GA-K4wq0", label: "Have I got something on my face? | Malfoy Won't Be Honest Ep.27 #malfoy #malfoid"}
+      - {url: "https://www.youtube.com/watch?v=G6ROTk93ccs", label: "Malfoy Won't Be Honest Ep.27: What Did You Do with My Face? (English Dub)"}
+      - {url: "https://www.youtube.com/watch?v=5YKfEGMUgP0", label: "\"A very consistent printing error.\" Malfoy 📒 | The Quibbler Extra #malfoy #malfoid"}
+      - {url: "https://www.youtube.com/watch?v=HaFQxx_0T9Q", label: "\"That was not helping. That was lending.\" Crabbe 🧥 | The Quibbler Extra #malfoy #malfoid"}
     tags: [art, x, malfoid.com, video]
   - id: "creator-mf-sigmman"
     title: "시금"
@@ -4228,6 +4239,7 @@ works:
       - {url: "https://www.youtube.com/shorts/1F0mXkcofVg", label: "He Chose Her Over Everything"}
       - {url: "https://www.youtube.com/shorts/exmHK9p1JKA", label: "So, What Will Draconia Say?", also: ["https://malfoid.duckdns.org/video/Anigirls%20Archive/2026-11-17%20So%2C%20What%20Will%20Draconia%20Say%EF%BC%9F%20%F0%9F%98%B3%F0%9F%92%9A%E2%9A%A1%EF%B8%8F%20%5BYT%20exmHK9p1JKA%5D%20%282%29.mp4"]}
       - {url: "https://www.youtube.com/watch?v=_1vA1lNkZT0", label: "A Truce Under the Stars 🌙✨💚 #draconia #harrypotter #malfoid", also: ["https://malfoid.duckdns.org/video/Anigirls%20Archive/2026-11-18%20A%20Truce%20Under%20the%20Stars%20%F0%9F%8C%99%E2%9C%A8%F0%9F%92%9A%20%5BYT%20_1vA1lNkZT0%5D%20%282%29.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=tRE28eDbTmY", label: "You Asked WHO to the Ball?! 💃😱♟ #harrypotter #malfoid"}
     tags: [anime, video, youtube, malfoid]
   - id: "creator-yolitart"
     title: "YoliArt"
@@ -4347,6 +4359,7 @@ works:
       - "https://www.youtube.com/shorts/yz0h6ctEVcw"
       - "https://www.youtube.com/shorts/bZDP_BKqbjA"
       - "https://www.youtube.com/shorts/F6ccC56yEbQ"
+      - {url: "https://www.youtube.com/watch?v=IoYrewCIxcg", label: "Draconia Got Caught Brewing a \"Tracking Draught\"... for Potter? 💗 #malfoid"}
     tags: [anime, video, youtube, x, series]
   - id: "creator-enoki-saori-bilibili"
     title: "榎木纱织"
@@ -4527,6 +4540,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=QhSjydJ_gtY", label: "Malfoid wants to dance with you | Malfoid x Harry"}
       - {url: "https://www.youtube.com/watch?v=_73QgREWiCc", label: "Malfoid wants your attention | Malfoid x Harry First Kiss"}
       - {url: "https://www.youtube.com/watch?v=IHMJ5CO7Ttc", label: "Malfoid wants to sit with you | Malfoid x Harry"}
+      - {url: "https://www.youtube.com/watch?v=Qt0W7GB00UE", label: "Malfoid wants a Rematch | Malfoid x Harry"}
   - id: "creator-draconia-malfoid"
     title: "Draconia Malfoid"
     first_name: ""
@@ -4641,6 +4655,10 @@ works:
       - {url: "https://www.youtube.com/watch?v=0PSw_IjCLVU", label: "Me Making Malfoid Canon", also: ["https://malfoid.duckdns.org/video/Goldteiger2000/2026-10-19%20Me%20Making%20Malfoid%20Canon%20%5BYT%200PSw_IjCLVU%5D.mp4"]}
       - {url: "https://www.youtube.com/watch?v=b2UiUf3EE54", label: "Draco Malfoy Waifu 3.0", also: ["https://malfoid.duckdns.org/video/Goldteiger2000/2026-10-18%20Draco%20Malfoy%20Waifu%20%EF%BC%93.%EF%BC%90%20%5BYT%20b2UiUf3EE54%5D.mp4"]}
       - {url: "https://www.youtube.com/watch?v=2pcT-jQcpeo", label: "Draco Malfoid Compilation #6", also: ["https://malfoid.duckdns.org/video/Goldteiger2000/2026-11-17%20Draco%20Malfoid%20Compilation%20%23%EF%BC%96%20%5BYT%202pcT-jQcpeo%5D.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=YWQQErCAVE4", label: "Malfoid Make Is Better 💚"}
+      - {url: "https://www.youtube.com/watch?v=xqBFdI5QBbQ", label: "Malfoid Make Is Better 💚"}
+      - {url: "https://www.youtube.com/watch?v=ymk344SvFb4", label: "The Last Stand"}
+      - {url: "https://www.youtube.com/watch?v=Oabdz4i2u6A", label: "Draco Malfoid Waifu"}
   - id: "creator-gugolfaistudio"
     title: "GugolfAIStudio"
     first_name: ""
@@ -4820,6 +4838,8 @@ works:
     videos:
       - {url: "https://www.youtube.com/watch?v=qKLTpAwDBa8", label: "Malfoid"}
       - {url: "https://www.youtube.com/watch?v=6-1oTbyrwgM", label: "Draconia & Harry Potter's Weird Romantic Interactions"}
+      - {url: "https://www.youtube.com/watch?v=lmOWc1-mYeQ", label: "Draconia & Harry Potter’s Toxic Love Relationship"}
+      - {url: "https://www.youtube.com/watch?v=xxA9KwfgkWk", label: "Harry Potter & Draconia React to Their AI Videos 😂💚 #draconia #shorts"}
   - id: "creator-maelle-gold"
     title: "Maelle_Gold6267"
     first_name: ""
@@ -4998,6 +5018,8 @@ works:
       - {url: "https://www.youtube.com/watch?v=F6vB6bEIaJI", label: "The Chosen One | Harry Potter Fanfic | Chapter 2: The Duel", also: ["https://malfoid.duckdns.org/video/tamara%20lucia%20clips/2026-11-03%20The%20Chosen%20One%20%EF%BD%9C%20Harry%20Potter%20Fanfic%20%EF%BD%9C%20Chapter%20%EF%BC%92%EF%BC%9A%20The%20Duel%20%5BYT%20F6vB6bEIaJI%5D.mp4"]}
       - {url: "https://www.youtube.com/watch?v=YtLPrtEu7Eo", label: "The Chosen One | Harry Potter Fanfic | Chapter 1: Enemies", also: ["https://malfoid.duckdns.org/video/tamara%20lucia%20clips/2026-11-03%20The%20Chosen%20One%20%EF%BD%9C%20Harry%20Potter%20Fanfic%20%EF%BD%9C%20Chapter%20%EF%BC%91%EF%BC%9A%20Enemies%20%5BYT%20YtLPrtEu7Eo%5D.mp4"]}
       - {url: "https://www.youtube.com/watch?v=0Oj9n0BdJbM", label: "Chapter 13: Their First Kiss | The Chosen One Audiobook", also: ["https://malfoid.duckdns.org/video/tamara%20lucia%20clips/2026-11-17%20Chapter%20%EF%BC%91%EF%BC%93%EF%BC%9A%20Their%20First%20Kiss%20%EF%BD%9C%20The%20Chosen%20One%20Audiobook%20%EF%BD%9C%20Ha%20%5BYT%200Oj9n0BdJbM%5D.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=cd0levOdMpY", label: "She wasn't his person… but he dove into the Black Lake for her anyway 🌊 | Draconia Malfoy"}
+      - {url: "https://www.youtube.com/watch?v=exVtAv_kmmg", label: "\"I'm going home in a few days…\" \"Don't go\" 💔 | Draconia Malfoy #harrypotter #malfoid"}
   - id: "creator-themalfoyversey"
     title: "The Malfoyverse"
     first_name: ""
@@ -5095,6 +5117,7 @@ works:
     videos:
       - {url: "https://www.youtube.com/watch?v=6gefPjzSenU", label: "Not A Word | Malfoid, Draconia — Episode 2"}
       - {url: "https://www.youtube.com/watch?v=hVVwYeHprv0", label: "Did He Just KISS Her?! | Draconia (Female Malfoy) Anime — Episode 1: \"Just Us\" — FULL EPISODE"}
+      - {url: "https://www.youtube.com/watch?v=GRh7yo70amg", label: "Draconia Malfoid is Jealous of the French Girl"}
   - id: "fanfic-ao3-95313496"
     title: "Dracelle Malfoy: The House of Serpents"
     first_name: "Dracelle"
@@ -5296,6 +5319,10 @@ works:
       - {url: "https://www.youtube.com/playlist?list=PLTGMWmWdzX30", label: "Real Malfoid (playlist)"}
       - {url: "https://www.youtube.com/playlist?list=PLPld2KgpTc4M", label: "Malfoid Comic Dubs (playlist)"}
       - {url: "https://www.youtube.com/shorts/LYBoP6hkR-g", label: "Malfoid confessed in Parseltongue... Potter understood every word", also: ["https://malfoid.duckdns.org/video/TOONER%20(tooneryt)/2026-11-18%20Malfoid%20confessed%20in%20Parseltongue...%20Potter%20understood%20every%20%5BYT%20LYBoP6hkR-g%5D.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=mQwV7ImNAiU", label: "Malfoid heard Potter had a date... so she crashed the party 😏 #malfoid #harrypotter #shorts"}
+      - {url: "https://www.youtube.com/watch?v=QhxI1wE6DGk", label: "Malfoid stole Potter's glasses... then guarded him all day 👓 #malfoid #harrypotter #shorts"}
+      - {url: "https://www.youtube.com/watch?v=d54QVwKB2XY", label: "Malfoid called Potter an idiot... then made a date with him 😳 #malfoid #harrypotter #shorts"}
+      - {url: "https://www.youtube.com/watch?v=BFyPaiPGUOs", label: "5 HOURS of Real-Life Malfoid 🐍 Live-Action AI Female Draco Malfoy (Ep. 1-5)"}
   - id: "creator-logosoverflow"
     title: "Logos Overflow"
     first_name: ""
@@ -5429,6 +5456,8 @@ works:
       - {url: "https://www.youtube.com/watch?v=-0-D7IjX7x0", label: "malfoid(말포이TS) - Malfoy & Harry Potter EP01 | The Girl Who Stole Harry's Heart 💌 (Full Story)"}
       - {url: "https://www.youtube.com/watch?v=8fpo751k_9Y", label: "Malfoy & Harry Potter EP41 | The Smile Stolen From the Moon 🌙 The Silver Girl's Secret Name", also: ["https://malfoid.duckdns.org/video/Malfoid%20(%EB%A7%90%ED%8F%AC%EC%9D%B4TS)%20(Malfoid%EB%A7%90%ED%8F%AC%EC%9D%B4TS)/2026-11-18%20Malfoid%20%28%EB%A7%90%ED%8F%AC%EC%9D%B4TS%29%20-%20Malfoy%20%26%20Harry%20Potter%20EP41%20%EF%BD%9C%20The%20Smile%20Stolen%20From%20the%20Moon%20%F0%9F%8C%99%20The%20Silver%20Girl%20%5B8fpo751k_9Y%5D%20%5BYT%208fpo751k_9Y%5D.mp4"]}
       - {url: "https://www.youtube.com/watch?v=4ZWTMQs5E8A", label: "malfoid(말포이TS) EP42: The Eyes Inside the Crater — The Warden of the Dark Side Wakes", also: ["https://malfoid.duckdns.org/video/Malfoid%20(%EB%A7%90%ED%8F%AC%EC%9D%B4TS)%20(Malfoid%EB%A7%90%ED%8F%AC%EC%9D%B4TS)/2026-11-18%20Malfoid%20%28%EB%A7%90%ED%8F%AC%EC%9D%B4TS%29%20-%20malfoid%28%EB%A7%90%ED%8F%AC%EC%9D%B4TS%29%20EP42%EF%BC%9A%20The%20Eyes%20Inside%20the%20Crater%20%E2%80%94%20The%20Warden%20of%20the%20Dark%20%5B4ZWTMQs5E8A%5D%20%5BYT%204ZWTMQs5E8A%5D.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=2NzcJfg3SfQ", label: "malfoid(말포이TS) EP44 | The Moon Itself Is Next | The Sleeper Beneath the Silver Face Wakes"}
+      - {url: "https://www.youtube.com/watch?v=gK_qIhSiCOw", label: "malfoid(말포이TS) EP43 | The Thief Below the Dark | The Eyes That Were Already Open"}
     tags: [video, series, youtube]
   - id: "creator-lexx-aura"
     title: "Lex (@lexx_aura)"
@@ -5529,6 +5558,7 @@ works:
       - {url: "https://www.youtube.com/shorts/3kJcj-nG1Lc", label: "My Slytherin Rival Is a Girl: Boggart Disaster, part 2 (Short)", also: ["https://malfoid.duckdns.org/video/PlotFlipStudios-t9e/2026-10-22%20%E3%80%90My%20Slytherin%20Rival%20Is%20a%20Girl%EF%BC%9F%21%E3%80%91Boggart%20Disaster%20Part%20%EF%BC%92%20%5BYT%203kJcj-nG1Lc%5D.mp4"]}
       - {url: "https://www.youtube.com/shorts/QN8a7x2JhXk", label: "Short: Luna exposes Malfoy's secret crush", also: ["https://malfoid.duckdns.org/video/PlotFlipStudios-t9e/2026-10-24%20%E3%80%90My%20Slytherin%20Rival%20Is%20a%20Girl%EF%BC%9F%21%E3%80%91%20Luna%20Exposes%20Malfoy%27s%20Secre%20%5BYT%20QN8a7x2JhXk%5D.mp4"]}
       - {url: "https://www.youtube.com/shorts/zbus6j2vU5c", label: "I Made an Anime Opening for Harry Potter, but Malfoy is a girl!? (Short)", also: ["https://malfoid.duckdns.org/video/PlotFlipStudios-t9e/2026-10-28%20I%20Made%20an%20Anime%20Opening%20for%20Harry%20Potter....%20But%20Malfoy%20is%20a%20%5BYT%20zbus6j2vU5c%5D.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=icXz3IyQZZM", label: "【My Slytherin Rival Is a Girl?!】A Quidditch SHOWDOWN Between Malfoy and Ginny!"}
     tags: [video, anime, youtube]
   - id: "comic-webtoon-hogwarts-reset-draconia"
     title: "Hogwarts Reset: The Draconia Malfoid Anomaly"
@@ -5579,6 +5609,7 @@ works:
     videos:
       - {url: "https://www.youtube.com/watch?v=Sn0FwhRU-sU", label: "What Was Hidden Behind Snape’s Cellar Wall? The Hidden Silver Vial Ep. 19 | The Malfoyverse"}
       - {url: "https://www.youtube.com/watch?v=7zTuzas7zXw", label: "The Oath She Wore Alone All Winter | Tears in the Pensieve — The Malfoyverse Ep. 20"}
+      - {url: "https://www.youtube.com/watch?v=DVqb-uwgjaE", label: "His Silent Shield (Episode 21): He Already Knows the Truth—She Thinks He Hates Her"}
     tags: [video, youtube]
   - id: "creator-tamaralucia-clips"
     title: "tamara lucia clips"
@@ -5619,4 +5650,5 @@ works:
     videos:
       - {url: "https://www.youtube.com/watch?v=LdEGIjEqyvA", label: "Malfoid Episode 4 | Running Out of Time"}
       - {url: "https://www.youtube.com/watch?v=FeLrM02LAPY", label: "Malfoid Episode 4 | Running Out of Time  #malfoid"}
+      - {url: "https://www.youtube.com/watch?v=55hpPRVPBts", label: "Malfoid Episode 4 | Running Out of Time  #malfoid"}
     tags: [video, youtube]
