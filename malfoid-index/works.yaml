@@ -4821,13 +4821,6 @@ works:
     added: 2026-11-16
     videos:
       - {url: "https://www.youtube.com/watch?v=v9dtkcPA3Z0", label: "He has one important thing to tell Dracaena", also: ["https://malfoid.duckdns.org/video/Keep%20Doing%20The%20Bit/2026-10-23%20Harry%20tries%20to%20ask%20Dracaena%20Malfoy%20to%20the%20Yule%20Ball%20before%20their%20quidditch%20match%20%5BYT%20v9dtkcPA3Z0%5D.mp4"]}
-  - id: "creator-lilmovieperp"
-    title: "lilmovieperp"
-    first_name: ""
-    kind: creator
-    creator: "lilmovieperp"
-    url: "https://x.com/lilmovieperp"
-    added: 2026-11-16
   - id: "creator-lorematika"
     title: "LOREMATIKA"
     first_name: ""
@@ -5653,3 +5646,38 @@ works:
       - {url: "https://www.youtube.com/watch?v=FeLrM02LAPY", label: "Malfoid Episode 4 | Running Out of Time  #malfoid"}
       - {url: "https://www.youtube.com/watch?v=55hpPRVPBts", label: "Malfoid Episode 4 | Running Out of Time  #malfoid"}
     tags: [video, youtube]
+  - id: "creator-lilmovieperp"
+    title: "lilmovieperp"
+    first_name: ""
+    kind: [creator, video]
+    creator: "lilmovieperp"
+    url: "https://x.com/lilmovieperp"
+    language: "English"
+    added: 2026-11-16
+    summary: "Malfoid: A Brief History of Magical Indiscretions, an AI fan film series on X, with clips and episodes posted from November 2026."
+    videos:
+      - {url: "https://x.com/lilmovieperp/status/2123573679267405945", label: "Malfoid: A Brief History of Magical Indiscretions / FINALE and more soon! / Malfoy malfoid MalfoidArt AIFilmma, 20 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2123086186654867683", label: "MALFOID: A Brief History of Magical Indiscretions / malfoid MalfoidArt, 18 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2122894437324054795", label: "Malfoid: A Brief History of Magical Indiscretions / Malfoid HarryPotter AIFilm WizardingWorld FoundFootage, 18 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2122537128576024625", label: "MALFOID: A Brief History of Magical Indiscretions / More soon. / MalfoidMonday Malfoid HarryPotter AIFilmmakin, 17 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2122430874264232256", label: "Video post, 16 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2122108227701604760", label: "She wants to thank you guys!, 15 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2121999106193436803", label: "MALFOID: A Brief History of Magical Indiscretions / CUT TO THE CHASE! / Cowboy BeBop car chase scene only. / M, 15 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2121758743712911457", label: "MALFOID: A Brief History of Magical Indiscretions / WE'RE GOING ARTHOUSE!! / EPIC FINALE COMING SOON! / Malfoi, 15 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2121641330447200516", label: "Video post, 14 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2121259432499691933", label: "as promised on Frog__Tony's show.... EdgeLordWheeler gets a message from Malfoid..., 13 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2121079855521624223", label: "MALFOID ft. THE WARGIRLS OF ITO / from: 'A Brief History of Magical Indiscretions', 13 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2120973956572426332", label: "MALFOID / A Brief History of Magical Indiscretions / Malfoid malfoy HarryPotter Aifilmmaking, 12 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2120755836914213293", label: "indie pop star in the making... / MALFOID: A Brief History of Magical Indiscretions / malfoid malfoyd HarryPot, 12 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2120694784813940964", label: "REC MALFOID: A Brief History of Magical Indiscretions / / Malfoid HarryPotter, 12 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2120574371932594312", label: "MALFOID: A Brief History of Magical Indiscretions / / \"...like a dragon...\" / / Malfoid MalfoidArt HarryPotter, 11 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2120248248061645269", label: "MALFOID: A Brief History of Magical Indiscretions / Here we go... / HarryPotter Malfoid AIFilm FanFilm, 10 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2120184065404104830", label: "Fly Me to the Moon / / Malfoid: A Brief History of Magical Indiscretion. / / we're catching up to the present, 10 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2120001557924380712", label: "Malfoid: A Brief History of Magical Indiscretions / / HarryPotter ShortFilm AIFilmmaking Malfoid, 10 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2119279829270904992", label: "MALFOID: A Brief History of Magical Indiscretions, 08 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2118863010085089349", label: "MALFOID: A BRIEF HISTORY OF MAGICAL INDISCRETIONS / / This one's a BIG one. Enjoy the chaos. / More SOON! / /, 07 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2118778080101900297", label: "MALFOID: A Brief History of Magical Indiscretions / “Just wear a T-shirt and Norma(L) Jean.” / Malfoid HarryPo, 06 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2118536791879975228", label: "Malfoid &amp Harry Get Cultured (720p) / Absolutely no respect for the performing arts. / / from MALFOID: A Br, 06 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2118534670929567831", label: "Malfoid &amp Harry Get Cultured / Absolutely no respect for the performing arts. / / A little romantic disaste, 06 Nov 2026"}
+      - {url: "https://x.com/lilmovieperp/status/2118124722202218785", label: "Malfoid: A Brief History of Magical Indiscretions / Scene: \"Malfoid Manor Movie Mayhem\" / HarryPotter malfoid, 04 Nov 2026"}
+    tags: [video, ai-film, x]
