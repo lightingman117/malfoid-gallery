@@ -5212,46 +5212,47 @@ works:
     summary: "Book 1 of a planned beat-by-beat retelling of the Harry Potter books from the Slytherin side. It follows Dracaena's early life and her first meeting with Harry, with the female Slytherin dorm and the other students in view. Book 2 is in progress, and major canon changes are planned from Book 4."
     tags: [wattpad, retelling, series, slytherin]
   - id: "video-haleamory-memory-shorts"
-    thumb: "https://i.ytimg.com/vi/SexDjrNqncE/hqdefault.jpg"
     title: "Amory Hale: memory shorts"
     first_name: ""
     kind: video
     creator: "Amory Hale"
-    url: "https://www.youtube.com/@haleamory"
-    also: ["https://tiktok.com/@haleamory", "https://instagram.com/haleamory", "https://threads.com/@haleamory"]
+    url: "https://www.instagram.com/haleamory/"
+    also: ["https://tiktok.com/@haleamory", "https://instagram.com/haleamory", "https://threads.com/@haleamory", "https://malfoid.duckdns.org/video/Amory%20Hale%20(haleamory)/", "https://drive.google.com/drive/u/0/folders/1hp9ot812hVv-4ivl8zGBgqeVhN1mxH2A"]
     language: "English"
     added: 2026-11-17
-    summary: "A numbered series of short romance videos on YouTube, titled memory 01 to memory 29, tagged #malfoid and #enemiestolovers. The channel says every story is original and a new one is posted daily."
+    summary: "A numbered series of short romance videos, memory 01 to memory 31, on Instagram as reels and in the M.A. archive. Tagged #malfoid and #enemiestolovers. A new one is posted daily."
     videos:
-      - {url: "https://www.youtube.com/shorts/SexDjrNqncE", label: "memory 01 – one dance", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20%28haleamory%29/2026-10-23%20memory%2001%20%E2%80%93%20one%20dance.mp4"]}
-      - {url: "https://www.youtube.com/shorts/QQmi-kevJ8I", label: "memory 02 — the scarf", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20%28haleamory%29/2026-10-23%20memory%2002%20%E2%80%94%20the%20scarf.mp4"]}
-      - {url: "https://www.youtube.com/shorts/hI9e1qN4otI", label: "memory 03 — the platform", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20%28haleamory%29/2026-10-25%20memory%2003%20%E2%80%94%20the%20platform.mp4"]}
-      - {url: "https://www.youtube.com/shorts/hD3nvUKEyzA", label: "memory 04 — what's your type", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20%28haleamory%29/2026-10-23%20memory%2004%20%E2%80%94%20what%27s%20your%20type.mp4"]}
-      - {url: "https://www.youtube.com/shorts/rwiY6pOCQg4", label: "memory 05 — the barista", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20%28haleamory%29/2026-10-25%20memory%2005%20%E2%80%94%20the%20barista.mp4"]}
-      - {url: "https://www.youtube.com/shorts/iO_Yu0Dvtgk", label: "memory 06 — the door", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20%28haleamory%29/2026-10-26%20memory%2006%20%E2%80%94%20the%20door.mp4"]}
-      - {url: "https://www.youtube.com/shorts/vaswGKIAdq0", label: "memory 07 — the fitting", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20%28haleamory%29/2026-10-27%20memory%2007%20%E2%80%94%20the%20fitting.mp4"]}
-      - {url: "https://www.youtube.com/shorts/gkjk7nwy4KQ", label: "memory 08 — the third one", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20%28haleamory%29/2026-10-27%20memory%2008%20%E2%80%94%20the%20third%20one.mp4"]}
-      - {url: "https://www.youtube.com/shorts/aEoUXRymI48", label: "memory 09 — the mask", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20%28haleamory%29/2026-10-28%20memory%2009%20%E2%80%94%20the%20mask.mp4"]}
-      - {url: "https://www.youtube.com/shorts/bkk3DBVe6Qk", label: "memory 10 — the stars", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20%28haleamory%29/2026-10-28%20memory%2010%20%E2%80%94%20the%20stars.mp4"]}
-      - {url: "https://www.youtube.com/shorts/d7parhCdRCQ", label: "memory 11 — the flowers", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20%28haleamory%29/2026-10-29%20memory%2011%20%E2%80%94%20the%20flowers.mp4"]}
-      - {url: "https://www.youtube.com/shorts/aedeAs75HVU", label: "memory 12 — the first move", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20%28haleamory%29/2026-10-30%20memory%2012%20%E2%80%94%20the%20first%20move.mp4"]}
-      - {url: "https://www.youtube.com/shorts/V-ebiB1dyDE", label: "memory 13 — the jumper", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20%28haleamory%29/2026-10-31%20memory%2013%20%E2%80%94%20the%20jumper.mp4"]}
-      - {url: "https://www.youtube.com/shorts/jIriJsH7TUc", label: "memory 14 — put a finger down", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20%28haleamory%29/2026-11-01%20memory%2014%20%E2%80%94%20put%20a%20finger%20down.mp4"]}
-      - {url: "https://www.youtube.com/shorts/hIM0Q1muE9Q", label: "memory 15 — the key", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20%28haleamory%29/2026-11-02%20memory%2015%20%E2%80%94%20the%20key.mp4"]}
-      - {url: "https://www.youtube.com/shorts/Tftarh8oS5k", label: "memory 16 — the rink", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20%28haleamory%29/2026-11-03%20memory%2016%20%E2%80%94%20the%20rink.mp4"]}
-      - {url: "https://www.youtube.com/shorts/SxzAlgvj1Ks", label: "memory 17 — the friend", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20%28haleamory%29/2026-11-04%20memory%2017%20%E2%80%94%20the%20friend.mp4"]}
-      - {url: "https://www.youtube.com/shorts/KEWG6PZC4fo", label: "memory 18 — the wish", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20%28haleamory%29/2026-11-05%20memory%2018%20%E2%80%94%20the%20wish.mp4"]}
-      - {url: "https://www.youtube.com/shorts/QHnyyOomJ-I", label: "memory 19 — out of ten", also: ["https://malfoid.duckdns.org/stories/Amory%20Hale%20%28haleamory%29/2026-11-06%20memory%2019%20%E2%80%94%20out%20of%20ten.mp4"]}
-      - {url: "https://www.youtube.com/shorts/MV-9cFfNgJE", label: "memory 20 — the thief", also: ["https://malfoid.duckdns.org/stories/Amory%20Hale%20%28haleamory%29/2026-11-07%20memory%2020%20%E2%80%94%20the%20thief.mp4"]}
-      - {url: "https://www.youtube.com/shorts/MPlFsnTNcEI", label: "memory 21 — the bubbles", also: ["https://malfoid.duckdns.org/stories/Amory%20Hale%20%28haleamory%29/2026-11-08%20memory%2021%20%E2%80%94%20the%20bubbles.mp4"]}
-      - {url: "https://www.youtube.com/shorts/rIC2_xRlcB8", label: "memory 22 — the mirror", also: ["https://malfoid.duckdns.org/stories/Amory%20Hale%20%28haleamory%29/2026-11-09%20memory%2022%20%E2%80%94%20the%20mirror.mp4"]}
-      - {url: "https://www.youtube.com/shorts/_RYJpOe8iO0", label: "memory 23 — the air con", also: ["https://malfoid.duckdns.org/stories/Amory%20Hale%20%28haleamory%29/2026-11-10%20memory%2023%20%E2%80%94%20the%20air%20con.mp4"]}
-      - {url: "https://www.youtube.com/shorts/97XP2BQbPMA", label: "memory 24 — the tie", also: ["https://malfoid.duckdns.org/stories/Amory%20Hale%20%28haleamory%29/2026-11-11%20memory%2024%20%E2%80%94%20the%20tie.mp4"]}
-      - {url: "https://www.youtube.com/shorts/G2ZJhYhihK0", label: "memory 25 — the waltz", also: ["https://malfoid.duckdns.org/stories/Amory%20Hale%20%28haleamory%29/2026-11-12%20memory%2025%20%E2%80%94%20the%20waltz.mp4"]}
-      - {url: "https://www.youtube.com/shorts/h0-Qs5cVjeo", label: "memory 26 — first snow", also: ["https://malfoid.duckdns.org/stories/Amory%20Hale%20%28haleamory%29/2026-11-13%20memory%2026%20%E2%80%94%20first%20snow.mp4"]}
-      - {url: "https://www.youtube.com/shorts/TxzN7PGaPRk", label: "memory 27 — man flu", also: ["https://malfoid.duckdns.org/stories/Amory%20Hale%20%28haleamory%29/2026-11-14%20memory%2027%20%E2%80%94%20man%20flu.mp4"]}
-      - {url: "https://www.youtube.com/shorts/LkQkaKcaAWA", label: "memory 28 — the waiter", also: ["https://malfoid.duckdns.org/stories/Amory%20Hale%20%28haleamory%29/2026-11-15%20memory%2028%20%E2%80%94%20the%20waiter.mp4"]}
-      - {url: "https://www.youtube.com/shorts/aa6Fo_Sve_o", label: "memory 29 — the worm", also: ["https://malfoid.duckdns.org/stories/Amory%20Hale%20%28haleamory%29/2026-11-16%20memory%2029%20%E2%80%94%20the%20worm.mp4"]}
+      - {url: "https://www.instagram.com/reel/DesRrRtx34V/", label: "memory 01 – one dance", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20(haleamory)/2026-10-23%20memory%2001%20%E2%80%93%20one%20dance.mp4", "https://drive.google.com/file/d/1LcPJYonkXHdT1NDTsBod21wInmQi1xqa/view"]}
+      - {url: "https://www.instagram.com/reel/DeuAnWzRAjf/", label: "memory 02 — the scarf", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20(haleamory)/2026-10-23%20memory%2002%20%E2%80%94%20the%20scarf.mp4", "https://drive.google.com/file/d/1u7EH525eV7-zjE1-iKNUGo6t8Gzj49ki/view"]}
+      - {url: "https://www.instagram.com/reel/Dew1TzOxJfu/", label: "memory 03 — the platform", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20(haleamory)/2026-10-25%20memory%2003%20%E2%80%94%20the%20platform.mp4", "https://drive.google.com/file/d/1nLbUhEIqumsUy5wafmlBDk-gAihtRuVJ/view"]}
+      - {url: "https://www.instagram.com/reel/Dey_wmLRrKX/", label: "memory 04 — what's your type", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20(haleamory)/2026-10-23%20memory%2004%20%E2%80%94%20what%27s%20your%20type.mp4", "https://drive.google.com/file/d/1QxhrnUOxH6oV3AT8UpbFv1h7SG5HW9tz/view"]}
+      - {url: "https://www.instagram.com/reel/De1phYoxBW-/", label: "memory 05 — the barista", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20(haleamory)/2026-10-25%20memory%2005%20%E2%80%94%20the%20barista.mp4", "https://drive.google.com/file/d/1OxT8L1Dcsnwb-__Rkaf8KhMZetFJAtPl/view"]}
+      - {url: "https://www.instagram.com/reel/De4LoUVR6fE/", label: "memory 06 — the door", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20(haleamory)/2026-10-26%20memory%2006%20%E2%80%94%20the%20door.mp4", "https://drive.google.com/file/d/1LyHuyLnMcH89XooENdSaxG7P-kz95uSH/view"]}
+      - {url: "https://www.instagram.com/reel/De68dI0xStM/", label: "memory 07 — the fitting", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20(haleamory)/2026-10-27%20memory%2007%20%E2%80%94%20the%20fitting.mp4", "https://drive.google.com/file/d/1RHkiIttl6vc3nR12987BrUfhtSeL9i34/view"]}
+      - {url: "https://www.instagram.com/reel/De9bPu3Ry94/", label: "memory 08 — the third one", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20(haleamory)/2026-10-27%20memory%2008%20%E2%80%94%20the%20third%20one.mp4", "https://drive.google.com/file/d/1k5kyR8OtZCuRyex3ffIK2RgbUDNNdlmg/view"]}
+      - {url: "https://www.instagram.com/reel/DfAPWllx81e/", label: "memory 09 — the mask", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20(haleamory)/2026-10-28%20memory%2009%20%E2%80%94%20the%20mask.mp4", "https://drive.google.com/file/d/15PtpQOMYvi2hXApuu_t4oVCBbrVsouRB/view"]}
+      - {url: "https://www.instagram.com/reel/DfClIouRATO/", label: "memory 10 — the stars", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20(haleamory)/2026-10-28%20memory%2010%20%E2%80%94%20the%20stars.mp4", "https://drive.google.com/file/d/1obDPgX-uQsTWWHd3-Rj6NNv4UKkk3WNU/view"]}
+      - {url: "https://www.instagram.com/reel/DfFKqvqxCbf/", label: "memory 11 — the flowers", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20(haleamory)/2026-10-29%20memory%2011%20%E2%80%94%20the%20flowers.mp4", "https://drive.google.com/file/d/16jp1WBUhj4rmCwoedBjHsYC5-AL54rRw/view"]}
+      - {url: "https://www.instagram.com/reel/DfHrXhxRrqs/", label: "memory 12 — the first move", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20(haleamory)/2026-10-30%20memory%2012%20%E2%80%94%20the%20first%20move.mp4", "https://drive.google.com/file/d/1xVtph8wvDqO7lsJVdSDuNWXYIiQznRWY/view"]}
+      - {url: "https://www.instagram.com/reel/DfKZ1ypRdTa/", label: "memory 13 — the jumper", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20(haleamory)/2026-10-31%20memory%2013%20%E2%80%94%20the%20jumper.mp4", "https://drive.google.com/file/d/14LumSYupu-0OLARwfhqVyHofuNF2Kr2R/view"]}
+      - {url: "https://www.instagram.com/reel/DfM5fm6x2qe/", label: "memory 14 — put a finger down", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20(haleamory)/2026-11-01%20memory%2014%20%E2%80%94%20put%20a%20finger%20down.mp4", "https://drive.google.com/file/d/1aqNXQ3HEVvFk4f6Bvz38Z2JEBMBh5aNC/view"]}
+      - {url: "https://www.instagram.com/reel/DfPllhaRhF5/", label: "memory 15 — the key", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20(haleamory)/2026-11-02%20memory%2015%20%E2%80%94%20the%20key.mp4", "https://drive.google.com/file/d/17441sRsYE2hCrTlOoP5lhdeKVSJKveM3/view"]}
+      - {url: "https://www.instagram.com/reel/DfSZWs-vFtd/", label: "memory 16 — the rink", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20(haleamory)/2026-11-03%20memory%2016%20%E2%80%94%20the%20rink.mp4", "https://drive.google.com/file/d/1iJ-On2_M-wPvlF-ffkft-DgwpFkUYaMm/view"]}
+      - {url: "https://www.instagram.com/reel/DfUpiw3RADI/", label: "memory 17 — the friend", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20(haleamory)/2026-11-04%20memory%2017%20%E2%80%94%20the%20friend.mp4", "https://drive.google.com/file/d/1KXM86AZQiwKLVrUWPwUd0zrJWhoUinfS/view"]}
+      - {url: "https://www.instagram.com/reel/DfXLrJDRe3z/", label: "memory 18 — the wish", also: ["https://malfoid.duckdns.org/video/Amory%20Hale%20(haleamory)/2026-11-05%20memory%2018%20%E2%80%94%20the%20wish.mp4", "https://drive.google.com/file/d/1jQJvOeyB6q-V-5j0jd76xh-Wgp27nrgE/view"]}
+      - {url: "https://www.instagram.com/reel/DfZwLtdx923/", label: "memory 19 — out of ten", also: ["https://drive.google.com/file/d/1nhd44GC_-r6jNyEJ2obT2sye3K16kFNT/view"]}
+      - {url: "https://www.instagram.com/reel/DfctwRvvx-6/", label: "memory 20 — the thief", also: ["https://drive.google.com/file/d/1-qNrqQRcQS-qcYVFJBOfof4zYBmcXlU2/view"]}
+      - {url: "https://www.instagram.com/reel/DffEVewRN54/", label: "memory 21 — the bubbles", also: ["https://drive.google.com/file/d/1wHVU9Q9UKO97AGkbkGrazfLp_XPmGIKO/view"]}
+      - {url: "https://www.instagram.com/reel/DfhkpnVRxG5/", label: "memory 22 — the mirror", also: ["https://drive.google.com/file/d/1jGIzHv5Bea0Zq1Cln6dtNMsI6-ttmHuj/view"]}
+      - {url: "https://www.instagram.com/reel/DfkGRvCxTRl/", label: "memory 23 — the air con", also: ["https://drive.google.com/file/d/1ZJjMoLwC0Yi8Wp3f0QayzUSUcWqsRNg9/view"]}
+      - {url: "https://www.instagram.com/reel/Dfm5QSIPg6n/", label: "memory 24 — the tie", also: ["https://drive.google.com/file/d/13vE7fTghOSw5TLO4NKMc2a1WyYbEZHx1/view"]}
+      - {url: "https://www.instagram.com/reel/DfpXGiexS4w/", label: "memory 25 — the waltz", also: ["https://drive.google.com/file/d/1viSP8Yxf39uPQjxnXlJWoTBPjefLgcBR/view"]}
+      - {url: "https://www.instagram.com/reel/Dfr3rnAx6K0/", label: "memory 26 — first snow", also: ["https://drive.google.com/file/d/18JM9UmKoIfmpcSo18R2xCjXYg3ugoTo7/view"]}
+      - {url: "https://www.instagram.com/reel/DfueQ-zRRIZ/", label: "memory 27 — man flu", also: ["https://drive.google.com/file/d/1byATLR9IuLeUQwNUh2Ee4TnSlgHlTA19/view"]}
+      - {url: "https://www.instagram.com/reel/Dfw78UsxUzP/", label: "memory 28 — the waiter", also: ["https://drive.google.com/file/d/1ZzpPUHjTLMS5JvcTNWehxkUdBYsFORNU/view"]}
+      - {url: "https://www.instagram.com/reel/Dfzlj2xxu1Y/", label: "memory 29 — the worm", also: ["https://drive.google.com/file/d/11h0MrGR5hXBMW6Y3adz4ssxEOmGdLhn8/view"]}
+      - {url: "https://www.instagram.com/reel/Df2PgVzx8NP/", label: "memory 30 — memories", also: ["https://drive.google.com/file/d/1FjB07S2U3s-LqR1tqGvy-GzrzM_NLcJy/view"]}
+      - {url: "https://www.instagram.com/reel/Df457STRn-B/", label: "memory 31 — not a real one", also: ["https://drive.google.com/file/d/1Abd3glHMFnMoWJWHne55A3KAgx9VFPtt/view"]}
     tags: [youtube, shorts, romance]
   - id: "article-bcwarr-substack-malfoid-commentary"
     title: "Malfoid commentary on Substack (bcwarr)"
