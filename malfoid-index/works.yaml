@@ -7217,3 +7217,15 @@ works:
     added: 2026-11-20
     summary: "A series of 8 Female Draco Malfoy fics with Harry Potter on Archive of Our Own: General Audiences, English. Shares the Drive folder and X account of the author."
     tags: [fanfic, malfoid, series, harry-potter]
+  - id: "creator-untex"
+    title: "Untex"
+    first_name: ""
+    kind: [creator, video]
+    creator: "UNTEX"
+    url: "https://space.bilibili.com/en/351371467"
+    language: "English"
+    added: 2026-11-20
+    summary: "Malfoid videos by UNTEX on Bilibili, with the video embedded from Rumble."
+    videos:
+      - {url: "https://rumble.com/embed/v7gfuw4/?pub=13iafn", label: "\"As a Slytherin, she drew the Sword of Gryffindor, which symbolizes courage.\"", also: ["https://drive.google.com/file/d/1xIp1UsnStf9kGv2nQAKCjZXBIhgucCKq/view?usp=drive_link", "https://www.bilibili.com/en/video/BV1iGJb6xEaa/"]}
+    tags: [video, bilibili]
