@@ -7286,3 +7286,20 @@ works:
     added: 2026-11-20
     summary: "A searchable archive of Malfoid artwork posted on X, with curated collections by likes and artist, plus a posting timeline. The source code and the maintainer's X account are linked."
     tags: [gallery, art, archive, x]
+  - id: "creator-matte-studio"
+    title: "마떼스튜디오"
+    first_name: "Draco"
+    kind: [creator, video]
+    creator: "마떼스튜디오 (@마떼스튜디오)"
+    url: "https://m.youtube.com/@%EB%A7%88%EB%96%BC%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4"
+    language: "English, Korean subtitles"
+    added: 2026-11-21
+    summary: "Malfoid AI rom-com videos with English dialog and Korean subtitles, on YouTube."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=mgxjE_Jh8OQ", label: "TS 말포이가 사랑의 묘약을 먹어버렸다"}
+      - {url: "https://www.youtube.com/watch?v=yGdZQbdtYKA", label: "TS 말포이가 해리랑 단둘이 벌을 받아버렸다"}
+      - {url: "https://www.youtube.com/watch?v=GuwsgF75IbU", label: "TS 말포이가 하루 동안 거짓말을 못 하게 돼버렸다"}
+      - {url: "https://www.youtube.com/shorts/RKl89WTjKT4", label: "TS말포이 현실 고증 100% 미연시 (호감도 -50,000%) (Short)"}
+      - {url: "https://www.youtube.com/shorts/pflQygvCEvE", label: "TS 말포이 호감도 50퍼일때 츤 (Short)"}
+      - {url: "https://www.youtube.com/shorts/9i5SymGsgzI", label: "TS 말포이 호감도 100퍼일때 데레 (Short)"}
+    tags: [video, youtube]
