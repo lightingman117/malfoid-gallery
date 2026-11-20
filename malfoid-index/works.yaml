@@ -4227,6 +4227,7 @@ works:
       - "https://www.youtube.com/watch?v=KjA1z8wD8Uk"
       - {url: "https://www.youtube.com/shorts/1F0mXkcofVg", label: "He Chose Her Over Everything"}
       - {url: "https://www.youtube.com/shorts/exmHK9p1JKA", label: "So, What Will Draconia Say?", also: ["https://malfoid.duckdns.org/video/Anigirls%20Archive/2026-11-17%20So%2C%20What%20Will%20Draconia%20Say%EF%BC%9F%20%F0%9F%98%B3%F0%9F%92%9A%E2%9A%A1%EF%B8%8F%20%5BYT%20exmHK9p1JKA%5D%20%282%29.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=_1vA1lNkZT0", label: "A Truce Under the Stars 🌙✨💚 #draconia #harrypotter #malfoid", also: ["https://malfoid.duckdns.org/video/Anigirls%20Archive/2026-11-18%20A%20Truce%20Under%20the%20Stars%20%F0%9F%8C%99%E2%9C%A8%F0%9F%92%9A%20%5BYT%20_1vA1lNkZT0%5D%20%282%29.mp4"]}
     tags: [anime, video, youtube, malfoid]
   - id: "creator-yolitart"
     title: "YoliArt"
@@ -5550,19 +5551,6 @@ works:
     summary: "Malfoid videos on YouTube from LOREMATIKA."
     videos:
       - {url: "https://www.youtube.com/watch?v=gIUVx9P_6AA", label: "Harry Potter vs The Algorithm 😂 Draconia's Secret EXPOSED! 💚"}
-    tags: [video, youtube]
-  - id: "creator-anigirls-archive"
-    title: "Anigirls Archive"
-    first_name: ""
-    kind: [creator, video]
-    creator: "Anigirls Archive"
-    url: "https://www.youtube.com/@anigirl.archive"
-    also: ["https://malfoid.duckdns.org/video/Anigirls%20Archive/"]
-    language: "English"
-    added: 2026-11-19
-    summary: "Malfoid videos on YouTube from Anigirls Archive."
-    videos:
-      - {url: "https://www.youtube.com/watch?v=_1vA1lNkZT0", label: "A Truce Under the Stars 🌙✨💚 #draconia #harrypotter #malfoid", also: ["https://malfoid.duckdns.org/video/Anigirls%20Archive/2026-11-18%20A%20Truce%20Under%20the%20Stars%20%F0%9F%8C%99%E2%9C%A8%F0%9F%92%9A%20%5BYT%20_1vA1lNkZT0%5D%20%282%29.mp4"]}
     tags: [video, youtube]
   - id: "creator-tooneryt"
     title: "TOONER"
