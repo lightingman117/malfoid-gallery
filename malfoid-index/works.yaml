@@ -1710,6 +1710,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=qRjTJKCXeLY", label: "Lumos Lumos Anime OVA ‘Year 8’ (ft. Say Yes) [Official Music Video]", also: ["https://malfoid.duckdns.org/video/Lumos%20Lumos%20%28ADayASMR%29/2026-11-06%20Lumos%20Lumos%20Anime%20OVA%20%E2%80%98Year%208%E2%80%99%20%28ft.%20Say%20Yes%29%20%5BOfficial%20Music%20Video%5D.mp4"]}
       - {url: "https://www.youtube.com/watch?v=YuL-vEPe1ao", label: "Lumos Lumos Anime Epilogue [ft. Lumos Lumos]", also: ["https://malfoid.duckdns.org/video/Lumos%20Lumos%20%28ADayASMR%29/2026-10-30%20Lumos%20Lumos%20Anime%20Epilogue%20%5Bft.%20Lumos%20Lumos%5D.mp4"]}
       - {url: "https://www.youtube.com/watch?v=asCB612w_eA", label: "Lumos Lumos Epilogue 2 (ft. Little Hands) [Official Music Video]", also: ["https://malfoid.duckdns.org/video/Lumos%20Lumos%20%28ADayASMR%29/2026-11-11%20Lumos%20Lumos%20Epilogue%202%20%28ft.%20Little%20Hands%29%20%5BOfficial%20Music%20Video%5D.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=NAZz8Hxh0pU", label: "Lumos Lumos Anime OVA ‘Break the Sky’ (ft. Catch Me If You Can) [Official Music Video]"}
     language: "English"
     added: 2026-11-09
     summary: "Makes songs and animations, including the Lumos Lumos anime series on YouTube."
