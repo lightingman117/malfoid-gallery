@@ -255,7 +255,8 @@
     if (host === "x.com" || host === "twitter.com") return "X";
     if (host === "youtube.com" || host === "youtu.be") return "YouTube";
     if (host === "rumble.com") return "Rumble";
-    if (host === "drive.google.com") return "Download (Google Drive)";
+    if (host === "drive.google.com") return "Google Drive";
+    if (host === "malfoid.duckdns.org") return "M.A.";
     return host;
   }
 
