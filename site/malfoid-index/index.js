@@ -261,6 +261,7 @@
     if (host === "rumble.com") return "Rumble";
     if (host === "drive.google.com") return "Google Drive";
     if (host === "malfoid.duckdns.org") return "M.A.";
+    if (host === "rhedak.github.io" && /^\/rhedak-bio(\/|$)/.test(new URL(href).pathname)) return "bio";
     if (host === "bilibili.com") return "bilibili";
     var names = { "ko-fi.com": "Ko-fi", "linktr.ee": "Linktree", "tiktok.com": "TikTok", "instagram.com": "Instagram",
       "wattpad.com": "Wattpad", "archiveofourown.org": "AO3", "fanfiction.net": "FFN", "webtoons.com": "WEBTOON",
