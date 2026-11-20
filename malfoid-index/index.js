@@ -140,7 +140,9 @@
     var l = String(w.language || "").trim();
     if (!l) return "Unknown";
     if (/^english/i.test(l)) return "English";
-    return l.charAt(0).toUpperCase() + l.slice(1);
+    // "Japanese (English subtitles)", "Japanese audio, English subtitles" and "Korean, with English subtitles" all count as their spoken language.
+    var base = l.split(/\s*[(,]|\s+with\s|\s+audio\b/i)[0].trim() || l;
+    return base.charAt(0).toUpperCase() + base.slice(1);
   }
 
   // The language row: shown only with the non-English / unverified checkbox on.
