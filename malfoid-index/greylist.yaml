@@ -4066,16 +4066,6 @@ works:
     summary: "Malfoid videos by Quite Frankly, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
   # unclear (text)
-  - id: "creator-ma-goaskey"
-    title: "R.U. Archives | Slacker-in-Chief"
-    first_name: ""
-    kind: [creator, video]
-    creator: "R.U. Archives | Slacker-in-Chief (@GOASkey)"
-    url: "https://www.youtube.com/@GOASkey"
-    also: ["https://malfoid.duckdns.org/video/R.U.%20Archives%20-%20Slacker-in-Chief%20(GOASkey)/"]
-    added: 2026-11-20
-    summary: "Malfoid videos by R.U. Archives | Slacker-in-Chief, archived on the M.A. (Malfoid Archive)."
-    tags: [video, archive]
   # other (text)
   - id: "creator-ma-r4fstudios"
     title: "R4FStudios "

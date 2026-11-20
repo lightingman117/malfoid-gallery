@@ -7154,3 +7154,18 @@ works:
     added: 2026-11-20
     summary: "Malfoid videos by Zensomnium, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
+  - id: "creator-ma-goaskey"
+    title: "R.U. Archives | Slacker-in-Chief"
+    first_name: ""
+    kind: [creator, video]
+    creator: "R.U. Archives | Slacker-in-Chief (@GOASkey)"
+    url: "https://www.youtube.com/@GOASkey"
+    also: ["https://malfoid.duckdns.org/video/R.U.%20Archives%20-%20Slacker-in-Chief%20(GOASkey)/"]
+    language: "English"
+    added: 2026-11-20
+    summary: "Malfoy Is a Girl? video series by R.U. Archives | Slacker-in-Chief, in English, archived on the M.A. (Malfoid Archive)."
+    tags: [video, archive]
+    videos:
+      - {url: "https://www.youtube.com/watch?v=Jjt_hF2eJ6Y", label: "[Malfoy Is a Girl?!] Miss Malfoy Wants to Invite Me to Dance?!"}
+      - {url: "https://www.youtube.com/watch?v=4ymOolDZfmc", label: "【Malfoy Is a Girl?!】② Miss Malfoy Wants to Be Harry’s Mum?!"}
+      - {url: "https://www.youtube.com/watch?v=Letrv1FAxxo", label: "【Malfoy Is a Girl?!】③ Malfoy Pins Harry Down! Hermione and Ron Can Only Watch!"}
