@@ -7205,3 +7205,15 @@ works:
       - {url: "https://www.youtube.com/watch?v=JOrlQdX4_SY", label: "[해리포터x말포이] 분명 고양이 아니라며 소리쳤는데… 포터가 깃털을 흔드니까 나도 모르게??"}
       - {url: "https://www.youtube.com/watch?v=hmgwozpfyeM", label: "[말포이x해리포터] 둘이 사귀냐니까 아니라는데… 얘들아, 그 말은 일단 내려와서 해야 하지 않아??"}
       - {url: "https://www.youtube.com/watch?v=pfH2MBSNou8", label: "[말포이 x 해리포터] 해리한테 그렇게 튕기더니… 첫 춤 추자마자 저렇게 웃어버리면 다 들키잖아??"}
+  - id: "fanfic-ao3-series-6753906"
+    title: "Green and Silver"
+    first_name: "Darcy"
+    kind: fanfic
+    creator: "BerSly26"
+    url: "https://archiveofourown.org/series/6753906"
+    also: ["https://drive.google.com/drive/u/0/folders/1ukP6shftEIvLSpBz3AG05JlX0_wcE4Ts", "https://x.com/BerSlyth26"]
+    language: "English"
+    length: "novel"
+    added: 2026-11-20
+    summary: "A series of 8 Female Draco Malfoy fics with Harry Potter on Archive of Our Own: General Audiences, English. Shares the Drive folder and X account of the author."
+    tags: [fanfic, malfoid, series, harry-potter]
