@@ -7,7 +7,7 @@
   var KINDS = { creator: "Creator", comic: "Comic", game: "Game", fanfic: "Fanfic", art: "Fan art", gallery: "Gallery", video: "Video", music: "Music", article: "Article", other: "Other" };
   var LENGTHS = { "one-shot": "One-shot", short: "Short", novel: "Novel", unknown: "Length unknown" };
   var FORMATS = { anime: "Anime", cinematic: "Cinematic", audiobook: "Audiobook", other: "Other" };
-  var state = { kind: "all", length: "all", format: "all", q: "", name: "" };
+  var state = { kind: "all", length: "all", format: "all", q: "", name: "", showGrey: false, lang: "all" };
   var data = { works: [], contact: "" };
   var pageTitle = document.title;
 
@@ -135,7 +135,41 @@
   }
 
   // The kind, length and search filters, which the first-name chart follows too.
+  // The language of a work for the language filter: English (also "English subs"), or the language named in its entry.
+  function langOf(w) {
+    var l = String(w.language || "").trim();
+    if (!l) return "Unknown";
+    if (/^english/i.test(l)) return "English";
+    return l.charAt(0).toUpperCase() + l.slice(1);
+  }
+
+  // The language row: shown only with the non-English / unverified checkbox on.
+  function renderLanguages() {
+    var box = document.getElementById("languages");
+    box.hidden = !state.showGrey;
+    if (box.hidden) return;
+    box.textContent = "";
+    var counts = {};
+    listed().forEach(function (w) { var l = langOf(w); counts[l] = (counts[l] || 0) + 1; });
+    var langs = Object.keys(counts).sort(function (a, b) { return counts[b] - counts[a] || a.localeCompare(b); });
+    [["all", "All languages", listed().length]].concat(langs.map(function (l) { return [l, l, counts[l]]; })).forEach(function (p) {
+      var b = el("button", "chip", p[1]);
+      b.type = "button";
+      b.setAttribute("aria-pressed", String(state.lang === p[0]));
+      b.appendChild(el("span", "n", String(p[2])));
+      b.addEventListener("click", function () { state.lang = p[0]; renderLanguages(); renderList(); });
+      box.appendChild(b);
+    });
+  }
+
+  // The works the page is showing: the greylist only when its checkbox is on.
+  function listed() {
+    return data.works.filter(function (w) { return state.showGrey || !w.greylisted; });
+  }
+
   function matchesFilters(w) {
+    if (w.greylisted && !state.showGrey) return false;
+    if (state.lang !== "all" && langOf(w) !== state.lang) return false;
     if (state.kind !== "all" && (w.kinds || []).indexOf(state.kind) === -1) return false;
     if (state.length !== "all" && (w.length || "unknown") !== state.length) return false;
     if (state.format !== "all" && (w.format || "other") !== state.format) return false;
@@ -155,8 +189,8 @@
     var kinds = [["all", "All"]];
     Object.keys(KINDS).forEach(function (k) { kinds.push([k, KINDS[k]]); });
     kinds.forEach(function (pair) {
-      var count = pair[0] === "all" ? data.works.length
-        : data.works.filter(function (w) { return (w.kinds || []).indexOf(pair[0]) !== -1; }).length;
+      var count = pair[0] === "all" ? listed().length
+        : listed().filter(function (w) { return (w.kinds || []).indexOf(pair[0]) !== -1; }).length;
       if (pair[0] !== "all" && count === 0) return;
       var b = el("button", "chip", pair[1]);
       b.type = "button";
@@ -172,8 +206,8 @@
     box.textContent = "";
     var ids = ["all", "one-shot", "short", "novel", "unknown"];
     ids.forEach(function (id) {
-      var count = id === "all" ? data.works.length
-        : data.works.filter(function (w) { return (w.length || "unknown") === id; }).length;
+      var count = id === "all" ? listed().length
+        : listed().filter(function (w) { return (w.length || "unknown") === id; }).length;
       if (id !== "all" && count === 0) return;
       var label = id === "all" ? "Any length" : LENGTHS[id];
       var b = el("button", "chip", label);
@@ -209,7 +243,7 @@
     var box = document.getElementById("formats");
     box.textContent = "";
     var ids = ["all", "anime", "cinematic", "audiobook", "other"];
-    var videos = data.works.filter(function (w) { return (w.kinds || []).indexOf("video") !== -1; });
+    var videos = listed().filter(function (w) { return (w.kinds || []).indexOf("video") !== -1; });
     ids.forEach(function (id) {
       var count = id === "all" ? videos.length
         : videos.filter(function (w) { return (w.format || "other") === id; }).length;
@@ -374,6 +408,7 @@
       top.appendChild(el("span", "kind", KINDS[k] || k));
     });
     if ((w.kinds || []).indexOf("fanfic") !== -1) top.appendChild(el("span", "kind", LENGTHS[w.length || "unknown"]));
+    if (w.greylisted) top.appendChild(el("span", "kind grey-flag", "not English / unverified"));
     if (w.first_name) {
       // The name the work uses for Malfoid, in the same colour as its slice in the chart.
       var nameTag = el("span", "name-tag", w.first_name);
@@ -442,13 +477,13 @@
     var list = document.getElementById("list");
     var count = document.getElementById("count");
     list.textContent = "";
-    var shown = data.works.filter(matches);
-    count.textContent = (shown.length === data.works.length
-      ? data.works.length + (data.works.length === 1 ? " work" : " works")
-      : shown.length + " of " + data.works.length + " works")
+    var shown = listed().filter(matches);
+    count.textContent = (shown.length === listed().length
+      ? listed().length + (listed().length === 1 ? " work" : " works")
+      : shown.length + " of " + listed().length + " works")
       + (state.name ? " named " + state.name : "");
     if (!shown.length) {
-      list.appendChild(el("div", "index-empty", data.works.length
+      list.appendChild(el("div", "index-empty", listed().length
         ? "Nothing matches that search yet."
         : "No works listed yet. Be the first to send one in."));
       return;
@@ -605,6 +640,9 @@
     window.addEventListener("hashchange", route);
     var q = document.getElementById("q");
     q.addEventListener("input", function () { state.q = fold(q.value.trim()); renderList(); });
+    var grey = document.getElementById("showGrey");
+    grey.checked = state.showGrey;
+    grey.addEventListener("change", function () { state.showGrey = grey.checked; if (!grey.checked) state.lang = "all"; renderChips(); renderLengths(); renderSubFilters(); renderFormats(); renderLanguages(); renderList(); });
   }
 
   function fallback() {

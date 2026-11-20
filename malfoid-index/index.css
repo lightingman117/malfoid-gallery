@@ -133,3 +133,6 @@
 .work-video-page { gap: 8px; }
 .work-video-also { margin: 0; font-size: 13px; color: var(--silver-2); overflow-wrap: anywhere; }
 .work-video-also a { color: #8ff0c8; }
+
+.grey-toggle { display: inline-flex; align-items: center; gap: 6px; margin-top: 10px; font-size: 0.9em; opacity: 0.85; }
+.grey-flag { opacity: 0.7; font-style: italic; }
