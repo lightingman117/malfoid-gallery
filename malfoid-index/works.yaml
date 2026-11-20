@@ -175,6 +175,7 @@ works:
     format: other
     creator: "Shishir"
     url: "https://x.com/shishirdotai"
+    also: ["https://malfoid.duckdns.org/video/Shishir%20(shishirdotai)/"]
     videos:
       - {url: "https://x.com/shishirdotai/status/2110329289157845353", label: "Episode 1"}
       - {url: "https://x.com/shishirdotai/status/2110776884774773204", label: "Episode 2"}
@@ -1378,7 +1379,7 @@ works:
     url: "https://x.com/Malfoid"
     added: 2026-11-08
     summary: "Fan roleplay, memes, AI fan art and Malfoid music on X and YouTube. Unofficial."
-    also: ["https://linktr.ee/dracaenamalfoid", "https://www.youtube.com/@DracaenaMalfoid"]
+    also: ["https://linktr.ee/dracaenamalfoid", "https://www.youtube.com/@DracaenaMalfoid", "https://malfoid.duckdns.org/video/Dracaena%20Malfoid/"]
     tags: [fan-art, music, roleplay, memes, x, youtube]
   - id: "creator-gremlinfoid"
     title: "gremlinfoid"
@@ -2047,6 +2048,7 @@ works:
     format: cinematic
     creator: "@LunaLovelaceTech"
     url: "https://www.youtube.com/@LunaLovelaceTech"
+    also: ["https://malfoid.duckdns.org/video/Luna%20Lovelace/"]
     language: "English"
     added: 2026-11-09
     summary: "A tech YouTuber who also makes Malfoid videos, including the Draconia Malfoid x Harry Potter movie. The channel moved its videos from YouTube to Google Drive; Movie 1, Movie II and the cast interview are embedded below."
@@ -2455,6 +2457,7 @@ works:
     kind: [creator, art, comic]
     creator: "@wanruochenhun"
     url: "https://x.com/wanruochenhun"
+    also: ["https://malfoid.duckdns.org/video/Crepuscule3307%20(wanruochenhun)/"]
     language: "English"
     added: 2026-11-09
     summary: "Fan writer and fan artist focusing on Malfoid. Makes the Malfoid Reader comics."
@@ -2552,6 +2555,7 @@ works:
     format: anime
     creator: "@TheKinda"
     url: "https://x.com/TheKinda"
+    also: ["https://malfoid.duckdns.org/video/The%20Kinda%20(the_kindAI)/"]
     language: "Japanese audio, English subtitles"
     added: 2026-11-09
     summary: "Makes Malfoid, a playful anime romcom series of shorts in a Harry Potter AU where Voldemort never existed. Harry and a female Draco Malfoy fall for each other through magical mishaps and small acts of affection."
@@ -3854,6 +3858,7 @@ works:
     kind: [creator, art]
     creator: "@AsuzuReincarnat"
     url: "https://x.com/AsuzuReincarnat"
+    also: ["https://malfoid.duckdns.org/video/Asuzu%20Animate%20(AsuzuReincarnat)/"]
     language: "English"
     added: 2026-11-10
     summary: "Malfoid fan art on X, featured on malfoid.com: The Sectumsempra incident."
@@ -3926,6 +3931,7 @@ works:
     format: other
     creator: "Slytoonz"
     url: "https://www.youtube.com/watch?v=QYSNxNL7sxw"
+    also: ["https://malfoid.duckdns.org/video/Slytoonz%20(Slytoonz911)/"]
     embed: "https://www.youtube.com/watch?v=QYSNxNL7sxw"
     language: "English"
     added: 2026-11-10
@@ -4326,6 +4332,7 @@ works:
     format: anime
     creator: "KYL0ЯЁП (@dragonball-z)"
     url: "https://www.youtube.com/@dragonball-z"
+    also: ["https://malfoid.duckdns.org/video/KYL0REN%20(KYL0%D0%AF%D0%81%D0%9F)/"]
     language: "English"
     added: 2026-11-16
     thumb: "https://i.ytimg.com/vi/y_7npuHjM74/hqdefault.jpg"
@@ -4344,7 +4351,7 @@ works:
     format: anime
     creator: "@OtakuAI2345"
     url: "https://www.youtube.com/@OtakuAI2345"
-    also: ["https://x.com/otakuai2345"]
+    also: ["https://x.com/otakuai2345", "https://malfoid.duckdns.org/video/OTAKUAI%20STUDIO/"]
     language: "English"
     added: 2026-11-16
     thumb: "https://i.ytimg.com/vi/DRfMoptujV0/hqdefault.jpg"
@@ -4372,6 +4379,7 @@ works:
     format: anime
     creator: "榎木纱织 (Bilibili)"
     url: "https://space.bilibili.com/395141"
+    also: ["https://malfoid.duckdns.org/video/Enoki%20Saori%20(%E6%A6%8E%E6%9C%A8%E7%BA%B1%E7%BB%87)/"]
     language: "English"
     added: 2026-11-17
     thumb: "banners/enoki-saori-harry-regret.jpg"
@@ -4551,7 +4559,7 @@ works:
     kind: creator
     creator: "Draconia Malfoid"
     url: "https://www.youtube.com/@DraconiaMalfoid"
-    also: ["https://x.com/DraconiaMalfoid", "https://malfoid.duckdns.org/video/Draconia%20Malfoid/"]
+    also: ["https://x.com/DraconiaMalfoid", "https://malfoid.duckdns.org/video/Draconia%20Malfoid/", "https://malfoid.duckdns.org/video/Draconia%20Malfoid%20(malfoid-potter)/"]
     added: 2026-11-16
     videos:
       - {url: "https://www.youtube.com/watch?v=g3HbLgiCGQw", label: "Foyege Harry Potter x Malfoid – All Cast Interviews & Teaser Compilation Before Part 4 Release", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoid/2026-11-14%20Foyege%20Harry%20Potter%20x%20Malfoid%20%E2%80%93%20All%20Cast%20Interviews%20%26%20Teaser%20Compilation%20Before%20Part%204%20Release.mp4"]}
@@ -5178,6 +5186,7 @@ works:
     kind: [creator, comic]
     creator: "Little Jackie Papercut (@PapercutJackie)"
     url: "https://x.com/PapercutJackie"
+    also: ["https://malfoid.duckdns.org/video/Little%20Jackie%20Papercut%20(PapercutJackie)/"]
     language: "English"
     added: 2026-11-17
     summary: "Malfoid-related posts on X: parts 2 to 4 of A Princess Needs A Prince, a Malfoid teaser and a Malfoid rescue scene. Also a goblin sorceress post that does not name Malfoid. All six posts are embedded below."
