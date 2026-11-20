@@ -3939,13 +3939,14 @@ works:
     format: other
     creator: "@ImmortalSelchie"
     url: "https://x.com/ImmortalSelchie"
+    also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/"]
     language: "English"
     added: 2026-11-10
     summary: "Makes Malfoid human art and AI videos on X, including a Pretty Girls Disappear Malfoid music video on YouTube. The X posts are embedded below."
     tags: [art, ai-video, music-video, x]
     videos:
       - {url: "https://x.com/ImmortalSelchie/status/2116494698328252428", label: "Colin sells pictures of Harry and Draco"}
-      - {url: "https://x.com/ImmortalSelchie/status/2115515793308102933", label: "Pretty Girls Disappear (Malfoid, made with AI), music video", also: ["https://www.youtube.com/watch?v=mx6LHV_GX88"]}
+      - {url: "https://x.com/ImmortalSelchie/status/2115515793308102933", label: "Pretty Girls Disappear (Malfoid, made with AI), music video"}
       - {url: "https://x.com/ImmortalSelchie/status/2110873094378394057", label: "Yzma-inspired couple pictures, part 1"}
       - {url: "https://x.com/ImmortalSelchie/status/2110873210690719792", label: "Yzma-inspired couple pictures, part 2"}
       - {url: "https://x.com/ImmortalSelchie/status/2112595504051921294", label: "Apple art (Malfoid and Harry)"}
@@ -3953,24 +3954,24 @@ works:
       - {url: "https://x.com/ImmortalSelchie/status/2112763432919531883", label: "Last part of the apple"}
       - {url: "https://x.com/ImmortalSelchie/status/2115856343982866643", label: "Cute dance alone"}
       - {url: "https://x.com/ImmortalSelchie/status/2115855592652972502", label: "I YEAAARN!"}
-      - {url: "https://x.com/ImmortalSelchie/status/2115851620999467184", label: "Yearning again (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2115851620999467184", label: "Yearning again (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-10-29%20Lady%20Selch%20-%20ah%20hell%20im%20yearning%20again%20%28tried%20a%20different%20ai%20went%20much%20smoother%20%5B2115851433769910272%5D.mp4"]}
       - {url: "https://x.com/ImmortalSelchie/status/2116602789128491210", label: "Brain worms (AI video)"}
-      - {url: "https://x.com/ImmortalSelchie/status/2116615444220314039", label: "More brain worms (AI video)"}
-      - {url: "https://x.com/ImmortalSelchie/status/2116616087395807557", label: "Reading them to filth (AI video)"}
-      - {url: "https://x.com/ImmortalSelchie/status/2116616851925201053", label: "Cavities (AI video)"}
-      - {url: "https://x.com/ImmortalSelchie/status/2116617566622019777", label: "Malfoid sweets adventure (AI video)"}
-      - {url: "https://x.com/ImmortalSelchie/status/2116785675211313330", label: "Malfoid and Harry in Candy Land (AI video)"}
-      - {url: "https://x.com/ImmortalSelchie/status/2116784709544157506", label: "Hermione wants everyone to read (AI video)"}
-      - {url: "https://x.com/ImmortalSelchie/status/2116787232740921448", label: "Dumbledore vs Dobby (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2116615444220314039", label: "More brain worms (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-10-31%20Lady%20Selch%20-%20the%20inspiration%20for%20this%20meme%20always%20pops%20up%20in%20my%20YT%20feed%20so%20here%20%5B2116615148668588032%5D.mp4"]}
+      - {url: "https://x.com/ImmortalSelchie/status/2116616087395807557", label: "Reading them to filth (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-10-31%20Lady%20Selch%20-%20also%20this%20was%20fun%20to%20make%20inspired%20by%20the%20old%20saying%20%EF%BC%82reading%20them%20%5B2116615860035239936%5D.mp4"]}
+      - {url: "https://x.com/ImmortalSelchie/status/2116616851925201053", label: "Cavities (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-10-31%20Lady%20Selch%20-%20its%20so%20sweet%20im%20getting%20cavities%21%20%5B2116616714607874048%5D.mp4"]}
+      - {url: "https://x.com/ImmortalSelchie/status/2116617566622019777", label: "Malfoid sweets adventure (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-10-31%20Lady%20Selch%20-%20the%20first%20steps%20of%20my%20Malfoid%20sweets%20adventure%20UwU%20%5B2116617123028213760%5D.mp4"]}
+      - {url: "https://x.com/ImmortalSelchie/status/2116785675211313330", label: "Malfoid and Harry in Candy Land (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-01%20Lady%20Selch%20-%20the%20next%20of%20my%20%23malfoid%20and%20%23HarryPotter%20in%20candy%20land%20%28exploring%20c%20%5B2116784836300120064%5D.mp4"]}
+      - {url: "https://x.com/ImmortalSelchie/status/2116784709544157506", label: "Hermione wants everyone to read (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-01%20Lady%20Selch%20-%20Hermione%20wants%20everyone%20to%20read%20even%20if%20its%20fan%20fiction%20%5B2116784350952083456%5D.mp4"]}
+      - {url: "https://x.com/ImmortalSelchie/status/2116787232740921448", label: "Dumbledore vs Dobby (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-01%20Lady%20Selch%20-%20im%20kinda%20here%20for%20the%20Dumbledore%20vs%20dobby%20but%20%23Yearning%20is%20still%20m%20%5B2116786850505666560%5D.mp4"]}
       - {url: "https://x.com/ImmortalSelchie/status/2116879442555605396", label: "Gym (AI video)"}
-      - {url: "https://x.com/ImmortalSelchie/status/2117728086540382233", label: "Wardrobe change (AI video)"}
-      - {url: "https://x.com/ImmortalSelchie/status/2117743429111398456", label: "Trope post (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2117728086540382233", label: "Wardrobe change (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-03%20Lady%20Selch%20-%20OK%20its%20finally%20done%20and%20it%20only%20took%20a%20wardrobe%20change%20and%20my%20sanit%20%5B2117727780888801280%5D.mp4"]}
+      - {url: "https://x.com/ImmortalSelchie/status/2117743429111398456", label: "Trope post (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-03%20Lady%20Selch%20-%20based%20on%20a%20trope%20that%27s%20a%20guilty%20pleasure%20of%20mine%20%5B2117742833490862080%5D.mp4"]}
       - {url: "https://x.com/ImmortalSelchie/status/2118681062096486639", label: "Another life (AI video)"}
-      - {url: "https://x.com/ImmortalSelchie/status/2119558867655045539", label: "Brain worms strike again (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2119558867655045539", label: "Brain worms strike again (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-08%20Lady%20Selch%20-%20brain%20worms%20strike%20again%20%23malfoid%20%23HarryPotter%20%23MalfoidUniverse%20hi%20%5B2119557547405537280%5D.mp4"]}
       - {url: "https://x.com/ImmortalSelchie/status/2116474057994776906", label: "NoHorny video (AI video)"}
       - {url: "https://x.com/ImmortalSelchie/status/2120269034235346946", label: "Darker side, Falling into Obsession (AI video)"}
       - {url: "https://x.com/ImmortalSelchie/status/2119984275647082689", label: "Old meme, insults are too good to be mad at (AI video)"}
-      - {url: "https://x.com/ImmortalSelchie/status/2119984703386288159", label: "Janky but fun to imagine (AI video)"}
+      - {url: "https://x.com/ImmortalSelchie/status/2119984703386288159", label: "Janky but fun to imagine (AI video)", also: ["https://malfoid.duckdns.org/video/ImmortalSelchie/2026-11-10%20Lady%20Selch%20-%20its%20janky%20as%20hell%20but%20i%20had%20fun%20imagining%20it%20%5B2119984393674727424%5D.mp4"]}
       - {url: "https://x.com/ImmortalSelchie/status/2119998357309735361", label: "Less funny after hearing it 50 times (AI video)"}
       - {url: "https://x.com/ImmortalSelchie/status/2120056363447652603", label: "Yearning, so sweet (AI video)"}
   - id: "creator-0xwreck"
