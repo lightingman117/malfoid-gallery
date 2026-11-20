@@ -7,7 +7,7 @@
   var KINDS = { creator: "Creator", comic: "Comic", game: "Game", fanfic: "Fanfic", art: "Fan art", gallery: "Gallery", video: "Video", music: "Music", article: "Article", other: "Other" };
   var LENGTHS = { "one-shot": "One-shot", short: "Short", novel: "Novel", unknown: "Length unknown" };
   var FORMATS = { anime: "Anime", cinematic: "Cinematic", audiobook: "Audiobook", other: "Other" };
-  var state = { kind: "all", length: "all", format: "all", q: "", name: "", showGrey: false };
+  var state = { kind: "all", length: "all", format: "all", q: "", name: "", showGrey: false, lang: "all" };
   var data = { works: [], contact: "" };
   var pageTitle = document.title;
 
@@ -135,6 +135,33 @@
   }
 
   // The kind, length and search filters, which the first-name chart follows too.
+  // The language of a work for the language filter: English (also "English subs"), or the language named in its entry.
+  function langOf(w) {
+    var l = String(w.language || "").trim();
+    if (!l) return "Unknown";
+    if (/^english/i.test(l)) return "English";
+    return l.charAt(0).toUpperCase() + l.slice(1);
+  }
+
+  // The language row: shown only with the non-English / unverified checkbox on.
+  function renderLanguages() {
+    var box = document.getElementById("languages");
+    box.hidden = !state.showGrey;
+    if (box.hidden) return;
+    box.textContent = "";
+    var counts = {};
+    listed().forEach(function (w) { var l = langOf(w); counts[l] = (counts[l] || 0) + 1; });
+    var langs = Object.keys(counts).sort(function (a, b) { return counts[b] - counts[a] || a.localeCompare(b); });
+    [["all", "All languages", listed().length]].concat(langs.map(function (l) { return [l, l, counts[l]]; })).forEach(function (p) {
+      var b = el("button", "chip", p[1]);
+      b.type = "button";
+      b.setAttribute("aria-pressed", String(state.lang === p[0]));
+      b.appendChild(el("span", "n", String(p[2])));
+      b.addEventListener("click", function () { state.lang = p[0]; renderLanguages(); renderList(); });
+      box.appendChild(b);
+    });
+  }
+
   // The works the page is showing: the greylist only when its checkbox is on.
   function listed() {
     return data.works.filter(function (w) { return state.showGrey || !w.greylisted; });
@@ -142,6 +169,7 @@
 
   function matchesFilters(w) {
     if (w.greylisted && !state.showGrey) return false;
+    if (state.lang !== "all" && langOf(w) !== state.lang) return false;
     if (state.kind !== "all" && (w.kinds || []).indexOf(state.kind) === -1) return false;
     if (state.length !== "all" && (w.length || "unknown") !== state.length) return false;
     if (state.format !== "all" && (w.format || "other") !== state.format) return false;
@@ -614,7 +642,7 @@
     q.addEventListener("input", function () { state.q = fold(q.value.trim()); renderList(); });
     var grey = document.getElementById("showGrey");
     grey.checked = state.showGrey;
-    grey.addEventListener("change", function () { state.showGrey = grey.checked; renderChips(); renderLengths(); renderSubFilters(); renderFormats(); renderList(); });
+    grey.addEventListener("change", function () { state.showGrey = grey.checked; if (!grey.checked) state.lang = "all"; renderChips(); renderLengths(); renderSubFilters(); renderFormats(); renderLanguages(); renderList(); });
   }
 
   function fallback() {

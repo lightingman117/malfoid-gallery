@@ -1587,6 +1587,42 @@ works:
     added: 2026-11-20
     summary: "Malfoid videos by Draconia Malfoy Latino, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
+    language: "Spanish"
+    videos:
+      - {url: "https://www.youtube.com/watch?v=IOAIHG_FJKc", label: "Draconia Malfoy La Película Parte 2 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=b7Dc67qevVQ", label: "La Obsesión de Malfoy Episodio 2 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=mi21R23NvwI", label: "La Obsesión de Malfoy Episodio 1 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=Cb4fC9E_lCY", label: "Malfoy no quiere atención Episodio 3 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=YONcZQ_XF5A", label: "El apellido Malfoy - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=F4Wha4G0pyM", label: "Malfoy no quiere atención Episodio 2 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=WeqUJGwM2lU", label: "Malfoy no quiere atención Episodio 1 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=MhjNHHtdaWo", label: "Draconia Malfoy en el Baile - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=26ozry3jPFw", label: "Si Malfoy como digas - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=E2eulaIntGI", label: "Draconia Malfoy Capitulo 8 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=kRbQn4h81Xs", label: "Malfoy no quiere aceptarlo Capitulo 5 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=pJFYWZeFuQI", label: "Estupido Potter - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=vnsv3Q89V8E", label: "Draconia Malfoy Capitulo 7 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=xJx_-reVVUY", label: "Draconia Malfoy y Harry Potter Película Parte 1 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=9ui-YG2FXFQ", label: "Sinceras disculpas - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=Ms3tgkhgJWg", label: "Sentimiento de Culpa - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=XWbc_yjYQUI", label: "El interrogatorio - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=onMu9SoLMxM", label: "Draconia Malfoy Episodio 6 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=qHirYVqidBQ", label: "Malfoy no quiere aceptarlo Capitulo 4 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=YHVJqq8X8zg", label: "Expecto Patronum - El deseo de ella - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=leryXoXKoBw", label: "En que estaba pensando Malfoy? - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=juYa2oq9Uto", label: "FELIZ HALLOWEEN LES DESEA MALFOY - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=5sbRyP5BBjQ", label: "La poción de amor y el espejo de Oesed - Draconia Malfoy"}
+      - {url: "https://www.youtube.com/watch?v=de7Vs3rbqXE", label: "Malfoy no quiere disculparse - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=ORxYr65WrBI", label: "Malfoy no quiere aceptarlo Episodio 3 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=ANRohNWC3sE", label: "Draconia Malfoy Episodio 5 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=4vqZqrDcHjU", label: "Malfoy no quiere aceptarlo Episodio 2 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=cab_TIkZmmQ", label: "Malfoy no quiere aceptarlo Episodio 1 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=SQd2Ca7YaQw", label: "Draconia Malfoy Episodio 4 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=tDZMwvPcRk4", label: "Malfoy no quiere aceptarlo Episodio 0"}
+      - {url: "https://www.youtube.com/watch?v=LAQG_a739R4", label: "Draconia Malfoy Episodio 3 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=EbjHkb-gVwQ", label: "Draconia Malfoy Episodio 2 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=EQECxU2Zi5c", label: "Draconia Malfoy Episodio 1 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=l9CUTSUQCdk", label: "Malfoy no lo quiere aceptar capitulo 1 - Subs Español Latino"}
   # unclear (text)
   - id: "creator-ma-draconiamalfoynewchapter"
     title: "Draconia Malfoy New Chapter"
