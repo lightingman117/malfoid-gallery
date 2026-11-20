@@ -128,6 +128,9 @@
 .work-links a { color: #8ff0c8; }
 .work-player { position: relative; width: 100%; aspect-ratio: 16 / 9; border-radius: 8px; overflow: hidden; background: #000; }
 .work-player iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+/* A local clip keeps its own shape: the box follows the video, nothing is cropped. */
+.work-player:has(> video) { aspect-ratio: auto; background: #000; }
+.work-player > video { display: block; width: 100%; height: auto; max-height: 80vh; background: #000; }
 .work-video { display: flex; flex-direction: column; gap: 4px; }
 .work-video-label { margin: 0; font-size: 13px; color: var(--silver-2); }
 .work-video-page { gap: 8px; }
