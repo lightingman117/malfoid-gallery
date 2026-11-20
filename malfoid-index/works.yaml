@@ -1429,6 +1429,41 @@ works:
     videos:
       - {url: "https://www.youtube.com/watch?v=Lg4EZcwSjfg", label: "Malfoid meets Harry Potter for the first time at Madam Malkins", also: ["https://malfoid.duckdns.org/video/Rhedak/2026-10-19%20Malfoid%20meets%20Harry%20Potter%20for%20the%20first%20time%20at%20Madam%20Malkins.mp4"]}
       - {url: "https://www.youtube.com/shorts/R02SWtCRxAM", label: "Malfoid meets Harry Potter for the first time at Madam Malkins (Short)", also: ["https://malfoid.duckdns.org/video/Rhedak/2026-10-19%20Malfoid%20meets%20Harry%20Potter%20for%20the%20first%20time%20at%20Madam%20Malkins%20%28Short%29.mp4"]}
+      - {url: "videos/autumn-2.mp4", label: "Autumn 2 (gallery video)"}
+      - {url: "videos/black-friday-checkout-1.mp4", label: "Black friday checkout 1 (gallery video)"}
+      - {url: "videos/black-friday-street-1.mp4", label: "Black friday street 1 (gallery video)"}
+      - {url: "videos/christmas-1.mp4", label: "Christmas 1 (gallery video)"}
+      - {url: "videos/potions-classroom-1.mp4", label: "Potions classroom 1 (gallery video)"}
+      - {url: "videos/tower-stargazing-1.mp4", label: "Tower stargazing 1 (gallery video)"}
+      - {url: "videos/castle-tsundere-2.mp4", label: "Castle tsundere 2 (gallery video)"}
+      - {url: "videos/ice-rink-1.mp4", label: "Ice rink 1 (gallery video)"}
+      - {url: "videos/winter-ball-1.mp4", label: "Winter ball 1 (gallery video)"}
+      - {url: "videos/christmas-market-1.mp4", label: "Christmas market 1 (gallery video)"}
+      - {url: "videos/castle-tsundere-4.mp4", label: "Castle tsundere 4 (gallery video)"}
+      - {url: "videos/advent-01.mp4", label: "Advent 01 (gallery video)"}
+      - {url: "videos/advent-02.mp4", label: "Advent 02 (gallery video)"}
+      - {url: "videos/advent-03.mp4", label: "Advent 03 (gallery video)"}
+      - {url: "videos/advent-04.mp4", label: "Advent 04 (gallery video)"}
+      - {url: "videos/advent-05.mp4", label: "Advent 05 (gallery video)"}
+      - {url: "videos/advent-06.mp4", label: "Advent 06 (gallery video)"}
+      - {url: "videos/advent-07.mp4", label: "Advent 07 (gallery video)"}
+      - {url: "videos/advent-08.mp4", label: "Advent 08 (gallery video)"}
+      - {url: "videos/advent-09.mp4", label: "Advent 09 (gallery video)"}
+      - {url: "videos/advent-10.mp4", label: "Advent 10 (gallery video)"}
+      - {url: "videos/advent-11.mp4", label: "Advent 11 (gallery video)"}
+      - {url: "videos/advent-12.mp4", label: "Advent 12 (gallery video)"}
+      - {url: "videos/advent-13.mp4", label: "Advent 13 (gallery video)"}
+      - {url: "videos/advent-14.mp4", label: "Advent 14 (gallery video)"}
+      - {url: "videos/advent-15.mp4", label: "Advent 15 (gallery video)"}
+      - {url: "videos/advent-16.mp4", label: "Advent 16 (gallery video)"}
+      - {url: "videos/advent-17.mp4", label: "Advent 17 (gallery video)"}
+      - {url: "videos/advent-18.mp4", label: "Advent 18 (gallery video)"}
+      - {url: "videos/advent-19.mp4", label: "Advent 19 (gallery video)"}
+      - {url: "videos/advent-20.mp4", label: "Advent 20 (gallery video)"}
+      - {url: "videos/advent-21.mp4", label: "Advent 21 (gallery video)"}
+      - {url: "videos/advent-22.mp4", label: "Advent 22 (gallery video)"}
+      - {url: "videos/advent-23.mp4", label: "Advent 23 (gallery video)"}
+      - {url: "videos/advent-24.mp4", label: "Advent 24 (gallery video)"}
     tags: [gallery-maintainer, x, youtube]
   - id: "creator-blazzsatan"
     title: "Blazz"

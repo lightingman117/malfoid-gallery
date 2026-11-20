@@ -467,6 +467,9 @@ def build_works():
         from urllib.parse import urlparse, parse_qs
         import re
         u = text(w.get("embed"))
+        # A video kept in this repo (videos/*.mp4, the gallery's own clips): played from the site, one folder up.
+        if re.match(r"^videos/[A-Za-z0-9._-]+\.mp4$", u):
+            return "../" + u
         if not u.startswith("https://"):
             return ""
         p = urlparse(u)
@@ -653,6 +656,11 @@ def main():
     with open(os.path.join(out, "index.json"), "w", encoding="utf-8") as f:
         json.dump(index, f, ensure_ascii=False, separators=(",", ":"))
     works = build_works()
+    for w in works["works"]:
+        for v in w.get("videos") or []:
+            e = v.get("embed") or ""
+            if e.startswith("../videos/"):
+                copy(e[3:], out)
     os.makedirs(os.path.join(out, "malfoid-index"), exist_ok=True)
     with open(os.path.join(out, "malfoid-index", "works.json"), "w", encoding="utf-8") as f:
         json.dump(works, f, ensure_ascii=False, separators=(",", ":"))
