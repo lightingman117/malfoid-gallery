@@ -24,12 +24,13 @@ site builds them as separate pages.
 | Data | `gallery.yaml`, `input/`, `plan/`, `images/` | `malfoid-index/works.yaml` |
 | Published at | <https://rhedak.github.io/malfoid-gallery/> | <https://rhedak.github.io/malfoid-gallery/malfoid-index/> (source in `site/malfoid-index/`) |
 | Added by | the maintainer, through `scripts/add_entry.py` | the work's creator, by email or pull request ([malfoid-index/CONTRIBUTING.md](malfoid-index/CONTRIBUTING.md)) |
-| Rules | Draconia only, the maintainer's own AI images, SFW | About Malfoid, English or English subs, SFW, online, not already listed, and the submitter is the creator |
+| Rules | Draconia only, the maintainer's own AI images, SFW | About Malfoid, English or English subs, SFW, online, not already listed, and the submitter is the creator. Other languages go to the greylist, see [CONTRIBUTING](malfoid-index/CONTRIBUTING.md#non-english-works-the-greylist) |
 | Posted to social media | Yes, one a day, see [Posting](#posting) | No |
 
 The index is a directory: each entry links out to the work on its creator's site, with embedded players where
-a video or post can be shown. Entries that are not about Malfoid, that are not English or that are not SFW
-are not added. Its first-name and length fields feed the charts and filters on the index page.
+a video or post can be shown. Entries that are not about Malfoid or that are not SFW are not added. Works
+in other languages go on the greylist (`malfoid-index/greylist.yaml`): they are hidden unless the index's
+"Show non-English / unverified" checkbox is ticked. Its first-name and length fields feed the charts and filters on the index page.
 
 Guest works are a third, small group: they sit in the gallery under `guest/` with a Guest badge, are submitted
 by pull request only and are never posted ([guest/CONTRIBUTING.md](guest/CONTRIBUTING.md)).

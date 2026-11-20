@@ -16,6 +16,24 @@ The Malfoid Index lists fanfics, fan art, comics, videos and other fan works abo
 
 Anything that does not follow these rules will not be added.
 
+## Non-English works (the greylist)
+
+The main list shows only works in English or with English subtitles. A work in another language is
+still welcome, but it goes on the **greylist** (`malfoid-index/greylist.yaml`) instead:
+
+- The greylist is not shown by default. The index has a checkbox, "Show non-English / unverified", that
+  shows it. Greylisted works carry the label "not English / unverified" and are not checked for SFW.
+- With the checkbox on, a language row appears, so visitors can pick one language (for example Spanish).
+- Add the entry the same way as a main entry, but under `works:` in `greylist.yaml`, and set `language`
+  to the language the work is in (for example `"Spanish"` or `"Japanese, English subtitles"`).
+- The build does not read `greylist.yaml` into the main list, so a greylisted entry never appears
+  without the checkbox.
+- A greylisted work can move to the main list once it is confirmed in English or with English subtitles.
+  Move its entry from `greylist.yaml` to the end of `works.yaml`, and set `language` to English.
+
+The same rules otherwise apply: the work is about Malfoid, it is SFW, the link works, it is not already
+listed, and the submitter is the creator.
+
 ## Adding an entry by pull request
 
 1. Fork the repository, or create a branch if you have write access.

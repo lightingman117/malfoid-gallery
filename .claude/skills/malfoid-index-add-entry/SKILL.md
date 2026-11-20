@@ -12,13 +12,17 @@ The index is `malfoid-index/works.yaml`, rendered by `scripts/build_site.py` int
 A work is added only if all of these hold:
 
 - It is about Malfoid (genderbent Draco Malfoy). Works that only mention Draco in passing do not qualify.
-- It is in English, or has English subtitles.
+- It is in English, or has English subtitles. A work in another language goes on the greylist (see below), not in `works.yaml`.
 - It is wholesome (SFW). If you cannot tell, check the first chapter or first post and say so.
 - The link works and stays online. A blocked or down page is not a failed check; say it is unverified.
 - It is not already listed. Search `works.yaml` by URL, status ID, YouTube ID, handle and title before adding.
 - The creator is the submitter. For a creator submitting their own work, `creator` is their own name or handle.
 
 Ask the user before adding anything that fails a rule, is ambiguous, or is outside what they sent.
+
+## 2b. Non-English works go on the greylist
+
+Do not add a non-English work to `works.yaml`. Add it under `works:` in `malfoid-index/greylist.yaml` instead, with `language` set to the language it is in (for example `"Spanish"`). The page hides the greylist unless its "Show non-English / unverified" checkbox is ticked, and the build does not read the greylist into the main list. Moving a work to the main list needs an English check first: move the entry to the end of `works.yaml` and set `language` to `"English"`. Greylisted works are not checked for SFW, so say that in the summary.
 
 ## 2. Choose kind, creator and url
 
