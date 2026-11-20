@@ -7,7 +7,7 @@
   var KINDS = { creator: "Creator", comic: "Comic", game: "Game", fanfic: "Fanfic", art: "Fan art", gallery: "Gallery", video: "Video", music: "Music", article: "Article", other: "Other" };
   var LENGTHS = { "one-shot": "One-shot", short: "Short", novel: "Novel", unknown: "Length unknown" };
   var FORMATS = { anime: "Anime", cinematic: "Cinematic", audiobook: "Audiobook", other: "Other" };
-  var state = { kind: "all", length: "all", format: "all", q: "", name: "" };
+  var state = { kind: "all", length: "all", format: "all", q: "", name: "", showGrey: false };
   var data = { works: [], contact: "" };
   var pageTitle = document.title;
 
@@ -136,6 +136,7 @@
 
   // The kind, length and search filters, which the first-name chart follows too.
   function matchesFilters(w) {
+    if (w.greylisted && !state.showGrey) return false;
     if (state.kind !== "all" && (w.kinds || []).indexOf(state.kind) === -1) return false;
     if (state.length !== "all" && (w.length || "unknown") !== state.length) return false;
     if (state.format !== "all" && (w.format || "other") !== state.format) return false;
@@ -374,6 +375,7 @@
       top.appendChild(el("span", "kind", KINDS[k] || k));
     });
     if ((w.kinds || []).indexOf("fanfic") !== -1) top.appendChild(el("span", "kind", LENGTHS[w.length || "unknown"]));
+    if (w.greylisted) top.appendChild(el("span", "kind grey-flag", "not English / unverified"));
     if (w.first_name) {
       // The name the work uses for Malfoid, in the same colour as its slice in the chart.
       var nameTag = el("span", "name-tag", w.first_name);
@@ -605,6 +607,9 @@
     window.addEventListener("hashchange", route);
     var q = document.getElementById("q");
     q.addEventListener("input", function () { state.q = fold(q.value.trim()); renderList(); });
+    var grey = document.getElementById("showGrey");
+    grey.checked = state.showGrey;
+    grey.addEventListener("change", function () { state.showGrey = grey.checked; renderList(); });
   }
 
   function fallback() {

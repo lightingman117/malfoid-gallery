@@ -541,8 +541,10 @@ def build_works():
             return None
         return {"label": text(more.get("label")) or "More related videos on YouTube", "url": text(more.get("url"))}
 
+    # The greylist (archive creators not confirmed as English) is built too, flagged, and hidden unless the page asks for it.
+    grey = load("malfoid-index/greylist.yaml") if os.path.exists(os.path.join(ROOT, "malfoid-index", "greylist.yaml")) else {}
     works = []
-    for w in data.get("works") or []:
+    for w, is_grey in [(w, False) for w in data.get("works") or []] + [(w, True) for w in (grey or {}).get("works") or []]:
         if not isinstance(w, dict) or not text(w.get("title")):
             continue
         bad = blocked_handle(w)
@@ -585,6 +587,7 @@ def build_works():
             "length": length_of(w.get("length")),
             "format": format_of(w.get("format")),
             "first_name": text(w.get("first_name")),
+            "greylisted": is_grey,
             "handles": list(dict.fromkeys([text(h) for h in (w.get("handles") or []) if text(h)] + social_handles(w))),
         })
     works.sort(key=lambda w: (w["order"] is None, w["order"] or 0, w["title"].lower()))
