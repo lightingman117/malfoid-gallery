@@ -503,6 +503,9 @@ def build_works():
         m = re.match(r"^/(p|reel)/([A-Za-z0-9_-]{5,20})/?$", p.path)
         if host in ("instagram.com", "www.instagram.com") and m:
             return "https://www.instagram.com/" + m.group(1) + "/" + m.group(2) + "/embed/"
+        # A Malfoid Archive video file (an mp4 under /video/): played by the page's own video player.
+        if host == "malfoid.duckdns.org" and p.path.startswith("/video/") and p.path.lower().endswith(".mp4"):
+            return u
         # A Bilibili video page (English or Chinese path): its BV id plays in Bilibili's external player.
         m = re.match(r"^/(?:[a-z]{2}/)?video/(BV[A-Za-z0-9]{10})/?$", p.path)
         if host in ("bilibili.com", "www.bilibili.com") and m:

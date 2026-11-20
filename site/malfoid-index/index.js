@@ -234,6 +234,27 @@
     return img;
   }
 
+  // A player for an embed address: a Malfoid Archive mp4 plays in a video element (its server does not allow
+  // framing), anything else is an iframe.
+  function playerEl(src, title) {
+    if (/\.mp4(\?|$)/i.test(src)) {
+      var v = document.createElement("video");
+      v.src = src;
+      v.controls = true;
+      v.preload = "metadata";
+      v.setAttribute("playsinline", "");
+      v.title = title;
+      return v;
+    }
+    var frame = document.createElement("iframe");
+    frame.src = src;
+    frame.title = title;
+    frame.loading = "lazy";
+    frame.allow = "fullscreen; picture-in-picture";
+    frame.setAttribute("allowfullscreen", "");
+    return frame;
+  }
+
   // "Also on": links to the same video posted elsewhere, shown under its player. Null when there are none.
   function alsoLine(urls) {
     var safe = (urls || []).map(safeUrl).filter(Boolean);
@@ -348,13 +369,7 @@
       frames.forEach(function (f) {
         if (f.built) return;
         f.built = true;
-        var frame = document.createElement("iframe");
-        frame.src = f.src;
-        frame.title = w.title || "Video";
-        frame.loading = "lazy";
-        frame.allow = "fullscreen; picture-in-picture";
-        frame.setAttribute("allowfullscreen", "");
-        f.box.appendChild(frame);
+        f.box.appendChild(playerEl(f.src, w.title || "Video"));
       });
     }
     toggle.addEventListener("click", function () { setOpen(panel.hidden); });
@@ -493,13 +508,7 @@
       var block = el("article", "work work-video-page");
       if (pl.label) block.appendChild(el("p", "work-video-label", pl.label));
       var box = el("div", "work-player");
-      var frame = document.createElement("iframe");
-      frame.src = pl.src;
-      frame.title = (w.title || "Video") + (pl.label ? " · " + pl.label : "");
-      frame.loading = "lazy";
-      frame.allow = "fullscreen; picture-in-picture";
-      frame.setAttribute("allowfullscreen", "");
-      box.appendChild(frame);
+      box.appendChild(playerEl(pl.src, (w.title || "Video") + (pl.label ? " · " + pl.label : "")));
       block.appendChild(box);
       var also = alsoLine(pl.also);
       if (also) block.appendChild(also);
