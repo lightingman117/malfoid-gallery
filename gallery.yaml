@@ -139,7 +139,7 @@ entries:
     input: "input/2026-11-03-christmas-market-1.yaml"
     image: "images/2026-11-03-christmas-market-1.jpg"
     planned: 2026-11-20
-    posted:
+    posted: {date: 2026-11-20, x: "https://x.com/rhedak1/status/2123545322676957216"}
   - id: "2026-11-03-ice-rink-1"
     title: "Ice rink, determined"
     created: 2026-11-03
@@ -195,7 +195,7 @@ entries:
     input: "input/2026-11-03-black-friday-street-1.yaml"
     image: "images/2026-11-03-black-friday-street-1.jpg"
     planned: 2026-11-21
-    posted:
+    posted: {date: 2026-11-21, x: "https://x.com/rhedak1/status/2123905394892513713"}
   - id: "2026-11-03-courtyard-1"
     title: "Autumn courtyard, failing to look stern"
     created: 2026-11-03
