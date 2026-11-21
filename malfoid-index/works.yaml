@@ -1748,7 +1748,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=YuL-vEPe1ao", label: "Lumos Lumos Anime Epilogue [ft. Lumos Lumos]", also: ["https://malfoid.duckdns.org/video/Lumos%20Lumos%20%28ADayASMR%29/2026-10-30%20Lumos%20Lumos%20Anime%20Epilogue%20%5Bft.%20Lumos%20Lumos%5D.mp4"]}
       - {url: "https://www.youtube.com/watch?v=asCB612w_eA", label: "Lumos Lumos Epilogue 2 (ft. Little Hands) [Official Music Video]", also: ["https://malfoid.duckdns.org/video/Lumos%20Lumos%20%28ADayASMR%29/2026-11-11%20Lumos%20Lumos%20Epilogue%202%20%28ft.%20Little%20Hands%29%20%5BOfficial%20Music%20Video%5D.mp4"]}
       - {url: "https://www.youtube.com/watch?v=NAZz8Hxh0pU", label: "Lumos Lumos Anime OVA ‘Break the Sky’ (ft. Catch Me If You Can) [Official Music Video]", also: ["https://malfoid.duckdns.org/video/Lumos%20Lumos%20%28ADayASMR%29/2026-11-20%20Lumos%20Lumos%20Anime%20OVA%20%E2%80%98Break%20the%20Sky%E2%80%99%20%28ft.%20Catch%20Me%20If%20You%20Can%29%20%5BOfficial%20Music%20Video%5D.mp4"]}
-      - {url: "https://x.com/adayasmr/status/2124272684490174924", label: "Lumos Lumos Anime (ft. Cantis Cantis) [Official Music Video]"}
+      - {url: "https://www.youtube.com/watch?v=M9j8JXWBggo", label: "Lumos Lumos Anime (ft. Cantis Cantis) [Official Music Video]", also: ["https://x.com/adayasmr/status/2124272684490174924"]}
     language: "English"
     added: 2026-11-09
     summary: "Makes songs and animations, including the Lumos Lumos anime series on YouTube."
