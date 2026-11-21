@@ -7283,3 +7283,17 @@ works:
       - {url: "https://www.youtube.com/shorts/pflQygvCEvE", label: "TS 말포이 호감도 50퍼일때 츤 (Short)"}
       - {url: "https://www.youtube.com/shorts/9i5SymGsgzI", label: "TS 말포이 호감도 100퍼일때 데레 (Short)"}
     tags: [video, youtube]
+  - id: "creator-forestfrost9"
+    title: "ForestFrost9"
+    first_name: ""
+    kind: [creator, comic]
+    creator: "ForestFrost9 (@ForestFrost9)"
+    url: "https://x.com/ForestFrost9"
+    also: ["https://drive.google.com/drive/folders/1VpqOdn2WipzwOqs8Yl5OZxzf_zVIGx76?usp=drive_link"]
+    language: "English"
+    added: 2026-11-21
+    summary: "Malfoid comics posted on X: the first Malfoid comics, from when the trend started, and the Malfoid Timeline Comics Narcissa and Lily story. Both posts are embedded below, and the full set is on Google Drive."
+    tags: [x, comic, malfoid]
+    videos:
+      - {url: "https://x.com/ForestFrost9/status/2121219025745424613", label: "The first Malfoid comics"}
+      - {url: "https://x.com/ForestFrost9/status/2123172542139838909", label: "Malfoid Timeline Comics: Narcissa and Lily Complete"}
