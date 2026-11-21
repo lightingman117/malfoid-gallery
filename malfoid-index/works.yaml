@@ -6232,16 +6232,6 @@ works:
     added: 2026-11-20
     summary: "Malfoid videos by GACHA WEAVER , archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
-  - id: "creator-ma-hpottermusic7"
-    title: "HPotterMusic7"
-    first_name: ""
-    kind: [creator, video]
-    creator: "HPotterMusic7 (@HPotterMusic7)"
-    url: "https://www.youtube.com/@HPotterMusic7"
-    also: ["https://malfoid.duckdns.org/video/HPotterMusic7/"]
-    added: 2026-11-20
-    summary: "Malfoid videos by HPotterMusic7, archived on the M.A. (Malfoid Archive)."
-    tags: [video, archive]
   - id: "creator-ma-happa77716"
     title: "Happa"
     first_name: ""
@@ -7021,16 +7011,6 @@ works:
     also: ["https://malfoid.duckdns.org/video/The%20Other%20Door/"]
     added: 2026-11-20
     summary: "Malfoid videos by The Other Door, archived on the M.A. (Malfoid Archive)."
-    tags: [video, archive]
-  - id: "creator-ma-thepottercollector"
-    title: "The Potter Collector"
-    first_name: ""
-    kind: [creator, video]
-    creator: "The Potter Collector (@ThePotterCollector)"
-    url: "https://www.youtube.com/@ThePotterCollector"
-    also: ["https://malfoid.duckdns.org/video/The%20Potter%20Collector/"]
-    added: 2026-11-20
-    summary: "Malfoid videos by The Potter Collector, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
   - id: "creator-ma-thewrongowl"
     title: "The Wrong Owl"
