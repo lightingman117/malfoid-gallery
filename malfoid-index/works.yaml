@@ -7297,3 +7297,19 @@ works:
     videos:
       - {url: "https://x.com/ForestFrost9/status/2121219025745424613", label: "The first Malfoid comics"}
       - {url: "https://x.com/ForestFrost9/status/2123172542139838909", label: "Malfoid Timeline Comics: Narcissa and Lily Complete"}
+  - id: "creator-kara-r8f"
+    title: "Malfoid Isn't Honest About Her Feelings"
+    first_name: "Draco"
+    kind: [creator, video]
+    creator: "カラ_Kara (@Kara-r8f)"
+    url: "https://www.youtube.com/@Kara-r8f"
+    also: ["https://x.com/KARADOEIZO"]
+    language: "Japanese, English subtitles"
+    added: 2026-11-22
+    summary: "Malfoid meets Harry for the first time, in a series of episodes with English subtitles on YouTube."
+    tags: [video, youtube]
+    videos:
+      - {url: "https://www.youtube.com/watch?v=-llfSTuiZUo", label: "EP1: Malfoy-chan isn't honest"}
+      - {url: "https://www.youtube.com/watch?v=AsHiKKuVC9Y", label: "EP2: Malfoy-chan doesn't write a diary"}
+      - {url: "https://www.youtube.com/watch?v=yIUQjxAKtC0", label: "EP3: Malfoy-chan doesn't want attention"}
+      - {url: "https://www.youtube.com/watch?v=4Zp65Izdkzo", label: "EP3.5: Malfoy doesn't get hurt (EP4 preview)"}
