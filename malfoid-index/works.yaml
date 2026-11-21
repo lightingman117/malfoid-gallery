@@ -14,7 +14,7 @@
 #   first_name: the first name the work uses for Malfoid, e.g. Draconia, Dracaena, Draco or another name; blank if unknown or never named
 #   length:    for fanfic: one-shot | short | novel | unknown (default unknown when we cannot tell reliably)
 #
-# Submissions arrive by email; add them here and the Pages workflow publishes them.
+# Submissions arrive by email or as a pull request; add them here and the Pages workflow publishes them.
 title: "Malfoid Index"
 contact: "rhedak@proton.me"
 works:
