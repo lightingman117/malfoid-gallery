@@ -985,16 +985,6 @@ works:
     summary: "Malfoid videos by CX RIOT RADIO, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
   # other (text)
-  - id: "creator-ma-caleelyt"
-    title: "Caleel"
-    first_name: ""
-    kind: [creator, video]
-    creator: "Caleel (@Caleelyt)"
-    url: "https://www.youtube.com/@Caleelyt"
-    also: ["https://malfoid.duckdns.org/video/Caleel%20(Caleelyt)/"]
-    added: 2026-11-20
-    summary: "Malfoid videos by Caleel, archived on the M.A. (Malfoid Archive)."
-    tags: [video, archive]
   # other (text)
   - id: "creator-ma-canaldegene"
     title: "Canal de Gene"
@@ -1580,40 +1570,40 @@ works:
     tags: [video, archive]
     language: "Spanish"
     videos:
-      - {url: "https://www.youtube.com/watch?v=IOAIHG_FJKc", label: "Draconia Malfoy La Película Parte 2 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=b7Dc67qevVQ", label: "La Obsesión de Malfoy Episodio 2 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=mi21R23NvwI", label: "La Obsesión de Malfoy Episodio 1 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=Cb4fC9E_lCY", label: "Malfoy no quiere atención Episodio 3 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=YONcZQ_XF5A", label: "El apellido Malfoy - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=F4Wha4G0pyM", label: "Malfoy no quiere atención Episodio 2 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=WeqUJGwM2lU", label: "Malfoy no quiere atención Episodio 1 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=MhjNHHtdaWo", label: "Draconia Malfoy en el Baile - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=26ozry3jPFw", label: "Si Malfoy como digas - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=E2eulaIntGI", label: "Draconia Malfoy Capitulo 8 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=kRbQn4h81Xs", label: "Malfoy no quiere aceptarlo Capitulo 5 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=pJFYWZeFuQI", label: "Estupido Potter - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=vnsv3Q89V8E", label: "Draconia Malfoy Capitulo 7 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=xJx_-reVVUY", label: "Draconia Malfoy y Harry Potter Película Parte 1 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=9ui-YG2FXFQ", label: "Sinceras disculpas - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=Ms3tgkhgJWg", label: "Sentimiento de Culpa - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=XWbc_yjYQUI", label: "El interrogatorio - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=onMu9SoLMxM", label: "Draconia Malfoy Episodio 6 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=qHirYVqidBQ", label: "Malfoy no quiere aceptarlo Capitulo 4 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=YHVJqq8X8zg", label: "Expecto Patronum - El deseo de ella - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=leryXoXKoBw", label: "En que estaba pensando Malfoy? - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=juYa2oq9Uto", label: "FELIZ HALLOWEEN LES DESEA MALFOY - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=5sbRyP5BBjQ", label: "La poción de amor y el espejo de Oesed - Draconia Malfoy"}
-      - {url: "https://www.youtube.com/watch?v=de7Vs3rbqXE", label: "Malfoy no quiere disculparse - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=ORxYr65WrBI", label: "Malfoy no quiere aceptarlo Episodio 3 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=ANRohNWC3sE", label: "Draconia Malfoy Episodio 5 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=4vqZqrDcHjU", label: "Malfoy no quiere aceptarlo Episodio 2 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=cab_TIkZmmQ", label: "Malfoy no quiere aceptarlo Episodio 1 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=SQd2Ca7YaQw", label: "Draconia Malfoy Episodio 4 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=tDZMwvPcRk4", label: "Malfoy no quiere aceptarlo Episodio 0"}
-      - {url: "https://www.youtube.com/watch?v=LAQG_a739R4", label: "Draconia Malfoy Episodio 3 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=EbjHkb-gVwQ", label: "Draconia Malfoy Episodio 2 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=EQECxU2Zi5c", label: "Draconia Malfoy Episodio 1 - Subs Español Latino"}
-      - {url: "https://www.youtube.com/watch?v=l9CUTSUQCdk", label: "Malfoy no lo quiere aceptar capitulo 1 - Subs Español Latino"}
+      - {url: "https://www.youtube.com/watch?v=IOAIHG_FJKc", label: "Draconia Malfoy La Película Parte 2 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-19%20Draconia%20Malfoy%20La%20Pel%C3%ADcula%20Parte%202%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=b7Dc67qevVQ", label: "La Obsesión de Malfoy Episodio 2 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-19%20La%20Obsesi%C3%B3n%20de%20Malfoy%20Episodio%202%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=mi21R23NvwI", label: "La Obsesión de Malfoy Episodio 1 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-18%20La%20Obsesi%C3%B3n%20de%20Malfoy%20Episodio%201%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=Cb4fC9E_lCY", label: "Malfoy no quiere atención Episodio 3 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-18%20Malfoy%20no%20quiere%20atenci%C3%B3n%20Episodio%203%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=YONcZQ_XF5A", label: "El apellido Malfoy - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-16%20El%20apellido%20Malfoy%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=F4Wha4G0pyM", label: "Malfoy no quiere atención Episodio 2 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-16%20Malfoy%20no%20quiere%20atenci%C3%B3n%20Episodio%202%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=WeqUJGwM2lU", label: "Malfoy no quiere atención Episodio 1 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-14%20Malfoy%20no%20quiere%20atenci%C3%B3n%20Episodio%201%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=MhjNHHtdaWo", label: "Draconia Malfoy en el Baile - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-13%20Draconia%20Malfoy%20en%20el%20Baile%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=26ozry3jPFw", label: "Si Malfoy como digas - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-13%20Si%20Malfoy%20como%20digas%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=E2eulaIntGI", label: "Draconia Malfoy Capitulo 8 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-13%20Draconia%20Malfoy%20Capitulo%208%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=kRbQn4h81Xs", label: "Malfoy no quiere aceptarlo Capitulo 5 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-12%20Malfoy%20no%20quiere%20aceptarlo%20Capitulo%205%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=pJFYWZeFuQI", label: "Estupido Potter - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-11%20Estupido%20Potter%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=vnsv3Q89V8E", label: "Draconia Malfoy Capitulo 7 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-09%20Draconia%20Malfoy%20Capitulo%207%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=xJx_-reVVUY", label: "Draconia Malfoy y Harry Potter Película Parte 1 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-09%20Draconia%20Malfoy%20y%20Harry%20Potter%20Pel%C3%ADcula%20Parte%201%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=9ui-YG2FXFQ", label: "Sinceras disculpas - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-08%20Sinceras%20disculpas%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=Ms3tgkhgJWg", label: "Sentimiento de Culpa - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-07%20Sentimiento%20de%20Culpa%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=XWbc_yjYQUI", label: "El interrogatorio - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-06%20El%20interrogatorio%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=onMu9SoLMxM", label: "Draconia Malfoy Episodio 6 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-05%20Draconia%20Malfoy%20Episodio%206%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=qHirYVqidBQ", label: "Malfoy no quiere aceptarlo Capitulo 4 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-05%20Malfoy%20no%20quiere%20aceptarlo%20Capitulo%204%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=YHVJqq8X8zg", label: "Expecto Patronum - El deseo de ella - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-04%20Expecto%20Patronum%20-%20El%20deseo%20de%20ella%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=leryXoXKoBw", label: "En que estaba pensando Malfoy? - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-11-03%20En%20que%20estaba%20pensando%20Malfoy%EF%BC%9F%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=juYa2oq9Uto", label: "FELIZ HALLOWEEN LES DESEA MALFOY - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-10-31%20FELIZ%20HALLOWEEN%20LES%20DESEA%20MALFOY%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=5sbRyP5BBjQ", label: "La poción de amor y el espejo de Oesed - Draconia Malfoy", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-10-30%20La%20poci%C3%B3n%20de%20amor%20y%20el%20espejo%20de%20Oesed%20-%20Draconia%20Malfoy.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=de7Vs3rbqXE", label: "Malfoy no quiere disculparse - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-10-30%20Malfoy%20no%20quiere%20disculparse%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=ORxYr65WrBI", label: "Malfoy no quiere aceptarlo Episodio 3 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-10-29%20Malfoy%20no%20quiere%20aceptarlo%20Episodio%203%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=ANRohNWC3sE", label: "Draconia Malfoy Episodio 5 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-10-28%20Draconia%20Malfoy%20Episodio%205%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=4vqZqrDcHjU", label: "Malfoy no quiere aceptarlo Episodio 2 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-10-28%20Malfoy%20no%20quiere%20aceptarlo%20Episodio%202%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=cab_TIkZmmQ", label: "Malfoy no quiere aceptarlo Episodio 1 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-10-28%20Malfoy%20no%20quiere%20aceptarlo%20Episodio%201%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=SQd2Ca7YaQw", label: "Draconia Malfoy Episodio 4 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-10-27%20Draconia%20Malfoy%20Episodio%204%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=tDZMwvPcRk4", label: "Malfoy no quiere aceptarlo Episodio 0", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-10-27%20Malfoy%20no%20quiere%20aceptarlo%20Episodio%200.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=LAQG_a739R4", label: "Draconia Malfoy Episodio 3 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-10-27%20Draconia%20Malfoy%20Episodio%203%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=EbjHkb-gVwQ", label: "Draconia Malfoy Episodio 2 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-10-26%20Draconia%20Malfoy%20Episodio%202%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=EQECxU2Zi5c", label: "Draconia Malfoy Episodio 1 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-10-26%20Draconia%20Malfoy%20Episodio%201%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=l9CUTSUQCdk", label: "Malfoy no lo quiere aceptar capitulo 1 - Subs Español Latino", also: ["https://malfoid.duckdns.org/video/Draconia%20Malfoy%20Latino/2026-10-26%20Malfoy%20no%20lo%20quiere%20aceptar%20capitulo%201%20-%20Subs%20Espa%C3%B1ol%20Latino.mp4"]}
   # unclear (text)
   - id: "creator-ma-draconiamalfoynewchapter"
     title: "Draconia Malfoy New Chapter"
@@ -3969,16 +3959,6 @@ works:
     summary: "Malfoid videos by PotatoCrusaderv17, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
   # other (text)
-  - id: "creator-ma-potterownia"
-    title: "Potterownia"
-    first_name: ""
-    kind: [creator, video]
-    creator: "Potterownia (@Potterownia)"
-    url: "https://www.youtube.com/@Potterownia"
-    also: ["https://malfoid.duckdns.org/video/Potterownia/"]
-    added: 2026-11-20
-    summary: "Malfoid videos by Potterownia, archived on the M.A. (Malfoid Archive)."
-    tags: [video, archive]
   # unclear (text)
   - id: "creator-ma-sniffsofpowdur"
     title: "Powdur Clips"
@@ -4509,16 +4489,6 @@ works:
     summary: "Malfoid videos by SYNORA , archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
   # other (text)
-  - id: "creator-ma-samueloster95"
-    title: "Samuel Oster - Fantasy et imaginaires"
-    first_name: ""
-    kind: [creator, video]
-    creator: "Samuel Oster - Fantasy et imaginaires (@samueloster95)"
-    url: "https://www.youtube.com/@samueloster95"
-    also: ["https://malfoid.duckdns.org/video/Samuel%20Oster%20-%20Fantasy%20et%20imaginaires%20(samueloster95)/"]
-    added: 2026-11-20
-    summary: "Malfoid videos by Samuel Oster - Fantasy et imaginaires, archived on the M.A. (Malfoid Archive)."
-    tags: [video, archive]
   # unknown (no sample)
   - id: "creator-ma-saramiller6206"
     title: "Sara Miller"
@@ -4916,16 +4886,6 @@ works:
     summary: "Malfoid videos by Stylediff 99, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
   # unknown (no sample)
-  - id: "creator-ma-supernovatheoriesandvideos"
-    title: "Supernova Theories and Videos"
-    first_name: ""
-    kind: [creator, video]
-    creator: "Supernova Theories and Videos (@SupernovaTheoriesandVideos)"
-    url: "https://www.youtube.com/@SupernovaTheoriesandVideos"
-    also: ["https://malfoid.duckdns.org/video/SupernovaTheoriesandVideos/"]
-    added: 2026-11-20
-    summary: "Malfoid videos by Supernova Theories and Videos, archived on the M.A. (Malfoid Archive)."
-    tags: [video, archive]
   # unclear (text)
   - id: "creator-ma-sydneynicoleaddams"
     title: "Sydney Nicole Addams"
@@ -5653,16 +5613,6 @@ works:
     summary: "Malfoid videos by XxEmmy HøneyxX, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
   # unknown (no sample)
-  - id: "creator-ma-xxshadowreaper23xx"
-    title: "XxFallenShiroxX"
-    first_name: ""
-    kind: [creator, video]
-    creator: "XxFallenShiroxX (@XxShadowReaper23xX)"
-    url: "https://www.youtube.com/@XxShadowReaper23xX"
-    also: ["https://malfoid.duckdns.org/video/XxFallenShiroxX%20(XxShadowReaper23xX)/"]
-    added: 2026-11-20
-    summary: "Malfoid videos by XxFallenShiroxX, archived on the M.A. (Malfoid Archive)."
-    tags: [video, archive]
   # unknown (no sample)
   - id: "creator-ma-xyuk-edits"
     title: "Xyuk獣"
@@ -6533,16 +6483,6 @@ works:
     summary: "Malfoid videos by meimayzz_, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
   # unknown (no sample)
-  - id: "creator-ma-nauthorious"
-    title: "nAUTHORious "
-    first_name: ""
-    kind: [creator, video]
-    creator: "nAUTHORious  (@nAUTHORious)"
-    url: "https://www.youtube.com/@nAUTHORious"
-    also: ["https://malfoid.duckdns.org/video/nAUTHORious/"]
-    added: 2026-11-20
-    summary: "Malfoid videos by nAUTHORious , archived on the M.A. (Malfoid Archive)."
-    tags: [video, archive]
   # unknown (no sample)
   - id: "creator-ma-namoul-s"
     title: "namoul S"
@@ -7556,16 +7496,6 @@ works:
     summary: "Malfoid videos by 감자전 스튜디오 GAMJJ Studio, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
   # unknown (no sample)
-  - id: "creator-ma-chzzk-ggn"
-    title: "근가놈"
-    first_name: ""
-    kind: [creator, video]
-    creator: "근가놈 (@Chzzk_GGN)"
-    url: "https://www.youtube.com/@Chzzk_GGN"
-    also: ["https://malfoid.duckdns.org/video/%EA%B7%BC%EA%B0%80%EB%86%88%20(Chzzk_GGN)/"]
-    added: 2026-11-20
-    summary: "Malfoid videos by 근가놈, archived on the M.A. (Malfoid Archive)."
-    tags: [video, archive]
   # unknown (no sample)
   - id: "creator-ma-ea-b9-80-ec-9a-a9-ec-b0-ac"
     title: "김용찬"
@@ -7820,16 +7750,6 @@ works:
     summary: "Malfoid videos by 만약에시네마, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
   # unknown (no sample)
-  - id: "creator-ma-tmtg-duri"
-    title: "말 많은 게이머 듀리"
-    first_name: ""
-    kind: [creator, video]
-    creator: "말 많은 게이머 듀리 (@TMTG_DURI)"
-    url: "https://www.youtube.com/@TMTG_DURI"
-    also: ["https://malfoid.duckdns.org/video/%EB%A7%90%20%EB%A7%8E%EC%9D%80%20%EA%B2%8C%EC%9D%B4%EB%A8%B8%20%EB%93%80%EB%A6%AC%20(TMTG_DURI)/"]
-    added: 2026-11-20
-    summary: "Malfoid videos by 말 많은 게이머 듀리, archived on the M.A. (Malfoid Archive)."
-    tags: [video, archive]
   # unknown (no sample)
   - id: "creator-ma-eb-a7-90-ea-b0-90talkingpotato"
     title: "말감 Talking potato"
@@ -8084,16 +8004,6 @@ works:
     summary: "Malfoid videos by 양팡 YangPang, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
   # unknown (no sample)
-  - id: "creator-ma-eki-studio"
-    title: "에키짱"
-    first_name: ""
-    kind: [creator, video]
-    creator: "에키짱 (@Eki_Studio)"
-    url: "https://www.youtube.com/@Eki_Studio"
-    also: ["https://malfoid.duckdns.org/video/%EC%97%90%ED%82%A4%EC%A7%B1%20(Eki_Studio)/"]
-    added: 2026-11-20
-    summary: "Malfoid videos by 에키짱, archived on the M.A. (Malfoid Archive)."
-    tags: [video, archive]
   # unknown (no sample)
   - id: "creator-ma-ec-97-ac-ec-9a-b4-yeoun"
     title: "여운"
@@ -8150,16 +8060,6 @@ works:
     summary: "Malfoid videos by 유니 발닦개, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
   # unknown (no sample)
-  - id: "creator-ma-uddoong"
-    title: "유뚱"
-    first_name: ""
-    kind: [creator, video]
-    creator: "유뚱 (@Uddoong)"
-    url: "https://www.youtube.com/@Uddoong"
-    also: ["https://malfoid.duckdns.org/video/%EC%9C%A0%EB%9A%B1%20(Uddoong)/"]
-    added: 2026-11-20
-    summary: "Malfoid videos by 유뚱, archived on the M.A. (Malfoid Archive)."
-    tags: [video, archive]
   # unknown (no sample)
   - id: "creator-ma-ukon60"
     title: "유콘"
