@@ -18,17 +18,19 @@ import os
 import re
 import sys
 import tempfile
+import urllib.parse
 
 import yaml
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 WORKS = os.path.join(ROOT, "malfoid-index", "works.yaml")
+GREYLIST = os.path.join(ROOT, "malfoid-index", "greylist.yaml")
 BUILD = os.path.join(ROOT, "scripts", "build_site.py")
 SEEN = os.path.join(ROOT, "scripts", "yt_feeds", "data", "seen.json")
 DATA = os.path.join(ROOT, "scripts", "yt_search", "data")
 
 VIDEO_RE = re.compile(r"(?:youtube\.com/watch\?v=|youtube\.com/shorts/|youtu\.be/|youtube\.com/embed/)([A-Za-z0-9_-]{6,20})")
-HANDLE_RE = re.compile(r"youtube\.com/@([^/?#]+)", re.I)
+HANDLE_RE = re.compile(r"(?:youtube\.com)?/@([^/?#\s]+)", re.I)  # also matches the relative /@handle of a search result
 CHANNEL_RE = re.compile(r"youtube\.com/channel/(UC[A-Za-z0-9_-]+)", re.I)
 SIMILAR = 0.85  # title similarity above this counts as a possible duplicate
 
@@ -38,6 +40,12 @@ def blocked_accounts():
     text = open(BUILD, encoding="utf-8").read()
     m = re.search(r"BLOCKED_ACCOUNTS = \{(.*?)\n\}", text, re.S)
     return {h.lower() for h in re.findall(r'"([^"]+)"', m.group(1))} if m else set()
+
+
+def handle_of(text):
+    """The channel handle in a URL or a relative /@handle, decoded and lower-cased."""
+    m = HANDLE_RE.search(text or "")
+    return urllib.parse.unquote(m.group(1)).lower() if m else ""
 
 
 def norm(s):
@@ -52,9 +60,9 @@ def index_maps(works):
         for u in urls:
             for m in VIDEO_RE.finditer(str(u or "")):
                 video_ids.setdefault(m.group(1), entry_id)
-            m = HANDLE_RE.search(str(u or ""))
-            if m:
-                channels.setdefault(m.group(1).lower(), entry_id)
+            h = handle_of(str(u or ""))
+            if h:
+                channels.setdefault(h, entry_id)
             m = CHANNEL_RE.search(str(u or ""))
             if m:
                 channels.setdefault(m.group(1), entry_id)
@@ -85,8 +93,7 @@ def seen_ids():
 
 def classify(result, video_ids, channels, titles, blocked, seen):
     vid = result["id"]
-    handle = HANDLE_RE.search(result.get("channel_url") or "")
-    handle = handle.group(1).lower() if handle else ""
+    handle = handle_of(result.get("channel_url"))
     chan_id = CHANNEL_RE.search(result.get("channel_url") or "")
     chan_id = chan_id.group(1) if chan_id else ""
     if vid in video_ids:
@@ -143,6 +150,7 @@ def main(argv=None):
     with open(args.results, encoding="utf-8") as f:
         results = json.load(f)
     works = yaml.safe_load(open(WORKS, encoding="utf-8"))["works"]
+    works += yaml.safe_load(open(GREYLIST, encoding="utf-8")).get("works") or []
     video_ids, channels, titles = index_maps(works)
     blocked, seen = blocked_accounts(), seen_ids()
     rows = []
