@@ -34,7 +34,7 @@ entries:
     input: "input/2026-11-03-christmas-2.yaml"
     image: "images/2026-11-03-christmas-2.jpg"
     planned: 2026-11-22
-    posted:
+    posted: {date: 2026-11-22, x: "https://x.com/rhedak1/status/2124270854574072137"}
   - id: "2026-11-03-castle-tsundere-1"
     title: "Autumn feast in the great hall"
     created: 2026-11-03
