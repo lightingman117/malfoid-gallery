@@ -2547,13 +2547,23 @@ works:
     thumb: "https://i.ytimg.com/vi/Bpxxj9Ee1W4/hqdefault.jpg"
     title: "Malfoid: Harry Potter and the Girl Who Chose, Book 1 (audiobook)"
     first_name: ""
-    kind: video
+    kind: [creator, video, fanfic]
     format: audiobook
     creator: "MiloTheOrangeKitty"
-    url: "https://www.youtube.com/watch?v=Bpxxj9Ee1W4"
+    url: "https://www.youtube.com/@MiloTheOrangeKitty"
+    language: "English"
     added: 2026-11-08
-    summary: "Audiobook of Book 1 of Harry Potter and the Girl Who Chose, on YouTube."
-    tags: [audiobook, malfoid]
+    summary: "Audiobooks of Malfoid fanfics on YouTube by MiloTheOrangeKitty, including Book 1 of Harry Potter and the Girl Who Chose, the Serpent's Shadow and the Weight of Blood series."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=OM1D5ACH3C8", label: "「Audiobook」Malfoid: Harry Potter and the Weight of Blood Part 1"}
+      - {url: "https://www.youtube.com/watch?v=PelUV8Td-xw", label: "「Audiobook」SNEAK PEAK: Malfoid: Harry Potter and The Weight of Blood: Book 3"}
+      - {url: "https://www.youtube.com/watch?v=zqvrNswyxcU", label: "「Audiobook」Malfoid: Harry Potter Book 3: A Writer's Notes"}
+      - {url: "https://www.youtube.com/watch?v=LcIruFZPcx0", label: "「Audiobook」Malfoid: Harry Potter and the Serpent's Shadow: Book 2, Part 2"}
+      - {url: "https://www.youtube.com/watch?v=NE0Nsi0rYB4", label: "「Audiobook」Malfoid: Harry Potter and the Serpent's Shadow: Book 2, Part 1"}
+      - {url: "https://www.youtube.com/watch?v=yK5jNF3OHDo", label: "「Audiobook」Malfoid: Harry Potter and the Serpent's Shadow Writer's Notes"}
+      - {url: "https://www.youtube.com/watch?v=n8vc1Hzjt_Q", label: "「Audiobook」SNEAK PEAK: Malfoid: Harry Potter and the Serpent's Shadow"}
+      - {url: "https://www.youtube.com/watch?v=Bpxxj9Ee1W4", label: "「Audiobook」Malfoid: Harry Potter and the Girl Who Chose: Book 1"}
+    tags: [audiobook, malfoid, creator, fanfic]
   - id: "video-space-between-us-playlist"
     thumb: "https://i.ytimg.com/vi/1Q1WRCkyquQ/hqdefault.jpg"
     title: "SPACE BETWEEN US (Malfoid Cinematic Anime)"
