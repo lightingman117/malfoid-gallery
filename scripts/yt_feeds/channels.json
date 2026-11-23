@@ -2,6 +2,11 @@
   "_note": "YouTube channels linked from malfoid-index/works.yaml. Rebuilt by build_channels.py.",
   "channels": [
     {
+      "handle": "@2SIDECINE",
+      "channel_id": "UCwa4-CiGkEzxfHDniP-EALQ",
+      "name": "2면극장"
+    },
+    {
       "handle": "@616Studioph",
       "channel_id": "UCWwJSy3bLvtnuHhtL0yrITg",
       "name": "616 STUDIO"
@@ -12,9 +17,34 @@
       "name": "A-Illusion Creative"
     },
     {
+      "handle": "@Aerylla_VA",
+      "channel_id": "UC8BYGyDwwLpk99y9QjdLTuQ",
+      "name": "Aerylla VA"
+    },
+    {
+      "handle": "@Nyro2019",
+      "channel_id": "UC14o1cy2Fo4SlE5FcGrAQGA",
+      "name": "AfAn • 21K"
+    },
+    {
+      "handle": "@AIGlitchez",
+      "channel_id": "UC3KG8T9oKGHg2cRKARrzItw",
+      "name": "AI Glitchez"
+    },
+    {
       "handle": "@AIMalfoyFemale",
       "channel_id": "UCHHBHXp0St77d9ktxGH84mg",
       "name": "AI Malfoy Female"
+    },
+    {
+      "handle": "@AI-slapz",
+      "channel_id": "UCYYKTiE-GSt2sd6dsa6fFuw",
+      "name": "AI Slapz"
+    },
+    {
+      "handle": "@AI-Cinema-i8e",
+      "channel_id": "UCSuKl5W7UKd_ZHfYi59EXiQ",
+      "name": "AI-Cinema"
     },
     {
       "handle": "@ai_clips_uni",
@@ -22,14 +52,34 @@
       "name": "ai_clips_uni"
     },
     {
+      "handle": "@AICutieverseTV",
+      "channel_id": "UCEg1AbzPZuG8WDE4F4xIi7g",
+      "name": "AICutieverse"
+    },
+    {
+      "handle": "@AiriViridis",
+      "channel_id": "UC3AYtmMNdJczCvQNoPy-gjw",
+      "name": "Airi Viridis Ch. 【V-Dere】"
+    },
+    {
+      "handle": "@Aisuru-Nee",
+      "channel_id": "UCgoV_RhNbDIVlmzP6gkquLQ",
+      "name": "Aisuru"
+    },
+    {
       "handle": "@AlxAIProductions",
       "channel_id": "UCoWlLBDa0_x7qlJ4ehGf1Hw",
       "name": "ALX AI Productions"
     },
     {
-      "handle": "@haleamory",
-      "channel_id": "UCFY6I9kxxws4OuFbaAjWo6Q",
-      "name": "Amory Hale"
+      "handle": "@Amalgamyte",
+      "channel_id": "UCDTo1mE3Ut29PW3HOg3FmTQ",
+      "name": "Amalgamyte"
+    },
+    {
+      "handle": "@anivioletflame",
+      "channel_id": "UC2k00SlCjFitXhuRKsQZkpg",
+      "name": "Ani, Empire"
     },
     {
       "handle": "@anigirl.archive",
@@ -37,9 +87,79 @@
       "name": "Anigirls Archive"
     },
     {
+      "handle": "@Animyte",
+      "channel_id": "UCRQM5uKXBPcTJ2LrwwalYTA",
+      "name": "Animyte"
+    },
+    {
+      "handle": "@anlysnow",
+      "channel_id": "UC6QnwJ14RMZ4dpbtHvDSbNw",
+      "name": "Anly Snow"
+    },
+    {
+      "handle": "@AO3Reader-z2r",
+      "channel_id": "UCmy_BYCtMvD_tMDM2TMXGyA",
+      "name": "AO3 Reader"
+    },
+    {
+      "handle": "@AtraidezDataCentre",
+      "channel_id": "UC6cJ1NQ_CiLBNGtqdTL3ddA",
+      "name": "Atraidez Data Center"
+    },
+    {
+      "handle": "@AUDIOBOOK-Y6",
+      "channel_id": "UCUHtKx2AfBHMCD38o_1m_6g",
+      "name": "AUDIOBOOK PRODUCTION"
+    },
+    {
+      "handle": "@BachStabber1",
+      "channel_id": "UCmlsZq5Om47zcErGjXwEEdQ",
+      "name": "Bach Stabber"
+    },
+    {
+      "handle": "@Badassskeleton-l2t",
+      "channel_id": "UCnWc2KWSLifknoXmdcnjZdg",
+      "name": "Badassskeleton"
+    },
+    {
+      "handle": "@BeauSinger",
+      "channel_id": "UCxEYaPX_rv7N6MzFcBs50Cw",
+      "name": "Beau Singer (Beau Singer Artist)"
+    },
+    {
+      "handle": "@BeauVT",
+      "channel_id": "UCHMDL5eodkwpVmjJZ89QeWw",
+      "name": "BeauVT"
+    },
+    {
+      "handle": "@Bennertainment",
+      "channel_id": "UCvlX5qmYpPCRS6NZ_jKwakw",
+      "name": "Bennertainment"
+    },
+    {
       "handle": "@BeyondHogwartsAI1",
       "channel_id": "UC4wbHaJ_1_BZWuVZWGRxQOg",
       "name": "Beyond Hogwarts"
+    },
+    {
+      "handle": "@big_bobby_kun",
+      "channel_id": "UCLn9ODXSf3NEAjYIwyzoB1Q",
+      "name": "Big Bobby"
+    },
+    {
+      "handle": "@Bloody_nime",
+      "channel_id": "UCcxqEv-hFqpDcqsKWreTzkg",
+      "name": "Bloody_nime"
+    },
+    {
+      "handle": "@BraindropCentral",
+      "channel_id": "UCklbrd6lZ6s2lRcAsqne0hA",
+      "name": "Braindrop Central"
+    },
+    {
+      "handle": "@BranchlineStudio",
+      "channel_id": "UCZdSNtc49xpanFp5u6cozew",
+      "name": "Branchline Studio"
     },
     {
       "handle": "@brooklynge0214",
@@ -47,9 +167,79 @@
       "name": "Brooklyn | Draconia Fanmade POVs"
     },
     {
+      "handle": "@BryonyClaire",
+      "channel_id": "UCUA99fY1YylIrjeL9IH9SaA",
+      "name": "Bryony Claire"
+    },
+    {
+      "handle": "@CaeloDubs",
+      "channel_id": "UCLCxHDq5yUuh78Rgyxu9gVA",
+      "name": "CaeloDubs"
+    },
+    {
+      "handle": "@Caevro-Dubs",
+      "channel_id": "UC-Yc4l70XqMdipSWNtAYWsA",
+      "name": "Caevro Dubs"
+    },
+    {
+      "handle": "@cafebelleschansons",
+      "channel_id": "UCa2GJLFgbg2EIOdM_DdHEHw",
+      "name": "Café Belles Chansons"
+    },
+    {
+      "handle": "@Cardiem89",
+      "channel_id": "UCoktmkN88jNO9mMEgNRdP5Q",
+      "name": "CaRpEdIeM"
+    },
+    {
+      "handle": "@pessycatSiuuuu",
+      "channel_id": "UCnrSbJrNC2ivzi8G5Fb6FZg",
+      "name": "Cat2k"
+    },
+    {
       "handle": "@캣쥐-n4l",
       "channel_id": "UCbVrSUPgAX3nFD866ibQx_g",
       "name": "CatG5835"
+    },
+    {
+      "handle": "@cganimefan1267",
+      "channel_id": "UCvJ-3Ppfur1eEvW3f5xPYRA",
+      "name": "CG Anime Fan"
+    },
+    {
+      "handle": "@ch4ichan",
+      "channel_id": "UCm1I6tuL4WKo2is7ExzYCDg",
+      "name": "CH4I Ch."
+    },
+    {
+      "handle": "@ChibiReviews",
+      "channel_id": "UCfGmaA-nXPryTfimsnkLieQ",
+      "name": "Chibi Reviews"
+    },
+    {
+      "handle": "@Chrono_Crusader_Stream",
+      "channel_id": "UCdfnQalsagV3hlBym_aiWrw",
+      "name": "ChronoCrusader"
+    },
+    {
+      "handle": "@ItsCliffhanger",
+      "channel_id": "UCc98fjvM08gRMVQVzvA1nGw",
+      "name": "Cliffhanger"
+    },
+    {
+      "handle": "@CloseupCoffeeCup",
+      "channel_id": "UC5qO884bw12AypzhKVLco2g",
+      "name": "CloseupCup"
+    },
+    {
+      "handle": "@ClydeDeVera",
+      "channel_id": "UCF0CtvHkwjLbVdaPUdwpCpQ",
+      "name": "Clyde De Vera"
+    },
+    {
+      "handle": "@ComicsinMotion-o2z",
+      "channel_id": "UC6TRio7l_oMRgabxScqO4nw",
+      "name": "Comics in Motion"
     },
     {
       "handle": "@Crimsonaigc",
@@ -57,14 +247,54 @@
       "name": "Crimsonaigc"
     },
     {
+      "handle": "@Cybrnut42",
+      "channel_id": "UCNDEJ2lZUO_fNP7HIlDTnBw",
+      "name": "Cybrnut"
+    },
+    {
+      "handle": "@Dakani_amv",
+      "channel_id": "UCVA4QjMof6hU6U59bTiXfNg",
+      "name": "Dakani"
+    },
+    {
+      "handle": "@dangleyfilms5958",
+      "channel_id": "UCdewP7QlVO8wcJajX_Y79tg",
+      "name": "Dangley Films"
+    },
+    {
       "handle": "@Dean_xx17",
       "channel_id": "UCIgrhzvrqueo3jzALBrB6cA",
       "name": "Dean_xx"
     },
     {
+      "handle": "@DeerDoze",
+      "channel_id": "UC35ugL81f1amnzFJU7zoe3w",
+      "name": "DeerDoze"
+    },
+    {
+      "handle": "@The_DA",
+      "channel_id": "UCuyl6SPNjDprPZiAsz1k34w",
+      "name": "Derek Anderson - The D.A."
+    },
+    {
+      "handle": "@DivaNyya",
+      "channel_id": "UCDzUs3yGjMqk-H0a8c8PliA",
+      "name": "Diva Nyaa"
+    },
+    {
+      "handle": "@Doggord",
+      "channel_id": "UCfz-m2SvWQ2xQMikXrTLPLg",
+      "name": "Doggord"
+    },
+    {
       "handle": "@DracaenaMalfoid",
       "channel_id": "UCVsQIS7FuwhSywJeLmsRK4g",
       "name": "Dracaena Malfoid"
+    },
+    {
+      "handle": "@Draconia_Malfoy1",
+      "channel_id": "UCUum0BdX8UaEVbb8iP6Yd5w",
+      "name": "Draconia"
     },
     {
       "handle": "@DraconiaMalfoid",
@@ -77,6 +307,26 @@
       "name": "Draconia Malfoy"
     },
     {
+      "handle": "@DraconiaMalfoy-2026",
+      "channel_id": "UC_AO6H69KNtARbJPx8GCMEg",
+      "name": "Draconia Malfoy"
+    },
+    {
+      "handle": "@MalfoidVlog",
+      "channel_id": "UC_vb4t5arWd1DhTcxPuiN7A",
+      "name": "Draconia Malfoy"
+    },
+    {
+      "handle": "@EarnestTalksEverything",
+      "channel_id": "UCfStrPuK8luvrvQv3XlQ4Nw",
+      "name": "Earnest Talks"
+    },
+    {
+      "handle": "@EllaCareComics",
+      "channel_id": "UCFmz3gQLvZ780bWLdWEg1aQ",
+      "name": "Elle_Care_Comics"
+    },
+    {
       "handle": "@emmastudio99",
       "channel_id": "UCPXcc8uBr5w0bW1vBkXJmrg",
       "name": "emma_studio99"
@@ -85,6 +335,16 @@
       "handle": "@EnchantedWhatIfs",
       "channel_id": "UCN2IQ3XcH5mh-ic65rDspRw",
       "name": "Enchanted What Ifs"
+    },
+    {
+      "handle": "@EntertainComics",
+      "channel_id": "UCYYSNvh5gwqaamM9DD4Q2hQ",
+      "name": "EntertainComics"
+    },
+    {
+      "handle": "@FanficAudiobook2.0",
+      "channel_id": "UCpHSagNwhvAeCWTJHRfOuDA",
+      "name": "Fanfic Audiobook"
     },
     {
       "handle": "@Fantasoner",
@@ -97,9 +357,29 @@
       "name": "Fiction"
     },
     {
+      "handle": "@FilmGenStudios",
+      "channel_id": "UCpXCEnhA3-ToB8qIwTyLWlg",
+      "name": "FilmGen"
+    },
+    {
+      "handle": "@fleaman12345",
+      "channel_id": "UCP9e5PaP5CNr1rGRbYmu4sA",
+      "name": "Flea Man"
+    },
+    {
       "handle": "@Fo_yege1664",
       "channel_id": "UC9BOkPw7IAaVO4_bU6tcJTA",
       "name": "Foyege"
+    },
+    {
+      "handle": "@FuwaStudio_Music",
+      "channel_id": "UCdmSkEA5Fxdbe-2pEZVGFgw",
+      "name": "FuwaMusic"
+    },
+    {
+      "handle": "@gachaweaver",
+      "channel_id": "UCoiEqqLEl-uHZm4C4YHgk7A",
+      "name": "GACHA WEAVER "
     },
     {
       "handle": "@galakushi",
@@ -122,9 +402,19 @@
       "name": "gugolfaistudio"
     },
     {
+      "handle": "@Happa77716",
+      "channel_id": "UC2iDufOxE7dGV91ZtqpGIWA",
+      "name": "Happa"
+    },
+    {
       "handle": "@HPAcademy1",
       "channel_id": "UCUFDjbKh3EcOYBvheecLXaw",
       "name": "Harry Potter Academy"
+    },
+    {
+      "handle": "@harrypotterinsiderwz",
+      "channel_id": "UCQ88Be7VY4CvbS68imymQ2w",
+      "name": "Harry Potter Insider"
     },
     {
       "handle": "@hasancreatives7",
@@ -137,14 +427,54 @@
       "name": "HDM5121"
     },
     {
+      "handle": "@HighStakeStory",
+      "channel_id": "UCoA5qxyvVj1w0dZU0xBOdmw",
+      "name": "HighStakeStory"
+    },
+    {
+      "handle": "@HIROSE-CVs",
+      "channel_id": "UCETDgJIW6P0h4PaG0cHTenQ",
+      "name": "HIROSE Studio"
+    },
+    {
+      "handle": "@Hollywood_ai_studios",
+      "channel_id": "UC72Vf-Ljm-yDb-rAu0H-VZQ",
+      "name": "Hollywood AI studios "
+    },
+    {
+      "handle": "@hufflepuffiln8386",
+      "channel_id": "UCgAddYN_xLRstzDZADMRpvg",
+      "name": "Hufflepuffiln"
+    },
+    {
+      "handle": "@IceNoir47",
+      "channel_id": "UC5NmYhBqtR7e9Dlf2y5b5ew",
+      "name": "IceNoir"
+    },
+    {
       "handle": "@inspo_live",
       "channel_id": "UCRZ7ycerRf7hhka-veUOu_w",
       "name": "Inspo"
     },
     {
+      "handle": "@Invicta_Vtube",
+      "channel_id": "UCauQeJFW05Q30p3JuFSx_Ng",
+      "name": "Invicta VTube"
+    },
+    {
+      "handle": "@irfan999shaikh",
+      "channel_id": "UCC-Qo_8AIHWgaehhuorK9CA",
+      "name": "Irfan Shaikh"
+    },
+    {
       "handle": "@j.a.vazquez5946",
       "channel_id": "UCcTUH89SFafOTcipEwxC8BQ",
       "name": "J.A. Vázquez"
+    },
+    {
+      "handle": "@JeRDLe-the-TuRTLe",
+      "channel_id": "UCXOt9UaM6COWguTGT24VOSg",
+      "name": "JeRDLe"
     },
     {
       "handle": "@juntahmolokai",
@@ -162,9 +492,39 @@
       "name": "Keep Doing The Bit"
     },
     {
+      "handle": "@KetlynBlakeMusic",
+      "channel_id": "UCUcRke6sxns9tOygJBfj2-A",
+      "name": "Ketlyn Blake"
+    },
+    {
+      "handle": "@KL_Creative_Lab",
+      "channel_id": "UCXyunA4Pj6hpwuUYO5AFQkQ",
+      "name": "KL Creative Lab"
+    },
+    {
+      "handle": "@Kuzcopia",
+      "channel_id": "UCu2NhQM4byaUBhqHh46s0gw",
+      "name": "Kuzcopia"
+    },
+    {
       "handle": "@dragonball-z",
       "channel_id": "UCgyteDB8YaQgi3K90Rgm_Ww",
       "name": "KYL0ЯЁП"
+    },
+    {
+      "handle": "@Kyrian_W",
+      "channel_id": "UCB96XnpuMdt60QTFGxzeYUg",
+      "name": "Kyrian"
+    },
+    {
+      "handle": "@LeoVOMage",
+      "channel_id": "UCFIAnlqE8f6ZEecqaTXRpWw",
+      "name": "LeoVOAnimations"
+    },
+    {
+      "handle": "@LibraryOfClips-i7i",
+      "channel_id": "UCJpW3Ca-2Hj09To4laCbkjQ",
+      "name": "Library Of Clips"
     },
     {
       "handle": "@LilithSpike",
@@ -172,9 +532,29 @@
       "name": "Lilith Spike"
     },
     {
+      "handle": "@LordCyan666",
+      "channel_id": "UCKS5hXbDjEkpkkA9sorfOxQ",
+      "name": "LordCyan666"
+    },
+    {
+      "handle": "@loremasterleonus1306",
+      "channel_id": "UCRrmCWBAUb8OPDIdnl-5r4Q",
+      "name": "Loremaster Leonus"
+    },
+    {
       "handle": "@LoreMatika",
       "channel_id": "UCPuXA47Wx5nz7WKSgFg4oOA",
       "name": "LOREMATIKA"
+    },
+    {
+      "handle": "@Luminor-84",
+      "channel_id": "UCmISrCWx1613mO9T4lR0g4w",
+      "name": "Luminor"
+    },
+    {
+      "handle": "@LUMZI2",
+      "channel_id": "UCEpWLcGP21DYYeFbfoeUAow",
+      "name": "LUMZI"
     },
     {
       "handle": "@LunaLovelaceTech",
@@ -182,14 +562,19 @@
       "name": "Luna Lovelace"
     },
     {
+      "handle": "@Lyofoy",
+      "channel_id": "UC7RsR5XpMTht9eqXvCxFLRw",
+      "name": "Lyofoy"
+    },
+    {
       "handle": "@MadMax000",
       "channel_id": "UCcivAAuINq7-NhKwCECqhlA",
       "name": "MadMax"
     },
     {
-      "handle": "@maelle_gold",
-      "channel_id": "UCb0QN80YDzDYVfLiuC_GV_Q",
-      "name": "Maelle_Gold6267"
+      "handle": "@MAGDrawing",
+      "channel_id": "UCaG9TatQGVSntwisq3VIgvA",
+      "name": "MAG Drawing"
     },
     {
       "handle": "@MalfoidSeries",
@@ -197,9 +582,19 @@
       "name": "Malfoid"
     },
     {
+      "handle": "@FemaleMalfoi",
+      "channel_id": "UC8DKkbODag59BLIR0X3cZ6Q",
+      "name": "Malfoid"
+    },
+    {
       "handle": "@Malfoid말포이TS",
       "channel_id": "UChKbeCxfoZS_oivQtbn7wVw",
       "name": "Malfoid (말포이TS)"
+    },
+    {
+      "handle": "@MalfoidArchieve",
+      "channel_id": "UCJ8FrzRVSsQu4TF-xXzFvyw",
+      "name": "Malfoid Archive"
     },
     {
       "handle": "@MalfoidSoftware",
@@ -222,9 +617,64 @@
       "name": "Mastodon Studios"
     },
     {
+      "handle": "@마떼스튜디오",
+      "channel_id": "UC38k57KyycUM7mlJ3AJPXAQ",
+      "name": "mattestudio_kr"
+    },
+    {
+      "handle": "@RAPGROK",
+      "channel_id": "UCdld7Fj0M0ehAZFqLWsYClg",
+      "name": "MAUNYA"
+    },
+    {
+      "handle": "@mayteera970",
+      "channel_id": "UC8K3_FO7Fe5Yo7RrWjLYDew",
+      "name": "May Teera"
+    },
+    {
+      "handle": "@MercyBVA",
+      "channel_id": "UCQZFXpARCedZP0qrF5fSfNw",
+      "name": "Merciful ASMR"
+    },
+    {
+      "handle": "@mindadubs",
+      "channel_id": "UCsDluN4A3f64EputDf7yMkQ",
+      "name": "MINDA DUBS"
+    },
+    {
       "handle": "@MoochiForge",
       "channel_id": "UCy3XZJE7ZswM9xgzHZc_cIQ",
       "name": "MoochiForge"
+    },
+    {
+      "handle": "@morreagan73",
+      "channel_id": "UCOP1z308Q98DvAXCz3yeSUw",
+      "name": "Morreagan"
+    },
+    {
+      "handle": "@MoxieGlitch",
+      "channel_id": "UCOMDAxWgYkfsBB04oXX-5Pg",
+      "name": "Moxie Glitch"
+    },
+    {
+      "handle": "@aimusicwww3",
+      "channel_id": "UClEJhku1lIxsA46PreUSQxQ",
+      "name": "Mr AiMusic"
+    },
+    {
+      "handle": "@MrHaori",
+      "channel_id": "UCkHQbQy0QW1mfzAt0p1LItQ",
+      "name": "Mr. Haori"
+    },
+    {
+      "handle": "@MrUse-v2q",
+      "channel_id": "UCTqwaWBl_TwHsr7KiTRI02g",
+      "name": "Mr. Use"
+    },
+    {
+      "handle": "@BollywoodIn4K3507",
+      "channel_id": "UC7o31Tb1axUj2P8xMKcAbOA",
+      "name": "MusicalVibes3507"
     },
     {
       "handle": "@MYSTAVELLE",
@@ -237,9 +687,29 @@
       "name": "Mystic Sageia"
     },
     {
+      "handle": "@MythicRenderFilm",
+      "channel_id": "UCCuay1XyNYmpRWRkgvXcsmQ",
+      "name": "Mythic Render"
+    },
+    {
+      "handle": "@MythicShiftMusic",
+      "channel_id": "UCHAshK20rF8QUqQJzawOnLw",
+      "name": "MythicShift"
+    },
+    {
       "handle": "@Nextrealmstudio",
       "channel_id": "UCJAgxwVJo20zVSuCKD-UsuQ",
       "name": "Next Realm Studios"
+    },
+    {
+      "handle": "@nexuswhatif5385",
+      "channel_id": "UCSUYAcDNHT5axiuxBYt6WXQ",
+      "name": "Nexus What If"
+    },
+    {
+      "handle": "@Noctelia-y5t",
+      "channel_id": "UCIKiDhZw-v1ND-sc4zmS-TQ",
+      "name": "Noctelia"
     },
     {
       "handle": "@NovaFrame-z2t",
@@ -247,9 +717,24 @@
       "name": "NovaFrame"
     },
     {
+      "handle": "@occultusnotitia",
+      "channel_id": "UCa6p2rUKp2uF5J4FUZXdiBw",
+      "name": "OcNo - OccultusNotitia"
+    },
+    {
+      "handle": "@OnceUponABurnout",
+      "channel_id": "UCvqjW8bwZJaufvrEUjyawHA",
+      "name": "Once Upon A Burnout"
+    },
+    {
       "handle": "@orangehoodieguy",
       "channel_id": "UCYB_PxsrBFPSKVUJ__FGI5A",
       "name": "Orange Hoodie Guy"
+    },
+    {
+      "handle": "@OswaldSilverton",
+      "channel_id": "UCTl5Z_h4LwKNmolhdNEZN3g",
+      "name": "Oswald Silverton"
     },
     {
       "handle": "@OtakuAI2345",
@@ -257,14 +742,49 @@
       "name": "OtakuAI Studio"
     },
     {
+      "handle": "@otaku-editt",
+      "channel_id": "UCBWEUKvUCur5NJhEOe2JYrQ",
+      "name": "OTAKUEDIT"
+    },
+    {
+      "handle": "@oxennstudio",
+      "channel_id": "UCn25uMebrT4rwu_qCj-w5hA",
+      "name": "OXENNstudio"
+    },
+    {
+      "handle": "@PanelParadeComics",
+      "channel_id": "UCzFAPopQRFc43FYjIXTvMfg",
+      "name": "Panel Parade"
+    },
+    {
+      "handle": "@parzival7526",
+      "channel_id": "UCb8WLSJvaK3_Fr8mq7aHSCQ",
+      "name": "Parzival"
+    },
+    {
+      "handle": "@ZeroToRealEstateHero",
+      "channel_id": "UCO8GnQbwO3fH7GQxIb5uEPg",
+      "name": "Peter Li - From Zero To Real Estate Hero"
+    },
+    {
       "handle": "@Philmycrackin-5",
       "channel_id": "UC5-tdWzymlL0uPwhglHxQZw",
       "name": "Philmycrakin-5"
     },
     {
+      "handle": "@PilgrimsPass",
+      "channel_id": "UCCpXIExIj5kDA3cTa3CkCjg",
+      "name": "Pilgrims Pass"
+    },
+    {
       "handle": "@PlotFlipStudios-t9e",
       "channel_id": "UCFMh8auOqginCQp4yDDMlRA",
       "name": "PlotFlip Studios"
+    },
+    {
+      "handle": "@AizenIshida-g9k",
+      "channel_id": "UCSMN35YJ0rIV4IpNYPiUQQA",
+      "name": "PopsiRock"
     },
     {
       "handle": "@projectmalfoid",
@@ -277,9 +797,144 @@
       "name": "Psyern"
     },
     {
+      "handle": "@puto_sama",
+      "channel_id": "UClTZiL4ziZaxB4GLIYVZXaA",
+      "name": "Puto Sama"
+    },
+    {
+      "handle": "@thepuzzlepov",
+      "channel_id": "UCMh-XCBN9hz2oM7I0oTWhvQ",
+      "name": "Puzzle POV"
+    },
+    {
+      "handle": "@QORVETH_STUDIOS",
+      "channel_id": "UC8H1ua83o-8DPZuVxCQypJA",
+      "name": "QORVETH STUDIOS"
+    },
+    {
+      "handle": "@rize4957",
+      "channel_id": "UCob820E5X3oZyRNkSxPJl8Q",
+      "name": "R I Z E"
+    },
+    {
+      "handle": "@GOASkey",
+      "channel_id": "UC_Bqj_FdQFi4ycEikzUrtMw",
+      "name": "R.U. Archives | Slacker-in-Chief"
+    },
+    {
+      "handle": "@rabo9d",
+      "channel_id": "UCBtbA8aSKORcOr_Bd5STeEg",
+      "name": "Rabo9D"
+    },
+    {
+      "handle": "@RadioFreeSkysea",
+      "channel_id": "UC7E7n1HtsaGkW8sHY-LSIhQ",
+      "name": "Radio Free Skysea"
+    },
+    {
+      "handle": "@RanaItia",
+      "channel_id": "UCPSzY3AQ92qLG607z0STEdg",
+      "name": "RanaVT"
+    },
+    {
+      "handle": "@RaphaelAnimation-ph",
+      "channel_id": "UC4QK6WSC12x_Xexik57DUlw",
+      "name": "Raphael Animation"
+    },
+    {
+      "handle": "@RavenKnightYT",
+      "channel_id": "UCFryUp1I-G29Lxi5cd3y45g",
+      "name": "Raven Knight"
+    },
+    {
+      "handle": "@RealLifeFakeWizard",
+      "channel_id": "UCLCOaNcR6kSbI1OXu83uipg",
+      "name": "Real Life Fake Wizard"
+    },
+    {
+      "handle": "@SophieGACHA_GL",
+      "channel_id": "UCbZfeQ8deghvjNZNX--Qomw",
+      "name": "ReallySophie"
+    },
+    {
+      "handle": "@rebeat13channel",
+      "channel_id": "UCmNMdwXDDxbgWwOZmwv_mpg",
+      "name": "ReBeat13 Ch. レビート"
+    },
+    {
+      "handle": "@ReelSerye",
+      "channel_id": "UCfmjSNyFolvDX0dgbghi0kA",
+      "name": "Reelserye"
+    },
+    {
+      "handle": "@rezeisalive",
+      "channel_id": "UCKtPvKJvr9dYtgdGJnIIUAw",
+      "name": "Reze is Alive"
+    },
+    {
+      "handle": "@RivalCrushToon",
+      "channel_id": "UCu_UYqgcwS1Ztj93VLIX3xA",
+      "name": "Rival Crush Toons"
+    },
+    {
+      "handle": "@RobotFeverDreams-c9w",
+      "channel_id": "UC0VXPLZ0VJ7rHjsR7_0wGkg",
+      "name": "Robot Fever Dreams"
+    },
+    {
+      "handle": "@Hanaza.12",
+      "channel_id": "UCSctFlKBTS84gtIU2l-zcIA",
+      "name": "Sakib.00"
+    },
+    {
+      "handle": "@SaltyStudioAnime",
+      "channel_id": "UCBjzZano01wW-yq7WpvuQqw",
+      "name": "Salty Studios"
+    },
+    {
       "handle": "@schmede_AI",
       "channel_id": "UCA5wRJq4rRjF8oh9V0ytWng",
       "name": "schmede_AI"
+    },
+    {
+      "handle": "@ScottDubs1",
+      "channel_id": "UCNGFUYHX4UDlEiiNMglHUYQ",
+      "name": "Scott Dubs"
+    },
+    {
+      "handle": "@SecondTE",
+      "channel_id": "UC9nDCLTKvdsP2VOOzhIhTig",
+      "name": "Secondtake"
+    },
+    {
+      "handle": "@SephMeadowesInc",
+      "channel_id": "UCbk16eWDMEJav6JIAZLnsKg",
+      "name": "Seph Meadowes"
+    },
+    {
+      "handle": "@Shonexel",
+      "channel_id": "UCsk4LFxEMcahHJCTfjehytA",
+      "name": "Shonexel"
+    },
+    {
+      "handle": "@SioraCC",
+      "channel_id": "UCF08h0LSnioFNEnbbsE7u2Q",
+      "name": "SioraCC"
+    },
+    {
+      "handle": "@sarahlachman1349",
+      "channel_id": "UCaMDnv73nKJoK7tfZuzWfqg",
+      "name": "SLachman"
+    },
+    {
+      "handle": "@SlytherinFate",
+      "channel_id": "UCfgookGPBC0KIVw2Wwikwkw",
+      "name": "SlytherinFate"
+    },
+    {
+      "handle": "@SonikBuster",
+      "channel_id": "UC64AZ1FKghCZNB3Sd1TC5gw",
+      "name": "SonikBuster"
     },
     {
       "handle": "@Spellora_ai",
@@ -292,6 +947,11 @@
       "name": "Stories for the Road"
     },
     {
+      "handle": "@StoryDelverwDanFoley",
+      "channel_id": "UC34KRh_0Rk3-Pol77OI6YuA",
+      "name": "Story Delver w/ Dan Foley"
+    },
+    {
       "handle": "@tamaraluciaclips",
       "channel_id": "UCw5mA9-GXBLn1PklPy4r39g",
       "name": "tamara lucia clips"
@@ -300,6 +960,11 @@
       "handle": "@thatonebelgian",
       "channel_id": "UCbC-oqKGeXUHo_Sf_LNwtcw",
       "name": "That one belgian [redacted]"
+    },
+    {
+      "handle": "@theannoyingbutterfly552",
+      "channel_id": "UCwOC1xlbjdQ5COxLNVgzREQ",
+      "name": "The annoying Butterfly"
     },
     {
       "handle": "@TheExiledDraco",
@@ -317,14 +982,49 @@
       "name": "The Malfoyverse"
     },
     {
+      "handle": "@Theotherdoor6",
+      "channel_id": "UCq3m-YVX7oBNtHSHkH30UZQ",
+      "name": "The Other Door"
+    },
+    {
+      "handle": "@TheWrongOwl",
+      "channel_id": "UC8npk0nwFI2GOsT43wk-hvg",
+      "name": "The Wrong Owl"
+    },
+    {
       "handle": "@throngTV",
       "channel_id": "UCL_ojErj1Y9w1mFcjIR9yAQ",
       "name": "ThRong"
     },
     {
+      "handle": "@Nancenotes",
+      "channel_id": "UCqaOPuuORBEM0yBeKwIO8sA",
+      "name": "Tim Nance (NanceNotes and Narwhals)"
+    },
+    {
+      "handle": "@Tnudubs",
+      "channel_id": "UCPaj5AVlnHEVNqAzCTWiCMQ",
+      "name": "Tnudubs"
+    },
+    {
+      "handle": "@toempictures52",
+      "channel_id": "UC3Wgb0Js9-9d-MZJbn4qdyg",
+      "name": "ToEm Pictures"
+    },
+    {
       "handle": "@tooneryt",
       "channel_id": "UC8AYmLLV4D8kuO-7fRX4YKA",
       "name": "TOONER"
+    },
+    {
+      "handle": "@topua3586",
+      "channel_id": "UCYQ90DLoc8x7aznmoQ2PDAw",
+      "name": "TOP A.U."
+    },
+    {
+      "handle": "@Trustdesert5124",
+      "channel_id": "UC3mOHxPvd1e6Ifxarn-4b5g",
+      "name": "Trustdesert"
     },
     {
       "handle": "@UnstableG3n",
@@ -370,6 +1070,11 @@
       "handle": "@zeyhashimoto",
       "channel_id": "UCECj8bVlVGe7MbRaSufcDwA",
       "name": "Zey"
+    },
+    {
+      "handle": "@Kara-r8f",
+      "channel_id": "UCKYxw15hLi00liTodFh7kpQ",
+      "name": "カラ_Kara"
     },
     {
       "handle": "@뒹굴뒹굴A",
