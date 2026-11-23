@@ -658,3 +658,10 @@ entries:
     image: "images/2026-11-06-advent-24.jpg"
     planned: 2026-12-24
     posted:
+  - id: "2026-11-23-facepalm-1"
+    title: "Facepalm"
+    created: 2026-11-23
+    input: "input/2026-11-23-facepalm-1.yaml"
+    image: "images/2026-11-23-facepalm-1.png"
+    gallery_only: true
+    posted:

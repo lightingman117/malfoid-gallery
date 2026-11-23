@@ -1,0 +1,13 @@
+id: "2026-11-23-facepalm-1"
+title: "Facepalm"
+theme: "facepalm"
+tags: ["facepalm", "reaction", "transparent", "gallery-only"]
+created: 2026-11-23
+tool: "Grok Imagine (character + pose reference)"
+source: "github.com/rhedak/anime_ai_companion-packs/packs-src/draconia-uniform/angry.webp"
+prompt: "Please generate a faceplam reaction image of the character in image 1 following the pose from image 2. Follow the anime style from image 1. image1: companion pack angry.webp (packs-src/draconia-uniform/angry.webp); image2: facepalm_deja_q.webp"
+result_post: "https://grok.com/imagine/post/cc2ab174-9b0d-4789-a33e-fde0f159cad3"
+image: "images/2026-11-23-facepalm-1.png"
+size: "1312x1504"
+notes: "Original Grok generation: cc2ab174-9b0d-4789-a33e-fde0f159cad3. Transparent background (Grok Imagine Remove Background) of that image: https://grok.com/imagine/post/b8292ae2-3a5e-434c-b49a-ab0fca4a76cf. The stored image is the transparent PNG (RGBA), not an original Grok JPG. Pose reference facepalm_deja_q.webp is not in references/poses/. Added as gallery-only (default, not confirmed by the maintainer)."
+gallery_only: true
