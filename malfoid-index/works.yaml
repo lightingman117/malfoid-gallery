@@ -2549,6 +2549,7 @@ works:
     first_name: ""
     kind: [creator, video, fanfic]
     format: audiobook
+    length: "novel"
     creator: "MiloTheOrangeKitty"
     url: "https://www.youtube.com/@MiloTheOrangeKitty"
     language: "English"
