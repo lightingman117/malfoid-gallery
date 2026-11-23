@@ -1748,7 +1748,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=YuL-vEPe1ao", label: "Lumos Lumos Anime Epilogue [ft. Lumos Lumos]", also: ["https://malfoid.duckdns.org/video/Lumos%20Lumos%20%28ADayASMR%29/2026-10-30%20Lumos%20Lumos%20Anime%20Epilogue%20%5Bft.%20Lumos%20Lumos%5D.mp4"]}
       - {url: "https://www.youtube.com/watch?v=asCB612w_eA", label: "Lumos Lumos Epilogue 2 (ft. Little Hands) [Official Music Video]", also: ["https://malfoid.duckdns.org/video/Lumos%20Lumos%20%28ADayASMR%29/2026-11-11%20Lumos%20Lumos%20Epilogue%202%20%28ft.%20Little%20Hands%29%20%5BOfficial%20Music%20Video%5D.mp4"]}
       - {url: "https://www.youtube.com/watch?v=NAZz8Hxh0pU", label: "Lumos Lumos Anime OVA ‘Break the Sky’ (ft. Catch Me If You Can) [Official Music Video]", also: ["https://malfoid.duckdns.org/video/Lumos%20Lumos%20%28ADayASMR%29/2026-11-20%20Lumos%20Lumos%20Anime%20OVA%20%E2%80%98Break%20the%20Sky%E2%80%99%20%28ft.%20Catch%20Me%20If%20You%20Can%29%20%5BOfficial%20Music%20Video%5D.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=M9j8JXWBggo", label: "Lumos Lumos Anime (ft. Cantis Cantis) [Official Music Video]", also: ["https://x.com/adayasmr/status/2124272684490174924"]}
+      - {url: "https://www.youtube.com/watch?v=M9j8JXWBggo", label: "Lumos Lumos Anime (ft. Cantis Cantis) [Official Music Video]", also: ["https://x.com/adayasmr/status/2124272684490174924", "https://malfoid.duckdns.org/video/Lumos%20Lumos%20%28ADayASMR%29/2026-11-21%20Lumos%20Lumos%20Anime%20%28ft.%20Cantis%20Cantis%29%20%5BOfficial%20Music%20Video%5D.mp4"]}
     language: "English"
     added: 2026-11-09
     summary: "Makes songs and animations, including the Lumos Lumos anime series on YouTube."
@@ -7222,18 +7222,18 @@ works:
     added: 2026-11-20
     summary: "Mythic Render's Hogwarts University videos follow Harry and Draconia Malfoid in another world: six full episodes and six shorts/teasers. Also archived on the M.A. (Malfoid Archive)."
     videos:
-      - {url: "https://www.youtube.com/watch?v=QnDZ1PMvdso", label: "Harry & Malfoy (Malfoid) duel in another world | Hogwarts University: Ep 1"}
-      - {url: "https://www.youtube.com/watch?v=aYsJRiWq_eY", label: "It was a Lucky Shot… | Hogwarts University: Ep 2"}
-      - {url: "https://www.youtube.com/watch?v=G6pyZDEySxI", label: "Malfoid & Potter, and so it begins? | Hogwarts University: Ep 3"}
-      - {url: "https://www.youtube.com/watch?v=XFv1Ax1Lnhw", label: "Malfoid Watches Harry Battle Ginny the Lioness | Hogwarts University Ep. 4"}
-      - {url: "https://www.youtube.com/watch?v=2wEAJP3Em4k", label: "Malfoid’s Pride Gets Checked | Hogwarts University Ep. 5"}
-      - {url: "https://www.youtube.com/watch?v=01X3gFWdryY", label: "Draconia Malfoid Makes Harry an Offer He Can't Refuse | Hogwarts University Ep. 6"}
-      - {url: "https://www.youtube.com/shorts/nZ6lN5owaog", label: 'Short: Malfoid - Lost? (Female Draco)'}
-      - {url: "https://www.youtube.com/shorts/ZZ6rus2ioI0", label: 'Short: "It was a lucky shot." Malfoid 👀 #harrypotter'}
-      - {url: "https://www.youtube.com/shorts/lSju-3eWnBY", label: "Short: Watch till the end! Hogwarts University ep3 Malfoid (malfoy) takes over Potter's world. #malfoy"}
-      - {url: "https://www.youtube.com/shorts/ckpIyNOPK9c", label: "Short: Malfoid watches Harry try to survive."}
-      - {url: "https://www.youtube.com/shorts/3I1NOR7TYjU", label: "Short: Malfoid Yearns for Harry 🫣 EPISODE 5 (teaser). #malfoid"}
-      - {url: "https://www.youtube.com/shorts/PaCtgZ2rumI", label: "Short: Malfoid gets serious with Potter. Ep. 6"}
+      - {url: "https://www.youtube.com/watch?v=QnDZ1PMvdso", label: "Harry & Malfoy (Malfoid) duel in another world | Hogwarts University: Ep 1", also: ["https://malfoid.duckdns.org/video/MythicRenderFilm/2026-10-16%20Harry%20%26%20Malfoy%20%28Malfoid%29%20duel%20in%20another%20world%20%EF%BD%9C%20Hogwarts%20University%EF%BC%9A%20Ep%201.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=aYsJRiWq_eY", label: "It was a Lucky Shot… | Hogwarts University: Ep 2", also: ["https://malfoid.duckdns.org/video/MythicRenderFilm/2026-10-19%20It%20was%20a%20Lucky%20Shot%E2%80%A6%20%EF%BD%9C%20Hogwarts%20University%EF%BC%9A%20Ep%202.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=G6pyZDEySxI", label: "Malfoid & Potter, and so it begins? | Hogwarts University: Ep 3", also: ["https://malfoid.duckdns.org/video/MythicRenderFilm/2026-10-23%20Malfoid%20%26%20Potter%2C%20and%20so%20it%20begins%EF%BC%9F%20%EF%BD%9C%20Hogwarts%20University%EF%BC%9A%20Ep%203.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=XFv1Ax1Lnhw", label: "Malfoid Watches Harry Battle Ginny the Lioness | Hogwarts University Ep. 4", also: ["https://malfoid.duckdns.org/video/MythicRenderFilm/2026-11-04%20Malfoid%20Watches%20Harry%20Battle%20Ginny%20the%20Lioness%20%EF%BD%9C%20Hogwarts%20University%20Ep.%204.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=2wEAJP3Em4k", label: "Malfoid’s Pride Gets Checked | Hogwarts University Ep. 5", also: ["https://malfoid.duckdns.org/video/MythicRenderFilm/2026-11-09%20Malfoid%E2%80%99s%20Pride%20Gets%20Checked%20%EF%BD%9C%20Hogwarts%20University%20Ep.%205.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=01X3gFWdryY", label: "Draconia Malfoid Makes Harry an Offer He Can't Refuse | Hogwarts University Ep. 6", also: ["https://malfoid.duckdns.org/video/MythicRenderFilm/2026-11-15%20Draconia%20Malfoid%20Makes%20Harry%20an%20Offer%20He%20Can%27t%20Refuse%20%EF%BD%9C%20Hogwarts%20University%20Ep.%206.mp4"]}
+      - {url: "https://www.youtube.com/shorts/nZ6lN5owaog", label: 'Short: Malfoid - Lost? (Female Draco)', also: ["https://malfoid.duckdns.org/video/MythicRenderFilm/2026-10-17%20Short%EF%BC%9A%20Malfoid%20-%20Lost%EF%BC%9F%20%28Female%20Draco%29.mp4"]}
+      - {url: "https://www.youtube.com/shorts/ZZ6rus2ioI0", label: 'Short: "It was a lucky shot." Malfoid 👀 #harrypotter', also: ["https://malfoid.duckdns.org/video/MythicRenderFilm/2026-10-19%20Short%EF%BC%9A%20%EF%BC%82It%20was%20a%20lucky%20shot.%EF%BC%82%20Malfoid%20%F0%9F%91%80%20%23harrypotter.mp4"]}
+      - {url: "https://www.youtube.com/shorts/lSju-3eWnBY", label: "Short: Watch till the end! Hogwarts University ep3 Malfoid (malfoy) takes over Potter's world. #malfoy", also: ["https://malfoid.duckdns.org/video/MythicRenderFilm/2026-10-26%20Short%EF%BC%9A%20Watch%20till%20the%20end%21%20Hogwarts%20University%20ep3%20Malfoid%20%28malfoy%29%20takes%20over%20Potter%27s%20world.%20%23malfoy.mp4"]}
+      - {url: "https://www.youtube.com/shorts/ckpIyNOPK9c", label: "Short: Malfoid watches Harry try to survive.", also: ["https://malfoid.duckdns.org/video/MythicRenderFilm/2026-11-05%20Short%EF%BC%9A%20Malfoid%20watches%20Harry%20try%20to%20survive.mp4"]}
+      - {url: "https://www.youtube.com/shorts/3I1NOR7TYjU", label: "Short: Malfoid Yearns for Harry 🫣 EPISODE 5 (teaser). #malfoid", also: ["https://malfoid.duckdns.org/video/MythicRenderFilm/2026-11-12%20Short%EF%BC%9A%20Malfoid%20Yearns%20for%20Harry%20%F0%9F%AB%A3%20EPISODE%205%20%28teaser%29.%20%23malfoid.mp4"]}
+      - {url: "https://www.youtube.com/shorts/PaCtgZ2rumI", label: "Short: Malfoid gets serious with Potter. Ep. 6", also: ["https://malfoid.duckdns.org/video/MythicRenderFilm/2026-11-18%20Short%EF%BC%9A%20Malfoid%20gets%20serious%20with%20Potter.%20Ep.%206.mp4"]}
     tags: [video, youtube, series, shorts]
   - id: "creator-angelsotoai"
     thumb: "https://pbs.twimg.com/amplify_video_thumb/2111206484667248640/img/Q77enedJS-My7tDn.jpg"
@@ -7248,12 +7248,12 @@ works:
     added: 2026-11-20
     summary: "The Hogwarts University episodes 1-6 posted on X by Mythic Render, following Draconia Malfoid and Harry in another universe. The same series is also on the creator's YouTube channel."
     videos:
-      - {url: "https://x.com/Angelsotoai/status/2111208018813817181", label: 'Ep 1: "Scared, Potter?"'}
-      - {url: "https://x.com/Angelsotoai/status/2111971286612402518", label: 'Ep 2: "It was a lucky shot."'}
-      - {url: "https://x.com/Angelsotoai/status/2113638708280795305", label: "Ep 3: Harry's dreams"}
-      - {url: "https://x.com/Angelsotoai/status/2118057041944097276", label: "Ep 4: Harry faces the Lioness"}
-      - {url: "https://x.com/Angelsotoai/status/2119939696755114487", label: "Ep 5: Malfoid makes her move"}
-      - {url: "https://x.com/Angelsotoai/status/2122016302374039658", label: "Ep 6: Draconia's offer to Potter"}
+      - {url: "https://x.com/Angelsotoai/status/2111208018813817181", label: 'Ep 1: "Scared, Potter?"', also: ["https://malfoid.duckdns.org/video/Angelsotoai/2026-10-16%20Ep%201%EF%BC%9A%20%EF%BC%82Scared%2C%20Potter%EF%BC%9F%EF%BC%82.mp4"]}
+      - {url: "https://x.com/Angelsotoai/status/2111971286612402518", label: 'Ep 2: "It was a lucky shot."', also: ["https://malfoid.duckdns.org/video/Angelsotoai/2026-10-19%20Ep%202%EF%BC%9A%20%EF%BC%82It%20was%20a%20lucky%20shot.%EF%BC%82.mp4"]}
+      - {url: "https://x.com/Angelsotoai/status/2113638708280795305", label: "Ep 3: Harry's dreams", also: ["https://malfoid.duckdns.org/video/Angelsotoai/2026-10-23%20Ep%203%EF%BC%9A%20Harry%27s%20dreams.mp4"]}
+      - {url: "https://x.com/Angelsotoai/status/2118057041944097276", label: "Ep 4: Harry faces the Lioness", also: ["https://malfoid.duckdns.org/video/Angelsotoai/2026-11-04%20Ep%204%EF%BC%9A%20Harry%20faces%20the%20Lioness.mp4"]}
+      - {url: "https://x.com/Angelsotoai/status/2119939696755114487", label: "Ep 5: Malfoid makes her move", also: ["https://malfoid.duckdns.org/video/Angelsotoai/2026-11-09%20Ep%205%EF%BC%9A%20Malfoid%20makes%20her%20move.mp4"]}
+      - {url: "https://x.com/Angelsotoai/status/2122016302374039658", label: "Ep 6: Draconia's offer to Potter", also: ["https://malfoid.duckdns.org/video/Angelsotoai/2026-11-15%20Ep%206%EF%BC%9A%20Draconia%27s%20offer%20to%20Potter.mp4"]}
     tags: [video, x, series, episodes]
   - id: "gallery-topovn-artwork-archive"
     title: "The Malfoid Artwork Archive"
@@ -7277,12 +7277,12 @@ works:
     added: 2026-11-21
     summary: "Malfoid AI rom-com videos with English dialog, on YouTube."
     videos:
-      - {url: "https://www.youtube.com/watch?v=mgxjE_Jh8OQ", label: "TS 말포이가 사랑의 묘약을 먹어버렸다"}
-      - {url: "https://www.youtube.com/watch?v=yGdZQbdtYKA", label: "TS 말포이가 해리랑 단둘이 벌을 받아버렸다"}
-      - {url: "https://www.youtube.com/watch?v=GuwsgF75IbU", label: "TS 말포이가 하루 동안 거짓말을 못 하게 돼버렸다"}
-      - {url: "https://www.youtube.com/shorts/RKl89WTjKT4", label: "TS말포이 현실 고증 100% 미연시 (호감도 -50,000%) (Short)"}
-      - {url: "https://www.youtube.com/shorts/pflQygvCEvE", label: "TS 말포이 호감도 50퍼일때 츤 (Short)"}
-      - {url: "https://www.youtube.com/shorts/9i5SymGsgzI", label: "TS 말포이 호감도 100퍼일때 데레 (Short)"}
+      - {url: "https://www.youtube.com/watch?v=mgxjE_Jh8OQ", label: "TS 말포이가 사랑의 묘약을 먹어버렸다", also: ["https://malfoid.duckdns.org/video/mattestudio_kr/2026-11-06%20TS%20%EB%A7%90%ED%8F%AC%EC%9D%B4%EA%B0%80%20%EC%82%AC%EB%9E%91%EC%9D%98%20%EB%AC%98%EC%95%BD%EC%9D%84%20%EB%A8%B9%EC%96%B4%EB%B2%84%EB%A0%B8%EB%8B%A4.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=yGdZQbdtYKA", label: "TS 말포이가 해리랑 단둘이 벌을 받아버렸다", also: ["https://malfoid.duckdns.org/video/mattestudio_kr/2026-11-12%20TS%20%EB%A7%90%ED%8F%AC%EC%9D%B4%EA%B0%80%20%ED%95%B4%EB%A6%AC%EB%9E%91%20%EB%8B%A8%EB%91%98%EC%9D%B4%20%EB%B2%8C%EC%9D%84%20%EB%B0%9B%EC%95%84%EB%B2%84%EB%A0%B8%EB%8B%A4.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=GuwsgF75IbU", label: "TS 말포이가 하루 동안 거짓말을 못 하게 돼버렸다", also: ["https://malfoid.duckdns.org/video/mattestudio_kr/2026-11-19%20TS%20%EB%A7%90%ED%8F%AC%EC%9D%B4%EA%B0%80%20%ED%95%98%EB%A3%A8%20%EB%8F%99%EC%95%88%20%EA%B1%B0%EC%A7%93%EB%A7%90%EC%9D%84%20%EB%AA%BB%20%ED%95%98%EA%B2%8C%20%EB%8F%BC%EB%B2%84%EB%A0%B8%EB%8B%A4.mp4"]}
+      - {url: "https://www.youtube.com/shorts/RKl89WTjKT4", label: "TS말포이 현실 고증 100% 미연시 (호감도 -50,000%) (Short)", also: ["https://malfoid.duckdns.org/video/mattestudio_kr/2026-11-15%20TS%EB%A7%90%ED%8F%AC%EC%9D%B4%20%ED%98%84%EC%8B%A4%20%EA%B3%A0%EC%A6%9D%20100%25%20%EB%AF%B8%EC%97%B0%EC%8B%9C%20%28%ED%98%B8%EA%B0%90%EB%8F%84%20-50%2C000%25%29%20%28Short%29.mp4"]}
+      - {url: "https://www.youtube.com/shorts/pflQygvCEvE", label: "TS 말포이 호감도 50퍼일때 츤 (Short)", also: ["https://malfoid.duckdns.org/video/mattestudio_kr/2026-11-17%20TS%20%EB%A7%90%ED%8F%AC%EC%9D%B4%20%ED%98%B8%EA%B0%90%EB%8F%84%2050%ED%8D%BC%EC%9D%BC%EB%95%8C%20%EC%B8%A4%20%28Short%29.mp4"]}
+      - {url: "https://www.youtube.com/shorts/9i5SymGsgzI", label: "TS 말포이 호감도 100퍼일때 데레 (Short)", also: ["https://malfoid.duckdns.org/video/mattestudio_kr/2026-11-18%20TS%20%EB%A7%90%ED%8F%AC%EC%9D%B4%20%ED%98%B8%EA%B0%90%EB%8F%84%20100%ED%8D%BC%EC%9D%BC%EB%95%8C%20%EB%8D%B0%EB%A0%88%20%28Short%29.mp4"]}
     tags: [video, youtube]
   - id: "creator-forestfrost9"
     title: "ForestFrost9"
@@ -7310,10 +7310,10 @@ works:
     summary: "Malfoid meets Harry for the first time, in a series of episodes with English subtitles on YouTube."
     tags: [video, youtube]
     videos:
-      - {url: "https://www.youtube.com/watch?v=-llfSTuiZUo", label: "EP1: Malfoy-chan isn't honest"}
-      - {url: "https://www.youtube.com/watch?v=AsHiKKuVC9Y", label: "EP2: Malfoy-chan doesn't write a diary"}
-      - {url: "https://www.youtube.com/watch?v=yIUQjxAKtC0", label: "EP3: Malfoy-chan doesn't want attention"}
-      - {url: "https://www.youtube.com/watch?v=4Zp65Izdkzo", label: "EP3.5: Malfoy doesn't get hurt (EP4 preview)"}
+      - {url: "https://www.youtube.com/watch?v=-llfSTuiZUo", label: "EP1: Malfoy-chan isn't honest", also: ["https://malfoid.duckdns.org/video/%E3%82%AB%E3%83%A9_Kara%20%28Kara-r8f%29/2026-11-01%20EP1%EF%BC%9A%20Malfoy-chan%20isn%27t%20honest.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=AsHiKKuVC9Y", label: "EP2: Malfoy-chan doesn't write a diary", also: ["https://malfoid.duckdns.org/video/%E3%82%AB%E3%83%A9_Kara%20%28Kara-r8f%29/2026-11-07%20EP2%EF%BC%9A%20Malfoy-chan%20doesn%27t%20write%20a%20diary.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=yIUQjxAKtC0", label: "EP3: Malfoy-chan doesn't want attention", also: ["https://malfoid.duckdns.org/video/%E3%82%AB%E3%83%A9_Kara%20%28Kara-r8f%29/2026-11-13%20EP3%EF%BC%9A%20Malfoy-chan%20doesn%27t%20want%20attention.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=4Zp65Izdkzo", label: "EP3.5: Malfoy doesn't get hurt (EP4 preview)", also: ["https://malfoid.duckdns.org/video/%E3%82%AB%E3%83%A9_Kara%20%28Kara-r8f%29/2026-11-21%20EP3.5%EF%BC%9A%20Malfoy%20doesn%27t%20get%20hurt%20%28EP4%20preview%29.mp4"]}
   - id: "video-yt--Q7xHAdfgAg"
     title: "Malfoid - the mirror"
     first_name: ""
