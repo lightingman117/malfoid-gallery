@@ -26,6 +26,7 @@ works:
     kind: [comic, fanfic]
     creator: "rhedak"
     url: "https://rhedak.github.io/malfoid-the-girl-who-yearned/"
+    also: ["https://www.webtoons.com/en/canvas/malfoid-the-girl-who-yearned/list?title_no=1185712"]
     language: "English"
     added: 2026-11-08
     summary: "A free fan webcomic retelling Philosopher's Stone with a split point of view between Harry and Draconia Malfoy. Made with AI image tools, panel by panel."
@@ -1398,9 +1399,7 @@ works:
     format: other
     creator: "@MalfoidSoftware"
     url: "https://x.com/MalfoidSoftware"
-    also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/"]
-    also:
-      - "https://www.youtube.com/@MalfoidSoftware"
+    also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/", "https://www.youtube.com/@MalfoidSoftware"]
     videos:
       - {url: "https://www.youtube.com/watch?v=tEcliYi8b3c", label: "Malfoid's Honeymoon with Harry Potter", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-11-08%20Malfoid%27s%20Honeymoon%20with%20Harry%20Potter.mp4"]}
       - {url: "https://www.youtube.com/watch?v=LiO3an9aIt8", label: "Malfoid And The Deathly Hollows Part 1", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-11-01%20Malfoid%20And%20The%20Deathly%20Hollows%20Part%201.mp4"]}
@@ -1647,7 +1646,6 @@ works:
       - {url: "https://www.youtube.com/watch?v=nJg8CF406CA", label: "Catch the Snitch, Not Feelings | A Quidditch Pep-Talk Gone Wrong", also: ["https://malfoid.duckdns.org/video/Zandran/2026-11-19%20Catch%20the%20Snitch%2C%20Not%20Feelings%20%EF%BD%9C%20A%20Quidditch%20Pep-Talk%20Gone%20Wrong.mp4"]}
       - {url: "https://www.youtube.com/watch?v=ve3HAbHgTUk", label: "Where the Rules Fell Out | A Night Heist", also: ["https://malfoid.duckdns.org/video/Zandran/2026-11-19%20Where%20the%20Rules%20Fell%20Out%20%EF%BD%9C%20A%20Night%20Heist.mp4"]}
     tags: [music, video, x, youtube]
-    format: other
   - id: "video-foyege-malfoy-story"
     thumb: "https://i.ytimg.com/vi/Waim1H0GR_A/hqdefault.jpg"
     title: "The Malfoy Story"
@@ -2002,7 +2000,6 @@ works:
     title: "Crimsonaigc"
     first_name: ""
     kind: [creator, video]
-    format: other
     creator: "@Crimsonaigc"
     url: "https://www.youtube.com/@Crimsonaigc"
     also: ["https://malfoid.duckdns.org/video/Crimsonaigc/"]
