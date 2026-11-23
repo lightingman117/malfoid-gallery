@@ -7908,3 +7908,15 @@ works:
     added: 2026-11-22
     summary: "Malfoid video on YouTube by Mariovlogs."
     tags: [video, youtube]
+  - id: "comic-draca-pages-dev"
+    title: "Draca"
+    first_name: "Draca"
+    kind: [comic, fanfic]
+    creator: "inachane"
+    url: "https://draca.pages.dev/"
+    also: ["https://www.wattpad.com/user/IUSarde", "https://www.wattpad.com/story/417160307-draca-malfoy-and-the-philosopher%27s-stone", "https://www.wattpad.com/story/417161781-draca-malfoy-and-the-chamber-of-secrets", "https://www.wattpad.com/story/417167669-draca-malfoy-and-the-prisoner-of-azkaban", "https://www.wattpad.com/story/417168432-draca-malfoy-and-the-goblet-of-fire", "https://www.wattpad.com/story/417170404-draca-malfoy-and-the-order-of-the-phoenix", "https://www.wattpad.com/story/417201015-draca-malfoy-and-the-halfblooded-prince", "https://www.wattpad.com/story/417205760-draca-malfoy-and-the-deathly-hallows"]
+    language: "English"
+    added: 2026-11-23
+    length: "novel"
+    summary: "Genderbent Draco Malfoy retelling of Harry Potter by inachane, told as illustrated pages with AI-generated art across seven books, from The Philosopher's Stone to The Deathly Hallows (book 7 ongoing on the site). Also on Wattpad."
+    tags: [genderbend, harry-potter-retelling, illustrated, ai-art]
