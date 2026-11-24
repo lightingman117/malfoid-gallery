@@ -8259,3 +8259,15 @@ works:
     added: 2026-11-24
     summary: "Short Malfoid clip on YouTube by iKz69 from The Unbreakable Vow."
     tags: ["video", "youtube"]
+  - id: "creator-halcyon-tide"
+    title: "Halcyon Tide"
+    first_name: ""
+    kind: [creator, video]
+    creator: "Halcyon Tide (@halcyonaiq)"
+    url: "https://www.youtube.com/@halcyonaiq"
+    language: "English"
+    added: 2026-11-24
+    summary: "AI-made Miss Malfoy fanfic on YouTube, a Harry x female Malfoy story. Episode 1 is embedded."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=LsXH1AQbfcA", label: "Miss Malfoy | Episode 1: The Goblet Chose Him"}
+    tags: [creator, video, youtube]
