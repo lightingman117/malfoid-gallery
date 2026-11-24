@@ -8285,3 +8285,14 @@ works:
     videos:
       - {url: "https://www.youtube.com/watch?v=LsXH1AQbfcA", label: "Miss Malfoy | Episode 1: The Goblet Chose Him"}
     tags: [creator, video, youtube]
+  - id: "video-yt-b0au111W66I"
+    title: "When Malfoid Sees Potter With Another Girl"
+    first_name: ""
+    kind: video
+    creator: "@TheRoomYouCantLeave"
+    url: "https://www.youtube.com/watch?v=b0au111W66I"
+    embed: "https://www.youtube.com/watch?v=b0au111W66I"
+    language: "English subs"
+    added: 2026-11-24
+    summary: "Short romantic comedy clip with Malfoid on YouTube, AI-made, with hard-coded English subtitles."
+    tags: ["video", "youtube"]
