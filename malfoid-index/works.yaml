@@ -33987,3 +33987,20 @@ works:
     added: 2026-11-25
     summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
     tags: [art, x]
+  - id: "chat-x-order-of-the-year"
+    title: "Order of the Year"
+    first_name: ""
+    kind: chat
+    creator: "@Malfoid"
+    url: "https://x.com/Malfoid/status/2118428888816902542"
+    added: 2026-11-25
+    summary: "An X chat group about Malfoid, linked from the Malfoid account's post."
+    tags: [chat, x]
+  - id: "chat-discord-malfoid"
+    title: "Malfoid Discord"
+    first_name: ""
+    kind: chat
+    url: "https://top.gg/discord/servers/898602083284791296"
+    added: 2026-11-25
+    summary: "A Discord server for Malfoid fans, listed on top.gg."
+    tags: [chat, discord]
