@@ -8357,3 +8357,1003 @@ works:
       - {url: "https://www.youtube.com/watch?v=R378bPdhtZg", label: "EP5: Malfoy Avoids Potter"}
       - {url: "https://www.youtube.com/watch?v=ee8RrslcO3A", label: "EP6: Potter Apologizes to Malfoy"}
     tags: [creator, video, youtube]
+  - id: "artist-khyleri"
+    title: "khyleri"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@khyleri"
+    url: "https://x.com/khyleri"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=khyleri#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-usedgov"
+    title: "usedgov"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@usedgov"
+    url: "https://x.com/usedgov"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=usedgov#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-hews__"
+    title: "hews__"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@hews__"
+    url: "https://x.com/hews__"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=hews__#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-genshin_t1"
+    title: "Genshin_T1"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Genshin_T1"
+    url: "https://x.com/Genshin_T1"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Genshin_T1#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-merryweatherey"
+    title: "Merryweatherey"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Merryweatherey"
+    url: "https://x.com/Merryweatherey"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Merryweatherey#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-dishwasher1910"
+    title: "Dishwasher1910"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Dishwasher1910"
+    url: "https://x.com/Dishwasher1910"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Dishwasher1910#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-qiandaiyiyu"
+    title: "qiandaiyiyu"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@qiandaiyiyu"
+    url: "https://x.com/qiandaiyiyu"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=qiandaiyiyu#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-sco_ttie"
+    title: "Sco_ttie"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Sco_ttie"
+    url: "https://x.com/Sco_ttie"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Sco_ttie#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-udon0531"
+    title: "udon0531"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@udon0531"
+    url: "https://x.com/udon0531"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=udon0531#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-tentenchan2525"
+    title: "tentenchan2525"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@tentenchan2525"
+    url: "https://x.com/tentenchan2525"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=tentenchan2525#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-ratatatat74"
+    title: "ratatatat74"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@ratatatat74"
+    url: "https://x.com/ratatatat74"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=ratatatat74#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-mimmi_sak"
+    title: "mimmi_sak"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@mimmi_sak"
+    url: "https://x.com/mimmi_sak"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=mimmi_sak#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-hood_x_art"
+    title: "hood_x_art"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@hood_x_art"
+    url: "https://x.com/hood_x_art"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=hood_x_art#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-centuriic"
+    title: "CenturiiC"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@CenturiiC"
+    url: "https://x.com/CenturiiC"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=CenturiiC#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-bkub_comic"
+    title: "bkub_comic"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@bkub_comic"
+    url: "https://x.com/bkub_comic"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=bkub_comic#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-zurikishi"
+    title: "zurikishi"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@zurikishi"
+    url: "https://x.com/zurikishi"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=zurikishi#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-tsuna_nekota"
+    title: "tsuna_nekota"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@tsuna_nekota"
+    url: "https://x.com/tsuna_nekota"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=tsuna_nekota#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-rgsp00n"
+    title: "Rgsp00n"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Rgsp00n"
+    url: "https://x.com/Rgsp00n"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Rgsp00n#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-feintheart721"
+    title: "FeintHeart721"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@FeintHeart721"
+    url: "https://x.com/FeintHeart721"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=FeintHeart721#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-basedbinkie"
+    title: "basedbinkie"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@basedbinkie"
+    url: "https://x.com/basedbinkie"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=basedbinkie#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-jourd4n_"
+    title: "Jourd4n_"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Jourd4n_"
+    url: "https://x.com/Jourd4n_"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Jourd4n_#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-tokkyusan"
+    title: "tokkyusan"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@tokkyusan"
+    url: "https://x.com/tokkyusan"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=tokkyusan#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-kittew_art"
+    title: "Kittew_art"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Kittew_art"
+    url: "https://x.com/Kittew_art"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Kittew_art#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-himehinghoi"
+    title: "HimeHinghoi"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@HimeHinghoi"
+    url: "https://x.com/HimeHinghoi"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=HimeHinghoi#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-john_kafka02"
+    title: "john_kafka02"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@john_kafka02"
+    url: "https://x.com/john_kafka02"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=john_kafka02#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-ireading62"
+    title: "ireading62"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@ireading62"
+    url: "https://x.com/ireading62"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=ireading62#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-baalbuddy"
+    title: "baalbuddy"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@baalbuddy"
+    url: "https://x.com/baalbuddy"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=baalbuddy#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-wonbin_lee_"
+    title: "wonbin_lee_"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@wonbin_lee_"
+    url: "https://x.com/wonbin_lee_"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=wonbin_lee_#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-sxodium"
+    title: "SXodium"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@SXodium"
+    url: "https://x.com/SXodium"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=SXodium#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-netural1175"
+    title: "netural1175"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@netural1175"
+    url: "https://x.com/netural1175"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=netural1175#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-alex30818"
+    title: "alex30818"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@alex30818"
+    url: "https://x.com/alex30818"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=alex30818#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-dmvvhv_ver2"
+    title: "dmvvhv_ver2"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@dmvvhv_ver2"
+    url: "https://x.com/dmvvhv_ver2"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=dmvvhv_ver2#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-_d_a_s_h_i_"
+    title: "_D_A_S_H_I_"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@_D_A_S_H_I_"
+    url: "https://x.com/_D_A_S_H_I_"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=_D_A_S_H_I_#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-topu2782"
+    title: "topu2782"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@topu2782"
+    url: "https://x.com/topu2782"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=topu2782#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-reia_76"
+    title: "Reia_76"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Reia_76"
+    url: "https://x.com/Reia_76"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Reia_76#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-syhan__"
+    title: "SyHan__"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@SyHan__"
+    url: "https://x.com/SyHan__"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=SyHan__#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-hitsukuya"
+    title: "hitsukuya"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@hitsukuya"
+    url: "https://x.com/hitsukuya"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=hitsukuya#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-fu_futa"
+    title: "fu_futa"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@fu_futa"
+    url: "https://x.com/fu_futa"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=fu_futa#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-myungyi_"
+    title: "MyungYi_"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@MyungYi_"
+    url: "https://x.com/MyungYi_"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=MyungYi_#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-beijuu545"
+    title: "Beijuu545"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Beijuu545"
+    url: "https://x.com/Beijuu545"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Beijuu545#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-uenoryoma"
+    title: "uenoryoma"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@uenoryoma"
+    url: "https://x.com/uenoryoma"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=uenoryoma#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-setsumanga2"
+    title: "SetsuManga2"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@SetsuManga2"
+    url: "https://x.com/SetsuManga2"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=SetsuManga2#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-t1kosewad78"
+    title: "T1kosewad78"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@T1kosewad78"
+    url: "https://x.com/T1kosewad78"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=T1kosewad78#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-sesield"
+    title: "Sesield"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Sesield"
+    url: "https://x.com/Sesield"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Sesield#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-ssambatea"
+    title: "SSAMBAtea"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@SSAMBAtea"
+    url: "https://x.com/SSAMBAtea"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=SSAMBAtea#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-raiya_atelier"
+    title: "Raiya_Atelier"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Raiya_Atelier"
+    url: "https://x.com/Raiya_Atelier"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Raiya_Atelier#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-kakushi_eria_b"
+    title: "kakushi_eria_b"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@kakushi_eria_b"
+    url: "https://x.com/kakushi_eria_b"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=kakushi_eria_b#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-drowsy_sheep"
+    title: "Drowsy_sheep"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Drowsy_sheep"
+    url: "https://x.com/Drowsy_sheep"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Drowsy_sheep#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-redpostit101"
+    title: "Redpostit101"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Redpostit101"
+    url: "https://x.com/Redpostit101"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Redpostit101#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-rimukoro"
+    title: "rimukoro"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@rimukoro"
+    url: "https://x.com/rimukoro"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=rimukoro#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-sintrybest"
+    title: "SinTryBest"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@SinTryBest"
+    url: "https://x.com/SinTryBest"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=SinTryBest#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-ohsry9riiftzjmy"
+    title: "OhSrY9riIftzjmY"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@OhSrY9riIftzjmY"
+    url: "https://x.com/OhSrY9riIftzjmY"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=OhSrY9riIftzjmY#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-luxuriass"
+    title: "Luxuriass"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Luxuriass"
+    url: "https://x.com/Luxuriass"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Luxuriass#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-kekel0212"
+    title: "Kekel0212"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Kekel0212"
+    url: "https://x.com/Kekel0212"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Kekel0212#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-marimo_zz"
+    title: "marimo_zz"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@marimo_zz"
+    url: "https://x.com/marimo_zz"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=marimo_zz#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-shengtian00"
+    title: "shengtian00"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@shengtian00"
+    url: "https://x.com/shengtian00"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=shengtian00#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-syunsaeki"
+    title: "Syunsaeki"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Syunsaeki"
+    url: "https://x.com/Syunsaeki"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Syunsaeki#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-artgofa"
+    title: "ArtGofa"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@ArtGofa"
+    url: "https://x.com/ArtGofa"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=ArtGofa#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-mg991998"
+    title: "Mg991998"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Mg991998"
+    url: "https://x.com/Mg991998"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Mg991998#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-cheshirrrrrko"
+    title: "cheshirrrrrko"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@cheshirrrrrko"
+    url: "https://x.com/cheshirrrrrko"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=cheshirrrrrko#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-mugit49"
+    title: "MugiT49"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@MugiT49"
+    url: "https://x.com/MugiT49"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=MugiT49#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-vitaminechan"
+    title: "Vitaminechan"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Vitaminechan"
+    url: "https://x.com/Vitaminechan"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Vitaminechan#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-kusujinn"
+    title: "kusujinn"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@kusujinn"
+    url: "https://x.com/kusujinn"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=kusujinn#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-kw7md8fewt7lmxx"
+    title: "KW7MD8FEWT7lMXx"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@KW7MD8FEWT7lMXx"
+    url: "https://x.com/KW7MD8FEWT7lMXx"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=KW7MD8FEWT7lMXx#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-o2h2_oh4"
+    title: "O2H2_OH4"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@O2H2_OH4"
+    url: "https://x.com/O2H2_OH4"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=O2H2_OH4#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-szs0k"
+    title: "Szs0K"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Szs0K"
+    url: "https://x.com/Szs0K"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Szs0K#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-kkato_66"
+    title: "KKato_66"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@KKato_66"
+    url: "https://x.com/KKato_66"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=KKato_66#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-shinjinou1"
+    title: "Shinjinou1"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Shinjinou1"
+    url: "https://x.com/Shinjinou1"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Shinjinou1#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-cuboon"
+    title: "cuboon"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@cuboon"
+    url: "https://x.com/cuboon"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=cuboon#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-pluviumg"
+    title: "PluviumG"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@PluviumG"
+    url: "https://x.com/PluviumG"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=PluviumG#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-ourboy83"
+    title: "ourboy83"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@ourboy83"
+    url: "https://x.com/ourboy83"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=ourboy83#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-rakusakugk"
+    title: "rakusakugk"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@rakusakugk"
+    url: "https://x.com/rakusakugk"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=rakusakugk#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-z_arts96"
+    title: "z_ARTs96"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@z_ARTs96"
+    url: "https://x.com/z_ARTs96"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=z_ARTs96#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-sneg9623"
+    title: "sneg9623"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@sneg9623"
+    url: "https://x.com/sneg9623"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=sneg9623#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-semidrawsp"
+    title: "SemiDrawsP"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@SemiDrawsP"
+    url: "https://x.com/SemiDrawsP"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=SemiDrawsP#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-enmanuelart20"
+    title: "Enmanuelart20"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Enmanuelart20"
+    url: "https://x.com/Enmanuelart20"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Enmanuelart20#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-tofuubearart"
+    title: "Tofuubearart"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Tofuubearart"
+    url: "https://x.com/Tofuubearart"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Tofuubearart#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-ongjolpark"
+    title: "OngjolPark"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@OngjolPark"
+    url: "https://x.com/OngjolPark"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=OngjolPark#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-norito_a"
+    title: "norito_a"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@norito_a"
+    url: "https://x.com/norito_a"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=norito_a#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-proudbanana_1"
+    title: "ProudBanana_1"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@ProudBanana_1"
+    url: "https://x.com/ProudBanana_1"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=ProudBanana_1#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-eddiehantaiwan"
+    title: "EddieHanTaiwan"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@EddieHanTaiwan"
+    url: "https://x.com/EddieHanTaiwan"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=EddieHanTaiwan#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-foxlyein"
+    title: "foxlyein"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@foxlyein"
+    url: "https://x.com/foxlyein"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=foxlyein#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-pommuart"
+    title: "pommuart"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@pommuart"
+    url: "https://x.com/pommuart"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=pommuart#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-sollyzsundyz"
+    title: "SollyzSundyz"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@SollyzSundyz"
+    url: "https://x.com/SollyzSundyz"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=SollyzSundyz#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-yampahood"
+    title: "yampahood"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@yampahood"
+    url: "https://x.com/yampahood"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=yampahood#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-vlizzyvlizz117"
+    title: "VlizzyVlizz117"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@VlizzyVlizz117"
+    url: "https://x.com/VlizzyVlizz117"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=VlizzyVlizz117#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-nekokota_koume"
+    title: "nekokota_koume"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@nekokota_koume"
+    url: "https://x.com/nekokota_koume"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=nekokota_koume#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-fkscrashing"
+    title: "FKSCrashinG"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@FKSCrashinG"
+    url: "https://x.com/FKSCrashinG"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=FKSCrashinG#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-uof1052237"
+    title: "uof1052237"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@uof1052237"
+    url: "https://x.com/uof1052237"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=uof1052237#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-amik1_"
+    title: "amik1_"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@amik1_"
+    url: "https://x.com/amik1_"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=amik1_#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-plentyofempty"
+    title: "plentyofempty"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@plentyofempty"
+    url: "https://x.com/plentyofempty"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=plentyofempty#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-orobou"
+    title: "orobou"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@orobou"
+    url: "https://x.com/orobou"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=orobou#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-wass_nonnam"
+    title: "Wass_Nonnam"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Wass_Nonnam"
+    url: "https://x.com/Wass_Nonnam"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Wass_Nonnam#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-dismaidenart"
+    title: "dismaidenart"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@dismaidenart"
+    url: "https://x.com/dismaidenart"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=dismaidenart#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-fata_aaa"
+    title: "Fata_aaa"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Fata_aaa"
+    url: "https://x.com/Fata_aaa"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Fata_aaa#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-waligner"
+    title: "Waligner"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Waligner"
+    url: "https://x.com/Waligner"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Waligner#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-nano_1227"
+    title: "nano_1227"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@nano_1227"
+    url: "https://x.com/nano_1227"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=nano_1227#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-shiroi2412"
+    title: "Shiroi2412"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@Shiroi2412"
+    url: "https://x.com/Shiroi2412"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Shiroi2412#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-juaagacgy"
+    title: "JuaagAcgy"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@JuaagAcgy"
+    url: "https://x.com/JuaagAcgy"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=JuaagAcgy#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
+  - id: "artist-jjj______sss"
+    title: "JJJ______SSS"
+    first_name: ""
+    kind: [artist, art]
+    creator: "@JJJ______SSS"
+    url: "https://x.com/JJJ______SSS"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=JJJ______SSS#gallery"]
+    added: 2026-11-25
+    summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    tags: [art, x]
