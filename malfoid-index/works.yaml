@@ -1389,7 +1389,7 @@ works:
     kind: [creator, art]
     creator: "@gremlinfoid"
     url: "https://x.com/gremlinfoid"
-    also: ["https://t.me/gremsguild"]
+    also: ["https://t.me/gremsguild", "https://topovn.github.io/malfoid-artwork-archive/?artist=gremlinfoid#gallery"]
     added: 2026-11-08
     summary: "Original art and memes, with commissions open. Has a guild on Telegram."
     tags: [original-art, commissions, memes, x]
