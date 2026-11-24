@@ -8296,3 +8296,15 @@ works:
     added: 2026-11-24
     summary: "Short romantic comedy clip with Malfoid on YouTube, AI-made, with hard-coded English subtitles."
     tags: ["video", "youtube"]
+  - id: "video-yt-VBiUEamNY40"
+    title: "Malfoid Legacy - Episode 1 - Family Meeting"
+    first_name: ""
+    kind: video
+    creator: "Sir Dyek (@Sir_Dyek)"
+    url: "https://www.youtube.com/watch?v=VBiUEamNY40"
+    embed: "https://www.youtube.com/watch?v=VBiUEamNY40"
+    also: ["https://x.com/sir_dyek/status/2123560441183932538"]
+    language: "English"
+    added: 2026-11-24
+    summary: "Malfoid Legacy episode 1: the Malfoys and the Dursleys meet to decide the future of the relationship between Draconia and Harry. Made with AI."
+    tags: ["video", "youtube", "malfoy-family", "dursley-family"]
