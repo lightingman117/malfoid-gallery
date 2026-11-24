@@ -657,6 +657,9 @@ def main():
             os.makedirs(os.path.join(out, os.path.dirname(rel)), exist_ok=True)
             shutil.copy2(os.path.join(base, name), os.path.join(out, rel))
     open(os.path.join(out, ".nojekyll"), "w").close()
+    # GitHub Pages custom domain; the Pages deploy replaces the whole branch, so it must be written here.
+    with open(os.path.join(out, "CNAME"), "w", encoding="utf-8") as f:
+        f.write("malfoid.jp\n")
 
     index = build_index()
     made = 0
