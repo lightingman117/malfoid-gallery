@@ -7307,6 +7307,18 @@ works:
     videos:
       - {url: "https://x.com/ForestFrost9/status/2121219025745424613", label: "The first Malfoid comics"}
       - {url: "https://x.com/ForestFrost9/status/2123172542139838909", label: "Malfoid Timeline Comics: Narcissa and Lily Complete"}
+  - id: "creator-catholic-comedy"
+    title: "CatholicComedy"
+    first_name: ""
+    kind: [creator, comic]
+    creator: "CatholicComedy (@catholic_comedy)"
+    url: "https://x.com/catholic_comedy"
+    language: "English"
+    added: 2026-11-24
+    summary: "Malfoid comics on X, told as a numbered megathread: a story-order saga of Dracana and Harry from the Battle of Hogwarts through RCIA, marriage and babies. The megathread post is embedded below."
+    tags: [x, comic, malfoid]
+    videos:
+      - {url: "https://x.com/catholic_comedy/status/2113804565585731681", label: "THE MALFOID MEGATHREAD"}
   - id: "creator-kara-r8f"
     title: "Malfoid Isn't Honest About Her Feelings"
     first_name: "Draco"
