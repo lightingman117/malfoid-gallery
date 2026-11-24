@@ -2085,13 +2085,13 @@ works:
     also: ["https://malfoid.duckdns.org/video/Luna%20Lovelace/"]
     language: "English"
     added: 2026-11-09
-    summary: "A tech YouTuber who also makes Malfoid videos, including the Draconia Malfoid x Harry Potter movie. The channel moved its videos from YouTube to Google Drive; Movie 1, Movie II and the cast interview are embedded below."
-    embed: "https://drive.google.com/file/d/1aFaYOITgG_t9-Oj2Ke2p5BW2oENvrEF9/view"
+    summary: "A tech YouTuber who also makes Malfoid videos, including the Draconia Malfoid x Harry Potter movie. The channel moved its videos from YouTube to Google Drive; Movie 1, Movie II and the cast interview are embedded from Rumble backups, with Google Drive downloads."
+    embed: "https://rumble.com/embed/v7gmvew/?pub=13iafn"
     embed_label: "Draconia Malfoid x Harry Potter | The Movie"
-    embed_also: ["https://drive.google.com/file/d/1aFaYOITgG_t9-Oj2Ke2p5BW2oENvrEF9/view"]
+    embed_also: ["https://drive.google.com/file/d/1aFaYOITgG_t9-Oj2Ke2p5BW2oENvrEF9/view", "https://malfoid.duckdns.org/video/Luna%20Lovelace%20(rhedak)/Draconia%20Malfoid%20-%20Movie%201%20%5B1aFaYOITgG_t9-Oj2Ke2p5BW2oENvrEF9%5D%20%5BGDrive%5D.mp4"]
     videos:
-      - {url: "https://drive.google.com/file/d/1sYnlEGy8WupfNmV09qVWRmtt87cl4O4b/view", label: "The Movie - II (FoYeGe Part 4 & Papallax Spring With Her)", also: ["https://drive.google.com/file/d/1sYnlEGy8WupfNmV09qVWRmtt87cl4O4b/view"]}
-      - {url: "https://drive.google.com/file/d/1wHlAkGRzj9-8f_vbgn5kirCX2rzDVk68/view", label: "Draconia & Harry Were Asked If They're Dating - Cast Interviews (FoYeGe Universe)", also: ["https://drive.google.com/file/d/1wHlAkGRzj9-8f_vbgn5kirCX2rzDVk68/view", "https://www.youtube.com/watch?v=NXsK14WyoRo"]}
+      - {url: "https://rumble.com/embed/v7gmvi4/?pub=13iafn", label: "The Movie - II (FoYeGe Part 4 & Papallax Spring With Her)", also: ["https://drive.google.com/file/d/1sYnlEGy8WupfNmV09qVWRmtt87cl4O4b/view", "https://malfoid.duckdns.org/video/Luna%20Lovelace/NA%20Draconia%20Malfoid%20-%20Movie%20II.mp4%20%5B1sYnlEGy8WupfNmV09qVWRmtt87cl4O4b%5D%20%5BWeb%201sYnlEGy8WupfNmV09qVWRmtt87cl4O4b%5D.mp4"]}
+      - {url: "https://rumble.com/embed/v7gmvkw/?pub=13iafn", label: "Draconia & Harry Were Asked If They're Dating - Cast Interviews (FoYeGe Universe)", also: ["https://drive.google.com/file/d/1wHlAkGRzj9-8f_vbgn5kirCX2rzDVk68/view", "https://malfoid.duckdns.org/video/Luna%20Lovelace%20(rhedak)/Draconia%20Malfoid%20-%20The%20Interview%20%5B1wHlAkGRzj9-8f_vbgn5kirCX2rzDVk68%5D%20%5BGDrive%5D.mp4", "ignored: https://www.youtube.com/watch?v=NXsK14WyoRo"]}
     tags: [video, movie, collaboration, youtube]
   - id: "creator-papallax"
     thumb: "banners/papallax.webp"
