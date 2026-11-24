@@ -35,7 +35,7 @@ works:
     kind: [creator, video]
     creator: "Michael Thomas (@4rchangel07)"
     url: "https://x.com/4rchangel07"
-    also: ["https://malfoid.duckdns.org/video/4rchangel07/"]
+    also: ["https://malfoid.duckdns.org/video/4rchangel07/", "https://topovn.github.io/malfoid-artwork-archive/?artist=4rchangel07#gallery"]
     added: 2026-11-20
     summary: "Malfoid videos by Michael Thomas, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
@@ -2965,7 +2965,7 @@ works:
     kind: [creator, video]
     creator: "Malfoid 🐍 (@malfoidvt)"
     url: "https://www.youtube.com/@malfoidvt"
-    also: ["https://malfoid.duckdns.org/video/Malfoid%20%F0%9F%90%8D%20(malfoidvt)/"]
+    also: ["https://malfoid.duckdns.org/video/Malfoid%20%F0%9F%90%8D%20(malfoidvt)/", "https://topovn.github.io/malfoid-artwork-archive/?artist=malfoidvt#gallery"]
     added: 2026-11-20
     summary: "Malfoid videos by Malfoid 🐍, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
@@ -7393,7 +7393,7 @@ works:
     kind: [creator, video]
     creator: "茶霧Chagiri (@Chagiri1011)"
     url: "https://www.youtube.com/@Chagiri1011"
-    also: ["https://malfoid.duckdns.org/video/%E8%8C%B6%E9%9C%A7Chagiri%20(Chagiri1011)/"]
+    also: ["https://malfoid.duckdns.org/video/%E8%8C%B6%E9%9C%A7Chagiri%20(Chagiri1011)/", "https://topovn.github.io/malfoid-artwork-archive/?artist=Chagiri1011#gallery"]
     added: 2026-11-20
     summary: "Malfoid videos by 茶霧Chagiri, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
@@ -8057,7 +8057,7 @@ works:
     kind: [creator, video]
     creator: "유콘 (@ukon60)"
     url: "https://www.youtube.com/@ukon60"
-    also: ["https://malfoid.duckdns.org/video/%EC%9C%A0%EC%BD%98%20(ukon60)/"]
+    also: ["https://malfoid.duckdns.org/video/%EC%9C%A0%EC%BD%98%20(ukon60)/", "https://topovn.github.io/malfoid-artwork-archive/?artist=ukon60#gallery"]
     added: 2026-11-20
     summary: "Malfoid videos by 유콘, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]

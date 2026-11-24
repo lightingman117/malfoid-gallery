@@ -1497,7 +1497,7 @@ works:
     language: "English"
     added: 2026-11-09
     summary: "Creator of The Vilaness Malfoy, a video series on YouTube with Draco Malfoy as a girl, and story updates on X."
-    also: ["https://www.youtube.com/@fiction8619"]
+    also: ["https://www.youtube.com/@fiction8619", "https://topovn.github.io/malfoid-artwork-archive/?artist=Fiction8619#gallery"]
     videos:
       - {url: "https://www.youtube.com/watch?v=sytC2x6ocGc", label: "The Vilaness Malfoy - Chapter 1: Prologue", also: ["https://malfoid.duckdns.org/stories/fiction8619/2026-10-18%20The%20Vilaness%20Malfoy%20-%20Chapter%201%EF%BC%9A%20Prologue.mp4"]}
       - {url: "https://www.youtube.com/watch?v=ojeT1sByCQU", label: "The Vilaness Malfoy - Chapter 2: I will protect the House of Malfoy!", also: ["https://malfoid.duckdns.org/stories/fiction8619/2026-10-27%20The%20Vilaness%20Malfoy%20-%20Chapter%202%EF%BC%9A%20I%20will%20protect%20the%20House%20of%20Malfoy%21.mp4"]}
@@ -1562,10 +1562,11 @@ works:
     language: "English"
     added: 2026-11-09
     summary: "A Malfoid comic on Patreon by hallowleaf."
-    also: ["https://x.com/hallow_leaf"]
+    also: ["https://x.com/hallow_leaf", "https://topovn.github.io/malfoid-artwork-archive/?artist=hallow_leaf#gallery"]
     tags: [comic, patreon]
   - id: "creator-hallowleaf"
     title: "hallowleaf"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=hallow_leaf#gallery"]
     first_name: ""
     kind: [creator, art, comic]
     creator: "@hallow_leaf"
@@ -2198,7 +2199,7 @@ works:
     language: "English"
     added: 2026-11-09
     summary: "Makes Malfoid comics and occasional art, with a Malfoy comic gallery on DeviantArt. Wholesome, with some drama."
-    also: ["https://www.deviantart.com/theexileddraco/gallery/104055535/hp---malfoy", "https://youtube.com/@TheExiledDraco"]
+    also: ["https://www.deviantart.com/theexileddraco/gallery/104055535/hp---malfoy", "https://youtube.com/@TheExiledDraco", "https://topovn.github.io/malfoid-artwork-archive/?artist=theexileddraco#gallery"]
     tags: [comic, art, deviantart, x, youtube]
   - id: "creator-zey"
     thumb: "https://i.ytimg.com/vi/MhNOO2ersyQ/hqdefault.jpg"
@@ -2275,6 +2276,7 @@ works:
     tags: [game, x, itch]
   - id: "game-the-spelling-of-night"
     title: "The Spelling of Night"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Sachi_Hwa#gallery"]
     first_name: ""
     kind: game
     creator: "Sachi (@Sachi_Hwa)"
@@ -2291,7 +2293,7 @@ works:
     url: "https://x.com/Sachi_Hwa"
     added: 2026-11-09
     summary: "Makes Malfoid games, such as The Spelling of Night, on game.sachihwa.com."
-    also: ["https://game.sachihwa.com/"]
+    also: ["https://game.sachihwa.com/", "https://topovn.github.io/malfoid-artwork-archive/?artist=Sachi_Hwa#gallery"]
     tags: [game, x]
   - id: "fanfic-yule-ball-tusky"
     title: "The Yule Ball (X story)"
@@ -2672,6 +2674,7 @@ works:
     tags: [comic, webtoon, harry-potter, romance]
   - id: "creator-eggblade"
     title: "Egg Blade"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=EggBlade#gallery"]
     first_name: ""
     kind: [creator, comic, art]
     creator: "@EggBlade"
@@ -2944,6 +2947,7 @@ works:
     tags: [x, multi-part, war, hogwarts]
   - id: "creator-redteneri"
     title: "REDTEN⚡"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=redteneri#gallery"]
     first_name: "Draco"
     kind: [creator, art]
     creator: "@redteneri"
@@ -2964,6 +2968,7 @@ works:
     tags: [fanfic, x, series, hogwarts]
   - id: "creator-crow-agito"
     title: "Agito (Yearning Arc)"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=crow_agito#gallery"]
     first_name: ""
     kind: [creator, fanfic, art]
     creator: "@crow_agito"
@@ -3605,6 +3610,7 @@ works:
     tags: [fanfic, malfoid.com]
   - id: "creator-mf-tns2804"
     title: "KAITA"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=tns2804#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@tns2804"
@@ -3615,6 +3621,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-matsuryun"
     title: "松竜"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=matsuryun#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@matsuryun"
@@ -3625,6 +3632,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-uang1_17"
     title: "물범"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=uang1_17#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@uang1_17"
@@ -3635,6 +3643,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-sogumm_05"
     title: "sogumm"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=sogumm_05#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@sogumm_05"
@@ -3655,6 +3664,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-naohrw7"
     title: "nao"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=naohrw7#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@naohrw7"
@@ -3665,6 +3675,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-whdgua_0820"
     title: "종혐"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=whdgua_0820#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@whdgua_0820"
@@ -3675,6 +3686,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-kimy1230918"
     title: "kimy"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=kimy1230918#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@kimy1230918"
@@ -3685,6 +3697,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-re0nnn"
     title: "Re0n"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=re0nnn#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@re0nnn"
@@ -3695,6 +3708,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-szeiart"
     title: "szei_illus"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=szeiart#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@szeiart"
@@ -3761,6 +3775,7 @@ works:
     tags: [art, x, malfoid.com, video]
   - id: "creator-mf-sigmman"
     title: "시금"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=sigmman#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@sigmman"
@@ -3771,6 +3786,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-saw2721"
     title: "SAW272"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=SAW2721#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@SAW2721"
@@ -3781,6 +3797,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-buttoniris"
     title: "ツ"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=buttoniris#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@buttoniris"
@@ -3791,6 +3808,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-spaz141"
     title: "spaz141"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=spaz141#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@spaz141"
@@ -3811,6 +3829,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-janggondan"
     title: "장곤단"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Janggondan#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@Janggondan"
@@ -3831,6 +3850,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-alyoshanaka"
     title: "Alyosha"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=alyoshanaka#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@alyoshanaka"
@@ -3841,6 +3861,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-masoq095"
     title: "masoq"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=masoq095#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@masoq095"
@@ -3851,6 +3872,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-mayojam202"
     title: "Mayozz"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=MayoJam202#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@MayoJam202"
@@ -3861,6 +3883,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-xin_cere_art"
     title: "xin"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=xin_cere_art#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@xin_cere_art"
@@ -3871,6 +3894,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-danchukkey"
     title: "RAUM"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=DANCHUKKEY#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@DANCHUKKEY"
@@ -3881,6 +3905,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-tobis_tobs"
     title: "Tobs"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Tobis_Tobs#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@Tobis_Tobs"
@@ -3891,6 +3916,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-s117renner"
     title: "Sierra"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=s117renner#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@s117renner"
@@ -3905,7 +3931,7 @@ works:
     kind: [creator, art]
     creator: "@AsuzuReincarnat"
     url: "https://x.com/AsuzuReincarnat"
-    also: ["https://malfoid.duckdns.org/video/Asuzu%20Animate%20(AsuzuReincarnat)/"]
+    also: ["https://malfoid.duckdns.org/video/Asuzu%20Animate%20(AsuzuReincarnat)/", "https://topovn.github.io/malfoid-artwork-archive/?artist=AsuzuReincarnat#gallery"]
     language: "English"
     added: 2026-11-10
     summary: "Malfoid fan art on X, featured on malfoid.com: The Sectumsempra incident."
@@ -3922,6 +3948,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-kenpai_arts"
     title: "Ken-pai"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=kenpai_arts#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@kenpai_arts"
@@ -3932,6 +3959,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-yunayuispink"
     title: "Yunayu"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=yunayuispink#gallery"]
     first_name: "Draco"
     kind: [creator, art]
     creator: "@yunayuispink"
@@ -3942,6 +3970,7 @@ works:
     tags: [art, x, malfoid.com]
   - id: "creator-mf-bramovan"
     title: "Bramovan"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Bramovan#gallery"]
     first_name: ""
     kind: [creator, art]
     creator: "@Bramovan"
@@ -4648,6 +4677,7 @@ works:
       - {url: "https://www.youtube.com/watch?v=D4SuiM9c8Yw", label: "Malfoy Thinks Harry Chose Another Girl | Fem Malfoy  × Harry | Part 2", also: ["https://malfoid.duckdns.org/video/Enchanted%20What%20Ifs/2026-10-17%20Malfoy%20Thinks%20Harry%20Chose%20Another%20Girl%20%EF%BD%9C%20Fem%20Malfoy%20%C3%97%20Harry%20%EF%BD%9C%20Part%202.mp4"]}
   - id: "creator-ethosheretica"
     title: "TheHeretic"
+    also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=EthosHeretica#gallery"]
     first_name: ""
     kind: creator
     creator: "TheHeretic"
@@ -5326,7 +5356,7 @@ works:
     kind: article
     creator: "bcwarr"
     url: "https://bcwarr.substack.com/p/malfoid-marriage-and-the-return-of"
-    also: ["https://bcwarr.substack.com/p/harry-potter-is-not-the-witchcraft", "https://bcwarr.substack.com/p/malfoid-and-the-enemies-of-wholesome", "https://bcwarr.substack.com/p/the-fire-the-rose-and-the-malfoid", "https://bcwarr.substack.com/p/young-men-you-are-allowed-to-want", "https://bcwarr.substack.com/p/i-believe-help-thou-mine-unbelief", "https://x.com/RevBWarr"]
+    also: ["https://bcwarr.substack.com/p/harry-potter-is-not-the-witchcraft", "https://bcwarr.substack.com/p/malfoid-and-the-enemies-of-wholesome", "https://bcwarr.substack.com/p/the-fire-the-rose-and-the-malfoid", "https://bcwarr.substack.com/p/young-men-you-are-allowed-to-want", "https://bcwarr.substack.com/p/i-believe-help-thou-mine-unbelief", "https://x.com/RevBWarr", "https://topovn.github.io/malfoid-artwork-archive/?artist=RevBWarr#gallery"]
     language: "English"
     added: 2026-11-17
     summary: "Essays on Substack about the cultural, philosophical and theological side of the Malfoid story and movement, mostly on romance, marriage and courtship. Six pieces: Malfoid, Marriage, and the Return of Wholesome Romance; Harry Potter Is Not the Witchcraft the Bible Condemns; Malfoid and the Enemies of Wholesome Romance; The Fire, the Rose, and the Malfoid Girl; Young Men, You Are Allowed to Want a Wife; and I Believe; Help Thou Mine Unbelief."
@@ -6659,7 +6689,7 @@ works:
     kind: [creator, video]
     creator: "Oswald Silverton (@OswaldSilverton)"
     url: "https://www.youtube.com/@OswaldSilverton"
-    also: ["https://malfoid.duckdns.org/video/Oswald%20Silverton/"]
+    also: ["https://malfoid.duckdns.org/video/Oswald%20Silverton/", "https://topovn.github.io/malfoid-artwork-archive/?artist=OswaldSilverton#gallery"]
     added: 2026-11-20
     summary: "Malfoid videos by Oswald Silverton, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
@@ -6789,7 +6819,7 @@ works:
     kind: [creator, video]
     creator: "RanaVT (@RanaItia)"
     url: "https://www.youtube.com/@RanaItia"
-    also: ["https://malfoid.duckdns.org/video/RanaVT%20(RanaItia)/"]
+    also: ["https://malfoid.duckdns.org/video/RanaVT%20(RanaItia)/", "https://topovn.github.io/malfoid-artwork-archive/?artist=RanaItia#gallery"]
     added: 2026-11-20
     summary: "Malfoid videos by RanaVT, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
@@ -6989,7 +7019,7 @@ works:
     kind: [creator, video]
     creator: "SonikBuster (@SonikBuster)"
     url: "https://www.youtube.com/@SonikBuster"
-    also: ["https://malfoid.duckdns.org/video/SonikBuster/"]
+    also: ["https://malfoid.duckdns.org/video/SonikBuster/", "https://topovn.github.io/malfoid-artwork-archive/?artist=SonikBuster#gallery"]
     added: 2026-11-20
     summary: "Malfoid videos by SonikBuster, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
@@ -7109,7 +7139,7 @@ works:
     kind: [creator, video]
     creator: "🎮Azuredrops | (Commission Open!) 🎮 (@azuredrops)"
     url: "https://x.com/azuredrops"
-    also: ["https://malfoid.duckdns.org/video/azuredrops/"]
+    also: ["https://malfoid.duckdns.org/video/azuredrops/", "https://topovn.github.io/malfoid-artwork-archive/?artist=azuredrops#gallery"]
     added: 2026-11-20
     summary: "Malfoid videos by 🎮Azuredrops | (Commission Open!) 🎮, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
