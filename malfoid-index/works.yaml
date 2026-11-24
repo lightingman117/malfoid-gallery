@@ -8091,3 +8091,105 @@ works:
         label: "Ep 4 A Seat With a Draft-Magic"
       - url: "https://www.youtube.com/watch?v=bAmm2hJzMo0"
         label: "Ep 5 The Gate Heard That"
+  - id: "video-yt-ePiijjBlk9E"
+    title: "What if Draco Malfoy was a girl? (enemies to lovers)"
+    first_name: ""
+    kind: video
+    creator: "Plot Raccoon"
+    url: "https://www.youtube.com/watch?v=ePiijjBlk9E"
+    embed: "https://www.youtube.com/watch?v=ePiijjBlk9E"
+    language: "English"
+    added: 2026-11-24
+    summary: "Enemies-to-lovers Malfoid video on YouTube by Plot Raccoon: seven years of hating each other, then something changes."
+    tags: ["video", "youtube"]
+  - id: "video-yt-d5upTmhqMAE"
+    title: "A Pity, Dear Dracina | Lucius Malfoy Song"
+    first_name: ""
+    kind: music
+    creator: "Doakly"
+    url: "https://www.youtube.com/watch?v=d5upTmhqMAE"
+    embed: "https://www.youtube.com/watch?v=d5upTmhqMAE"
+    language: "English"
+    added: 2026-11-24
+    summary: "Song on YouTube by Doakly about Dracina Malfoy, with Lucius and Severus in the story."
+    tags: ["music", "youtube"]
+  - id: "video-yt-VTypKrxthYE"
+    title: "Fleur Kisses Harry, Malfoy Fumes | The Villainess Malfoy Ch. 38 | Malfoid Audiobook/Visual Novel"
+    first_name: ""
+    kind: [video, fanfic]
+    format: audiobook
+    length: "novel"
+    creator: "Moonquill Theater"
+    url: "https://www.youtube.com/watch?v=VTypKrxthYE"
+    embed: "https://www.youtube.com/watch?v=VTypKrxthYE"
+    language: "English"
+    added: 2026-11-24
+    summary: "Chapter 38 of The Villainess Malfoy, a Malfoid fanfic audiobook and visual novel on YouTube by Moonquill Theater."
+    tags: ["video", "youtube", "fanfic", "audiobook"]
+  - id: "video-yt-aYDsu21XoAM"
+    title: "When Harry Potter and Malfoid's Clash Turned into Something Else!!"
+    first_name: ""
+    kind: video
+    creator: "Shipping Verse"
+    url: "https://www.youtube.com/watch?v=aYDsu21XoAM"
+    embed: "https://www.youtube.com/watch?v=aYDsu21XoAM"
+    language: "English"
+    added: 2026-11-24
+    summary: "Animated Malfoid and Harry clash on YouTube by Shipping Verse, turning into a romance."
+    tags: ["video", "youtube", "animation"]
+  - id: "video-yt-j6ay08F59a4"
+    title: "What If Draco Malfoy Was a Girl? 😳 Harry Potter x Female Draco | AI Fan Film"
+    first_name: ""
+    kind: video
+    creator: "Hogwarts VFX and WEBS AE"
+    url: "https://www.youtube.com/watch?v=j6ay08F59a4"
+    embed: "https://www.youtube.com/watch?v=j6ay08F59a4"
+    language: "English"
+    added: 2026-11-24
+    summary: "AI fan film on YouTube by Hogwarts VFX and WEBS AE: what if Draco was born a girl and Harry started to like her."
+    tags: ["video", "youtube", "ai-art"]
+  - id: "video-yt-pWASfH1aqSc"
+    title: "Harry and Draconia: A Journey Toward a Destiny"
+    first_name: ""
+    kind: video
+    creator: "Historias Paralelas"
+    url: "https://www.youtube.com/watch?v=pWASfH1aqSc"
+    embed: "https://www.youtube.com/watch?v=pWASfH1aqSc"
+    language: "English"
+    added: 2026-11-24
+    summary: "Alternate-reality Harry and Draconia story on YouTube by Historias Paralelas."
+    tags: ["video", "youtube", "fanfic"]
+  - id: "video-yt-Q44uHSsny2k"
+    title: "Draconia and Harry Ep - 29"
+    first_name: ""
+    kind: video
+    creator: "Galo Gonzalez"
+    url: "https://www.youtube.com/watch?v=Q44uHSsny2k"
+    embed: "https://www.youtube.com/watch?v=Q44uHSsny2k"
+    language: "English"
+    added: 2026-11-24
+    summary: "Episode 29 of a Draconia and Harry series on YouTube by Galo Gonzalez."
+    tags: ["video", "youtube"]
+  - id: "video-yt-pZwOeSjlj5s"
+    title: "Accio, Radio! Draco Malfoy at the Drive-Thru | Vox in a Box (Fan MV)"
+    first_name: ""
+    kind: music
+    creator: "처음듣는음악단"
+    url: "https://www.youtube.com/watch?v=pZwOeSjlj5s"
+    embed: "https://www.youtube.com/watch?v=pZwOeSjlj5s"
+    language: "English"
+    added: 2026-11-24
+    summary: "Fan music video on YouTube about Draco Malfoy at a drive-thru."
+    tags: ["music", "youtube"]
+  - id: "video-yt-FWdmEuvtLOc"
+    title: "[Malfoid] Book 1- Chapter 8"
+    first_name: ""
+    kind: [video, fanfic]
+    length: "novel"
+    creator: "Nam Plume"
+    url: "https://www.youtube.com/watch?v=FWdmEuvtLOc"
+    embed: "https://www.youtube.com/watch?v=FWdmEuvtLOc"
+    language: "English"
+    added: 2026-11-24
+    summary: "Chapter 8 of a Malfoid fanfic, read on YouTube by Nam Plume."
+    tags: ["video", "youtube", "fanfic"]
