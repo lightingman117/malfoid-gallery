@@ -3122,17 +3122,6 @@ works:
     added: 2026-11-20
     summary: "Malfoid videos by MateSpace, archived on the M.A. (Malfoid Archive)."
     tags: [video, archive]
-  # unclear (text)
-  - id: "creator-ma-matiel-ai"
-    title: "Matiel_AI"
-    first_name: ""
-    kind: [creator, video]
-    creator: "Matiel_AI (@Matiel_AI)"
-    url: "https://www.youtube.com/@Matiel_AI"
-    also: ["https://malfoid.duckdns.org/video/Matiel_AI/"]
-    added: 2026-11-20
-    summary: "Malfoid videos by Matiel_AI, archived on the M.A. (Malfoid Archive)."
-    tags: [video, archive]
   # other (text)
   - id: "creator-ma-maylily1225"
     title: "Maylily ASMR"

@@ -8308,3 +8308,21 @@ works:
     added: 2026-11-24
     summary: "Malfoid Legacy episode 1: the Malfoys and the Dursleys meet to decide the future of the relationship between Draconia and Harry. Made with AI."
     tags: ["video", "youtube", "malfoy-family", "dursley-family"]
+  - id: "creator-matiel-ai"
+    title: "Matiel_AI"
+    first_name: ""
+    kind: [creator, video]
+    creator: "Matiel_AI (@Matiel_AI)"
+    url: "https://www.youtube.com/@Matiel_AI"
+    also: ["https://malfoid.duckdns.org/video/Matiel_AI/"]
+    language: "English"
+    added: 2026-11-24
+    summary: "Malfoid AI Fan Film on YouTube, six episodes with English subtitles."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=reodtPE25bA", label: "EP1: Malfoy Bullies Potter"}
+      - {url: "https://www.youtube.com/watch?v=F5v_-fTxpYc", label: "EP2: Malfoy Dances with Potter"}
+      - {url: "https://www.youtube.com/watch?v=kjLzCgNh0UY", label: "EP3: Malfoy can't stop thinking about Potter"}
+      - {url: "https://www.youtube.com/watch?v=xZtZl9I59fs", label: "EP4: Malfoy Spies on Potter"}
+      - {url: "https://www.youtube.com/watch?v=R378bPdhtZg", label: "EP5: Malfoy Avoids Potter"}
+      - {url: "https://www.youtube.com/watch?v=ee8RrslcO3A", label: "EP6: Potter Apologizes to Malfoy"}
+    tags: [creator, video, youtube]
