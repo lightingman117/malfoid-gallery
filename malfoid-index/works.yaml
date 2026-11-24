@@ -7349,11 +7349,12 @@ works:
     first_name: ""
     kind: video
     creator: "Markingsco"
-    url: "https://www.youtube.com/watch?v=128QFw4Yye8"
-    embed: "https://www.youtube.com/watch?v=128QFw4Yye8"
+    url: "https://rumble.com/embed/v7gn1mw/?pub=13iafn"
+    embed: "https://rumble.com/embed/v7gn1mw/?pub=13iafn"
+    also: ["ignored: https://www.youtube.com/watch?v=128QFw4Yye8", "https://malfoid.duckdns.org/video/Markingsco/2026-11-21%20Markingsco%20-%20What%20young%20%F0%9D%98%94%F0%9D%98%A4%F0%9D%98%8E%F0%9D%98%B0%F0%9D%98%AF%F0%9D%98%A2%F0%9D%98%A8%F0%9D%98%A2%F0%9D%98%AD%F0%9D%98%AD%20%F0%9D%98%B5%F0%9D%98%B0%F0%9D%98%AD%F0%9D%98%A5%20%F0%9D%98%8F%F0%9D%98%A2%20%5B128QFw4Yye8%5D%20%5BYT%20128QFw4Yye8%5D.mp4"]
     language: "English"
     added: 2026-11-22
-    summary: "Malfoid video on YouTube by Markingsco."
+    summary: "Malfoid video by Markingsco, hosted on Rumble. The original YouTube video was deleted."
     tags: [video, youtube]
   - id: "video-yt-4vNBJ8kWjWs"
     title: "3D Modeling! 🪄Malfoid🪄 Day 23"
