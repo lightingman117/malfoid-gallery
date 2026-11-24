@@ -1,6 +1,7 @@
 # Greylist: archive creators we do not list publicly for now.
-# They are not blocked. They are not shown on the Index because we could not confirm
-# they post in English (or English subtitles). Entries here are not read by the build.
+# They are not blocked. They could not be confirmed as posting in English (or with English subtitles).
+# The build reads this file too: entries are flagged as greylisted and hidden on the Index
+# unless a visitor ticks "Show non-English / unverified". Their data is still in the published works.json.
 # To list one, move its entry back into works.yaml after checking.
 works:
   # other (text)
