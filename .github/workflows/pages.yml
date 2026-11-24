@@ -30,6 +30,10 @@ jobs:
       - name: Build the site
         run: python scripts/build_site.py --out "$RUNNER_TEMP/site"
 
+      - name: Split off the index site
+        # The index becomes malfoid-index.com (its own repo); malfoid.jp/malfoid-index/ becomes a redirect.
+        run: python scripts/publish_index_site.py "$RUNNER_TEMP/site" "$RUNNER_TEMP/index-site"
+
       - name: Publish to gh-pages
         env:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -47,3 +51,21 @@ jobs:
               -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
               commit -qm "Build site from ${GITHUB_SHA::7}"
           git push --quiet origin HEAD:gh-pages
+
+      - name: Publish the index to rhedak/malfoid-index
+        env:
+          TOKEN: ${{ secrets.INDEX_DEPLOY_TOKEN }}
+        run: |
+          git clone --quiet --depth 1 "https://x-access-token:${TOKEN}@github.com/rhedak/malfoid-index.git" "$RUNNER_TEMP/index-repo"
+          find "$RUNNER_TEMP/index-repo" -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -R "$RUNNER_TEMP/index-site/." "$RUNNER_TEMP/index-repo/"
+          cd "$RUNNER_TEMP/index-repo"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "malfoid-index already up to date"
+            exit 0
+          fi
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -qm "Build index from ${GITHUB_SHA::7}"
+          git push --quiet origin HEAD:main
