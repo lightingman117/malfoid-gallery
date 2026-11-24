@@ -309,6 +309,8 @@ mark { background: rgba(52, 211, 153, .28); color: inherit; border-radius: 3px; 
 .guest-by { position: absolute; left: 8px; bottom: 8px; font: 500 11px/1 var(--sans); color: #fff; background: rgba(0, 0, 0, .6); padding: 4px 7px; border-radius: 999px; }
 .guest-credit { font: 400 12px/1.5 var(--sans); color: var(--silver-2); margin: 8px 2px 0; }
 .guest-credit a { color: var(--emerald); }
+.guest-sub { color: var(--silver-2); text-decoration: none; border-bottom: 1px dotted var(--silver-2); }
+.guest-sub:hover { color: var(--emerald); border-color: var(--emerald); }
 @media (prefers-reduced-motion: reduce) { .guest-viewport { overflow-x: auto; } }
 @media (max-width: 640px) {
   .wheel { margin-bottom: 10px; }

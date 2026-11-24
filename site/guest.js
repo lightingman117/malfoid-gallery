@@ -24,7 +24,7 @@
     .then(function (data) {
       var items = (data.picks || []).map(function (f) {
         var m = NAME.exec(f);
-        return m ? { file: f, handle: m[1] } : null;
+        return m ? { file: f, handle: m[1], tweet: m[2] } : null;
       }).filter(Boolean);
       if (items.length < 3) return;
       shuffle(items);
@@ -34,10 +34,10 @@
         items.forEach(function (it) {
           var a = document.createElement("a");
           a.className = "guest-item";
-          a.href = "https://x.com/" + encodeURIComponent(it.handle);
+          a.href = "https://x.com/" + encodeURIComponent(it.handle) + "/status/" + encodeURIComponent(it.tweet);
           a.target = "_blank";
           a.rel = "noopener noreferrer";
-          a.title = "@" + it.handle + " on X";
+          a.title = "Post by @" + it.handle + " on X";
           if (copy) { a.tabIndex = -1; a.setAttribute("aria-hidden", "true"); }
           var img = document.createElement("img");
           img.loading = "lazy";
