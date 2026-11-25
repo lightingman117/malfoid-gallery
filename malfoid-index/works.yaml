@@ -5711,6 +5711,7 @@ works:
     summary: "Malfoid anime MAD and cover music videos by HIROSE Studio, with English subtitles for the music."
     videos:
       - {url: "https://www.youtube.com/watch?v=kZxMtyvVnRI", label: "抜錨｜Batsubyou【Malfoid Anime MAD / Cover MV】", also: ["https://malfoid.duckdns.org/video/HIROSE%20Studio/2026-11-19%20%E6%8A%9C%E9%8C%A8%EF%BD%9CBatsubyou%E3%80%90Malfoid%20Anime%20MAD%20%E2%A7%B8%20Cover%20MV%E3%80%91.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=1ph8sTBH6uc", label: "FLASHDANCE MALFOID【Anime Dance MV】"}
     tags: [music, anime, youtube]
   - id: "creator-ma-aiglitchez"
     title: "AI Glitchez"
