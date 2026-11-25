@@ -8862,3 +8862,36 @@ works:
     added: 2026-11-24
     summary: "Malfoid video on YouTube by Au-delà de Poudlard. Not listed: language is French, not English."
     tags: ["video", "youtube"]
+  - id: "video-yt-kQSO5cFYETU"
+    title: "Malfoid y Harry (fandub)"
+    first_name: ""
+    kind: video
+    creator: "Condedubs"
+    url: "https://www.youtube.com/watch?v=kQSO5cFYETU"
+    embed: "https://www.youtube.com/watch?v=kQSO5cFYETU"
+    language: "Spanish"
+    added: 2026-11-25
+    summary: "Malfoid fandub on YouTube by Condedubs. Not listed: language is Spanish, not English."
+    tags: ["video", "youtube"]
+  - id: "video-yt-mAupa6ZehVk"
+    title: "Um Mundo Aonde Malfoy é a Protagonista [ Fanfic enigma do príncipe, o amor e a dor ]"
+    first_name: ""
+    kind: video
+    creator: "Misterios&Mais"
+    url: "https://www.youtube.com/watch?v=mAupa6ZehVk"
+    embed: "https://www.youtube.com/watch?v=mAupa6ZehVk"
+    language: "Portuguese"
+    added: 2026-11-25
+    summary: "Malfoid fanfic video on YouTube by Misterios&Mais. Not listed: language is Portuguese, not English. Greylisted because the language was unclear when added."
+    tags: ["video", "youtube"]
+  - id: "video-yt-uYw4Pum8qxA"
+    title: "Drakonia Malfoy z Hogwartu | Ścieżka Slytherinu #8"
+    first_name: ""
+    kind: video
+    creator: "GaladMad"
+    url: "https://www.youtube.com/watch?v=uYw4Pum8qxA"
+    embed: "https://www.youtube.com/watch?v=uYw4Pum8qxA"
+    language: "Polish"
+    added: 2026-11-25
+    summary: "Malfoid video on YouTube by GaladMad. Not listed: language is Polish, not English. Greylisted because the language was unclear when added."
+    tags: ["video", "youtube"]
