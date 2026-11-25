@@ -536,6 +536,9 @@ def build_works():
             given = text(v.get("label")) if isinstance(v, dict) else ""
             u = text(v.get("url") if isinstance(v, dict) else v)
             src = embed_of({"embed": u})
+            # A video kept on the M.A. mirror (no longer on YouTube) plays from its own mp4 file.
+            if not src and re.match(r"^https://malfoid\.duckdns\.org/.*\.mp4(\?|$)", u, re.I):
+                src = u
             if not src:
                 continue
             m = re.search(r"s(\d{2})e(\d{2})", u, re.I)
