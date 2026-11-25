@@ -665,3 +665,10 @@ entries:
     image: "images/2026-11-23-facepalm-1.png"
     gallery_only: true
     posted:
+  - id: "2026-11-25-6k-followers-1"
+    title: "Celebrating 6000 followers"
+    created: 2026-11-25
+    input: "input/2026-11-25-6k-followers-1.yaml"
+    image: "images/2026-11-25-6k-followers-1.jpg"
+    gallery_only: true
+    posted:
