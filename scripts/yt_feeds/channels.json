@@ -402,6 +402,11 @@
       "name": "gugolfaistudio"
     },
     {
+      "handle": "@halcyonaiq",
+      "channel_id": "UCpbhz9eDPe1L1oEQxbXZyQw",
+      "name": "Halcyon Tide"
+    },
+    {
       "handle": "@Happa77716",
       "channel_id": "UC2iDufOxE7dGV91ZtqpGIWA",
       "name": "Happa"
@@ -582,11 +587,6 @@
       "name": "Malfoid"
     },
     {
-      "handle": "@FemaleMalfoi",
-      "channel_id": "UC8DKkbODag59BLIR0X3cZ6Q",
-      "name": "Malfoid"
-    },
-    {
       "handle": "@Malfoid말포이TS",
       "channel_id": "UChKbeCxfoZS_oivQtbn7wVw",
       "name": "Malfoid (말포이TS)"
@@ -602,6 +602,11 @@
       "name": "Malfoid Software"
     },
     {
+      "handle": "@FemaleMalfoi",
+      "channel_id": "UC8DKkbODag59BLIR0X3cZ6Q",
+      "name": "MalfoidTV"
+    },
+    {
       "handle": "@MALFOVEIL",
       "channel_id": "UCvjhEFHIhUUYR9ST7pfZQ5g",
       "name": "MALFOVEIL"
@@ -615,6 +620,11 @@
       "handle": "@MastodonStudios",
       "channel_id": "UCeqGCnYO8l_zDKidkW_-6xA",
       "name": "Mastodon Studios"
+    },
+    {
+      "handle": "@Matiel_AI",
+      "channel_id": "UCkzKAvJ9wa0FCVQa_gkrPbw",
+      "name": "Matiel_AI"
     },
     {
       "handle": "@마떼스튜디오",
