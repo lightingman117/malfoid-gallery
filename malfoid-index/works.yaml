@@ -2560,14 +2560,14 @@ works:
     added: 2026-11-08
     summary: "Audiobooks of Malfoid fanfics on YouTube by MiloTheOrangeKitty, including Book 1 of Harry Potter and the Girl Who Chose, the Serpent's Shadow and the Weight of Blood series."
     videos:
-      - {url: "https://www.youtube.com/watch?v=OM1D5ACH3C8", label: "「Audiobook」Malfoid: Harry Potter and the Weight of Blood Part 1"}
-      - {url: "https://www.youtube.com/watch?v=PelUV8Td-xw", label: "「Audiobook」SNEAK PEAK: Malfoid: Harry Potter and The Weight of Blood: Book 3"}
-      - {url: "https://www.youtube.com/watch?v=zqvrNswyxcU", label: "「Audiobook」Malfoid: Harry Potter Book 3: A Writer's Notes"}
-      - {url: "https://www.youtube.com/watch?v=LcIruFZPcx0", label: "「Audiobook」Malfoid: Harry Potter and the Serpent's Shadow: Book 2, Part 2"}
-      - {url: "https://www.youtube.com/watch?v=NE0Nsi0rYB4", label: "「Audiobook」Malfoid: Harry Potter and the Serpent's Shadow: Book 2, Part 1"}
-      - {url: "https://www.youtube.com/watch?v=yK5jNF3OHDo", label: "「Audiobook」Malfoid: Harry Potter and the Serpent's Shadow Writer's Notes"}
-      - {url: "https://www.youtube.com/watch?v=n8vc1Hzjt_Q", label: "「Audiobook」SNEAK PEAK: Malfoid: Harry Potter and the Serpent's Shadow"}
-      - {url: "https://www.youtube.com/watch?v=Bpxxj9Ee1W4", label: "「Audiobook」Malfoid: Harry Potter and the Girl Who Chose: Book 1"}
+      - {url: "https://www.youtube.com/watch?v=OM1D5ACH3C8", label: "「Audiobook」Malfoid: Harry Potter and the Weight of Blood Part 1", also: ["https://malfoid.duckdns.org/video/MiloTheOrangeKitty/2026-11-16%20%E3%80%8CAudiobook%E3%80%8DMalfoid%EF%BC%9A%20Harry%20Potter%20and%20the%20Weight%20of%20Blood%20Part%201.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=PelUV8Td-xw", label: "「Audiobook」SNEAK PEAK: Malfoid: Harry Potter and The Weight of Blood: Book 3", also: ["https://malfoid.duckdns.org/stories/MiloTheOrangeKitty/2026-11-08%20%E3%80%8CAudiobook%E3%80%8DSNEAK%20PEAK%EF%BC%9A%20Malfoid%EF%BC%9A%20Harry%20Potter%20and%20The%20Weight%20of%20Blood%EF%BC%9A%20Book%203.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=zqvrNswyxcU", label: "「Audiobook」Malfoid: Harry Potter Book 3: A Writer's Notes", also: ["https://malfoid.duckdns.org/stories/MiloTheOrangeKitty/2026-10-30%20%E3%80%8CAudiobook%E3%80%8DMalfoid%EF%BC%9A%20Harry%20Potter%20Book%203%EF%BC%9A%20A%20Writer%27s%20Notes.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=LcIruFZPcx0", label: "「Audiobook」Malfoid: Harry Potter and the Serpent's Shadow: Book 2, Part 2", also: ["https://malfoid.duckdns.org/stories/MiloTheOrangeKitty/2026-10-25%20%E3%80%8CAudiobook%E3%80%8DMalfoid%EF%BC%9A%20Harry%20Potter%20and%20the%20Serpent%27s%20Shadow%EF%BC%9A%20Book%202%2C%20Part%202.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=NE0Nsi0rYB4", label: "「Audiobook」Malfoid: Harry Potter and the Serpent's Shadow: Book 2, Part 1", also: ["https://malfoid.duckdns.org/stories/MiloTheOrangeKitty/2026-10-25%20%E3%80%8CAudiobook%E3%80%8DMalfoid%EF%BC%9A%20Harry%20Potter%20and%20the%20Serpent%27s%20Shadow%EF%BC%9A%20Book%202%2C%20Part%201.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=yK5jNF3OHDo", label: "「Audiobook」Malfoid: Harry Potter and the Serpent's Shadow Writer's Notes", also: ["https://malfoid.duckdns.org/stories/MiloTheOrangeKitty/2026-10-22%20%E3%80%8CAudiobook%E3%80%8DMalfoid%EF%BC%9A%20Harry%20Potter%20and%20the%20Serpent%27s%20Shadow%20Writer%27s%20Notes.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=n8vc1Hzjt_Q", label: "「Audiobook」SNEAK PEAK: Malfoid: Harry Potter and the Serpent's Shadow", also: ["https://malfoid.duckdns.org/stories/MiloTheOrangeKitty/2026-10-21%20%E3%80%8CAudiobook%E3%80%8DSNEAK%20PEAK%EF%BC%9A%20Malfoid%EF%BC%9A%20Harry%20Potter%20and%20the%20Serpent%27s%20Shadow.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=Bpxxj9Ee1W4", label: "「Audiobook」Malfoid: Harry Potter and the Girl Who Chose: Book 1", also: ["https://malfoid.duckdns.org/video/MiloTheOrangeKitty/2026-10-19%20%E3%80%8CAudiobook%E3%80%8DMalfoid%EF%BC%9A%20Harry%20Potter%20and%20the%20Girl%20Who%20Chose%EF%BC%9A%20Book%201.mp4"]}
     tags: [audiobook, malfoid, creator, fanfic]
   - id: "video-space-between-us-playlist"
     thumb: "https://i.ytimg.com/vi/1Q1WRCkyquQ/hqdefault.jpg"
@@ -8129,12 +8129,16 @@ works:
     tags: [video, youtube, series]
     videos:
       - url: "https://www.youtube.com/watch?v=RPrsQl5Wz2Y"
+        also: ["https://malfoid.duckdns.org/music/The%20Malfoid%20Experience/2026-11-23%20Episode%201%20-%20The%20Trunk%20Knows%20the%20Way.mp4"]
         label: "Episode 1 - The Trunk Knows the Way"
       - url: "https://www.youtube.com/watch?v=GwXTM--mbM8"
+        also: ["https://malfoid.duckdns.org/music/The%20Malfoid%20Experience/2026-11-23%20Ep%202%20Two%20Tickets%20Maximum%20Distance.mp4"]
         label: "Ep 2 Two Tickets Maximum Distance"
       - url: "https://www.youtube.com/watch?v=0ftHm2u0SXg"
+        also: ["https://malfoid.duckdns.org/music/The%20Malfoid%20Experience/2026-11-23%20Ep%204%20A%20Seat%20With%20a%20Draft-Magic.mp4"]
         label: "Ep 4 A Seat With a Draft-Magic"
       - url: "https://www.youtube.com/watch?v=bAmm2hJzMo0"
+        also: ["https://malfoid.duckdns.org/music/The%20Malfoid%20Experience/2026-11-23%20Ep%205%20The%20Gate%20Heard%20That.mp4"]
         label: "Ep 5 The Gate Heard That"
   - id: "video-yt-ePiijjBlk9E"
     title: "What if Draco Malfoy was a girl? (enemies to lovers)"
@@ -8314,7 +8318,7 @@ works:
     added: 2026-11-24
     summary: "AI-made Miss Malfoy fanfic on YouTube, a Harry x female Malfoy story. Episode 1 is embedded."
     videos:
-      - {url: "https://www.youtube.com/watch?v=LsXH1AQbfcA", label: "Miss Malfoy | Episode 1: The Goblet Chose Him"}
+      - {url: "https://www.youtube.com/watch?v=LsXH1AQbfcA", label: "Miss Malfoy | Episode 1: The Goblet Chose Him", also: ["https://malfoid.duckdns.org/video/Halcyon%20Tide/2026-11-22%20Miss%20Malfoy%20%EF%BD%9C%20Episode%201%EF%BC%9A%20The%20Goblet%20Chose%20Him.mp4"]}
     tags: [creator, video, youtube]
   - id: "video-yt-b0au111W66I"
     title: "When Malfoid Sees Potter With Another Girl"
@@ -8350,12 +8354,12 @@ works:
     added: 2026-11-24
     summary: "Malfoid AI Fan Film on YouTube, six episodes with English subtitles."
     videos:
-      - {url: "https://www.youtube.com/watch?v=reodtPE25bA", label: "EP1: Malfoy Bullies Potter"}
-      - {url: "https://www.youtube.com/watch?v=F5v_-fTxpYc", label: "EP2: Malfoy Dances with Potter"}
-      - {url: "https://www.youtube.com/watch?v=kjLzCgNh0UY", label: "EP3: Malfoy can't stop thinking about Potter"}
-      - {url: "https://www.youtube.com/watch?v=xZtZl9I59fs", label: "EP4: Malfoy Spies on Potter"}
-      - {url: "https://www.youtube.com/watch?v=R378bPdhtZg", label: "EP5: Malfoy Avoids Potter"}
-      - {url: "https://www.youtube.com/watch?v=ee8RrslcO3A", label: "EP6: Potter Apologizes to Malfoy"}
+      - {url: "https://www.youtube.com/watch?v=reodtPE25bA", label: "EP1: Malfoy Bullies Potter", also: ["https://malfoid.duckdns.org/video/Matiel_AI/2026-11-05%20EP1%EF%BC%9A%20Malfoy%20Bullies%20Potter.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=F5v_-fTxpYc", label: "EP2: Malfoy Dances with Potter", also: ["https://malfoid.duckdns.org/video/Matiel_AI/2026-11-09%20EP2%EF%BC%9A%20Malfoy%20Dances%20with%20Potter.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=kjLzCgNh0UY", label: "EP3: Malfoy can't stop thinking about Potter", also: ["https://malfoid.duckdns.org/video/Matiel_AI/2026-11-13%20EP3%EF%BC%9A%20Malfoy%20can%27t%20stop%20thinking%20about%20Potter.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=xZtZl9I59fs", label: "EP4: Malfoy Spies on Potter", also: ["https://malfoid.duckdns.org/video/Matiel_AI/2026-11-16%20EP4%EF%BC%9A%20Malfoy%20Spies%20on%20Potter.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=R378bPdhtZg", label: "EP5: Malfoy Avoids Potter", also: ["https://malfoid.duckdns.org/video/Matiel_AI/2026-11-22%20EP5%EF%BC%9A%20Malfoy%20Avoids%20Potter.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=ee8RrslcO3A", label: "EP6: Potter Apologizes to Malfoy", also: ["https://malfoid.duckdns.org/video/Matiel_AI/2026-11-23%20EP6%EF%BC%9A%20Potter%20Apologizes%20to%20Malfoy.mp4"]}
     tags: [creator, video, youtube]
   - id: "artist-khyleri"
     title: "khyleri"
