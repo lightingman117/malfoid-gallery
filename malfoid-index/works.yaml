@@ -1683,7 +1683,7 @@ works:
   - id: "video-malfoid-boarbump-playlist"
     thumb: "https://i.ytimg.com/vi/KvkdMVfdQwg/hqdefault.jpg"
     title: "MALFOID (BOARBUMP series)"
-    first_name: ""
+    first_name: "Melusine"
     kind: video
     format: other
     creator: "Epic Fantasy (R)"
