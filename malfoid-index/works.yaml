@@ -35167,3 +35167,20 @@ works:
       - {url: "https://x.com/MalfoidSoftware/status/2118066630987313435", label: "Malfoid video, 2026-11-04"}
       - {url: "https://x.com/MalfoidSoftware/status/2118333331003859058", label: "Malfoid video, 2026-11-05"}
     tags: [video, x, ai]
+  - id: "creator-theprussian1"
+    title: "The Prussian"
+    first_name: ""
+    kind: [creator, art, comic]
+    creator: "The Prussian (@ThePrussian1)"
+    url: "https://x.com/ThePrussian1"
+    language: "English"
+    added: 2026-11-26
+    summary: "AI-made Malfoid art and comics on X, plus a link to his Draconia Malfoy fanfiction. Samples only."
+    items:
+      - title: "Draconia Malfoy: A Dragon among Serpents (fanfic announcement)"
+        url: "https://x.com/ThePrussian1/status/2117144187543929116"
+      - title: "Warner Brothers receives a lesson in humility from Malfoid"
+        url: "https://x.com/ThePrussian1/status/2125792168162054288"
+      - title: "Hartman-Quidditch Arc (AI comic)"
+        url: "https://x.com/ThePrussian1/status/2125704290341916886"
+    tags: [fan-art, ai-art, comic, x]
