@@ -34948,3 +34948,39 @@ works:
     tags: [alternate-universe, enemies-to-lovers, malfoid]
     first_name: ""
     length: "novel"
+  - id: "creator-sleepy-head"
+    title: "Sleepy Head"
+    first_name: ""
+    kind: creator
+    creator: "Sleepy Head"
+    url: "https://www.youtube.com/@SleepyHeadRead"
+    language: "English"
+    added: 2026-11-26
+    summary: "Original AI-made Malfoid series, starting with Draconia and Harry in EP.01."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=nVrNbW2ai4A", label: "Malfoid | I Didn't Want This, Potter ❤️ | Draconia x Harry | EP.01"}
+    tags: [video, youtube, ai, series]
+  - id: "creator-deadspella"
+    title: "DeadSpell"
+    first_name: ""
+    kind: creator
+    creator: "DeadSpell and 3 more"
+    url: "https://www.youtube.com/@DeadSpella"
+    language: "English"
+    added: 2026-11-26
+    summary: "Long-form AI \"What If\" Malfoid stories, several episodes. Credited with 3 more channels on the video."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=FL06PaulRSc", label: "What If Harry and Malfoid Got Stranded Together on Christmas Eve"}
+    tags: [video, youtube, ai, series]
+  - id: "creator-iron-horizon-films"
+    title: "IRON HORIZON FILMS"
+    first_name: ""
+    kind: creator
+    creator: "IRON HORIZON FILMS"
+    url: "https://www.youtube.com/@IRONHORIZONFILMS"
+    language: "English"
+    added: 2026-11-26
+    summary: "Original AI animated Malfoid love stories."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=GDCv6FDpNXQ", label: "Draconia Malfoid | She Found His Old Photograph — And The Girl In It Was Her Love Story"}
+    tags: [video, youtube, ai, animation]
