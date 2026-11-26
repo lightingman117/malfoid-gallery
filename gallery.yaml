@@ -13,7 +13,7 @@ entries:
     input: "input/2026-11-03-thanksgiving-1.yaml"
     image: "images/2026-11-03-thanksgiving-1.jpg"
     planned: 2026-11-26
-    posted:
+    posted: {date: 2026-11-26, x: "https://x.com/rhedak1/status/2125716502309716082"}
   - id: "2026-11-03-autumn-1"
     title: "Autumn walk in the park"
     created: 2026-11-03
