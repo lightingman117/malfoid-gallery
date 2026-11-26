@@ -9,3 +9,6 @@ scripts/yt_feeds/data/
 scripts/x_daily/data/
 scripts/yt_search/data/
 references/malfoid-artwork-archive.png
+
+# macOS Finder metadata
+.DS_Store
