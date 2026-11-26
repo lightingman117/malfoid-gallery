@@ -34984,3 +34984,15 @@ works:
     videos:
       - {url: "https://www.youtube.com/watch?v=GDCv6FDpNXQ", label: "Draconia Malfoid | She Found His Old Photograph — And The Girl In It Was Her Love Story"}
     tags: [video, youtube, ai, animation]
+  - id: "creator-samerikimani"
+    title: "sameri kimani"
+    first_name: ""
+    kind: creator
+    creator: "sameri kimani"
+    url: "https://www.youtube.com/@samerikimani"
+    language: "English"
+    added: 2026-11-26
+    summary: "Dreamina AI fan film series with a Malfoid and Harry AU, with English descriptions."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=d7wPmTgyGO4", label: "Malfoid Vibes | 해리꼬시기: Make Him Fall for Me 💘 | EP.03"}
+    tags: [video, youtube, ai, series]
