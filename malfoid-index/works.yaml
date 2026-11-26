@@ -35216,3 +35216,17 @@ works:
       - {url: "https://www.youtube.com/watch?v=V_ue8N0y5Ig", label: "Malfoid & Harry: Double Date in Paris | Live Action AI Movie"}
       - {url: "https://www.youtube.com/watch?v=fG45rhsQYqE", label: "Malfoid Season 2 Part 1 Binge Tsundere Malfoy Ep.12–18 in One Go (55 min)"}
     tags: [video, youtube, ai, series]
+  - id: "creator-moonquill-theater"
+    title: "Moonquill Theater"
+    first_name: ""
+    kind: [creator, video]
+    creator: "Moonquill Theater"
+    url: "https://www.youtube.com/@MoonquillTheater"
+    language: "English"
+    added: 2026-11-26
+    summary: "Audiobook and visual-novel readings of The Villainess Malfoy (the 2020 story), in chapters, with the author's approval as the user checked."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=lLeK23LEz80", label: "Harry Kisses Malfoy's Ring | The Villainess Malfoy Ch. 41 | Malfoid Audiobook/Visual Novel"}
+      - {url: "https://www.youtube.com/watch?v=k8weBjMrPp4", label: "Moody's Truth Serum Corners Malfoy | The Villainess Malfoy Ch. 40 | Malfoid Audiobook/Visual Novel"}
+      - {url: "https://www.youtube.com/watch?v=FCJNOh8uLU4", label: "「Audiobook」Malfoid: Fire and Dignity - The Villainess Malfoy Book 2 (Ch27-Ch38)"}
+    tags: [video, youtube, audiobook, visual-novel]
