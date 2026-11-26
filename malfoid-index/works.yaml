@@ -207,33 +207,33 @@ works:
       - {url: "https://x.com/shishirdotai/status/2120560179079205085", label: "Episode 26", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-11%20Episode%2026.mp4"]}
       - {url: "https://x.com/shishirdotai/status/2121575053137707282", label: "Episode 27", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-14%20Episode%2027.mp4"]}
       - {url: "https://x.com/shishirdotai/status/2122321348769071559", label: "Malfoid & Pottah: Sweet little moments", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-16%20Malfoid%20%26%20Pottah%EF%BC%9A%20Sweet%20little%20moments.mp4"]}
-      - {url: "https://x.com/shishirdotai/status/2125550173392965727", label: "Malfoid Extras: Everything Reminds Me of Him (cat)"}
-      - {url: "https://x.com/shishirdotai/status/2125615587330339222", label: "Malfoid Extras: Neko Chan Knows"}
-      - {url: "https://x.com/shishirdotai/status/2125635165963862110", label: "Malfoid Extras: the train"}
-      - {url: "https://www.youtube.com/watch?v=BeWHFJTR-6k", label: "YouTube: Malfoid Extras"}
-      - {url: "https://www.youtube.com/watch?v=al5Yua8ZdoY", label: "YouTube: Episode 26 - The Diagon Alley Showdown"}
-      - {url: "https://www.youtube.com/watch?v=PtYw9Zs6hNY", label: "YouTube: Episode 25 - Malfoid visits the Dursleys"}
-      - {url: "https://www.youtube.com/watch?v=waWzyjlPRgA", label: "YouTube: Episode 24 - Don't Forget to Write"}
-      - {url: "https://www.youtube.com/watch?v=jnk63Ksl5p0", label: "YouTube: Episode 23 - Sweet Little Moments"}
-      - {url: "https://www.youtube.com/watch?v=3MzGheEQpYo", label: "YouTube: Episode 22 - The Philosopher's Stone Part 3"}
-      - {url: "https://www.youtube.com/watch?v=l90A3wRGfnk", label: "YouTube: Episode 21 - The Philosopher's Stone Part 2"}
-      - {url: "https://www.youtube.com/watch?v=eI4WOGxaNk0", label: "YouTube: Episode 20 - The Philosopher's Stone Part 1"}
-      - {url: "https://www.youtube.com/watch?v=fY_WhO_MAwo", label: "YouTube: Episode 19 - The Fake Weasley"}
-      - {url: "https://www.youtube.com/watch?v=b6K0haoKU4M", label: "YouTube: Episode 18 - The Forbidden Forest"}
-      - {url: "https://www.youtube.com/watch?v=aIrdgbNhsu4", label: "YouTube: Episode 17 - A Fortune Written in the Stars?"}
-      - {url: "https://www.youtube.com/watch?v=iTR0BQs4iJs", label: "YouTube: Episode 16 - The Second Date"}
-      - {url: "https://www.youtube.com/watch?v=QewwwQa2_Yo", label: "YouTube: Episode 15 - Pottah's Out-of-Control Broom"}
-      - {url: "https://www.youtube.com/watch?v=1vhun9ez_vc", label: "YouTube: Episode 14 - The Boy Who Survived"}
-      - {url: "https://www.youtube.com/watch?v=CSWzOKNgfws", label: "YouTube: Episode 13 - The Rival Part 2"}
-      - {url: "https://www.youtube.com/watch?v=u10aHk2uukI", label: "YouTube: Episode 12 - Malfoid's Day as a Cat"}
-      - {url: "https://www.youtube.com/watch?v=WlOc5YZ3Zm0", label: "YouTube: Episode 11 - The Troll in the Dungeon"}
-      - {url: "https://www.youtube.com/watch?v=gWgwsOKi7oI", label: "YouTube: Episode 10 - The Halloween Incident"}
-      - {url: "https://www.youtube.com/watch?v=CVI9xwOjQLY", label: "YouTube: Episode 9 - Dinner at Malfoy Mansion"}
-      - {url: "https://www.youtube.com/watch?v=LMwY94X8rbU", label: "YouTube: Episode 8 - Meeting with the Father"}
-      - {url: "https://www.youtube.com/watch?v=HvUsOM3Vzjc", label: "YouTube: Episode 7 - The Locked Room"}
-      - {url: "https://www.youtube.com/watch?v=pnt57sG3AyA", label: "YouTube: Episodes 5 and 6 - The Staircase Incident and The Rival"}
-      - {url: "https://www.youtube.com/watch?v=FdKka74LpWA", label: "YouTube: Episodes 3 and 4 - The Race and Love Potion"}
-      - {url: "https://www.youtube.com/watch?v=Mhl9va9S4oM", label: "YouTube: Episodes 1 and 2 - A Secret Date"}
+      - {url: "https://x.com/shishirdotai/status/2125550173392965727", label: "Malfoid Extras: Everything Reminds Me of Him (cat)", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-25%20Malfoid%20Extras%EF%BC%9A%20Everything%20Reminds%20Me%20of%20Him%20%28cat%29.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2125615587330339222", label: "Malfoid Extras: Neko Chan Knows", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-25%20Malfoid%20Extras%EF%BC%9A%20Neko%20Chan%20Knows.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2125635165963862110", label: "Malfoid Extras: the train", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-25%20Malfoid%20Extras%EF%BC%9A%20the%20train.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=BeWHFJTR-6k", label: "YouTube: Malfoid Extras", also: ["https://malfoid.duckdns.org/video/Shishir/2026-11-25%20YouTube%EF%BC%9A%20Malfoid%20Extras.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=al5Yua8ZdoY", label: "YouTube: Episode 26 - The Diagon Alley Showdown", also: ["https://malfoid.duckdns.org/video/Shishir/2026-11-23%20YouTube%EF%BC%9A%20Episode%2026%20-%20The%20Diagon%20Alley%20Showdown.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=PtYw9Zs6hNY", label: "YouTube: Episode 25 - Malfoid visits the Dursleys", also: ["https://malfoid.duckdns.org/video/Shishir/2026-11-21%20YouTube%EF%BC%9A%20Episode%2025%20-%20Malfoid%20visits%20the%20Dursleys.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=waWzyjlPRgA", label: "YouTube: Episode 24 - Don't Forget to Write", also: ["https://malfoid.duckdns.org/video/Shishir/2026-11-20%20YouTube%EF%BC%9A%20Episode%2024%20-%20Don%27t%20Forget%20to%20Write.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=jnk63Ksl5p0", label: "YouTube: Episode 23 - Sweet Little Moments", also: ["https://malfoid.duckdns.org/video/Shishir/2026-11-20%20YouTube%EF%BC%9A%20Episode%2023%20-%20Sweet%20Little%20Moments.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=3MzGheEQpYo", label: "YouTube: Episode 22 - The Philosopher's Stone Part 3", also: ["https://malfoid.duckdns.org/video/Shishir/2026-11-14%20YouTube%EF%BC%9A%20Episode%2022%20-%20The%20Philosopher%27s%20Stone%20Part%203.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=l90A3wRGfnk", label: "YouTube: Episode 21 - The Philosopher's Stone Part 2", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-11%20YouTube%EF%BC%9A%20Episode%2021%20-%20The%20Philosopher%27s%20Stone%20Part%202.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=eI4WOGxaNk0", label: "YouTube: Episode 20 - The Philosopher's Stone Part 1", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-08%20YouTube%EF%BC%9A%20Episode%2020%20-%20The%20Philosopher%27s%20Stone%20Part%201.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=fY_WhO_MAwo", label: "YouTube: Episode 19 - The Fake Weasley", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-06%20YouTube%EF%BC%9A%20Episode%2019%20-%20The%20Fake%20Weasley.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=b6K0haoKU4M", label: "YouTube: Episode 18 - The Forbidden Forest", also: ["https://malfoid.duckdns.org/video/Shishir/2026-11-05%20YouTube%EF%BC%9A%20Episode%2018%20-%20The%20Forbidden%20Forest.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=aIrdgbNhsu4", label: "YouTube: Episode 17 - A Fortune Written in the Stars?", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-02%20YouTube%EF%BC%9A%20Episode%2017%20-%20A%20Fortune%20Written%20in%20the%20Stars%EF%BC%9F.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=iTR0BQs4iJs", label: "YouTube: Episode 16 - The Second Date", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-01%20YouTube%EF%BC%9A%20Episode%2016%20-%20The%20Second%20Date.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=QewwwQa2_Yo", label: "YouTube: Episode 15 - Pottah's Out-of-Control Broom", also: ["https://malfoid.duckdns.org/video/Shishir/2026-10-30%20YouTube%EF%BC%9A%20Episode%2015%20-%20Pottah%27s%20Out-of-Control%20Broom.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=1vhun9ez_vc", label: "YouTube: Episode 14 - The Boy Who Survived", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-29%20YouTube%EF%BC%9A%20Episode%2014%20-%20The%20Boy%20Who%20Survived.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=CSWzOKNgfws", label: "YouTube: Episode 13 - The Rival Part 2", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-28%20YouTube%EF%BC%9A%20Episode%2013%20-%20The%20Rival%20Part%202.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=u10aHk2uukI", label: "YouTube: Episode 12 - Malfoid's Day as a Cat", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-26%20YouTube%EF%BC%9A%20Episode%2012%20-%20Malfoid%27s%20Day%20as%20a%20Cat.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=WlOc5YZ3Zm0", label: "YouTube: Episode 11 - The Troll in the Dungeon", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-25%20YouTube%EF%BC%9A%20Episode%2011%20-%20The%20Troll%20in%20the%20Dungeon.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=gWgwsOKi7oI", label: "YouTube: Episode 10 - The Halloween Incident", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/YouTube%EF%BC%9A%20Episode%2010%20-%20The%20Halloween%20Incident.webm"]}
+      - {url: "https://www.youtube.com/watch?v=CVI9xwOjQLY", label: "YouTube: Episode 9 - Dinner at Malfoy Mansion", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-23%20YouTube%EF%BC%9A%20Episode%209%20-%20Dinner%20at%20Malfoy%20Mansion.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=LMwY94X8rbU", label: "YouTube: Episode 8 - Meeting with the Father", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-10-22%20YouTube%EF%BC%9A%20Episode%208%20-%20Meeting%20with%20the%20Father.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=HvUsOM3Vzjc", label: "YouTube: Episode 7 - The Locked Room", also: ["https://malfoid.duckdns.org/video/Shishir/2026-10-21%20YouTube%EF%BC%9A%20Episode%207%20-%20The%20Locked%20Room.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=pnt57sG3AyA", label: "YouTube: Episodes 5 and 6 - The Staircase Incident and The Rival", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/YouTube%EF%BC%9A%20Episodes%205%20and%206%20-%20The%20Staircase%20Incident%20and%20The%20Rival.webm"]}
+      - {url: "https://www.youtube.com/watch?v=FdKka74LpWA", label: "YouTube: Episodes 3 and 4 - The Race and Love Potion", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/YouTube%EF%BC%9A%20Episodes%203%20and%204%20-%20The%20Race%20and%20Love%20Potion.webm"]}
+      - {url: "https://www.youtube.com/watch?v=Mhl9va9S4oM", label: "YouTube: Episodes 1 and 2 - A Secret Date", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/YouTube%EF%BC%9A%20Episodes%201%20and%202%20-%20A%20Secret%20Date.webm"]}
     language: "English"
     added: 2026-11-15
     summary: "A Harry Potter romantic comedy about Malfoid and Harry, told in short episodes. The 27 episodes are embedded from X. The YouTube channel (@shishirdotai) also has uploads of the series, which combine some episodes, and they are listed below."
@@ -5738,7 +5738,7 @@ works:
     summary: "Malfoid anime MAD and cover music videos by HIROSE Studio, with English subtitles for the music."
     videos:
       - {url: "https://www.youtube.com/watch?v=kZxMtyvVnRI", label: "抜錨｜Batsubyou【Malfoid Anime MAD / Cover MV】", also: ["https://malfoid.duckdns.org/video/HIROSE%20Studio/2026-11-19%20%E6%8A%9C%E9%8C%A8%EF%BD%9CBatsubyou%E3%80%90Malfoid%20Anime%20MAD%20%E2%A7%B8%20Cover%20MV%E3%80%91.mp4"]}
-      - {url: "https://www.youtube.com/watch?v=1ph8sTBH6uc", label: "FLASHDANCE MALFOID【Anime Dance MV】"}
+      - {url: "https://www.youtube.com/watch?v=1ph8sTBH6uc", label: "FLASHDANCE MALFOID【Anime Dance MV】", also: ["https://malfoid.duckdns.org/video/HIROSE%20Studio/2026-11-25%20FLASHDANCE%20MALFOID%E3%80%90Anime%20Dance%20MV%E3%80%91.mp4"]}
     tags: [music, anime, youtube]
   - id: "creator-ma-aiglitchez"
     title: "AI Glitchez"
@@ -7605,6 +7605,7 @@ works:
       - url: "https://x.com/catholic_comedy/status/2124895330655252553"
         label: "Sanctuarium, Chapter 5"
       - url: "https://x.com/catholic_comedy/status/2113885139537432791"
+        also: ["https://malfoid.duckdns.org/video/catholic_comedy/2026-10-24%20Dracana%20animation%20test.mp4"]
         label: "Dracana animation test"
       - url: "https://x.com/catholic_comedy/status/2118882184287395909"
         label: "Harry and Dracana dancing (work in progress)"
@@ -34985,7 +34986,7 @@ works:
     added: 2026-11-26
     summary: "Original AI-made Malfoid series, starting with Draconia and Harry in EP.01."
     videos:
-      - {url: "https://www.youtube.com/watch?v=nVrNbW2ai4A", label: "Malfoid | I Didn't Want This, Potter ❤️ | Draconia x Harry | EP.01"}
+      - {url: "https://www.youtube.com/watch?v=nVrNbW2ai4A", label: "Malfoid | I Didn't Want This, Potter ❤️ | Draconia x Harry | EP.01", also: ["https://malfoid.duckdns.org/video/Sleepy%20Head%20%28SleepyHeadRead%29/2026-11-25%20Malfoid%20%EF%BD%9C%20I%20Didn%27t%20Want%20This%2C%20Potter%20%E2%9D%A4%EF%B8%8F%20%EF%BD%9C%20Draconia%20x%20Harry%20%EF%BD%9C%20EP.01.mp4"]}
     tags: [video, youtube, ai, series]
   - id: "creator-deadspella"
     title: "DeadSpell"
@@ -34997,7 +34998,7 @@ works:
     added: 2026-11-26
     summary: "Long-form AI \"What If\" Malfoid stories, several episodes. Credited with 3 more channels on the video."
     videos:
-      - {url: "https://www.youtube.com/watch?v=FL06PaulRSc", label: "What If Harry and Malfoid Got Stranded Together on Christmas Eve"}
+      - {url: "https://www.youtube.com/watch?v=FL06PaulRSc", label: "What If Harry and Malfoid Got Stranded Together on Christmas Eve", also: ["https://malfoid.duckdns.org/stories/DeadSpell/2026-11-25%20What%20If%20Harry%20and%20Malfoid%20Got%20Stranded%20Together%20on%20Christmas%20Eve.mp4"]}
     tags: [video, youtube, ai, series]
   - id: "creator-iron-horizon-films"
     title: "IRON HORIZON FILMS"
@@ -35009,7 +35010,7 @@ works:
     added: 2026-11-26
     summary: "Original AI animated Malfoid love stories."
     videos:
-      - {url: "https://www.youtube.com/watch?v=GDCv6FDpNXQ", label: "Draconia Malfoid | She Found His Old Photograph — And The Girl In It Was Her Love Story"}
+      - {url: "https://www.youtube.com/watch?v=GDCv6FDpNXQ", label: "Draconia Malfoid | She Found His Old Photograph — And The Girl In It Was Her Love Story", also: ["https://malfoid.duckdns.org/video/IRON%20HORIZON%20FILMS/2026-11-25%20Draconia%20Malfoid%20%EF%BD%9C%20She%20Found%20His%20Old%20Photograph%20%E2%80%94%20And%20The%20Girl%20In%20It%20Was%20Her%20Love%20Story.mp4"]}
     tags: [video, youtube, ai, animation]
   - id: "creator-samerikimani"
     title: "sameri kimani"
@@ -35021,7 +35022,7 @@ works:
     added: 2026-11-26
     summary: "Dreamina AI fan film series with a Malfoid and Harry AU, with English descriptions."
     videos:
-      - {url: "https://www.youtube.com/watch?v=d7wPmTgyGO4", label: "Malfoid Vibes | 해리꼬시기: Make Him Fall for Me 💘 | EP.03"}
+      - {url: "https://www.youtube.com/watch?v=d7wPmTgyGO4", label: "Malfoid Vibes | 해리꼬시기: Make Him Fall for Me 💘 | EP.03", also: ["https://malfoid.duckdns.org/video/sameri%20kimani/2026-11-25%20Malfoid%20Vibes%20%EF%BD%9C%20%ED%95%B4%EB%A6%AC%EA%BC%AC%EC%8B%9C%EA%B8%B0%EF%BC%9A%20Make%20Him%20Fall%20for%20Me%20%F0%9F%92%98%20%EF%BD%9C%20EP.03.mp4"]}
     tags: [video, youtube, ai, series]
   - id: "creator-rinokumura"
     title: "Rin Okumura"
@@ -35033,36 +35034,36 @@ works:
     added: 2026-11-26
     summary: "Malfoid fan videos on X, tagged #malfoid and #draconamalfoy."
     videos:
-      - {url: "https://x.com/RinOkumurakkkk/status/2125622587942199572", label: "Malfoid video (#harrypotter #harryxmalfoid)"}
-      - {url: "https://x.com/RinOkumurakkkk/status/2125658539486015940", label: "Malfoid anime video (#Malfoid #anime)"}
-      - {url: "https://x.com/RinOkumurakkkk/status/2123873205626732810", label: "Malfoid video, 2026-11-20"}
-      - {url: "https://x.com/RinOkumurakkkk/status/2125432808579444990", label: "Malfoid video, 2026-11-25"}
+      - {url: "https://x.com/RinOkumurakkkk/status/2125622587942199572", label: "Malfoid video (#harrypotter #harryxmalfoid)", also: ["https://malfoid.duckdns.org/video/RinOkumurakkkk/2026-11-25%20Malfoid%20video%20%28%23harrypotter%20%23harryxmalfoid%29.mp4"]}
+      - {url: "https://x.com/RinOkumurakkkk/status/2125658539486015940", label: "Malfoid anime video (#Malfoid #anime)", also: ["https://malfoid.duckdns.org/video/RinOkumurakkkk/2026-11-25%20Malfoid%20anime%20video%20%28%23Malfoid%20%23anime%29.mp4"]}
+      - {url: "https://x.com/RinOkumurakkkk/status/2123873205626732810", label: "Malfoid video, 2026-11-20", also: ["https://malfoid.duckdns.org/video/RinOkumurakkkk/2026-11-20%20Malfoid%20video%2C%202026-11-20.mp4"]}
+      - {url: "https://x.com/RinOkumurakkkk/status/2125432808579444990", label: "Malfoid video, 2026-11-25", also: ["https://malfoid.duckdns.org/video/RinOkumurakkkk/2026-11-25%20Malfoid%20video%2C%202026-11-25.mp4"]}
       - {url: "https://x.com/RinOkumurakkkk/status/2123206216255959532", label: "Malfoid video, 2026-11-19"}
       - {url: "https://x.com/RinOkumurakkkk/status/2123238710917452215", label: "Malfoid video, 2026-11-19"}
-      - {url: "https://x.com/RinOkumurakkkk/status/2123068346849513557", label: "Malfoid video, 2026-11-18"}
+      - {url: "https://x.com/RinOkumurakkkk/status/2123068346849513557", label: "Malfoid video, 2026-11-18", also: ["https://malfoid.duckdns.org/video/RinOkumurakkkk/2026-11-18%20Malfoid%20video%2C%202026-11-18.mp4"]}
       - {url: "https://x.com/RinOkumurakkkk/status/2123235983726391646", label: "Malfoid video, 2026-11-19"}
-      - {url: "https://x.com/RinOkumurakkkk/status/2125437639398490597", label: "Malfoid video, 2026-11-25"}
+      - {url: "https://x.com/RinOkumurakkkk/status/2125437639398490597", label: "Malfoid video, 2026-11-25", also: ["https://malfoid.duckdns.org/video/RinOkumurakkkk/2026-11-25%20Malfoid%20video%2C%202026-11-25%20%282%29.mp4"]}
       - {url: "https://x.com/RinOkumurakkkk/status/2123209086112034829", label: "Malfoid video, 2026-11-19"}
       - {url: "https://x.com/RinOkumurakkkk/status/2123127874957828420", label: "Malfoid video, 2026-11-18"}
-      - {url: "https://x.com/RinOkumurakkkk/status/2123869961013649673", label: "Malfoid video, 2026-11-20"}
-      - {url: "https://x.com/RinOkumurakkkk/status/2123539812515041296", label: "Malfoid video, 2026-11-19"}
+      - {url: "https://x.com/RinOkumurakkkk/status/2123869961013649673", label: "Malfoid video, 2026-11-20", also: ["https://malfoid.duckdns.org/video/RinOkumurakkkk/2026-11-20%20Malfoid%20video%2C%202026-11-20%20%282%29.mp4"]}
+      - {url: "https://x.com/RinOkumurakkkk/status/2123539812515041296", label: "Malfoid video, 2026-11-19", also: ["https://malfoid.duckdns.org/video/RinOkumurakkkk/2026-11-19%20Malfoid%20video%2C%202026-11-19.mp4"]}
       - {url: "https://x.com/RinOkumurakkkk/status/2124126169058394439", label: "Malfoid video, 2026-11-21"}
-      - {url: "https://x.com/RinOkumurakkkk/status/2124889795855855803", label: "Malfoid video, 2026-11-23"}
-      - {url: "https://x.com/RinOkumurakkkk/status/2124883629637529962", label: "Malfoid video, 2026-11-23"}
-      - {url: "https://x.com/RinOkumurakkkk/status/2123800826527322295", label: "Malfoid video, 2026-11-20"}
+      - {url: "https://x.com/RinOkumurakkkk/status/2124889795855855803", label: "Malfoid video, 2026-11-23", also: ["https://malfoid.duckdns.org/video/RinOkumurakkkk/2026-11-23%20Malfoid%20video%2C%202026-11-23.mp4"]}
+      - {url: "https://x.com/RinOkumurakkkk/status/2124883629637529962", label: "Malfoid video, 2026-11-23", also: ["https://malfoid.duckdns.org/video/RinOkumurakkkk/2026-11-23%20Malfoid%20video%2C%202026-11-23%20%282%29.mp4"]}
+      - {url: "https://x.com/RinOkumurakkkk/status/2123800826527322295", label: "Malfoid video, 2026-11-20", also: ["https://malfoid.duckdns.org/video/RinOkumurakkkk/2026-11-20%20Malfoid%20video%2C%202026-11-20%20%283%29.mp4"]}
       - {url: "https://x.com/RinOkumurakkkk/status/2123241662058987972", label: "Malfoid video, 2026-11-19"}
       - {url: "https://x.com/RinOkumurakkkk/status/2123131417546948778", label: "Malfoid video, 2026-11-18"}
       - {url: "https://x.com/RinOkumurakkkk/status/2123236826043289720", label: "Malfoid video, 2026-11-19"}
       - {url: "https://x.com/RinOkumurakkkk/status/2123082181647990819", label: "Malfoid video, 2026-11-18"}
-      - {url: "https://x.com/RinOkumurakkkk/status/2125433693908980001", label: "Malfoid video, 2026-11-25"}
-      - {url: "https://x.com/RinOkumurakkkk/status/2123982922688409873", label: "Malfoid video, 2026-11-21"}
+      - {url: "https://x.com/RinOkumurakkkk/status/2125433693908980001", label: "Malfoid video, 2026-11-25", also: ["https://malfoid.duckdns.org/video/RinOkumurakkkk/2026-11-25%20Malfoid%20video%2C%202026-11-25%20%283%29.mp4"]}
+      - {url: "https://x.com/RinOkumurakkkk/status/2123982922688409873", label: "Malfoid video, 2026-11-21", also: ["https://malfoid.duckdns.org/video/RinOkumurakkkk/2026-11-21%20Malfoid%20video%2C%202026-11-21.mp4"]}
       - {url: "https://x.com/RinOkumurakkkk/status/2123237146056085939", label: "Malfoid video, 2026-11-19"}
       - {url: "https://x.com/RinOkumurakkkk/status/2125048963434963097", label: "Malfoid video, 2026-11-24"}
       - {url: "https://x.com/RinOkumurakkkk/status/2121630931702141000", label: "Malfoid video, 2026-11-14"}
       - {url: "https://x.com/RinOkumurakkkk/status/2125038638740246827", label: "Malfoid video, 2026-11-24"}
-      - {url: "https://x.com/RinOkumurakkkk/status/2124862214922240130", label: "Malfoid video, 2026-11-23"}
+      - {url: "https://x.com/RinOkumurakkkk/status/2124862214922240130", label: "Malfoid video, 2026-11-23", also: ["https://malfoid.duckdns.org/video/RinOkumurakkkk/2026-11-23%20Malfoid%20video%2C%202026-11-23%20%283%29.mp4"]}
       - {url: "https://x.com/RinOkumurakkkk/status/2124257918702768513", label: "Malfoid video, 2026-11-21"}
-      - {url: "https://x.com/RinOkumurakkkk/status/2123538352116761083", label: "Malfoid video, 2026-11-19"}
+      - {url: "https://x.com/RinOkumurakkkk/status/2123538352116761083", label: "Malfoid video, 2026-11-19", also: ["https://malfoid.duckdns.org/video/RinOkumurakkkk/2026-11-19%20Malfoid%20video%2C%202026-11-19%20%282%29.mp4"]}
     tags: [video, x]
   - id: "creator-edu-andy24"
     title: "ANDY"
@@ -35074,17 +35075,17 @@ works:
     added: 2026-11-26
     summary: "Malfoid commentary video on X about love and transformation in the Potters and the Malfoys."
     videos:
-      - {url: "https://x.com/edu_andy24/status/2125708678372495800", label: "Love truly transforms people (James, Lily and Malfoid)"}
-      - {url: "https://x.com/edu_andy24/status/2125400453986828423", label: "Malfoid video, 2026-11-25"}
+      - {url: "https://x.com/edu_andy24/status/2125708678372495800", label: "Love truly transforms people (James, Lily and Malfoid)", also: ["https://malfoid.duckdns.org/music/ANDY%20%28edu_andy24%29/2026-11-25%20Love%20truly%20transforms%20people%20%28James%2C%20Lily%20and%20Malfoid%29.mp4"]}
+      - {url: "https://x.com/edu_andy24/status/2125400453986828423", label: "Malfoid video, 2026-11-25", also: ["https://malfoid.duckdns.org/music/ANDY%20%28edu_andy24%29/2026-11-25%20Malfoid%20video%2C%202026-11-25.mp4"]}
       - {url: "https://x.com/edu_andy24/status/2110952885219446896", label: "Malfoid video, 2026-10-16"}
-      - {url: "https://x.com/edu_andy24/status/2123955244610551889", label: "Malfoid video, 2026-11-21"}
+      - {url: "https://x.com/edu_andy24/status/2123955244610551889", label: "Malfoid video, 2026-11-21", also: ["https://malfoid.duckdns.org/music/ANDY%20%28edu_andy24%29/2026-11-21%20Malfoid%20video%2C%202026-11-21.mp4"]}
       - {url: "https://x.com/edu_andy24/status/2114801205507666021", label: "Malfoid video, 2026-10-26"}
       - {url: "https://x.com/edu_andy24/status/2120225016461631803", label: "Malfoid video, 2026-11-10"}
       - {url: "https://x.com/edu_andy24/status/2117051227490091295", label: "Malfoid video, 2026-11-02"}
       - {url: "https://x.com/edu_andy24/status/2112978055262060891", label: "Malfoid video, 2026-10-21"}
       - {url: "https://x.com/edu_andy24/status/2124923910101590065", label: "Malfoid video, 2026-11-23"}
-      - {url: "https://x.com/edu_andy24/status/2122311672626806857", label: "Malfoid video, 2026-11-16"}
-      - {url: "https://x.com/edu_andy24/status/2120550168671944790", label: "Malfoid video, 2026-11-11"}
+      - {url: "https://x.com/edu_andy24/status/2122311672626806857", label: "Malfoid video, 2026-11-16", also: ["https://malfoid.duckdns.org/music/ANDY%20%28edu_andy24%29/2026-11-16%20Malfoid%20video%2C%202026-11-16.mp4"]}
+      - {url: "https://x.com/edu_andy24/status/2120550168671944790", label: "Malfoid video, 2026-11-11", also: ["https://malfoid.duckdns.org/music/ANDY%20%28edu_andy24%29/2026-11-11%20Malfoid%20video%2C%202026-11-11.mp4"]}
       - {url: "https://x.com/edu_andy24/status/2116291909312446712", label: "Malfoid video, 2026-10-30"}
       - {url: "https://x.com/edu_andy24/status/2110596254333800956", label: "Malfoid video, 2026-10-15"}
       - {url: "https://x.com/edu_andy24/status/2117462421895782773", label: "Malfoid video, 2026-11-03"}
@@ -35122,7 +35123,7 @@ works:
       - {url: "https://x.com/MalfoidSoftware/status/2111886641942220882", label: "Malfoid video, 2026-10-18"}
       - {url: "https://x.com/MalfoidSoftware/status/2110112453220761833", label: "Malfoid video, 2026-10-13"}
       - {url: "https://x.com/MalfoidSoftware/status/2114864182721954034", label: "Malfoid video, 2026-10-26"}
-      - {url: "https://x.com/MalfoidSoftware/status/2123103215986102397", label: "Malfoid video, 2026-11-18"}
+      - {url: "https://x.com/MalfoidSoftware/status/2123103215986102397", label: "Malfoid video, 2026-11-18", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-11-18%20Malfoid%20video%2C%202026-11-18.mp4"]}
       - {url: "https://x.com/MalfoidSoftware/status/2122685991525752886", label: "Malfoid video, 2026-11-17"}
       - {url: "https://x.com/MalfoidSoftware/status/2114086982842548447", label: "Malfoid video, 2026-10-24"}
       - {url: "https://x.com/MalfoidSoftware/status/2108989263945863385", label: "Malfoid video, 2026-10-10"}
@@ -35135,13 +35136,13 @@ works:
       - {url: "https://x.com/MalfoidSoftware/status/2122885134643085726", label: "Malfoid video, 2026-11-18"}
       - {url: "https://x.com/MalfoidSoftware/status/2117778936554021204", label: "Malfoid video, 2026-11-04"}
       - {url: "https://x.com/MalfoidSoftware/status/2115953239996633359", label: "Malfoid video, 2026-10-29"}
-      - {url: "https://x.com/MalfoidSoftware/status/2123615497505939551", label: "Malfoid video, 2026-11-20"}
+      - {url: "https://x.com/MalfoidSoftware/status/2123615497505939551", label: "Malfoid video, 2026-11-20", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-11-20%20Malfoid%20video%2C%202026-11-20.mp4"]}
       - {url: "https://x.com/MalfoidSoftware/status/2124299395097325744", label: "Malfoid video, 2026-11-22"}
       - {url: "https://x.com/MalfoidSoftware/status/2117329733990174747", label: "Malfoid video, 2026-11-02"}
       - {url: "https://x.com/MalfoidSoftware/status/2116578272569897430", label: "Malfoid video, 2026-10-31"}
       - {url: "https://x.com/MalfoidSoftware/status/2110875123091673181", label: "Malfoid video, 2026-10-15"}
       - {url: "https://x.com/MalfoidSoftware/status/2113808115179168132", label: "Malfoid video, 2026-10-24"}
-      - {url: "https://x.com/MalfoidSoftware/status/2123885648566256036", label: "Malfoid video, 2026-11-20"}
+      - {url: "https://x.com/MalfoidSoftware/status/2123885648566256036", label: "Malfoid video, 2026-11-20", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-11-20%20Malfoid%20video%2C%202026-11-20%20%282%29.mp4"]}
       - {url: "https://x.com/MalfoidSoftware/status/2109096995667222553", label: "Malfoid video, 2026-10-11"}
       - {url: "https://x.com/MalfoidSoftware/status/2118771872972091589", label: "Malfoid video, 2026-11-06"}
       - {url: "https://x.com/MalfoidSoftware/status/2115418001990148114", label: "Malfoid video, 2026-10-28"}
