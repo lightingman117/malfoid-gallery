@@ -35237,3 +35237,20 @@ works:
       - {url: "https://www.youtube.com/watch?v=k8weBjMrPp4", label: "Moody's Truth Serum Corners Malfoy | The Villainess Malfoy Ch. 40 | Malfoid Audiobook/Visual Novel"}
       - {url: "https://www.youtube.com/watch?v=FCJNOh8uLU4", label: "「Audiobook」Malfoid: Fire and Dignity - The Villainess Malfoy Book 2 (Ch27-Ch38)"}
     tags: [video, youtube, audiobook, visual-novel]
+  - id: "creator-asithlawd"
+    title: "A SITH LAWD?"
+    first_name: ""
+    kind: [creator, art]
+    creator: "A SITH LAWD? (@ASithLawd)"
+    url: "https://x.com/ASithLawd"
+    language: "English"
+    added: 2026-11-26
+    summary: "AI-made Malfoid art on X, with short captions. Samples only."
+    items:
+      - title: "Many Reassurances (AI art)"
+        url: "https://x.com/ASithLawd/status/2125782846509830519"
+      - title: "Does hers get a D or an M? (AI art)"
+        url: "https://x.com/ASithLawd/status/2125760196677152928"
+      - title: "Brooms do not in fact need flowers (AI art)"
+        url: "https://x.com/ASithLawd/status/2125748875872915527"
+    tags: [fan-art, ai-art, x]
