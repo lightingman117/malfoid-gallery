@@ -207,6 +207,9 @@ works:
       - {url: "https://x.com/shishirdotai/status/2120560179079205085", label: "Episode 26", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-11%20Episode%2026.mp4"]}
       - {url: "https://x.com/shishirdotai/status/2121575053137707282", label: "Episode 27", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-14%20Episode%2027.mp4"]}
       - {url: "https://x.com/shishirdotai/status/2122321348769071559", label: "Malfoid & Pottah: Sweet little moments", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-16%20Malfoid%20%26%20Pottah%EF%BC%9A%20Sweet%20little%20moments.mp4"]}
+      - {url: "https://x.com/shishirdotai/status/2125550173392965727", label: "Malfoid Extras: Everything Reminds Me of Him (cat)"}
+      - {url: "https://x.com/shishirdotai/status/2125615587330339222", label: "Malfoid Extras: Neko Chan Knows"}
+      - {url: "https://x.com/shishirdotai/status/2125635165963862110", label: "Malfoid Extras: the train"}
       - {url: "https://www.youtube.com/watch?v=BeWHFJTR-6k", label: "YouTube: Malfoid Extras"}
       - {url: "https://www.youtube.com/watch?v=al5Yua8ZdoY", label: "YouTube: Episode 26 - The Diagon Alley Showdown"}
       - {url: "https://www.youtube.com/watch?v=PtYw9Zs6hNY", label: "YouTube: Episode 25 - Malfoid visits the Dursleys"}
@@ -35020,3 +35023,52 @@ works:
     videos:
       - {url: "https://www.youtube.com/watch?v=d7wPmTgyGO4", label: "Malfoid Vibes | 해리꼬시기: Make Him Fall for Me 💘 | EP.03"}
     tags: [video, youtube, ai, series]
+  - id: "creator-rinokumura"
+    title: "Rin Okumura"
+    first_name: ""
+    kind: creator
+    creator: "Rin Okumura"
+    url: "https://x.com/RinOkumurakkkk"
+    language: "English"
+    added: 2026-11-26
+    summary: "Malfoid fan videos on X, tagged #malfoid and #draconamalfoy."
+    videos:
+      - {url: "https://x.com/RinOkumurakkkk/status/2125622587942199572", label: "Malfoid video (#harrypotter #harryxmalfoid)"}
+      - {url: "https://x.com/RinOkumurakkkk/status/2125658539486015940", label: "Malfoid anime video (#Malfoid #anime)"}
+    tags: [video, x]
+  - id: "creator-edu-andy24"
+    title: "ANDY"
+    first_name: ""
+    kind: creator
+    creator: "ANDY"
+    url: "https://x.com/edu_andy24"
+    language: "English"
+    added: 2026-11-26
+    summary: "Malfoid commentary video on X about love and transformation in the Potters and the Malfoys."
+    videos:
+      - {url: "https://x.com/edu_andy24/status/2125708678372495800", label: "Love truly transforms people (James, Lily and Malfoid)"}
+    tags: [video, x]
+  - id: "creator-llullabye"
+    title: "lisa"
+    first_name: ""
+    kind: creator
+    creator: "lisa"
+    url: "https://x.com/llullabye"
+    language: "English"
+    added: 2026-11-26
+    summary: "Art reveal video on X, posted with #malfoid."
+    videos:
+      - {url: "https://x.com/llullabye/status/2125648539027902680", label: "Revealing my art until I become Malfoid"}
+    tags: [video, x]
+  - id: "creator-malfoidsoftware"
+    title: "Malfoid Software"
+    first_name: ""
+    kind: creator
+    creator: "Malfoid Software"
+    url: "https://x.com/MalfoidSoftware"
+    language: "English"
+    added: 2026-11-26
+    summary: "AI-made Malfoid videos. This clip is from a video in progress."
+    videos:
+      - {url: "https://x.com/MalfoidSoftware/status/2125737319189901730", label: "Walking a mile in one another's shoes (clip from the next Malfoid video)"}
+    tags: [video, x, ai]
