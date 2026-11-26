@@ -35187,3 +35187,32 @@ works:
       - title: "Hartman-Quidditch Arc (AI comic)"
         url: "https://x.com/ThePrussian1/status/2125704290341916886"
     tags: [fan-art, ai-art, comic, fanfic, crossover, x]
+  - id: "creator-inkiness"
+    title: "Inkiness"
+    first_name: ""
+    kind: [creator, video]
+    creator: "Inkiness"
+    url: "https://www.youtube.com/@inkiness-q7o"
+    language: "English"
+    added: 2026-11-26
+    summary: "Ongoing fem!Draco and Harry fanfic videos, told in seasons, on one channel."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=qmkwNjxFYp8", label: "Harry Potter Put Icing on My Nose… and I Forgot We Were Rivals | fem!Draco x Harry Fanfic"}
+      - {url: "https://www.youtube.com/watch?v=mIgcrnw9DmI", label: "We Watched the Night We Erased… With Both Our Families in the Room | Season 3 Finale"}
+      - {url: "https://www.youtube.com/watch?v=hWo_lfxvcpE", label: "Harry Potter Broke Into My Childhood Bedroom… and Found What I Hid at Eleven | Season 3 Ep 4"}
+    tags: [video, youtube, fanfic, series]
+  - id: "creator-kkuljaem-lab"
+    title: "Kkuljaem Lab"
+    first_name: ""
+    kind: [creator, video]
+    creator: "Kkuljaem Lab"
+    url: "https://www.youtube.com/@kkuljaem_lab"
+    language: "English"
+    added: 2026-11-26
+    summary: "Ongoing Tsundere Malfoy series made with AI, webtoon-style and live-action AI episodes, 54 videos on the channel."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=ikfbSkNb_l0", label: "She Was Winning… Then She Screamed \"LEFT, POTTER!\" Tsundere Malfoy FULL Ep.20"}
+      - {url: "https://www.youtube.com/watch?v=GJLbhlZxv3M", label: "Malfoid: His Hands Are Far Too Warm Tsundere Malfoy FULL Ep.19"}
+      - {url: "https://www.youtube.com/watch?v=V_ue8N0y5Ig", label: "Malfoid & Harry: Double Date in Paris | Live Action AI Movie"}
+      - {url: "https://www.youtube.com/watch?v=fG45rhsQYqE", label: "Malfoid Season 2 Part 1 Binge Tsundere Malfoy Ep.12–18 in One Go (55 min)"}
+    tags: [video, youtube, ai, series]
