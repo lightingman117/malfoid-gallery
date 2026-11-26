@@ -35169,13 +35169,15 @@ works:
     tags: [video, x, ai]
   - id: "creator-theprussian1"
     title: "The Prussian"
-    first_name: ""
-    kind: [creator, art, comic]
+    kind: [creator, art, comic, fanfic]
     creator: "The Prussian (@ThePrussian1)"
     url: "https://x.com/ThePrussian1"
+    also: ["https://www.fanfiction.net/s/14598139/1/Dracina-Malfoy-A-Dragon-among-Serpents"]
     language: "English"
     added: 2026-11-26
-    summary: "AI-made Malfoid art and comics on X, plus a link to his Draconia Malfoy fanfiction. Samples only."
+    summary: "AI-made Malfoid art and comics on X (samples only), plus his fanfic Dracina Malfoy: A Dragon among Serpents, a Harry Potter and Youjo Senki crossover of five chapters."
+    first_name: "Draconia"
+    length: "short"
     items:
       - title: "Draconia Malfoy: A Dragon among Serpents (fanfic announcement)"
         url: "https://x.com/ThePrussian1/status/2117144187543929116"
@@ -35183,15 +35185,4 @@ works:
         url: "https://x.com/ThePrussian1/status/2125792168162054288"
       - title: "Hartman-Quidditch Arc (AI comic)"
         url: "https://x.com/ThePrussian1/status/2125704290341916886"
-    tags: [fan-art, ai-art, comic, x]
-  - id: "fanfic-fanfiction-14598139"
-    title: "Dracina Malfoy: A Dragon among Serpents"
-    kind: fanfic
-    creator: "The Prussian (@ThePrussian1)"
-    url: "https://www.fanfiction.net/s/14598139/1/Dracina-Malfoy-A-Dragon-among-Serpents"
-    language: "English"
-    added: 2026-11-26
-    summary: "A Harry Potter and Youjo Senki crossover about Dracina Malfoy, the Dragon among Serpents, told by a Hufflepuff who watched her from the sidelines. Five chapters so far."
-    tags: [crossover, harry-potter, youjo-senki]
-    first_name: "Draconia"
-    length: "short"
+    tags: [fan-art, ai-art, comic, fanfic, crossover, x]
