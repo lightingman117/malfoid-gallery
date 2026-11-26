@@ -207,10 +207,34 @@ works:
       - {url: "https://x.com/shishirdotai/status/2120560179079205085", label: "Episode 26", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-11%20Episode%2026.mp4"]}
       - {url: "https://x.com/shishirdotai/status/2121575053137707282", label: "Episode 27", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-14%20Episode%2027.mp4"]}
       - {url: "https://x.com/shishirdotai/status/2122321348769071559", label: "Malfoid & Pottah: Sweet little moments", also: ["https://malfoid.duckdns.org/video/Shishir%20%28shishirdotai%29/2026-11-16%20Malfoid%20%26%20Pottah%EF%BC%9A%20Sweet%20little%20moments.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=BeWHFJTR-6k", label: "YouTube: Malfoid Extras"}
+      - {url: "https://www.youtube.com/watch?v=al5Yua8ZdoY", label: "YouTube: Episode 26 - The Diagon Alley Showdown"}
+      - {url: "https://www.youtube.com/watch?v=PtYw9Zs6hNY", label: "YouTube: Episode 25 - Malfoid visits the Dursleys"}
+      - {url: "https://www.youtube.com/watch?v=waWzyjlPRgA", label: "YouTube: Episode 24 - Don't Forget to Write"}
+      - {url: "https://www.youtube.com/watch?v=jnk63Ksl5p0", label: "YouTube: Episode 23 - Sweet Little Moments"}
+      - {url: "https://www.youtube.com/watch?v=3MzGheEQpYo", label: "YouTube: Episode 22 - The Philosopher's Stone Part 3"}
+      - {url: "https://www.youtube.com/watch?v=l90A3wRGfnk", label: "YouTube: Episode 21 - The Philosopher's Stone Part 2"}
+      - {url: "https://www.youtube.com/watch?v=eI4WOGxaNk0", label: "YouTube: Episode 20 - The Philosopher's Stone Part 1"}
+      - {url: "https://www.youtube.com/watch?v=fY_WhO_MAwo", label: "YouTube: Episode 19 - The Fake Weasley"}
+      - {url: "https://www.youtube.com/watch?v=b6K0haoKU4M", label: "YouTube: Episode 18 - The Forbidden Forest"}
+      - {url: "https://www.youtube.com/watch?v=aIrdgbNhsu4", label: "YouTube: Episode 17 - A Fortune Written in the Stars?"}
+      - {url: "https://www.youtube.com/watch?v=iTR0BQs4iJs", label: "YouTube: Episode 16 - The Second Date"}
+      - {url: "https://www.youtube.com/watch?v=QewwwQa2_Yo", label: "YouTube: Episode 15 - Pottah's Out-of-Control Broom"}
+      - {url: "https://www.youtube.com/watch?v=1vhun9ez_vc", label: "YouTube: Episode 14 - The Boy Who Survived"}
+      - {url: "https://www.youtube.com/watch?v=CSWzOKNgfws", label: "YouTube: Episode 13 - The Rival Part 2"}
+      - {url: "https://www.youtube.com/watch?v=u10aHk2uukI", label: "YouTube: Episode 12 - Malfoid's Day as a Cat"}
+      - {url: "https://www.youtube.com/watch?v=WlOc5YZ3Zm0", label: "YouTube: Episode 11 - The Troll in the Dungeon"}
+      - {url: "https://www.youtube.com/watch?v=gWgwsOKi7oI", label: "YouTube: Episode 10 - The Halloween Incident"}
+      - {url: "https://www.youtube.com/watch?v=CVI9xwOjQLY", label: "YouTube: Episode 9 - Dinner at Malfoy Mansion"}
+      - {url: "https://www.youtube.com/watch?v=LMwY94X8rbU", label: "YouTube: Episode 8 - Meeting with the Father"}
+      - {url: "https://www.youtube.com/watch?v=HvUsOM3Vzjc", label: "YouTube: Episode 7 - The Locked Room"}
+      - {url: "https://www.youtube.com/watch?v=pnt57sG3AyA", label: "YouTube: Episodes 5 and 6 - The Staircase Incident and The Rival"}
+      - {url: "https://www.youtube.com/watch?v=FdKka74LpWA", label: "YouTube: Episodes 3 and 4 - The Race and Love Potion"}
+      - {url: "https://www.youtube.com/watch?v=Mhl9va9S4oM", label: "YouTube: Episodes 1 and 2 - A Secret Date"}
     language: "English"
     added: 2026-11-15
-    summary: "A Harry Potter romantic comedy about Malfoid and Harry, told in short episodes. The YouTube videos were taken down by Shishir; the 27 episodes remain on X, and each is embedded here."
-    tags: [romcom, series, episodes, x]
+    summary: "A Harry Potter romantic comedy about Malfoid and Harry, told in short episodes. The 27 episodes are embedded from X. The YouTube channel (@shishirdotai) also has uploads of the series, which combine some episodes, and they are listed below."
+    tags: [romcom, series, episodes, x, youtube]
   - id: "video-malfoid-wont-admit-it-playlist"
     thumb: "https://i.ytimg.com/vi/ubWqm1jYTqw/hqdefault.jpg"
     title: "Malfoid Won't Admit It (Falkor)"
