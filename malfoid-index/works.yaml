@@ -35284,3 +35284,19 @@ works:
     added: 2026-11-26
     summary: "Writes Malfoid fanfic on Wattpad, including Draconia Malfoy and the Boy Who Said No, and posts Malfoid content on X."
     tags: [fanfic, wattpad, x]
+  - id: "creator-mongjeu"
+    title: "몽즈 (Mongjeu)"
+    first_name: "Draconia"
+    kind: [creator, video]
+    creator: "몽즈 (Mongjeu)"
+    url: "https://www.youtube.com/channel/UCrr-KMpqglXn55s6dRLCRFA"
+    also: ["https://x.com/mongjeu1"]
+    language: "English"
+    added: 2026-11-28
+    summary: "Fan-made generative-AI animations of Female Draco Malfoid (Malfoid) on YouTube, with English titles and descriptions."
+    videos:
+      - {url: "https://www.youtube.com/watch?v=1hvr4oBiTCQ", label: "Obsessive Female Draco Malfoid"}
+      - {url: "https://www.youtube.com/watch?v=4mkZ8jEYySo", label: "Obsessive Malfoid 2"}
+      - {url: "https://www.youtube.com/watch?v=PJp69XtkeVw", label: "Obsessive Malfoid 3"}
+      - {url: "https://www.youtube.com/watch?v=jUNgJtkQgvg", label: "Obsessive Malfoid: The Slytherin Trio"}
+    tags: [video, youtube, ai, animation]
