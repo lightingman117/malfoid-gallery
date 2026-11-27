@@ -35085,18 +35085,18 @@ works:
     videos:
       - {url: "https://x.com/edu_andy24/status/2125708678372495800", label: "Love truly transforms people (James, Lily and Malfoid)", also: ["https://malfoid.duckdns.org/music/ANDY%20%28edu_andy24%29/2026-11-25%20Love%20truly%20transforms%20people%20%28James%2C%20Lily%20and%20Malfoid%29.mp4"]}
       - {url: "https://x.com/edu_andy24/status/2125400453986828423", label: "Malfoid video, 2026-11-25", also: ["https://malfoid.duckdns.org/music/ANDY%20%28edu_andy24%29/2026-11-25%20Malfoid%20video%2C%202026-11-25.mp4"]}
-      - {url: "https://x.com/edu_andy24/status/2110952885219446896", label: "Malfoid video, 2026-10-16"}
+      - {url: "https://x.com/edu_andy24/status/2110952885219446896", label: "Malfoid video, 2026-10-16", also: ["https://malfoid.duckdns.org/music/ANDY%20%28edu_andy24%29/2026-10-16%20Malfoid%20video%2C%202026-10-16.mp4"]}
       - {url: "https://x.com/edu_andy24/status/2123955244610551889", label: "Malfoid video, 2026-11-21", also: ["https://malfoid.duckdns.org/music/ANDY%20%28edu_andy24%29/2026-11-21%20Malfoid%20video%2C%202026-11-21.mp4"]}
-      - {url: "https://x.com/edu_andy24/status/2114801205507666021", label: "Malfoid video, 2026-10-26"}
+      - {url: "https://x.com/edu_andy24/status/2114801205507666021", label: "Malfoid video, 2026-10-26", also: ["https://malfoid.duckdns.org/music/ANDY%20%28edu_andy24%29/2026-10-26%20Malfoid%20video%2C%202026-10-26.mp4"]}
       - {url: "https://x.com/edu_andy24/status/2120225016461631803", label: "Malfoid video, 2026-11-10"}
-      - {url: "https://x.com/edu_andy24/status/2117051227490091295", label: "Malfoid video, 2026-11-02"}
-      - {url: "https://x.com/edu_andy24/status/2112978055262060891", label: "Malfoid video, 2026-10-21"}
+      - {url: "https://x.com/edu_andy24/status/2117051227490091295", label: "Malfoid video, 2026-11-02", also: ["https://malfoid.duckdns.org/music/ANDY%20%28edu_andy24%29/2026-11-02%20Malfoid%20video%2C%202026-11-02.mp4"]}
+      - {url: "https://x.com/edu_andy24/status/2112978055262060891", label: "Malfoid video, 2026-10-21", also: ["https://malfoid.duckdns.org/music/ANDY%20%28edu_andy24%29/2026-10-21%20Malfoid%20video%2C%202026-10-21.mp4"]}
       - {url: "https://x.com/edu_andy24/status/2124923910101590065", label: "Malfoid video, 2026-11-23"}
       - {url: "https://x.com/edu_andy24/status/2122311672626806857", label: "Malfoid video, 2026-11-16", also: ["https://malfoid.duckdns.org/music/ANDY%20%28edu_andy24%29/2026-11-16%20Malfoid%20video%2C%202026-11-16.mp4"]}
       - {url: "https://x.com/edu_andy24/status/2120550168671944790", label: "Malfoid video, 2026-11-11", also: ["https://malfoid.duckdns.org/music/ANDY%20%28edu_andy24%29/2026-11-11%20Malfoid%20video%2C%202026-11-11.mp4"]}
-      - {url: "https://x.com/edu_andy24/status/2116291909312446712", label: "Malfoid video, 2026-10-30"}
-      - {url: "https://x.com/edu_andy24/status/2110596254333800956", label: "Malfoid video, 2026-10-15"}
-      - {url: "https://x.com/edu_andy24/status/2117462421895782773", label: "Malfoid video, 2026-11-03"}
+      - {url: "https://x.com/edu_andy24/status/2116291909312446712", label: "Malfoid video, 2026-10-30", also: ["https://malfoid.duckdns.org/music/ANDY%20%28edu_andy24%29/2026-10-30%20Malfoid%20video%2C%202026-10-30.mp4"]}
+      - {url: "https://x.com/edu_andy24/status/2110596254333800956", label: "Malfoid video, 2026-10-15", also: ["https://malfoid.duckdns.org/music/ANDY%20%28edu_andy24%29/2026-10-15%20Malfoid%20video%2C%202026-10-15.mp4"]}
+      - {url: "https://x.com/edu_andy24/status/2117462421895782773", label: "Malfoid video, 2026-11-03", also: ["https://malfoid.duckdns.org/music/ANDY%20%28edu_andy24%29/2026-11-03%20Malfoid%20video%2C%202026-11-03.mp4"]}
     tags: [video, x]
   - id: "creator-llullabye"
     title: "lisa"
@@ -35122,57 +35122,57 @@ works:
     videos:
       - {url: "https://x.com/MalfoidSoftware/status/2125737319189901730", label: "Walking a mile in one another's shoes (clip from the next Malfoid video)"}
       - {url: "https://x.com/MalfoidSoftware/status/2120534808606458072", label: "Malfoid video, 2026-11-11"}
-      - {url: "https://x.com/MalfoidSoftware/status/2114037591041269967", label: "Malfoid video, 2026-10-24"}
+      - {url: "https://x.com/MalfoidSoftware/status/2114037591041269967", label: "Malfoid video, 2026-10-24", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-24%20Malfoid%20video%2C%202026-10-24.mp4"]}
       - {url: "https://x.com/MalfoidSoftware/status/2124532249324388759", label: "Malfoid video, 2026-11-22"}
       - {url: "https://x.com/MalfoidSoftware/status/2122032372233191434", label: "Malfoid video, 2026-11-15"}
       - {url: "https://x.com/MalfoidSoftware/status/2124265244847427666", label: "Malfoid video, 2026-11-21"}
-      - {url: "https://x.com/MalfoidSoftware/status/2112357093139448200", label: "Malfoid video, 2026-10-20"}
+      - {url: "https://x.com/MalfoidSoftware/status/2112357093139448200", label: "Malfoid video, 2026-10-20", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-20%20Malfoid%20video%2C%202026-10-20.mp4"]}
       - {url: "https://x.com/MalfoidSoftware/status/2117606961307165074", label: "Malfoid video, 2026-11-03"}
-      - {url: "https://x.com/MalfoidSoftware/status/2111886641942220882", label: "Malfoid video, 2026-10-18"}
-      - {url: "https://x.com/MalfoidSoftware/status/2110112453220761833", label: "Malfoid video, 2026-10-13"}
-      - {url: "https://x.com/MalfoidSoftware/status/2114864182721954034", label: "Malfoid video, 2026-10-26"}
+      - {url: "https://x.com/MalfoidSoftware/status/2111886641942220882", label: "Malfoid video, 2026-10-18", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-18%20Malfoid%20video%2C%202026-10-18.mp4"]}
+      - {url: "https://x.com/MalfoidSoftware/status/2110112453220761833", label: "Malfoid video, 2026-10-13", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-13%20Malfoid%20video%2C%202026-10-13.mp4"]}
+      - {url: "https://x.com/MalfoidSoftware/status/2114864182721954034", label: "Malfoid video, 2026-10-26", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-26%20Malfoid%20video%2C%202026-10-26.mp4"]}
       - {url: "https://x.com/MalfoidSoftware/status/2123103215986102397", label: "Malfoid video, 2026-11-18", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-11-18%20Malfoid%20video%2C%202026-11-18.mp4"]}
       - {url: "https://x.com/MalfoidSoftware/status/2122685991525752886", label: "Malfoid video, 2026-11-17"}
-      - {url: "https://x.com/MalfoidSoftware/status/2114086982842548447", label: "Malfoid video, 2026-10-24"}
-      - {url: "https://x.com/MalfoidSoftware/status/2108989263945863385", label: "Malfoid video, 2026-10-10"}
+      - {url: "https://x.com/MalfoidSoftware/status/2114086982842548447", label: "Malfoid video, 2026-10-24", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-24%20Malfoid%20video%2C%202026-10-24%20%282%29.mp4"]}
+      - {url: "https://x.com/MalfoidSoftware/status/2108989263945863385", label: "Malfoid video, 2026-10-10", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-10%20Malfoid%20video%2C%202026-10-10.mp4"]}
       - {url: "https://x.com/MalfoidSoftware/status/2118159654140203322", label: "Malfoid video, 2026-11-05"}
       - {url: "https://x.com/MalfoidSoftware/status/2119870010055151746", label: "Malfoid video, 2026-11-09"}
-      - {url: "https://x.com/MalfoidSoftware/status/2110542738131476937", label: "Malfoid video, 2026-10-15"}
+      - {url: "https://x.com/MalfoidSoftware/status/2110542738131476937", label: "Malfoid video, 2026-10-15", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-15%20Malfoid%20video%2C%202026-10-15.mp4"]}
       - {url: "https://x.com/MalfoidSoftware/status/2117970346263629896", label: "Malfoid video, 2026-11-04"}
       - {url: "https://x.com/MalfoidSoftware/status/2120316270763561245", label: "Malfoid video, 2026-11-11"}
       - {url: "https://x.com/MalfoidSoftware/status/2119443771742097776", label: "Malfoid video, 2026-11-08"}
       - {url: "https://x.com/MalfoidSoftware/status/2122885134643085726", label: "Malfoid video, 2026-11-18"}
       - {url: "https://x.com/MalfoidSoftware/status/2117778936554021204", label: "Malfoid video, 2026-11-04"}
-      - {url: "https://x.com/MalfoidSoftware/status/2115953239996633359", label: "Malfoid video, 2026-10-29"}
+      - {url: "https://x.com/MalfoidSoftware/status/2115953239996633359", label: "Malfoid video, 2026-10-29", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-29%20Malfoid%20video%2C%202026-10-29.mp4"]}
       - {url: "https://x.com/MalfoidSoftware/status/2123615497505939551", label: "Malfoid video, 2026-11-20", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-11-20%20Malfoid%20video%2C%202026-11-20.mp4"]}
       - {url: "https://x.com/MalfoidSoftware/status/2124299395097325744", label: "Malfoid video, 2026-11-22"}
-      - {url: "https://x.com/MalfoidSoftware/status/2117329733990174747", label: "Malfoid video, 2026-11-02"}
-      - {url: "https://x.com/MalfoidSoftware/status/2116578272569897430", label: "Malfoid video, 2026-10-31"}
-      - {url: "https://x.com/MalfoidSoftware/status/2110875123091673181", label: "Malfoid video, 2026-10-15"}
-      - {url: "https://x.com/MalfoidSoftware/status/2113808115179168132", label: "Malfoid video, 2026-10-24"}
+      - {url: "https://x.com/MalfoidSoftware/status/2117329733990174747", label: "Malfoid video, 2026-11-02", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-11-02%20Malfoid%20video%2C%202026-11-02.mp4"]}
+      - {url: "https://x.com/MalfoidSoftware/status/2116578272569897430", label: "Malfoid video, 2026-10-31", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-31%20Malfoid%20video%2C%202026-10-31.mp4"]}
+      - {url: "https://x.com/MalfoidSoftware/status/2110875123091673181", label: "Malfoid video, 2026-10-15", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-15%20Malfoid%20video%2C%202026-10-15%20%282%29.mp4"]}
+      - {url: "https://x.com/MalfoidSoftware/status/2113808115179168132", label: "Malfoid video, 2026-10-24", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-24%20Malfoid%20video%2C%202026-10-24%20%283%29.mp4"]}
       - {url: "https://x.com/MalfoidSoftware/status/2123885648566256036", label: "Malfoid video, 2026-11-20", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-11-20%20Malfoid%20video%2C%202026-11-20%20%282%29.mp4"]}
-      - {url: "https://x.com/MalfoidSoftware/status/2109096995667222553", label: "Malfoid video, 2026-10-11"}
+      - {url: "https://x.com/MalfoidSoftware/status/2109096995667222553", label: "Malfoid video, 2026-10-11", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-11%20Malfoid%20video%2C%202026-10-11.mp4"]}
       - {url: "https://x.com/MalfoidSoftware/status/2118771872972091589", label: "Malfoid video, 2026-11-06"}
-      - {url: "https://x.com/MalfoidSoftware/status/2115418001990148114", label: "Malfoid video, 2026-10-28"}
+      - {url: "https://x.com/MalfoidSoftware/status/2115418001990148114", label: "Malfoid video, 2026-10-28", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-28%20Malfoid%20video%2C%202026-10-28.mp4"]}
       - {url: "https://x.com/MalfoidSoftware/status/2122769865140543756", label: "Malfoid video, 2026-11-17"}
       - {url: "https://x.com/MalfoidSoftware/status/2119183301608894964", label: "Malfoid video, 2026-11-07"}
       - {url: "https://x.com/MalfoidSoftware/status/2119124675703771435", label: "Malfoid video, 2026-11-07"}
-      - {url: "https://x.com/MalfoidSoftware/status/2111430961971777552", label: "Malfoid video, 2026-10-17"}
+      - {url: "https://x.com/MalfoidSoftware/status/2111430961971777552", label: "Malfoid video, 2026-10-17", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-17%20Malfoid%20video%2C%202026-10-17.mp4"]}
       - {url: "https://x.com/MalfoidSoftware/status/2118506602072297647", label: "Malfoid video, 2026-11-06"}
       - {url: "https://x.com/MalfoidSoftware/status/2119623254516105282", label: "Malfoid video, 2026-11-09"}
-      - {url: "https://x.com/MalfoidSoftware/status/2109774804341374984", label: "Malfoid video, 2026-10-12"}
+      - {url: "https://x.com/MalfoidSoftware/status/2109774804341374984", label: "Malfoid video, 2026-10-12", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-12%20Malfoid%20video%2C%202026-10-12.mp4"]}
       - {url: "https://x.com/MalfoidSoftware/status/2121663756857987073", label: "Malfoid video, 2026-11-14"}
       - {url: "https://x.com/MalfoidSoftware/status/2121317502844031467", label: "Malfoid video, 2026-11-13"}
-      - {url: "https://x.com/MalfoidSoftware/status/2116919181388263672", label: "Malfoid video, 2026-11-01"}
+      - {url: "https://x.com/MalfoidSoftware/status/2116919181388263672", label: "Malfoid video, 2026-11-01", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-11-01%20Malfoid%20video%2C%202026-11-01.mp4"]}
       - {url: "https://x.com/MalfoidSoftware/status/2118866639957729461", label: "Malfoid video, 2026-11-07"}
       - {url: "https://x.com/MalfoidSoftware/status/2117696570028417113", label: "Malfoid video, 2026-11-03"}
       - {url: "https://x.com/MalfoidSoftware/status/2121723844188590141", label: "Malfoid video, 2026-11-14"}
-      - {url: "https://x.com/MalfoidSoftware/status/2110090881575661756", label: "Malfoid video, 2026-10-13"}
-      - {url: "https://x.com/MalfoidSoftware/status/2108758518295629840", label: "Malfoid video, 2026-10-10"}
-      - {url: "https://x.com/MalfoidSoftware/status/2114407184230416822", label: "Malfoid video, 2026-10-25"}
-      - {url: "https://x.com/MalfoidSoftware/status/2114684749750939690", label: "Malfoid video, 2026-10-26"}
+      - {url: "https://x.com/MalfoidSoftware/status/2110090881575661756", label: "Malfoid video, 2026-10-13", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-13%20Malfoid%20video%2C%202026-10-13%20%282%29.mp4"]}
+      - {url: "https://x.com/MalfoidSoftware/status/2108758518295629840", label: "Malfoid video, 2026-10-10", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-10%20Malfoid%20video%2C%202026-10-10%20%282%29.mp4"]}
+      - {url: "https://x.com/MalfoidSoftware/status/2114407184230416822", label: "Malfoid video, 2026-10-25", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-25%20Malfoid%20video%2C%202026-10-25.mp4"]}
+      - {url: "https://x.com/MalfoidSoftware/status/2114684749750939690", label: "Malfoid video, 2026-10-26", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-26%20Malfoid%20video%2C%202026-10-26%20%282%29.mp4"]}
       - {url: "https://x.com/MalfoidSoftware/status/2121059705137345010", label: "Malfoid video, 2026-11-13"}
-      - {url: "https://x.com/MalfoidSoftware/status/2114316981327286650", label: "Malfoid video, 2026-10-25"}
+      - {url: "https://x.com/MalfoidSoftware/status/2114316981327286650", label: "Malfoid video, 2026-10-25", also: ["https://malfoid.duckdns.org/video/MalfoidSoftware/2026-10-25%20Malfoid%20video%2C%202026-10-25%20%282%29.mp4"]}
       - {url: "https://x.com/MalfoidSoftware/status/2118066630987313435", label: "Malfoid video, 2026-11-04"}
       - {url: "https://x.com/MalfoidSoftware/status/2118333331003859058", label: "Malfoid video, 2026-11-05"}
     tags: [video, x, ai]
@@ -35205,9 +35205,9 @@ works:
     added: 2026-11-26
     summary: "Ongoing fem!Draco and Harry fanfic videos, told in seasons, on one channel."
     videos:
-      - {url: "https://www.youtube.com/watch?v=qmkwNjxFYp8", label: "Harry Potter Put Icing on My Nose… and I Forgot We Were Rivals | fem!Draco x Harry Fanfic"}
-      - {url: "https://www.youtube.com/watch?v=mIgcrnw9DmI", label: "We Watched the Night We Erased… With Both Our Families in the Room | Season 3 Finale"}
-      - {url: "https://www.youtube.com/watch?v=hWo_lfxvcpE", label: "Harry Potter Broke Into My Childhood Bedroom… and Found What I Hid at Eleven | Season 3 Ep 4"}
+      - {url: "https://www.youtube.com/watch?v=qmkwNjxFYp8", label: "Harry Potter Put Icing on My Nose… and I Forgot We Were Rivals | fem!Draco x Harry Fanfic", also: ["https://malfoid.duckdns.org/stories/Inkiness/2026-11-25%20Harry%20Potter%20Put%20Icing%20on%20My%20Nose%E2%80%A6%20and%20I%20Forgot%20We%20Were%20Rivals%20%EF%BD%9C%20fem%21Draco%20x%20Harry%20Fanfic.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=mIgcrnw9DmI", label: "We Watched the Night We Erased… With Both Our Families in the Room | Season 3 Finale", also: ["https://malfoid.duckdns.org/stories/Inkiness/2026-11-21%20We%20Watched%20the%20Night%20We%20Erased%E2%80%A6%20With%20Both%20Our%20Families%20in%20the%20Room%20%EF%BD%9C%20Season%203%20Finale.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=hWo_lfxvcpE", label: "Harry Potter Broke Into My Childhood Bedroom… and Found What I Hid at Eleven | Season 3 Ep 4", also: ["https://malfoid.duckdns.org/stories/Inkiness/2026-11-20%20Harry%20Potter%20Broke%20Into%20My%20Childhood%20Bedroom%E2%80%A6%20and%20Found%20What%20I%20Hid%20at%20Eleven%20%EF%BD%9C%20Season%203%20Ep%204.mp4"]}
     tags: [video, youtube, fanfic, series]
   - id: "creator-kkuljaem-lab"
     title: "Kkuljaem Lab"
@@ -35219,10 +35219,10 @@ works:
     added: 2026-11-26
     summary: "Ongoing Tsundere Malfoy series made with AI, webtoon-style and live-action AI episodes, 54 videos on the channel."
     videos:
-      - {url: "https://www.youtube.com/watch?v=ikfbSkNb_l0", label: "She Was Winning… Then She Screamed \"LEFT, POTTER!\" Tsundere Malfoy FULL Ep.20"}
-      - {url: "https://www.youtube.com/watch?v=GJLbhlZxv3M", label: "Malfoid: His Hands Are Far Too Warm Tsundere Malfoy FULL Ep.19"}
-      - {url: "https://www.youtube.com/watch?v=V_ue8N0y5Ig", label: "Malfoid & Harry: Double Date in Paris | Live Action AI Movie"}
-      - {url: "https://www.youtube.com/watch?v=fG45rhsQYqE", label: "Malfoid Season 2 Part 1 Binge Tsundere Malfoy Ep.12–18 in One Go (55 min)"}
+      - {url: "https://www.youtube.com/watch?v=ikfbSkNb_l0", label: "She Was Winning… Then She Screamed \"LEFT, POTTER!\" Tsundere Malfoy FULL Ep.20", also: ["https://malfoid.duckdns.org/video/kkuljaem_lab/2026-11-25%20She%20Was%20Winning%E2%80%A6%20Then%20She%20Screamed%20%EF%BC%82LEFT%2C%20POTTER%21%EF%BC%82%20Tsundere%20Malfoy%20FULL%20Ep.20.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=GJLbhlZxv3M", label: "Malfoid: His Hands Are Far Too Warm Tsundere Malfoy FULL Ep.19", also: ["https://malfoid.duckdns.org/stories/Kkuljaem%20Lab%20%28%EA%BF%80%EC%9E%BC%EC%97%B0%EA%B5%AC%EC%86%8C%29/2026-11-24%20Malfoid%EF%BC%9A%20His%20Hands%20Are%20Far%20Too%20Warm%20Tsundere%20Malfoy%20FULL%20Ep.19.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=V_ue8N0y5Ig", label: "Malfoid & Harry: Double Date in Paris | Live Action AI Movie", also: ["https://malfoid.duckdns.org/stories/Kkuljaem%20Lab%20%28%EA%BF%80%EC%9E%BC%EC%97%B0%EA%B5%AC%EC%86%8C%29/2026-11-23%20Malfoid%20%26%20Harry%EF%BC%9A%20Double%20Date%20in%20Paris%20%EF%BD%9C%20Live%20Action%20AI%20Movie.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=fG45rhsQYqE", label: "Malfoid Season 2 Part 1 Binge Tsundere Malfoy Ep.12–18 in One Go (55 min)", also: ["https://malfoid.duckdns.org/video/kkuljaem_lab/2026-11-22%20Malfoid%20Season%202%20Part%201%20Binge%20Tsundere%20Malfoy%20Ep.12%E2%80%9318%20in%20One%20Go%20%2855%20min%29.mp4"]}
     tags: [video, youtube, ai, series]
   - id: "creator-moonquill-theater"
     title: "Moonquill Theater"
@@ -35234,9 +35234,9 @@ works:
     added: 2026-11-26
     summary: "Audiobook and visual-novel readings of The Villainess Malfoy (the 2020 story), in chapters, with the author's approval as the user checked."
     videos:
-      - {url: "https://www.youtube.com/watch?v=lLeK23LEz80", label: "Harry Kisses Malfoy's Ring | The Villainess Malfoy Ch. 41 | Malfoid Audiobook/Visual Novel"}
-      - {url: "https://www.youtube.com/watch?v=k8weBjMrPp4", label: "Moody's Truth Serum Corners Malfoy | The Villainess Malfoy Ch. 40 | Malfoid Audiobook/Visual Novel"}
-      - {url: "https://www.youtube.com/watch?v=FCJNOh8uLU4", label: "「Audiobook」Malfoid: Fire and Dignity - The Villainess Malfoy Book 2 (Ch27-Ch38)"}
+      - {url: "https://www.youtube.com/watch?v=lLeK23LEz80", label: "Harry Kisses Malfoy's Ring | The Villainess Malfoy Ch. 41 | Malfoid Audiobook/Visual Novel", also: ["https://malfoid.duckdns.org/stories/Moonquill%20Theater/2026-11-25%20Harry%20Kisses%20Malfoy%27s%20Ring%20%EF%BD%9C%20The%20Villainess%20Malfoy%20Ch.%2041%20%EF%BD%9C%20Malfoid%20Audiobook%E2%A7%B8Visual%20Novel.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=k8weBjMrPp4", label: "Moody's Truth Serum Corners Malfoy | The Villainess Malfoy Ch. 40 | Malfoid Audiobook/Visual Novel", also: ["https://malfoid.duckdns.org/stories/Moonquill%20Theater/2026-11-25%20Moody%27s%20Truth%20Serum%20Corners%20Malfoy%20%EF%BD%9C%20The%20Villainess%20Malfoy%20Ch.%2040%20%EF%BD%9C%20Malfoid%20Audiobook%E2%A7%B8Visual%20Novel.mp4"]}
+      - {url: "https://www.youtube.com/watch?v=FCJNOh8uLU4", label: "「Audiobook」Malfoid: Fire and Dignity - The Villainess Malfoy Book 2 (Ch27-Ch38)", also: ["https://malfoid.duckdns.org/stories/Moonquill%20Theater/2026-11-24%20%E3%80%8CAudiobook%E3%80%8DMalfoid%EF%BC%9A%20Fire%20and%20Dignity%20-%20The%20Villainess%20Malfoy%20Book%202%20%28Ch27-Ch38%29.mp4"]}
     tags: [video, youtube, audiobook, visual-novel]
   - id: "creator-asithlawd"
     title: "A SITH LAWD?"
