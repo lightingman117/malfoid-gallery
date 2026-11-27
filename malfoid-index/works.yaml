@@ -22271,6 +22271,13 @@ works:
     also: ["https://topovn.github.io/malfoid-artwork-archive/?artist=Y4zzmyn_#gallery"]
     added: 2026-11-25
     summary: "Malfoid art on X, collected in the Malfoid Artwork Archive."
+    items:
+      - title: "Harry Potter and the Four Houses"
+        url: "https://x.com/Y4zzmyn_/status/2125580547422572669"
+      - title: "Malfoy Accidental Kiss, Halloween (3/3)"
+        url: "https://x.com/Y4zzmyn_/status/2116609780043411582"
+      - title: "Malfoy Accidental Kiss, WIP (2/2)"
+        url: "https://x.com/Y4zzmyn_/status/2110820551451398559"
     tags: [art, x]
   - id: "artist-poorunii"
     title: "poorunii"
