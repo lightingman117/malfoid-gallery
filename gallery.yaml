@@ -111,7 +111,7 @@ entries:
     input: "input/2026-11-03-christmas-owl-tower-1.yaml"
     image: "images/2026-11-03-christmas-owl-tower-1.jpg"
     planned: 2026-11-28
-    posted:
+    posted: {date: 2026-11-28, x: "https://x.com/rhedak1/status/2126448379781873883"}
   - id: "2026-11-03-potions-classroom-1"
     title: "Potions classroom, pouty blush"
     created: 2026-11-03
@@ -181,7 +181,7 @@ entries:
     input: "input/2026-11-03-black-friday-checkout-1.yaml"
     image: "images/2026-11-03-black-friday-checkout-1.jpg"
     planned: 2026-11-27
-    posted:
+    posted: {date: 2026-11-27, x: "https://x.com/rhedak1/status/2126103197358137585"}
   - id: "2026-11-03-black-friday-magic-shop-1"
     title: "Magic shop sale, arms crossed"
     created: 2026-11-03
